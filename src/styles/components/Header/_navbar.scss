@@ -9,22 +9,28 @@
   padding: 0;
 
   & li {
+    display: inline-block;
+  }
+
+  & a {
     border-top: 4px solid $bg-dark-blue;
     cursor: pointer;
     display: inline-block;
     font-size: $ms-size;
     padding: 10px;
     text-transform: lowercase;
-    transition: background 250ms ease;
+    transition: background, border-color 250ms ease;
   }
 
-  & li:hover {
-    border-top: 4px solid $bg-dark-blue;
+  & a:hover,
+  & a[aria-current='page'] {
+    border-color: $bg-dark-blue;
     background: $bg-mid-blue;
+    color: $text-white;
   }
 
-  & li a:hover {
-    color: $text-white;
+  & a[aria-current='page'] {
+    border-color: $bg-light-blue;
   }
 }
 
