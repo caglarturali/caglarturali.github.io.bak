@@ -45,6 +45,6 @@
   "devDependencies": {
     "dotenv": "^6.2.0",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.10"
+    "webpack-dev-server": ">=3.1.11"
   }
 }
