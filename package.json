@@ -1,16 +1,16 @@
 {
-  "name": "react-boilerplate-v1",
+  "name": "developer-portfolio-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "VS Code/Atom One Dark inspired portfolio app.",
   "main": "index.js",
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
     "watch": "webpack --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"There is nothing to test here.\" && exit 1"
   },
-  "author": "",
+  "author": "Caglar Turali",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
