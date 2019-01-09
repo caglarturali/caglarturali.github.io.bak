@@ -1,14 +1,16 @@
 #main-nav {
-  float: right;
+  float: left;
 }
 
 #main-nav > ul {
   color: $text-light-blue;
   list-style: none;
   margin: 0 4px;
+  padding: 0;
 
   & li {
     border-top: 4px solid $bg-dark-blue;
+    cursor: pointer;
     display: inline-block;
     font-size: $ms-size;
     padding: 10px;
@@ -24,4 +26,8 @@
   & li a:hover {
     color: $text-white;
   }
+}
+
+.main-nav__icon {
+  margin-right: 5px;
 }
