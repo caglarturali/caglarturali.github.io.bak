@@ -1,26 +1,27 @@
 import React from 'react';
+import gitHubData from '../../data/github.json';
 
 const GitHubButtons = () => (
   <div className="github-buttons">
     <span className="github-button-wrapper">
       <a
         className="github-button"
-        href="https://github.com/caglarturali"
+        href={`https://github.com/${gitHubData.user}`}
         data-size="large"
         data-show-count="false"
-        aria-label="Follow @caglarturali on GitHub"
+        aria-label={`Follow @${gitHubData.user} on GitHub`}
       >
-        Follow @caglarturali
+        {`Follow @${gitHubData.user}`}
       </a>
     </span>
     <span className="github-button-wrapper">
       <a
         className="github-button"
-        href="https://github.com/caglarturali/caglarturali.github.io"
+        href={gitHubData.repoUrl}
         data-icon="octicon-star"
         data-size="large"
         data-show-count="true"
-        aria-label="Star caglarturali/caglarturali.github.io on GitHub"
+        aria-label={`Star ${gitHubData.user}/${gitHubData.repoName} on GitHub"`}
       >
         Star
       </a>

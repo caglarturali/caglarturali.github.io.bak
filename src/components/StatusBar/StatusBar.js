@@ -1,10 +1,10 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import projectData from '../../data/projectData.json';
+import gitHubData from '../../data/github.json';
 
 const StatusBar = () => (
   <footer id="status-bar">
-    <a href={projectData.mainRepo} className="status-bar__left" rel="noopener noreferrer" target="_blank">
+    <a href={gitHubData.repoUrl} className="status-bar__left" rel="noopener noreferrer" target="_blank">
       <FontAwesomeIcon className="status-bar__icon" icon="code-branch" size="xs" inverse />
       <span className="status-bar__text">master</span>
     </a>
