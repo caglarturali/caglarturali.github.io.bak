@@ -4,11 +4,20 @@ import '../styles/styles.scss';
 import { Router } from '@reach/router';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faCheckSquare, faCoffee, faSlidersH, faUniversity } from '@fortawesome/free-solid-svg-icons';
+import {
+  faCheckSquare,
+  faCoffee,
+  faSlidersH,
+  faUniversity,
+  faCodeBranch,
+  faTimes,
+  faSmile
+} from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity);
+library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity, faCodeBranch, faTimes, faSmile);
 
 import Header from './Header/Header';
+import StatusBar from './StatusBar/StatusBar';
 import Greeter from './Greeter/Greeter';
 
 const Main = () => (
@@ -19,6 +28,7 @@ const Main = () => (
         <Greeter path="/" />
       </Router>
     </main>
+    <StatusBar />
   </div>
 );
 
