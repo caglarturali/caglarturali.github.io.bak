@@ -11,7 +11,11 @@
     "test": "echo \"There is nothing to test here.\" && exit 1"
   },
   "author": "Caglar Turali",
-  "license": "ISC",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caglarturali/caglarturali.github.io"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
     "@fortawesome/fontawesome-svg-core": "^1.2.12",
