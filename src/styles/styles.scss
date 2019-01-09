@@ -1,6 +1,9 @@
 @import './base/fonts';
 @import './base/settings';
 @import './base/base';
+@import './base/global';
 
 @import './components/Header/header';
 @import './components/Header/navbar';
+@import './components/Greeter/greeter';
+@import './components/Header/maincontact';

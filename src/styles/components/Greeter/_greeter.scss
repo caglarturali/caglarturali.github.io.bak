@@ -1,0 +1,28 @@
+#greeter {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+#greeter h1 {
+  color: $text-mid;
+  font-weight: 400;
+  font-size: $l-size;
+  letter-spacing: 2px;
+  margin: 10px 20px;
+  padding: 0;
+  text-shadow: 5px 5px $bg-dark-blue;
+}
+
+#greeter .type-wrap {
+  color: $text-dark;
+  font-size: $ml-size;
+  margin: 5px;
+  padding: 0;
+}
+
+.typed-cursor {
+  color: $mid-blue;
+}

@@ -1,0 +1,13 @@
+/* Global rules */
+a {
+  text-decoration: none;
+  transition: color 500ms ease;
+}
+
+a:visited {
+  color: $text-dark;
+}
+
+.color-transform {
+  transform: color 500ms ease;
+}
