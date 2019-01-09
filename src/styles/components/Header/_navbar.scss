@@ -3,18 +3,22 @@
 }
 
 #main-nav > ul {
+  color: $text-light-blue;
   list-style: none;
+  margin: 0 4px;
 
   & li {
+    border-top: 4px solid $bg-dark-blue;
     display: inline-block;
     font-size: $ms-size;
-    padding: 0 10px;
+    padding: 10px;
     text-transform: lowercase;
+    transition: background 250ms ease;
   }
 
-  & li a {
-    color: $text-light-blue;
-    text-decoration: none;
+  & li:hover {
+    border-top: 4px solid $bg-dark-blue;
+    background: $bg-mid-blue;
   }
 
   & li a:hover {
