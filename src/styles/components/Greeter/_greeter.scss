@@ -15,6 +15,7 @@
   margin: 10px 20px;
   padding: 0;
   text-shadow: 5px 5px $bg-dark-blue;
+  user-select: none;
 }
 
 #greeter .type-wrap {
@@ -23,6 +24,7 @@
   font-weight: 300;
   margin: 5px;
   padding: 0;
+  user-select: none;
 }
 
 .typed-cursor {

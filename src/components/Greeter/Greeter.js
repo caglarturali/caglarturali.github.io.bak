@@ -3,6 +3,7 @@ import Typed from 'typed.js';
 import MainContact from './MainContact.js';
 
 import strings from '../../data/typed.json';
+import GitHubButtons from './GitHubButtons.js';
 
 class Greeter extends React.Component {
   componentDidMount() {
@@ -35,6 +36,7 @@ class Greeter extends React.Component {
             }}
           />
         </div>
+        <GitHubButtons />
         <MainContact />
       </section>
     );
