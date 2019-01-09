@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+  font-family: 'Ubuntu Mono', Helvetica, Arial, sans-serif;
   font-size: $m-size;
   background: $bg-mid-blue;
 }
@@ -15,4 +15,10 @@ button {
 
 button:disabled {
   cursor: default;
+}
+
+/* Global settings */
+a {
+  text-decoration: none;
+  transition: color 500ms ease;
 }

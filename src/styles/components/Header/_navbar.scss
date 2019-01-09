@@ -1,0 +1,23 @@
+#main-nav {
+  float: right;
+}
+
+#main-nav > ul {
+  list-style: none;
+
+  & li {
+    display: inline-block;
+    font-size: $ms-size;
+    padding: 0 10px;
+    text-transform: lowercase;
+  }
+
+  & li a {
+    color: $text-light-blue;
+    text-decoration: none;
+  }
+
+  & li a:hover {
+    color: $text-white;
+  }
+}
