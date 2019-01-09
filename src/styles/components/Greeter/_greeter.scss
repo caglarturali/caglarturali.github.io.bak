@@ -4,6 +4,7 @@
   flex-direction: column;
   height: 100vh;
   justify-content: center;
+  font-family: 'Ubuntu', Helvetica, sans-serif;
 }
 
 #greeter h1 {
@@ -19,6 +20,7 @@
 #greeter .type-wrap {
   color: $text-dark;
   font-size: $ml-size;
+  font-weight: 300;
   margin: 5px;
   padding: 0;
 }
