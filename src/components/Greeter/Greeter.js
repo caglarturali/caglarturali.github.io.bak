@@ -3,7 +3,7 @@ import Typed from 'typed.js';
 import MainContact from './MainContact.js';
 
 import strings from '../../data/typed.json';
-import GitHubButtons from './GitHubButtons.js';
+import GitHubButtons from '../GHButtons/GitHubButtons';
 
 class Greeter extends React.Component {
   componentDidMount() {

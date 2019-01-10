@@ -11,10 +11,11 @@ import {
   faUniversity,
   faCodeBranch,
   faTimes,
-  faSmile
+  faSmile,
+  faStar
 } from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity, faCodeBranch, faTimes, faSmile);
+library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity, faCodeBranch, faTimes, faSmile, faStar);
 
 import Header from './Header/Header';
 import StatusBar from './StatusBar/StatusBar';
