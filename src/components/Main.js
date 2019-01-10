@@ -20,6 +20,7 @@ library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity, faCodeBranch
 import Header from './Header/Header';
 import StatusBar from './StatusBar/StatusBar';
 import Greeter from './Greeter/Greeter';
+import Skills from './Skills/Skills';
 
 let history = createHistory(window);
 
@@ -29,6 +30,7 @@ const Main = () => (
     <main>
       <Router history={history}>
         <Greeter path="/" />
+        <Skills path="/skills" />
       </Router>
     </main>
     <StatusBar />
