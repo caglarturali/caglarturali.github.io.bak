@@ -2,22 +2,23 @@
   background: $bg-dark-blue;
   border-radius: 4px;
   color: $text-light-blue;
-  display: inline-block;
-  margin: 6px;
-  padding: 6px 10px;
+  display: flex;
+  margin: 8px;
   transition: color 500ms ease;
 
   &:hover {
-    color: $mid-blue;
+    background: darken($bg-dark-blue, 1%);
   }
-  &:visited {
-    color: $text-mid;
+  &:hover .main-button__icon {
+    color: $mid-blue;
   }
 }
 
 .main-button__contents {
-  display: flex;
   align-items: center;
+  display: flex;
+  min-height: 24px;
+  padding: 6px 10px;
 }
 
 .main-button__text {

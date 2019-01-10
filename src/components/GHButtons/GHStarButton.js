@@ -48,7 +48,7 @@ class GHStarButton extends React.Component {
         rel="noopener noreferrer"
       >
         <span className="main-button__contents">
-          <FontAwesomeIcon className="main-button__icon" icon="star" size="lg" />
+          <FontAwesomeIcon className="main-button__icon" icon="star" size="sm" />
           <span className="main-button__text">Star</span>
           {showCount && !loading && stargazers_count !== null && (
             <span className="main-button__count">{stargazers_count}</span>
