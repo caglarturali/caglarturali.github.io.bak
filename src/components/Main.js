@@ -27,8 +27,8 @@ const Main = () => (
   <div>
     <Header />
     <main>
-      <Router history={history} basepath={process.env.PUBLIC_URL}>
-        <Greeter path="/" />
+      <Router history={history}>
+        <Greeter path={process.env.PUBLIC_URL + '/'} />
       </Router>
     </main>
     <StatusBar />
