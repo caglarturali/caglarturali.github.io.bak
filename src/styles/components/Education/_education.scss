@@ -1,0 +1,26 @@
+.education__entry {
+  margin-bottom: 20px;
+}
+
+.education__entry > div {
+  margin-bottom: 4px;
+}
+
+.education__school {
+  font-size: $ml-size;
+}
+
+.education__department {
+  color: $orange;
+  font-weight: 600;
+}
+
+.education__degree {
+  color: $cyan;
+  font-weight: 600;
+}
+
+.education__years {
+  color: $text-dark;
+  font-style: italic;
+}

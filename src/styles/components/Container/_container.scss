@@ -1,4 +1,27 @@
 .container {
   margin-top: 50px;
   max-width: 960px;
+  padding: 20px;
+}
+
+.container__title {
+  color: $green;
+  font-size: $l-size;
+  margin: 0;
+  padding: 0;
+}
+
+.container__subtitle {
+  color: $mid-blue;
+  font-size: $ml-size;
+  font-weight: 400;
+}
+
+.container__list {
+  color: $text-light-blue;
+  font-size: $m-size;
+}
+
+.container ul {
+  list-style: square;
 }

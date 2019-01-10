@@ -1,15 +1,14 @@
 import React from 'react';
-import Container from '../Container/Container';
 import skills from '../../data/skills.json';
 
 const Skills = () => (
-  <Container>
+  <div className="container">
     <div className="skills">
-      <h2 className="skills__title">skills</h2>
+      <h2 className="container__title">skills</h2>
       {skills.map(section => (
         <div className="skills__subsection" key={section.title}>
-          <h3 className="skills__subtitle">{section.title}</h3>
-          <div className="skills__items">
+          <h3 className="container__subtitle">{section.title}</h3>
+          <div className="container__list">
             <ul>
               {section.items.map(item => (
                 <li key={item}>
@@ -21,7 +20,7 @@ const Skills = () => (
         </div>
       ))}
     </div>
-  </Container>
+  </div>
 );
 
 export default Skills;

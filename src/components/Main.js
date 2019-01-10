@@ -21,6 +21,7 @@ import Header from './Header/Header';
 import StatusBar from './StatusBar/StatusBar';
 import Greeter from './Greeter/Greeter';
 import Skills from './Skills/Skills';
+import Education from './Education/Education';
 
 let history = createHistory(window);
 
@@ -31,6 +32,7 @@ const Main = () => (
       <Router history={history}>
         <Greeter path="/" />
         <Skills path="/skills" />
+        <Education path="/education" />
       </Router>
     </main>
     <StatusBar />
