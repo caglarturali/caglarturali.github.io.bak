@@ -1,14 +1,14 @@
 import React from 'react';
 import Typed from 'typed.js';
 import MainContact from './MainContact.js';
-
-import strings from '../../data/typed.json';
 import GitHubButtons from '../GHButtons/GitHubButtons';
+
+import strings from '../../data/strings.json';
 
 class Greeter extends React.Component {
   componentDidMount() {
     const options = {
-      strings: strings,
+      strings: strings.typed,
       typeSpeed: 70,
       backSpeed: 50,
       loop: true,
@@ -27,7 +27,7 @@ class Greeter extends React.Component {
   render() {
     return (
       <section id="greeter">
-        <h1>Hi! I'm Caglar.</h1>
+        <h1>{strings.mainLine}</h1>
         <div className="type-wrap">
           <span
             style={{ whiteSpace: 'pre' }}
