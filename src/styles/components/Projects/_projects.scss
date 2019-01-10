@@ -1,0 +1,26 @@
+.projects__entry {
+  margin-bottom: 30px;
+}
+
+.projects__entry > div {
+  margin-bottom: 4px;
+}
+
+.project__name {
+  font-size: $ml-size;
+  font-weight: 500;
+}
+
+.project__description {
+  color: $orange;
+  font-weight: 600;
+}
+
+.project__tech {
+  color: $purple;
+  font-weight: 500;
+}
+
+.project__homepage {
+  color: $text-dark;
+}

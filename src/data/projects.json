@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Girizgah",
+    "description": "LightDM Webkit theme for Pardus Linux.",
+    "tech": "React",
+    "homepage": "https://caglarturali.github.io/Girizgah/"
+  },
+  {
+    "name": "deepintr.org",
+    "description": "Landing page for an online community.",
+    "tech": "Vanilla HTML, CSS, JavaScript",
+    "homepage": "https://deepintr.org/"
+  },
+  {
+    "name": "Astroloci",
+    "description": "A horoscope application for Android.",
+    "tech": "Native Android App + Node.js - Express.js REST API",
+    "homepage": "https://play.google.com/store/apps/details?id=com.astroloci.app"
+  },
+  {
+    "name": "Bilen Adam",
+    "description": "Lottery machine for Turkey's national lottery games",
+    "tech": "Unity 3D",
+    "homepage": "https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam"
+  },
+  {
+    "name": "2●48",
+    "description": "A clone of the popular puzzle game 2048, with unlimited levels.",
+    "tech": "Unity 3D",
+    "homepage": "https://play.google.com/store/apps/details?id=com.caglarturali.the2o48"
+  }
+]

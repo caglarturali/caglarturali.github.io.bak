@@ -22,6 +22,11 @@
   },
   {
     "title": "Preferences",
-    "items": ["Linux Deepin as main OS", "npm as package manager", "VS Code as editor of choice"]
+    "items": [
+      "Linux Deepin as main OS",
+      "npm as package manager",
+      "VS Code as editor of choice",
+      "Trying hard to not to think about tabs or spaces"
+    ]
   }
 ]
