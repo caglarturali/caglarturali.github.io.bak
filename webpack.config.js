@@ -53,7 +53,8 @@ module.exports = env => {
     devtool: isProduction ? 'source-map' : 'inline-source-map',
     devServer: {
       contentBase: path.join(__dirname, '/'),
-      publicPath: '/public/'
+      publicPath: '/',
+      historyApiFallback: true
     }
   };
 };
