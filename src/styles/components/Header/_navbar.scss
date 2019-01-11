@@ -19,8 +19,8 @@
     cursor: pointer;
     display: inline-block;
     font-size: $s-size;
-    letter-spacing: .75px;
-    padding: 12px 15px;
+    letter-spacing: 0.75px;
+    padding: 10px 15px;
     text-transform: lowercase;
     transition: background, border-color 250ms ease;
   }
@@ -37,6 +37,15 @@
   }
 }
 
-.main-nav__icon {
-  margin-right: 5px;
+.main-nav__text {
+  margin-left: 5px;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    display: none;
+  }
+}
+
+/* Show current link's text, no matter what! */
+a[aria-current='page'] .main-nav__text {
+  display: inline-block;
 }
