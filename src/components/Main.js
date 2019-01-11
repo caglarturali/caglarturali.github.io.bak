@@ -12,13 +12,30 @@ import {
   faCodeBranch,
   faTimes,
   faSmile,
-  faStar
+  faStar,
+  faCopy,
+  faSearch,
+  faCog
 } from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab, faCheckSquare, faCoffee, faSlidersH, faUniversity, faCodeBranch, faTimes, faSmile, faStar);
+library.add(
+  fab,
+  faCheckSquare,
+  faCoffee,
+  faSlidersH,
+  faUniversity,
+  faCodeBranch,
+  faTimes,
+  faSmile,
+  faStar,
+  faCopy,
+  faSearch,
+  faCog
+);
 
 import Header from './Header/Header';
 import StatusBar from './StatusBar/StatusBar';
+import LeftBar from './LeftBar/LeftBar';
 import Greeter from './Greeter/Greeter';
 import Skills from './Skills/Skills';
 import Education from './Education/Education';
@@ -29,6 +46,7 @@ let history = createHistory(window);
 const Main = () => (
   <div>
     <Header />
+    <LeftBar />
     <main>
       <Router history={history}>
         <Greeter path="/" />

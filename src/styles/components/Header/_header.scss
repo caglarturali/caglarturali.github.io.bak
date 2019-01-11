@@ -2,6 +2,10 @@
   background: $bg-dark-blue;
   position: fixed;
   top: 0;
-  left: 0;
+  left: $left-bar-width;
   width: 100vw;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    left: 0;
+  }
 }

@@ -1,7 +1,12 @@
 .container {
   margin-top: 50px;
+  margin-left: $left-bar-width;
   max-width: 960px;
   padding: 20px;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    margin-left: 0;
+  }
 }
 
 .container__title {

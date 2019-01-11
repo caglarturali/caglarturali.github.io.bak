@@ -1,11 +1,12 @@
 #main-nav {
   float: left;
+  font-family: 'Ubuntu', Helvetica, sans-serif;
 }
 
 #main-nav > ul {
   color: $text-light-blue;
   list-style: none;
-  margin: 0 4px;
+  margin: 0;
   padding: 0;
 
   & li {
@@ -13,11 +14,13 @@
   }
 
   & a {
+    border-right: 1px solid darken($bg-mid-blue, 5%);
     border-top: 4px solid $bg-dark-blue;
     cursor: pointer;
     display: inline-block;
-    font-size: $ms-size;
-    padding: 10px;
+    font-size: $s-size;
+    letter-spacing: .75px;
+    padding: 10px 15px;
     text-transform: lowercase;
     transition: background, border-color 250ms ease;
   }
@@ -30,7 +33,7 @@
   }
 
   & a[aria-current='page'] {
-    border-color: $bg-light-blue;
+    border-color: lighten($bg-dark-blue, 5%);
   }
 }
 

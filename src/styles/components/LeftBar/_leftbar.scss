@@ -1,0 +1,32 @@
+#left-bar {
+  align-items: center;
+  background: $bg-light-blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  left: 0;
+  min-width: $left-bar-width;
+  position: fixed;
+  top: 0;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    display: none;
+  }
+}
+
+#left-bar div {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 10px 0;
+}
+
+.left-bar__icon {
+  color: $lb-icon-color;
+  cursor: pointer;
+  margin-bottom: 30px;
+
+  &:hover {
+    color: lighten($lb-icon-color, 20%);
+  }
+}
