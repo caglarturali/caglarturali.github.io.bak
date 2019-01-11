@@ -15,7 +15,7 @@ const LeftBar = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FontAwesomeIcon icon={contactItem.icon} size="lg" />
+          <FontAwesomeIcon className="left-bar__icon" icon={contactItem.icon} size="lg" />
         </a>
       ))}
     </div>

@@ -6,9 +6,9 @@
   justify-content: space-between;
   height: 100vh;
   left: 0;
-  min-width: $left-bar-width;
   position: fixed;
   top: 0;
+  width: $left-bar-width;
 
   @media screen and (max-width: $desktop-breakpoint) {
     display: none;
@@ -18,15 +18,24 @@
 #left-bar div {
   display: flex;
   flex-direction: column;
-  padding: 20px 0 10px 0;
+  padding: 10px 0;
 }
 
 .left-bar__item {
   color: $lb-icon-color;
   cursor: pointer;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
+  transition: color 100ms ease;
 
   &:hover {
     color: lighten($lb-icon-color, 20%);
   }
+}
+
+.left-bar__item:last-of-type {
+  margin-bottom: 30px;
+}
+
+.left-bar__icon {
+  padding: 10px;
 }
