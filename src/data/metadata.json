@@ -1,0 +1,36 @@
+{
+  "title": "Caglar Turali | JavaScript Developer",
+  "description": "Caglar Turali's personal portfolio website",
+  "keywords": "Caglar Turali, Çağlar Turalı, JavaScript, React, Node, Vue, MongoDB, MEAN, MERN, Bilen Adam, Astroloci",
+  "author": "Caglar Turali | https://github.com/caglarturali",
+  "gPlus": {
+    "name": "Caglar Turali | JavaScript Developer",
+    "description": "Caglar Turali's personal portfolio website",
+    "image": "http://caglarturali.com/public/images/meta-img.png"
+  },
+  "twitter": {
+    "card": "summary",
+    "site": "https://caglarturali.com/",
+    "creator": "@caglarturali",
+    "title": "Caglar Turali | JavaScript Developer",
+    "description": "Caglar Turali's personal portfolio website",
+    "image": "http://caglarturali.com/public/images/meta-img.png"
+  },
+  "og": {
+    "title": "Caglar Turali | JavaScript Developer",
+    "type": "website",
+    "url": "https://caglarturali.com/",
+    "image": "http://caglarturali.com/public/images/meta-img.jpg",
+    "image_secure_url": "http://caglarturali.com/public/images/meta-img.jpg",
+    "image_width": "320",
+    "image_height": "320",
+    "image_alt": "Code icon",
+    "description": "Caglar Turali's personal portfolio website",
+    "site_name": "Caglar Turali | JavaScript Developer"
+  },
+  "verification": {
+    "google": "yoA6kTc96mzuKG5z93MpyxJbTBmCeHRsP64QEEGuI28",
+    "yandex": "",
+    "bing": ""
+  }
+}
