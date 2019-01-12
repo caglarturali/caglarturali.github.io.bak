@@ -3,6 +3,12 @@
   "sectionSubtitle": "Some of the projects I've worked on so far",
   "content": [
     {
+      "name": "caglarturali.com",
+      "description": "The web app you are currently looking at.",
+      "tech": "React",
+      "homepage": "https://caglarturali.com/"
+    },
+    {
       "name": "Girizgah",
       "description": "LightDM Webkit theme for Pardus Linux.",
       "tech": "React",
