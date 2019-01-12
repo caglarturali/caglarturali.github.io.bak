@@ -33,7 +33,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 
 ### ... make it your own?
 
-- Customize the data files located in the [src/data](../blob/master/src/data/) directory.
+- Customize the data files located in the [src/data](src/data/) directory.
 
 - To build for production, run:
 
@@ -41,7 +41,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
   npm run build:prod
   ```
 
-- Regenerate index.html to reflect updated [metadata](../blob/master/src/data/metadata.json).
+- Regenerate index.html to reflect updated [metadata](src/data/metadata.json).
 
   ```bash
   npm run build:html
@@ -49,7 +49,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 
 - It's not required but I'd appreciate if you credit me. :innocent:
 
-**Note:** If you'd like to use more Font Awesome icons than already in use, you need to import them in [Main.js](../blob/master/src/components/Main.js#L7), as stated [here](https://github.com/FortAwesome/react-fontawesome#build-a-library-to-reference-icons-throughout-your-app-more-conveniently).
+**Note:** If you'd like to use more Font Awesome icons than already in use, you need to import them in [Main.js](src/components/Main.js#L7), as stated [here](https://github.com/FortAwesome/react-fontawesome#build-a-library-to-reference-icons-throughout-your-app-more-conveniently).
 
 #### Credits
 
