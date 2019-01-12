@@ -6,7 +6,7 @@
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
-    "dev-server": "webpack-dev-server",
+    "dev-server": "webpack-dev-server --env development",
     "watch": "webpack --watch",
     "test": "echo \"There is nothing to test here.\" && exit 1"
   },
