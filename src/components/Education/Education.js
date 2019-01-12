@@ -4,10 +4,10 @@ import education from '../../data/education.json';
 const Education = () => (
   <div className="container">
     <div className="education">
-      <h2 className="container__title">education</h2>
-      <h3 className="container__subtitle">My academic background</h3>
+      <h2 className="container__title">{education.sectionTitle}</h2>
+      <h3 className="container__subtitle">{education.sectionSubtitle}</h3>
       <ul>
-        {education.map(entry => (
+        {education.content.map(entry => (
           <div className="container__list" key={entry.years}>
             <li key={entry.years} className="education__entry">
               <div className="education__school">{entry.school}</div>

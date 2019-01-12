@@ -4,11 +4,11 @@ import contactInfo from '../../data/contact.json';
 const Contact = () => (
   <div className="container">
     <div className="contact">
-      <h2 className="container__title">contact</h2>
-      <h3 className="container__subtitle">Feel free to contact me</h3>
+      <h2 className="container__title">{contactInfo.sectionTitle}</h2>
+      <h3 className="container__subtitle">{contactInfo.sectionSubtitle}</h3>
       <div className="container__list">
         <ul>
-          {contactInfo.map(contactItem => (
+          {contactInfo.content.map(contactItem => (
             <li key={`contact-page-${contactItem.name}`}>
               <a
                 href={contactItem.url}

@@ -5,7 +5,7 @@ import contactInfo from '../../data/contact.json';
 const LeftBar = () => (
   <div id="left-bar">
     <div>
-      {contactInfo.map(contactItem => (
+      {contactInfo.content.map(contactItem => (
         <a
           className="left-bar__item"
           key={`left-bar-${contactItem.name}`}

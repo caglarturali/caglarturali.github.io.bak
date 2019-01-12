@@ -1,14 +1,18 @@
-[
-  {
-    "school": "Kirikkale University",
-    "department": "Computer Education and Instructional Technologies",
-    "degree": "Bachelor's Degree",
-    "years": "2010 - 2017"
-  },
-  {
-    "school": "Kirikkale University",
-    "department": "Physics",
-    "degree": "[Dropout]",
-    "years": "2008 - 2010"
-  }
-]
+{
+  "sectionTitle": "education",
+  "sectionSubtitle": "My academic background",
+  "content": [
+    {
+      "school": "Kirikkale University",
+      "department": "Computer Education and Instructional Technologies",
+      "degree": "Bachelor's Degree",
+      "years": "2010 - 2017"
+    },
+    {
+      "school": "Kirikkale University",
+      "department": "Physics",
+      "degree": "[Dropout]",
+      "years": "2008 - 2010"
+    }
+  ]
+}

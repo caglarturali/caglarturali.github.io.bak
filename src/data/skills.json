@@ -1,46 +1,49 @@
-[
-  {
-    "title": "Technical skills",
-    "items": [
-      "Web Development",
-      "Responsive Design",
-      "Mobile Development (Android)",
-      "Game Development (Unity)",
-      "VR Development (Unity)",
-      "3D Modelling / Animation"
-    ]
-  },
-  {
-    "title": "Programming languages / tech stacks",
-    "items": [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Node.js",
-      "Express.js",
-      "React.js",
-      "C# / .NET",
-      "Java",
-      "MongoDB",
-      "MySQL",
-      "PHP"
-    ]
-  },
-  {
-    "title": "Products",
-    "items": ["Gimp", "Inkscape", "Unity3D", "3ds Max", "Maya", "Adobe Products"]
-  },
-  {
-    "title": "Preferences",
-    "items": [
-      "Linux Deepin as main OS",
-      "npm as package manager",
-      "VS Code as editor of choice",
-      "Trying hard to not to think about tabs or spaces"
-    ]
-  },
-  {
-    "title": "Special interests",
-    "items": ["Electronic music production", "Entrepreneurship", "Technical documentaries :)"]
-  }
-]
+{
+  "sectionTitle": "skills",
+  "content": [
+    {
+      "title": "Technical skills",
+      "items": [
+        "Web Development",
+        "Responsive Design",
+        "Mobile Development (Android)",
+        "Game Development (Unity)",
+        "VR Development (Unity)",
+        "3D Modelling / Animation"
+      ]
+    },
+    {
+      "title": "Programming languages / tech stacks",
+      "items": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Express.js",
+        "React.js",
+        "C# / .NET",
+        "Java",
+        "MongoDB",
+        "MySQL",
+        "PHP"
+      ]
+    },
+    {
+      "title": "Products",
+      "items": ["Gimp", "Inkscape", "Unity3D", "3ds Max", "Maya", "Adobe Products"]
+    },
+    {
+      "title": "Preferences",
+      "items": [
+        "Linux Deepin as main OS",
+        "npm as package manager",
+        "VS Code as editor of choice",
+        "Trying hard to not to think about tabs or spaces"
+      ]
+    },
+    {
+      "title": "Special interests",
+      "items": ["Electronic music production", "Entrepreneurship", "Technical documentaries :)"]
+    }
+  ]
+}

@@ -4,10 +4,10 @@ import certificatesData from '../../data/certificates.json';
 const Certificates = () => (
   <div className="container">
     <div className="certificates">
-      <h2 className="container__title">certifications</h2>
-      <h3 className="container__subtitle">Certificates that I have collected over time</h3>
+      <h2 className="container__title">{certificatesData.sectionTitle}</h2>
+      <h3 className="container__subtitle">{certificatesData.sectionSubtitle}</h3>
       <ul>
-        {certificatesData.map(certificate => (
+        {certificatesData.content.map(certificate => (
           <div className="container__list" key={`${certificate.name}-div`}>
             <li key={certificate.url} className="certificates__entry">
               <div className="certificate__name">{certificate.name}</div>
