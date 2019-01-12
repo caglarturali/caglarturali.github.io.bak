@@ -1,14 +1,15 @@
 import React from 'react';
-import MetaTags from 'react-meta-tags';
+import { Helmet } from 'react-helmet';
 import metadata from '../data/metadata.json';
 
-const CustomMetaTags = () => (
-  <MetaTags>
+const MetaTags = () => (
+  <Helmet>
     <title>{metadata.title}</title>
     <meta name="theme-color" content="#21252b" />
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={metadata.keywords} />
     <meta name="author" content={metadata.author} />
+    <link rel="canonical" href={metadata.og.url} />
 
     {/*<!-- Schema.org markup for Google+ -->*/}
     <meta itemProp="name" content={metadata.gPlus.name} />
@@ -34,7 +35,7 @@ const CustomMetaTags = () => (
     <meta property="og:image:alt" content={metadata.og.image_alt} />
     <meta property="og:description" content={metadata.og.description} />
     <meta property="og:site_name" content={metadata.og.site_name} />
-  </MetaTags>
+  </Helmet>
 );
 
-export default CustomMetaTags;
+export default MetaTags;

@@ -42,13 +42,13 @@ import Education from './Education/Education';
 import Projects from './Projects/Projects';
 import Contact from './Contact/Contact';
 import Certificates from './Certificates/Certificates';
-import CustomMetaTags from './CustomMetaTags';
+import MetaTags from './MetaTags';
 
 let history = createHistory(window);
 
 const Main = () => (
   <div>
-    <CustomMetaTags />
+    <MetaTags />
     <Header />
     <LeftBar />
     <main>
