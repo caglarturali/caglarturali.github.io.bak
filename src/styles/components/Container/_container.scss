@@ -30,3 +30,7 @@
 .container ul {
   list-style: square;
 }
+
+.container a:hover {
+  color: $text-mid;
+}

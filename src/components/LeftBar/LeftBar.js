@@ -8,7 +8,7 @@ const LeftBar = () => (
       {contactInfo.map(contactItem => (
         <a
           className="left-bar__item"
-          key={contactItem.name}
+          key={`left-bar-${contactItem.name}`}
           href={contactItem.url}
           aria-label={`Find me on ${contactItem.name}`}
           title={`Find me on ${contactItem.name}`}
