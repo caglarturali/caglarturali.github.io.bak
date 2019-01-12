@@ -45,7 +45,6 @@
     "npm": "^6.5.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-helmet": "^5.2.0",
     "react-modal": "^3.6.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
