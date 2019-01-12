@@ -23,6 +23,11 @@
     padding: 10px 15px;
     text-transform: lowercase;
     transition: background, border-color 250ms ease;
+
+    @media screen and (max-width: $desktop-breakpoint) {
+      letter-spacing: 0;
+      padding: 10px;
+    }
   }
 
   & a:hover,
