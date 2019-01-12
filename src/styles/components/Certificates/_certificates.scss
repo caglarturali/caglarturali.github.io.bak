@@ -1,0 +1,16 @@
+.certificates__entry {
+  margin-bottom: 30px;
+}
+
+.certificates__entry > div {
+  margin-bottom: 4px;
+}
+
+.certificate__name {
+  font-size: $m-size;
+  font-weight: 500;
+}
+
+.certificate__homepage {
+  color: $text-dark;
+}

@@ -41,6 +41,7 @@ import Skills from './Skills/Skills';
 import Education from './Education/Education';
 import Projects from './Projects/Projects';
 import Contact from './Contact/Contact';
+import Certificates from './Certificates/Certificates';
 
 let history = createHistory(window);
 
@@ -55,6 +56,7 @@ const Main = () => (
         <Education path="/education" />
         <Projects path="/projects" />
         <Contact path="/contact" />
+        <Certificates path="/certifications" />
       </Router>
     </main>
     <StatusBar />
