@@ -27,13 +27,14 @@
 
   & a:hover,
   & a[aria-current='page'] {
-    border-color: $bg-dark-blue;
-    background: $bg-mid-blue;
+    border-top-color: $bg-dark-blue;
+    background: lighten($bg-dark-blue, 2%);
     color: $text-white;
   }
 
   & a[aria-current='page'] {
-    border-color: lighten($bg-dark-blue, 5%);
+    background: $bg-mid-blue;
+    border-top-color: lighten($bg-dark-blue, 5%);
   }
 }
 
