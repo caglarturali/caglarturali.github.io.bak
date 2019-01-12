@@ -6,6 +6,7 @@
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
+    "build:html": "node src/scripts/buildHtml.js && ./node_modules/prettier/bin-prettier.js --write index.html",
     "dev-server": "webpack-dev-server --env development",
     "watch": "webpack --watch",
     "test": "echo \"There is nothing to test here.\" && exit 1"
@@ -54,6 +55,7 @@
   },
   "devDependencies": {
     "dotenv": "^6.2.0",
+    "prettier": "^1.15.3",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": ">=3.1.11"
   }
