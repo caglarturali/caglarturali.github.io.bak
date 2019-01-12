@@ -34,15 +34,6 @@ const CustomMetaTags = () => (
     <meta property="og:image:alt" content={metadata.og.image_alt} />
     <meta property="og:description" content={metadata.og.description} />
     <meta property="og:site_name" content={metadata.og.site_name} />
-
-    {/*<!-- Google Site Verification -->*/}
-    <meta name="google-site-verification" content={metadata.verification.google} />
-
-    {/*<!-- Yandex Site verification -->*/}
-    <meta name="yandex-verification" content={metadata.verification.yandex} />
-
-    {/*<!-- Bing verification -->*/}
-    <meta name="msvalidate.01" content={metadata.verification.bing} />
   </MetaTags>
 );
 
