@@ -6,7 +6,7 @@
 
 ![](../gh-files/screenshots/demo.gif)
 
-## How to;
+## How to ...
 
 ### ... run locally?
 
@@ -41,7 +41,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
   npm run build:prod
   ```
 
-- Regenerate index.html to reflect updated [metadata](src/data/metadata.json).
+- Regenerate `index.html` to reflect updated [metadata](src/data/metadata.json).
 
   ```bash
   npm run build:html
