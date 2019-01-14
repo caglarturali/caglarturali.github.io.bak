@@ -3,9 +3,6 @@ const path = require('path');
 const rootPath = require('../../root');
 const metadata = require('../data/metadata.json');
 
-const fileName = 'index.html';
-const stream = fs.createWriteStream(path.join(rootPath.PROJECT_DIR, fileName));
-
 const buildMeta = () => {
   let meta = '';
   meta += `<title>${metadata.title}</title>`;
@@ -46,25 +43,13 @@ const buildMeta = () => {
 };
 
 const buildHtml = () => {
-  let html = `
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <link rel="shortcut icon" href="./public/images/favicon.png" type="image/x-icon" />
-        <link rel="stylesheet" href="./public/dist/styles.css" />
-        ${buildMeta()}
-      </head>
-      <body>
-        <div id="app"></div>
-        <script src="./public/dist/bundle.js"></script>
-      </body>
-    </html>
-  `;
-  return html;
+  let template = fs.readFileSync(path.join(__dirname, 'template.html'), 'utf8');
+  let metaString = buildMeta();
+  return template.replace('__METADATA__', metaString);
 };
+
+const fileToCreate = 'index.html';
+const stream = fs.createWriteStream(path.join(rootPath.PROJECT_DIR, fileToCreate));
 
 stream.once('open', () => {
   let html = buildHtml();
