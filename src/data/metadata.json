@@ -3,6 +3,7 @@
   "description": "Caglar Turali's personal portfolio website",
   "keywords": "Caglar Turali, Çağlar Turalı, JavaScript, React, Node, Vue, MongoDB, MEAN, MERN, Bilen Adam, Astroloci",
   "author": "Caglar Turali | https://github.com/caglarturali",
+  "canonical": "https://caglarturali.com/",
   "themeColor": "#21252b",
   "gPlus": {
     "name": "Caglar Turali | JavaScript Developer",
