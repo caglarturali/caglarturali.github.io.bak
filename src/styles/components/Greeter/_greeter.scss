@@ -16,6 +16,10 @@
   padding: 0;
   text-shadow: 5px 5px $bg-dark-blue;
   user-select: none;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    font-size: $mll-size;
+  }
 }
 
 #greeter .type-wrap {
@@ -25,6 +29,10 @@
   margin: 5px;
   padding: 0;
   user-select: none;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    font-size: $ml-size;
+  }
 }
 
 .typed-cursor {

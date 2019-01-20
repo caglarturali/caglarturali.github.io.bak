@@ -15,12 +15,20 @@
   font-size: $l-size;
   margin: 0;
   padding: 0;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    font-size: $ml-size;
+  }
 }
 
 .container__subtitle {
   color: $mid-blue;
   font-size: $ml-size;
   font-weight: 400;
+
+  @media screen and (max-width: $desktop-breakpoint) {
+    font-size: $m-size;
+  }
 }
 
 .container__list {
