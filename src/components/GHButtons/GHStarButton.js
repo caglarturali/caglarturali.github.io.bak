@@ -8,7 +8,16 @@ class GHStarButton extends React.Component {
   };
 
   componentDidMount() {
+    this.loadFromLocalStorage();
     this.loadStargazersCount();
+  }
+
+  loadFromLocalStorage() {
+    if (window.localStorage) {
+      if ('stargazers_count' in window.localStorage) {
+        this.setStarGazersCount(window.localStorage.getItem('stargazers_count'));
+      }
+    }
   }
 
   loadStargazersCount() {
@@ -20,19 +29,26 @@ class GHStarButton extends React.Component {
       .then(res => {
         if (res.stargazers_count >= 0) {
           this.setState({
-            loading: false,
-            stargazers_count: res.stargazers_count
+            loading: false
           });
+          this.setStarGazersCount(res.stargazers_count);
         } else {
           throw new Error();
         }
       })
       .catch(() => {
         this.setState({
-          loading: false,
-          stargazers_count: null
+          loading: false
         });
+        this.setStarGazersCount(null);
       });
+  }
+
+  setStarGazersCount(count) {
+    this.setState({ stargazers_count: count });
+    if (window.localStorage) {
+      window.localStorage.setItem('stargazers_count', count);
+    }
   }
 
   render() {

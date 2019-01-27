@@ -8,7 +8,16 @@ class GHFollowButton extends React.Component {
   };
 
   componentDidMount() {
+    this.loadFromLocalStorage();
     this.loadFollowerCount();
+  }
+
+  loadFromLocalStorage() {
+    if (window.localStorage) {
+      if ('followers_count' in window.localStorage) {
+        this.setFollowersCount(window.localStorage.getItem('followers_count'));
+      }
+    }
   }
 
   loadFollowerCount() {
@@ -20,19 +29,26 @@ class GHFollowButton extends React.Component {
       .then(res => {
         if (res.followers >= 0) {
           this.setState({
-            loading: false,
-            followers: res.followers
+            loading: false
           });
+          this.setFollowersCount(res.followers);
         } else {
           throw new Error();
         }
       })
       .catch(() => {
         this.setState({
-          loading: false,
-          followers: null
+          loading: false
         });
+        this.setFollowersCount(null);
       });
+  }
+
+  setFollowersCount(count) {
+    this.setState({ followers: count });
+    if (window.localStorage) {
+      window.localStorage.setItem('followers_count', count);
+    }
   }
 
   render() {
