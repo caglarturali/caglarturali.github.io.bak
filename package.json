@@ -4,11 +4,8 @@
   "description": "VS Code/Atom One Dark inspired portfolio app.",
   "main": "index.js",
   "scripts": {
-    "build:dev": "webpack",
-    "build:prod": "webpack -p --env production",
-    "build:html": "node src/scripts/buildHtml.js && ./node_modules/prettier/bin-prettier.js --write index.html",
-    "dev-server": "webpack-dev-server --env development",
-    "watch": "webpack --watch",
+    "build": "./build.sh",
+    "start": "webpack-dev-server --env development",
     "test": "echo \"There is nothing to test here.\" && exit 1"
   },
   "author": "Caglar Turali",

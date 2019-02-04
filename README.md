@@ -19,7 +19,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
   cd portfolio-app
   ```
 
-- Install dependencies:
+- Install the dependencies:
 
   ```bash
   npm install
@@ -28,7 +28,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Fire up a development server:
 
   ```bash
-  npm run dev-server
+  npm start
   ```
 
 ### ... make it your own?
@@ -38,13 +38,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - To build for production, run:
 
   ```bash
-  npm run build:prod
-  ```
-
-- Regenerate `index.html` to reflect updated [metadata](src/data/metadata.json).
-
-  ```bash
-  npm run build:html
+  npm run build
   ```
 
 - It's not required but I'd appreciate if you credit me. :innocent:
