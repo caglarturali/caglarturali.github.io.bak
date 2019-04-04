@@ -3,6 +3,28 @@
   "sectionSubtitle": "Certificates that I have earned over time",
   "content": [
     {
+      "name": "Full-Stack Web Development with React Specialization",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/XGPU5C68VAEE",
+      "sub_items": [
+        {
+          "name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/TQ2HAVM6JJ73"
+        },
+        {
+          "name": "Front-End Web Development with React",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/QJPWRV28SCV3"
+        },
+        {
+          "name": "Multiplatform Mobile App Development with React Native",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/GNX5WEXJWSGY"
+        },
+        {
+          "name": "Server-Side Development with NodeJS, Express and MongoDB",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/XGMAYMHEXDZW"
+        }
+      ]
+    },
+    {
       "name": "Responsive Web Design Certification",
       "url": "https://www.freecodecamp.org/certification/caglarturali/responsive-web-design"
     },

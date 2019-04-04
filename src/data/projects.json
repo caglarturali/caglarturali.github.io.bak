@@ -21,14 +21,20 @@
       "homepage": "https://deepintr.org/"
     },
     {
+      "name": "WatcherCatBot",
+      "description": "A Telegram bot that returns popularity info of the given Linux distribution.",
+      "tech": "Node.js - Express.js",
+      "homepage": "https://github.com/caglarturali/WatcherCatBot/"
+    },
+    {
       "name": "Astroloci",
       "description": "A horoscope application for Android.",
-      "tech": "Native Android App + Node.js - Express.js REST API",
+      "tech": "Native Android App + Express.js REST API",
       "homepage": "https://play.google.com/store/apps/details?id=com.astroloci.app"
     },
     {
       "name": "Bilen Adam",
-      "description": "Lottery machine for Turkey's national lottery games",
+      "description": "Lottery machine for Turkey's national lottery games.",
       "tech": "Unity 3D",
       "homepage": "https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam"
     },

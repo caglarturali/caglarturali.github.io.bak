@@ -6,7 +6,7 @@
       "items": [
         "Web Development",
         "Responsive Design",
-        "Mobile Development (Android)",
+        "Mobile Development (Hybrid/Native)",
         "Game Development (Unity)",
         "VR Development (Unity)",
         "3D Modelling / Animation"
@@ -15,36 +15,33 @@
     {
       "title": "Programming languages / tech stacks",
       "items": [
-        "JavaScript",
-        "HTML",
-        "CSS",
+        "React/React Native",
         "Node.js",
         "Express.js",
-        "React.js",
-        "C# / .NET",
-        "Java",
+        "JavaScript",
+        "HTML & CSS",
         "MongoDB",
         "MySQL",
-        "PHP"
+        "Golang (newcomer)",
+        "C#/.NET (in old times)",
+        "Java (same as above)"
       ]
-    },
-    {
-      "title": "Products",
-      "items": ["Gimp", "Inkscape", "Unity3D", "3ds Max", "Maya", "Adobe Products"]
     },
     {
       "title": "Preferences",
       "items": [
         "Linux Deepin as main OS",
         "Zsh as main shell",
-        "npm as package manager",
-        "VS Code as editor of choice",
-        "Trying hard to not to think about tabs or spaces"
+        "VS Code as editor of choice"
       ]
     },
     {
       "title": "Special interests",
-      "items": ["Electronic music production", "Entrepreneurship", "Technical documentaries :)"]
+      "items": [
+        "Electronic music production",
+        "Entrepreneurship",
+        "Technical documentaries :)"
+      ]
     }
   ]
 }
