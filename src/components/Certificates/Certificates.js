@@ -5,20 +5,21 @@ const Certificates = () => (
   <div className="container">
     <div className="certificates">
       <h2 className="container__title">{certificatesData.sectionTitle}</h2>
-      <h3 className="container__subtitle">{certificatesData.sectionSubtitle}</h3>
+      <h3 className="container__subtitle">
+        {certificatesData.sectionSubtitle}
+      </h3>
       <ul>
         {certificatesData.content.map(certificate => (
           <div className="container__list" key={`${certificate.name}-div`}>
             <li key={certificate.url} className="certificates__entry">
-              <div className="certificate__name">{certificate.name}</div>
-              <div className="certificate__homepage">
+              <div className="certificate__name">
                 <a
                   href={certificate.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={`${certificate.name} Link`}
                 >
-                  View certificate
+                  {certificate.name}
                 </a>
               </div>
             </li>

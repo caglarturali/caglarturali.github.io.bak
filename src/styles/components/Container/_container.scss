@@ -12,18 +12,18 @@
 
 .container__title {
   color: $green;
-  font-size: $l-size;
+  font-size: $ml-size;
   margin: 0;
   padding: 0;
 
   @media screen and (max-width: $desktop-breakpoint) {
-    font-size: $ml-size;
+    font-size: $m-size;
   }
 }
 
 .container__subtitle {
   color: $mid-blue;
-  font-size: $ml-size;
+  font-size: $m-size;
   font-weight: 400;
 
   @media screen and (max-width: $desktop-breakpoint) {

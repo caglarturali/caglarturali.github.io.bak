@@ -7,17 +7,19 @@
 }
 
 .project__name {
-  font-size: $ml-size;
+  font-size: $m-size;
   font-weight: 500;
+  margin-bottom: 2px;
 }
 
 .project__description {
   color: $orange;
-  font-weight: 600;
+  font-weight: 500;
+  margin-bottom: 2px;
 }
 
 .project__tech {
-  color: $purple;
+  color: $cyan;
   font-weight: 500;
 }
 

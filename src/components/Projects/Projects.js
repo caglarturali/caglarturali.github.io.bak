@@ -10,14 +10,17 @@ const Projects = () => (
         {projects.content.map(project => (
           <div className="container__list" key={project.name}>
             <li key={project.name} className="projects__entry">
-              <div className="project__name">{project.name}</div>
-              <div className="project__description">{project.description}</div>
-              <div className="project__tech">{project.tech}</div>
-              <div className="project__homepage">
-                <a href={project.homepage} target="_blank" rel="noopener noreferrer">
-                  Project homepage
-                </a>
-              </div>
+              <a
+                href={project.homepage}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <div className="project__name">{project.name}</div>
+                <div className="project__description">
+                  {project.description}
+                </div>
+                <div className="project__tech">{project.tech}</div>
+              </a>
             </li>
           </div>
         ))}
