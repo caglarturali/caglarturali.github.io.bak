@@ -25,7 +25,7 @@
 #greeter .type-wrap {
   color: $text-dark;
   font-size: $mll-size;
-  font-weight: 300;
+  font-weight: 400;
   margin: 5px;
   padding: 0;
   user-select: none;
@@ -33,6 +33,10 @@
   @media screen and (max-width: $desktop-breakpoint) {
     font-size: $ml-size;
   }
+}
+
+#greeter .type-wrap strong {
+  font-weight: 500;
 }
 
 .typed-cursor {
