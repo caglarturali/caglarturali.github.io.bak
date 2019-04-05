@@ -38,6 +38,10 @@
 
 .container ul {
   list-style: square;
+  
+  @media screen and (max-width: $desktop-breakpoint) {
+    padding-left: 20px;
+  }
 }
 
 .container a:hover {

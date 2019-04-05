@@ -5,6 +5,7 @@
     {
       "name": "Full-Stack Web Development with React Specialization",
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/XGPU5C68VAEE",
+      "total_courses": 4,
       "sub_items": [
         {
           "name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
@@ -25,36 +26,64 @@
       ]
     },
     {
-      "name": "Responsive Web Design Certification",
-      "url": "https://www.freecodecamp.org/certification/caglarturali/responsive-web-design"
+      "name": "freeCodeCamp | The Full Stack Development Certificate",
+      "url": "https://guide.freecodecamp.org/certifications/",
+      "total_courses": 6,
+      "sub_items": [
+        {
+          "name": "Responsive Web Design Certification",
+          "url": "https://www.freecodecamp.org/certification/caglarturali/responsive-web-design"
+        },
+        {
+          "name": "JavaScript Algorithms and Data Structures Certification",
+          "url": "https://www.freecodecamp.org/certification/caglarturali/javascript-algorithms-and-data-structures"
+        }
+      ]
     },
     {
-      "name": "JavaScript Algorithms and Data Structures Certification",
-      "url": "https://www.freecodecamp.org/certification/caglarturali/javascript-algorithms-and-data-structures"
+      "name": "Game Design and Development Specialization",
+      "url": "https://www.coursera.org/specializations/game-development",
+      "total_courses": 5,
+      "sub_items": [
+        {
+          "name": "Introduction to Game Development",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/GKDBNAGKPD6M"
+        }
+      ]
     },
     {
-      "name": "Introduction to Game Development",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/GKDBNAGKPD6M"
+      "name": "Virtual Reality Specialization",
+      "url": "https://www.coursera.org/specializations/virtual-reality",
+      "total_courses": 5,
+      "sub_items": [
+        {
+          "name": "Introduction to Virtual Reality",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/UC3L666SD5TG"
+        },
+        {
+          "name": "3D Models for Virtual Reality",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/4YHK3LYWMJPV"
+        }
+      ]
     },
     {
-      "name": "Introduction to Virtual Reality",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/UC3L666SD5TG"
-    },
-    {
-      "name": "3D Models for Virtual Reality",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/4YHK3LYWMJPV"
-    },
-    {
-      "name": "The Art of Music Production",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/DNVYLQQL3WVF"
-    },
-    {
-      "name": "The Technology of Music Production",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/VZDUNEC24XER"
-    },
-    {
-      "name": "Pro Tools Basics",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/YW4QY26UHC5F"
+      "name": "Music Production Specialization",
+      "url": "https://www.coursera.org/specializations/music-production",
+      "total_courses": 4,
+      "sub_items": [
+        {
+          "name": "The Art of Music Production",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/DNVYLQQL3WVF"
+        },
+        {
+          "name": "The Technology of Music Production",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/VZDUNEC24XER"
+        },
+        {
+          "name": "Pro Tools Basics",
+          "url": "https://www.coursera.org/account/accomplishments/certificate/YW4QY26UHC5F"
+        }
+      ]
     }
   ]
 }
