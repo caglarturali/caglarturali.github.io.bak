@@ -3,27 +3,27 @@
   "description": "Caglar Turali's personal portfolio website",
   "keywords": "Caglar Turali, Çağlar Turalı, JavaScript, React, Node, Vue, MongoDB, MEAN, MERN, Bilen Adam, Astroloci",
   "author": "Caglar Turali | https://github.com/caglarturali",
-  "canonical": "https://caglarturali.com/",
+  "canonical": "https://turali.js.org/",
   "themeColor": "#21252b",
   "gPlus": {
     "name": "Caglar Turali | JavaScript Developer",
     "description": "Caglar Turali's personal portfolio website",
-    "image": "https://caglarturali.com/public/images/meta-img.png"
+    "image": "https://turali.js.org/public/images/meta-img.png"
   },
   "twitter": {
     "card": "summary",
-    "site": "https://caglarturali.com/",
-    "creator": "@caglarturali",
+    "site": "https://turali.js.org/",
+    "creator": "",
     "title": "Caglar Turali | JavaScript Developer",
     "description": "Caglar Turali's personal portfolio website",
-    "image": "https://caglarturali.com/public/images/meta-img.png"
+    "image": "https://turali.js.org/public/images/meta-img.png"
   },
   "og": {
     "title": "Caglar Turali | JavaScript Developer",
     "type": "website",
-    "url": "https://caglarturali.com/",
-    "image": "https://caglarturali.com/public/images/meta-img.jpg",
-    "image_secure_url": "https://caglarturali.com/public/images/meta-img.jpg",
+    "url": "https://turali.js.org/",
+    "image": "https://turali.js.org/public/images/meta-img.jpg",
+    "image_secure_url": "https://turali.js.org/public/images/meta-img.jpg",
     "image_width": "320",
     "image_height": "320",
     "image_alt": "Code icon",
