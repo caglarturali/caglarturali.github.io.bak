@@ -33,9 +33,7 @@ library.add(
   faCog,
 );
 
-import Header from './Header';
-import StatusBar from './StatusBar';
-import LeftBar from './LeftBar';
+import MainLayout from '../layouts/Main';
 import Greeter from './Greeter';
 import Skills from './Skills';
 import Education from './Education';
@@ -46,21 +44,16 @@ import Certificates from './Certificates';
 let history = createHistory(window);
 
 const Main = () => (
-  <div>
-    <Header />
-    <LeftBar />
-    <main>
-      <Router history={history}>
-        <Greeter path="/" />
-        <Skills path="/skills" />
-        <Education path="/education" />
-        <Projects path="/projects" />
-        <Contact path="/contact" />
-        <Certificates path="/certifications" />
-      </Router>
-    </main>
-    <StatusBar />
-  </div>
+  <MainLayout>
+    <Router history={history}>
+      <Greeter path="/" />
+      <Skills path="/skills" />
+      <Education path="/education" />
+      <Projects path="/projects" />
+      <Contact path="/contact" />
+      <Certificates path="/certifications" />
+    </Router>
+  </MainLayout>
 );
 
 export default Main;
