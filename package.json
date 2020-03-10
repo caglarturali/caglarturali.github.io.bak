@@ -7,8 +7,14 @@
     "build": "./build.sh",
     "start": "webpack-dev-server --env development",
     "lint": "eslint \"src/**/*.js\"",
-    "lint:fix": "npm run lint -- --fix",
-    "test": "echo \"There is nothing to test here.\" && exit 1"
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint:fix",
+      "pre-push": "npm run build",
+      "commit-msg": "echo $HUSKY_GIT_PARAMS"
+    }
   },
   "author": "Caglar Turali",
   "license": "GPL-3.0",
@@ -52,6 +58,7 @@
   },
   "devDependencies": {
     "dotenv": "^6.2.0",
+    "husky": "^4.2.3",
     "prettier": "^1.15.3",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": ">=3.1.11"
