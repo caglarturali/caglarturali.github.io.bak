@@ -3,7 +3,7 @@
   "sectionSubtitle": "Some of the projects I've worked on so far",
   "content": [
     {
-      "name": "GetKernel/",
+      "name": "GetKernel",
       "description": "The kernel store for Ubuntu derivatives.",
       "tech": "NextJS",
       "homepage": "https://getkernel.now.sh/"
