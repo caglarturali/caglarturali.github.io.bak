@@ -6,6 +6,8 @@
   "scripts": {
     "build": "./build.sh",
     "start": "webpack-dev-server --env development",
+    "lint": "eslint \"src/**/*.js\"",
+    "lint:fix": "npm run lint -- --fix",
     "test": "echo \"There is nothing to test here.\" && exit 1"
   },
   "author": "Caglar Turali",
