@@ -1,10 +1,13 @@
+/**
+ * Certificates component.
+ */
 import React from 'react';
 import certificatesData from '../../data/certificates.json';
 
 const Certificates = () => {
-  const listSubItems = subItems => (
+  const listSubItems = (subItems) => (
     <ul className="certificates__subsection">
-      {subItems.map(subCert => (
+      {subItems.map((subCert) => (
         <li
           key={`${subCert.name}-div`}
           className="certificates__subsection__entry"
@@ -45,7 +48,7 @@ const Certificates = () => {
           {certificatesData.sectionSubtitle}
         </h3>
         <ul>
-          {certificatesData.content.map(certificate => (
+          {certificatesData.content.map((certificate) => (
             <div className="container__list" key={`${certificate.name}-div`}>
               <li key={certificate.url} className="certificates__entry">
                 <div className="certificate__name">
@@ -58,7 +61,7 @@ const Certificates = () => {
                     {certificate.name}
                     {buildProgressText(
                       certificate.total_courses ? certificate.total_courses : 1,
-                      certificate.sub_items ? certificate.sub_items.length : 1
+                      certificate.sub_items ? certificate.sub_items.length : 1,
                     )}
                   </a>
                   {certificate.sub_items && listSubItems(certificate.sub_items)}

@@ -1,3 +1,6 @@
+/**
+ * LeftBar component.
+ */
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import contactInfo from '../../data/contact.json';
@@ -5,7 +8,7 @@ import contactInfo from '../../data/contact.json';
 const LeftBar = () => (
   <div id="left-bar">
     <div>
-      {contactInfo.content.map(contactItem => (
+      {contactInfo.content.map((contactItem) => (
         <a
           className="left-bar__item"
           key={`left-bar-${contactItem.name}`}
@@ -15,7 +18,11 @@ const LeftBar = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FontAwesomeIcon className="left-bar__icon" icon={contactItem.icon} size="lg" />
+          <FontAwesomeIcon
+            className="left-bar__icon"
+            icon={contactItem.icon}
+            size="lg"
+          />
         </a>
       ))}
     </div>

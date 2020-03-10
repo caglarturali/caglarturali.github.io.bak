@@ -1,3 +1,6 @@
+/**
+ * Projects component.
+ */
 import React from 'react';
 import projects from '../../data/projects.json';
 
@@ -7,7 +10,7 @@ const Projects = () => (
       <h2 className="container__title">{projects.sectionTitle}</h2>
       <h3 className="container__subtitle">{projects.sectionSubtitle}</h3>
       <ul>
-        {projects.content.map(project => (
+        {projects.content.map((project) => (
           <div className="container__list" key={project.name}>
             <li key={project.name} className="projects__entry">
               <a

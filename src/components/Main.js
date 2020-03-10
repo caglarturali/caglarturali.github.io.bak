@@ -15,7 +15,7 @@ import {
   faStar,
   faCopy,
   faSearch,
-  faCog
+  faCog,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -30,18 +30,18 @@ library.add(
   faStar,
   faCopy,
   faSearch,
-  faCog
+  faCog,
 );
 
-import Header from './Header/Header';
-import StatusBar from './StatusBar/StatusBar';
-import LeftBar from './LeftBar/LeftBar';
-import Greeter from './Greeter/Greeter';
-import Skills from './Skills/Skills';
-import Education from './Education/Education';
-import Projects from './Projects/Projects';
-import Contact from './Contact/Contact';
-import Certificates from './Certificates/Certificates';
+import Header from './Header';
+import StatusBar from './StatusBar';
+import LeftBar from './LeftBar';
+import Greeter from './Greeter';
+import Skills from './Skills';
+import Education from './Education';
+import Projects from './Projects';
+import Contact from './Contact';
+import Certificates from './Certificates';
 
 let history = createHistory(window);
 

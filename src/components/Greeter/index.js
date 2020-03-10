@@ -1,7 +1,10 @@
+/**
+ * Greeter component.
+ */
 import React from 'react';
 import Typed from 'typed.js';
 import MainContact from './MainContact.js';
-import GitHubButtons from '../GHButtons/GitHubButtons';
+import GitHubButtons from '../GHButtons';
 
 import strings from '../../data/strings.json';
 
@@ -12,7 +15,7 @@ class Greeter extends React.Component {
       typeSpeed: 70,
       backSpeed: 50,
       loop: true,
-      smartBackspace: true
+      smartBackspace: true,
     };
     // this.el refers to the <span> in the render() method
     this.typed = new Typed(this.el, options);
@@ -31,7 +34,7 @@ class Greeter extends React.Component {
         <div className="type-wrap">
           <span
             style={{ whiteSpace: 'pre' }}
-            ref={el => {
+            ref={(el) => {
               this.el = el;
             }}
           />

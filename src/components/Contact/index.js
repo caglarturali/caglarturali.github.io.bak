@@ -1,3 +1,6 @@
+/**
+ * Contact component.
+ */
 import React from 'react';
 import contactInfo from '../../data/contact.json';
 
@@ -8,7 +11,7 @@ const Contact = () => (
       <h3 className="container__subtitle">{contactInfo.sectionSubtitle}</h3>
       <div className="container__list">
         <ul>
-          {contactInfo.content.map(contactItem => (
+          {contactInfo.content.map((contactItem) => (
             <li key={`contact-page-${contactItem.name}`}>
               <a
                 href={contactItem.url}

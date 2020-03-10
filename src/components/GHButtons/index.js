@@ -1,3 +1,6 @@
+/**
+ * GitHubButtons component.
+ */
 import React from 'react';
 import GHFollowButton from './GHFollowButton.js';
 import GHStarButton from './GHStarButton.js';

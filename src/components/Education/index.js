@@ -1,3 +1,6 @@
+/**
+ * Education component.
+ */
 import React from 'react';
 import education from '../../data/education.json';
 
@@ -7,7 +10,7 @@ const Education = () => (
       <h2 className="container__title">{education.sectionTitle}</h2>
       <h3 className="container__subtitle">{education.sectionSubtitle}</h3>
       <ul>
-        {education.content.map(entry => (
+        {education.content.map((entry) => (
           <div className="container__list" key={entry.years}>
             <li key={entry.years} className="education__entry">
               <div className="education__school">{entry.school}</div>
