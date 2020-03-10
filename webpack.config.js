@@ -1,5 +1,4 @@
 const path = require('path');
-const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
@@ -10,7 +9,7 @@ if (process.env.NODE_ENV === 'test') {
   require('dotenv').config({ path: '.env.development' });
 }
 
-module.exports = env => {
+module.exports = (env) => {
   const isProduction = env === 'production';
   const CSSExtract = new ExtractTextPlugin('styles.css');
 
@@ -18,7 +17,7 @@ module.exports = env => {
     entry: ['@babel/polyfill', './src/app.js'],
     output: {
       path: path.join(__dirname, 'public', 'dist'),
-      filename: 'bundle.js'
+      filename: 'bundle.js',
     },
     mode: 'development',
     module: {
@@ -26,7 +25,7 @@ module.exports = env => {
         {
           loader: 'babel-loader',
           test: /\.js$/,
-          exclude: /node_modules/
+          exclude: /node_modules/,
         },
         {
           test: /\.s?css$/,
@@ -35,26 +34,26 @@ module.exports = env => {
               {
                 loader: 'css-loader',
                 options: {
-                  sourceMap: true
-                }
+                  sourceMap: true,
+                },
               },
               {
                 loader: 'sass-loader',
                 options: {
-                  sourceMap: true
-                }
-              }
-            ]
-          })
-        }
-      ]
+                  sourceMap: true,
+                },
+              },
+            ],
+          }),
+        },
+      ],
     },
     plugins: [CSSExtract],
     devtool: isProduction ? 'source-map' : 'inline-source-map',
     devServer: {
       contentBase: path.join(__dirname, '/'),
       publicPath: '/public/dist/',
-      historyApiFallback: true
-    }
+      historyApiFallback: true,
+    },
   };
 };
