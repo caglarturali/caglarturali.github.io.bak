@@ -41,7 +41,7 @@ export default () => ({
   subtitle: {
     color: midBlue,
     fontSize: mSize,
-    fontWeight: '400',
+    fontWeight: 500,
     [`@media screen and (max-width: ${desktopBreakpoint})`]: {
       fontSize: mSize,
     },
