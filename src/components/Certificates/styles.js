@@ -8,7 +8,6 @@ export default () => ({
   entry: {
     marginBottom: '30px',
   },
-
   name: {
     fontSize: mSize,
     fontWeight: 500,

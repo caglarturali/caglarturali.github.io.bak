@@ -56,9 +56,9 @@ const Certificates = () => {
     >
       <ul>
         {certificatesData.content.map((certificate) => (
-          <div className="container__list" key={`${certificate.name}-div`}>
-            <li key={certificate.url} className="certificates__entry">
-              <div className="certificate__name">
+          <div key={`${certificate.name}-div`}>
+            <li key={certificate.url} className={classes.entry}>
+              <div className={classes.name}>
                 <a
                   href={certificate.url}
                   target="_blank"
