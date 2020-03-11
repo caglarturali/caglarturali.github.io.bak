@@ -1,7 +1,13 @@
 /**
  * StatusBar component styles.
  */
-import { bgDarkBlue, bgMidBlue, textLightBlue, sSize } from '../../theme';
+import {
+  bgDarkBlue,
+  bgMidBlue,
+  textLightBlue,
+  sSize,
+  sansFont,
+} from '../../theme';
 
 export default () => ({
   root: {
@@ -10,8 +16,8 @@ export default () => ({
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    fontFamily: "'Ubuntu', Helvetica, sans-serif",
-    fontWeight: '400',
+    fontFamily: sansFont,
+    fontWeight: 400,
     left: '0',
     position: 'fixed',
     width: '100vw',

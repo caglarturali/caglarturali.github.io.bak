@@ -2,7 +2,7 @@
  * Certificates component styles.
  */
 import Color from 'color';
-import { sSize, mSize, textWhite, green, midBlue, red } from '../../theme';
+import { sSize, mSize, textWhite, green, midBlue, red, sansFont } from '../../theme';
 
 export default () => ({
   entry: {
@@ -11,7 +11,7 @@ export default () => ({
 
   name: {
     fontSize: mSize,
-    fontWeight: '500',
+    fontWeight: 500,
     '&>a': {
       textTransform: 'uppercase',
     },
@@ -27,7 +27,8 @@ export default () => ({
   progress: {
     borderRadius: '6px',
     color: textWhite,
-    fontFamily: "'Ubuntu', sans-serif",
+    fontFamily: sansFont,
+    fontWeight: 500,
     fontSize: sSize,
     marginLeft: '10px',
     padding: '2px 4px',

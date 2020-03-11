@@ -25,7 +25,7 @@ export default () => ({
     '& li': {
       listStyle: 'square',
     },
-    [`@media (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
       marginLeft: 0,
     },
   },
@@ -34,7 +34,7 @@ export default () => ({
     fontSize: mlSize,
     margin: 0,
     padding: 0,
-    [`@media (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
       fontSize: mSize,
     },
   },
@@ -42,7 +42,7 @@ export default () => ({
     color: midBlue,
     fontSize: mSize,
     fontWeight: '400',
-    [`@media (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
       fontSize: mSize,
     },
   },
@@ -50,7 +50,7 @@ export default () => ({
     color: textLightBlue,
     fontSize: mSize,
     '& ul': {
-      [`@media (max-width: ${desktopBreakpoint})`]: {
+      [`@media screen and (max-width: ${desktopBreakpoint})`]: {
         paddingLeft: '20px',
       },
     },

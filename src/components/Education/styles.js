@@ -15,11 +15,11 @@ export default () => ({
   },
   department: {
     color: orange,
-    fontWeight: '500',
+    fontWeight: 500,
   },
   degree: {
     color: cyan,
-    fontWeight: '500',
+    fontWeight: 500,
   },
   years: {
     color: textDark,

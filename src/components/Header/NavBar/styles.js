@@ -9,12 +9,13 @@ import {
   textLightBlue,
   sSize,
   desktopBreakpoint,
+  sansFont,
 } from '../../../theme';
 
 export default () => ({
   root: {
     float: 'left',
-    fontFamily: "'Ubuntu', Helvetica, sans-serif",
+    fontFamily: sansFont,
   },
   list: {
     color: textLightBlue,
@@ -32,7 +33,7 @@ export default () => ({
       cursor: 'pointer',
       display: 'inline-block',
       fontSize: sSize,
-      letterSpacing: '0.75px',
+      letterSpacing: '0.5px',
       padding: '10px 15px',
       textTransform: 'lowercase',
       transition: 'background, border-color 250ms ease',

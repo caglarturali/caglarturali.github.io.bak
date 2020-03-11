@@ -10,6 +10,7 @@ import {
   lSize,
   desktopBreakpoint,
   mlSize,
+  sansFont,
 } from '../../theme';
 
 export default () => ({
@@ -19,7 +20,7 @@ export default () => ({
     flexDirection: 'column',
     height: '100vh',
     justifyContent: 'center',
-    fontFamily: "'Ubuntu', Helvetica, sans-serif",
+    fontFamily: sansFont,
   },
   heading: {
     color: textMid,
