@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const rootPath = require('../../root');
-const metadata = require('../data/metadata.json');
+const rootPath = require('../root');
+const metadata = require('../src/data/metadata.json');
 
 const metaMap = {
   __TITLE__: metadata.title,
@@ -29,7 +29,7 @@ const metaMap = {
   __OG_IMAGE_ALT__: metadata.og.image_alt,
   __OG_DESCRIPTION__: metadata.og.description,
   __OG_SITE_NAME__: metadata.og.site_name,
-  __VERIFICATION_GOOGLE__: metadata.verification.google
+  __VERIFICATION_GOOGLE__: metadata.verification.google,
 };
 
 const buildMeta = () => {
@@ -49,10 +49,11 @@ const buildHtml = () => {
 };
 
 const fileToCreate = 'index.html';
-const stream = fs.createWriteStream(path.join(rootPath.PROJECT_DIR, fileToCreate));
+const stream = fs.createWriteStream(
+  path.join(rootPath.PROJECT_DIR, fileToCreate),
+);
 
 stream.once('open', () => {
   let html = buildHtml();
-
   stream.end(html);
 });

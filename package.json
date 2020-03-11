@@ -4,11 +4,11 @@
   "description": "VS Code/Atom One Dark inspired portfolio app.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack -p --env production && prettier --write index.html && cp index.html 404.html",
+    "build": "webpack -p --env production && node scripts/buildHtml.js && prettier --write index.html && cp index.html 404.html",
     "start": "webpack-dev-server --env development",
     "lint": "eslint \"src/**/*.js\"",
     "lint:fix": "npm run lint -- --fix",
-    "build:commit": "node src/scripts/buildAndCommit.js",
+    "build:commit": "node scripts/buildAndCommit.js",
     "git:push": "npm run build:commit && git push"
   },
   "husky": {
