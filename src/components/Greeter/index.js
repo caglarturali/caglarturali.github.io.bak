@@ -1,15 +1,20 @@
 /**
  * Greeter component.
  */
-import React from 'react';
+import React, { useEffect } from 'react';
 import Typed from 'typed.js';
+import { createUseStyles } from 'react-jss';
 import MainContact from './MainContact';
 import GitHubButtons from '../GHButtons';
-
 import strings from '../../data/strings.json';
+import styles from './styles';
 
-class Greeter extends React.Component {
-  componentDidMount() {
+const useStyles = createUseStyles(styles);
+
+const Greeter = () => {
+  const classes = useStyles();
+
+  useEffect(() => {
     const options = {
       strings: strings.typed,
       typeSpeed: 70,
@@ -17,33 +22,26 @@ class Greeter extends React.Component {
       loop: true,
       smartBackspace: true,
     };
-    // this.el refers to the <span> in the render() method
-    this.typed = new Typed(this.el, options);
-  }
 
-  componentWillUnmount() {
-    // Make sure to destroy Typed instance on unmounting
-    // to prevent memory leaks
-    this.typed.destroy();
-  }
+    const typed = new Typed('#typed-insert-point', options);
 
-  render() {
-    return (
-      <section id="greeter">
-        <h1>{strings.mainLine}</h1>
-        <div className="type-wrap">
-          <span
-            style={{ whiteSpace: 'pre' }}
-            ref={(el) => {
-              this.el = el;
-            }}
-          />
-        </div>
-        <GitHubButtons />
-        <MainContact />
-      </section>
-    );
-  }
-}
+    return () => {
+      // Make sure to destroy Typed instance on unmounting
+      // to prevent memory leaks
+      typed.destroy();
+    };
+  }, []);
+
+  return (
+    <section className={classes.root}>
+      <h1 className={classes.heading}>{strings.mainLine}</h1>
+      <div className={classes.typedWrap}>
+        <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
+      </div>
+      <GitHubButtons />
+      <MainContact />
+    </section>
+  );
+};
 
 export default Greeter;
