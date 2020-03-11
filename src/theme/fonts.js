@@ -1,5 +1,5 @@
 /**
  * App fonts.
  */
-export const sansFont = "'Roboto', sans-serif";
-export const monoFont = "'Roboto Mono', monospace";
+export const sansFont = "'Ubuntu', sans-serif";
+export const monoFont = "'Ubuntu Mono', monospace";
