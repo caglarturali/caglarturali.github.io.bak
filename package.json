@@ -9,7 +9,7 @@
     "lint": "eslint \"src/**/*.js\"",
     "lint:fix": "npm run lint -- --fix",
     "build:commit": "node src/scripts/buildAndCommit.js",
-    "build:push": "npm run build:commit && git push"
+    "git:push": "npm run build:commit && git push"
   },
   "husky": {
     "hooks": {
