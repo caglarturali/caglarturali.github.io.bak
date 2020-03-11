@@ -7,7 +7,8 @@
     "build": "./build.sh",
     "start": "webpack-dev-server --env development",
     "lint": "eslint \"src/**/*.js\"",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "git": "git add . && git commit -m"
   },
   "husky": {
     "hooks": {
