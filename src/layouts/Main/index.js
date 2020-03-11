@@ -2,9 +2,11 @@
  * Main layout.
  */
 import React from 'react';
+import injectSheet from 'react-jss';
 import Header from '../../components/Header';
 import StatusBar from '../../components/StatusBar';
 import LeftBar from '../../components/LeftBar';
+import styles from './styles';
 
 const MainLayout = ({ children }) => {
   return (
@@ -17,4 +19,4 @@ const MainLayout = ({ children }) => {
   );
 };
 
-export default MainLayout;
+export default injectSheet(styles)(MainLayout);

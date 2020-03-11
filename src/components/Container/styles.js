@@ -10,6 +10,7 @@ import {
   textMid,
   mlSize,
   mSize,
+  msSize
 } from '../../theme';
 
 export default () => ({
@@ -48,7 +49,7 @@ export default () => ({
   },
   content: {
     color: textLightBlue,
-    fontSize: mSize,
+    fontSize: msSize,
     '& ul': {
       [`@media screen and (max-width: ${desktopBreakpoint})`]: {
         paddingLeft: '20px',
