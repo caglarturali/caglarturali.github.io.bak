@@ -1,10 +1,13 @@
+/**
+ * GHFollowButton component.
+ */
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import ButtonLink from '../ButtonLink';
 
 class GHFollowButton extends React.Component {
   state = {
     loading: true,
-    followers: null
+    followers: null,
   };
 
   componentDidMount() {
@@ -25,11 +28,11 @@ class GHFollowButton extends React.Component {
 
     const apiUrl = `https://api.github.com/users/${user}`;
     fetch(apiUrl)
-      .then(res => res.json())
-      .then(res => {
+      .then((res) => res.json())
+      .then((res) => {
         if (res.followers >= 0) {
           this.setState({
-            loading: false
+            loading: false,
           });
           this.setFollowersCount(res.followers);
         } else {
@@ -38,7 +41,7 @@ class GHFollowButton extends React.Component {
       })
       .catch(() => {
         this.setState({
-          loading: false
+          loading: false,
         });
         this.setFollowersCount(null);
       });
@@ -56,19 +59,15 @@ class GHFollowButton extends React.Component {
     const { loading, followers } = this.state;
 
     return (
-      <a
-        className="main-button"
+      <ButtonLink
         href={`https://github.com/${user}`}
-        aria-label={`Follow @${user} on GitHub`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <span className="main-button__contents">
-          <FontAwesomeIcon className="main-button__icon" icon={['fab', 'github']} size="lg" />
-          <span className="main-button__text">{`Follow @${user}`}</span>
-          {showCount && !loading && followers !== null && <span className="main-button__count">{followers}</span>}
-        </span>
-      </a>
+        title={`Follow @${user} on GitHub`}
+        icon={['fab', 'github']}
+        iconSize="lg"
+        text={`Follow @${user}`}
+        showCount={showCount && !loading && followers !== null}
+        count={followers}
+      />
     );
   }
 }

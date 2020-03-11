@@ -1,10 +1,13 @@
+/**
+ * GHStarButton component.
+ */
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import ButtonLink from '../ButtonLink';
 
 class GHStarButton extends React.Component {
   state = {
     loading: true,
-    stargazers_count: null
+    stargazers_count: null,
   };
 
   componentDidMount() {
@@ -15,7 +18,9 @@ class GHStarButton extends React.Component {
   loadFromLocalStorage() {
     if (window.localStorage) {
       if ('stargazers_count' in window.localStorage) {
-        this.setStarGazersCount(window.localStorage.getItem('stargazers_count'));
+        this.setStarGazersCount(
+          window.localStorage.getItem('stargazers_count'),
+        );
       }
     }
   }
@@ -25,11 +30,11 @@ class GHStarButton extends React.Component {
 
     const apiUrl = `https://api.github.com/repos/${user}/${repoName}`;
     fetch(apiUrl)
-      .then(res => res.json())
-      .then(res => {
+      .then((res) => res.json())
+      .then((res) => {
         if (res.stargazers_count >= 0) {
           this.setState({
-            loading: false
+            loading: false,
           });
           this.setStarGazersCount(res.stargazers_count);
         } else {
@@ -38,7 +43,7 @@ class GHStarButton extends React.Component {
       })
       .catch(() => {
         this.setState({
-          loading: false
+          loading: false,
         });
         this.setStarGazersCount(null);
       });
@@ -56,21 +61,15 @@ class GHStarButton extends React.Component {
     const { loading, stargazers_count } = this.state;
 
     return (
-      <a
-        className="main-button"
+      <ButtonLink
         href={repoUrl}
-        aria-label={`Star ${user}/${repoName} on GitHub"`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <span className="main-button__contents">
-          <FontAwesomeIcon className="main-button__icon" icon="star" size="sm" />
-          <span className="main-button__text">Star</span>
-          {showCount && !loading && stargazers_count !== null && (
-            <span className="main-button__count">{stargazers_count}</span>
-          )}
-        </span>
-      </a>
+        title={`Star ${user}/${repoName} on GitHub`}
+        icon="star"
+        iconSize="sm"
+        text="Star"
+        showCount={showCount && !loading && stargazers_count !== null}
+        count={stargazers_count}
+      />
     );
   }
 }
