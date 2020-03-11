@@ -19,8 +19,8 @@ const Education = () => {
     >
       <ul>
         {education.content.map((entry) => (
-          <div className="container__list" key={entry.years}>
-            <li key={entry.years} className="education__entry">
+          <div key={entry.years}>
+            <li key={entry.years} className={classes.entry}>
               <div className={classes.school}>{entry.school}</div>
               <div className={classes.department}>{entry.department}</div>
               <div className={classes.degree}>{entry.degree}</div>
