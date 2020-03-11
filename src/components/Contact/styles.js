@@ -1,9 +1,11 @@
 /**
  * Contact component styles.
  */
+import { mSize } from '../../theme';
+
 export default () => ({
-  contact: {
-    fontSize: '16px',
+  contactItem: {
+    fontSize: mSize,
     marginBottom: '10px',
   },
 });
