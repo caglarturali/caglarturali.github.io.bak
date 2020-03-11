@@ -15,16 +15,17 @@
     {
       "title": "Programming languages / tech stacks",
       "items": [
+        "JavaScript",
         "React/React Native",
         "Node.js",
         "Express.js",
-        "JavaScript",
         "HTML & CSS",
         "MongoDB",
         "MySQL",
+        "Docker",
         "Golang (newcomer)",
-        "C#/.NET (in old times)",
-        "Java (same as above)"
+        "C#/.NET (3+ years)",
+        "Java (~1 year)"
       ]
     },
     {
@@ -36,7 +37,7 @@
       "items": [
         "Electronic music production",
         "Entrepreneurship",
-        "Technical documentaries :)"
+        "Technical documentaries"
       ]
     }
   ]

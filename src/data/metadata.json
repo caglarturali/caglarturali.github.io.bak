@@ -1,25 +1,25 @@
 {
-  "title": "Caglar Turali | JavaScript Developer",
-  "description": "Caglar Turali's personal portfolio website",
-  "keywords": "Caglar Turali, Çağlar Turalı, JavaScript, React, Node, Vue, MongoDB, MEAN, MERN, Bilen Adam, Astroloci",
-  "author": "Caglar Turali | https://github.com/caglarturali",
+  "title": "Çağlar Turalı | JavaScript Developer",
+  "description": "Çağlar Turalı's personal portfolio website",
+  "keywords": "Çağlar Turalı, Caglar Turali, JavaScript, React, Fullstack JavaScript, Node, Vue, MongoDB, MEAN stack, MERN stack, Bilen Adam, Astroloci",
+  "author": "Çağlar Turalı | https://github.com/caglarturali",
   "canonical": "https://turali.js.org/",
   "themeColor": "#21252b",
   "gPlus": {
-    "name": "Caglar Turali | JavaScript Developer",
-    "description": "Caglar Turali's personal portfolio website",
+    "name": "Çağlar Turalı | JavaScript Developer",
+    "description": "Çağlar Turalı's personal portfolio website",
     "image": "https://turali.js.org/public/images/meta-img.png"
   },
   "twitter": {
     "card": "summary",
     "site": "https://turali.js.org/",
     "creator": "",
-    "title": "Caglar Turali | JavaScript Developer",
-    "description": "Caglar Turali's personal portfolio website",
+    "title": "Çağlar Turalı | JavaScript Developer",
+    "description": "Çağlar Turalı's personal portfolio website",
     "image": "https://turali.js.org/public/images/meta-img.png"
   },
   "og": {
-    "title": "Caglar Turali | JavaScript Developer",
+    "title": "Çağlar Turalı | JavaScript Developer",
     "type": "website",
     "url": "https://turali.js.org/",
     "image": "https://turali.js.org/public/images/meta-img.jpg",
@@ -27,8 +27,8 @@
     "image_width": "320",
     "image_height": "320",
     "image_alt": "Code icon",
-    "description": "Caglar Turali's personal portfolio website",
-    "site_name": "Caglar Turali | JavaScript Developer"
+    "description": "Çağlar Turalı's personal portfolio website",
+    "site_name": "Çağlar Turalı | JavaScript Developer"
   },
   "verification": {
     "google": "yoA6kTc96mzuKG5z93MpyxJbTBmCeHRsP64QEEGuI28"
