@@ -1,7 +1,7 @@
 {
   "name": "developer-portfolio-app",
   "version": "1.0.0",
-  "description": "VS Code/Atom One Dark inspired portfolio app.",
+  "description": "VS Code/Atom One Dark inspired developer portfolio app.",
   "main": "index.js",
   "scripts": {
     "build": "webpack -p --env production && node scripts/buildHtml.js && prettier --write index.html && cp index.html 404.html",
