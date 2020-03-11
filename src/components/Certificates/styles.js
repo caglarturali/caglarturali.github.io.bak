@@ -1,7 +1,6 @@
 /**
  * Certificates component styles.
  */
-
 import Color from 'color';
 import { sSize, mSize, textWhite, green, midBlue, red } from '../../theme';
 
