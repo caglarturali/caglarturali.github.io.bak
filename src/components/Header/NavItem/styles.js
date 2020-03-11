@@ -5,8 +5,8 @@ import { desktopBreakpoint } from '../../../theme';
 
 export default () => ({
   root: {
-    '& a[aria-current="page"]': {
-      display: 'inline-block',
+    '& a[aria-current="page"] span': {
+      display: 'inline-block !important',
     },
   },
   navText: {
