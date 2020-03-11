@@ -2,35 +2,38 @@
  * StatusBar component.
  */
 import React from 'react';
+import { createUseStyles } from 'react-jss';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import gitHubData from '../../data/github.json';
+import styles from './styles';
 
-const StatusBar = () => (
-  <footer id="status-bar">
-    <a
-      href={gitHubData.repoUrl}
-      className="status-bar__left"
-      rel="noopener noreferrer"
-      target="_blank"
-    >
-      <FontAwesomeIcon
-        className="status-bar__icon"
-        icon="code-branch"
-        size="xs"
-        inverse
-      />
-      <span className="status-bar__text">master</span>
-    </a>
+const useStyles = createUseStyles(styles);
 
-    <span className="status-bar__right">
-      <FontAwesomeIcon
-        className="status-bar__icon"
-        icon="smile"
-        size="sm"
-        inverse
-      />
-    </span>
-  </footer>
-);
+const StatusBar = () => {
+  const classes = useStyles();
+
+  return (
+    <footer className={classes.root}>
+      <a href={gitHubData.repoUrl} rel="noopener noreferrer" target="_blank">
+        <FontAwesomeIcon
+          className={classes.icon}
+          icon="code-branch"
+          size="xs"
+          inverse
+        />
+        <span className={classes.text}>master</span>
+      </a>
+
+      <span>
+        <FontAwesomeIcon
+          className={classes.icon}
+          icon="smile"
+          size="sm"
+          inverse
+        />
+      </span>
+    </footer>
+  );
+};
 
 export default StatusBar;
