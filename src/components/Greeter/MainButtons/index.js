@@ -1,10 +1,12 @@
 /**
- * GitHubButtons component.
+ * MainButtons component.
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
-import GHButton from '../GHButton';
-import { user, repoName, repoUrl } from '../../data/github.json';
+import ButtonLink from '../../ButtonLink';
+import GHButton from '../../GHButton';
+import { user, repoName, repoUrl } from '../../../data/github.json';
+import contactInfo from '../../../data/contact.json';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -32,16 +34,32 @@ const buttons = [
   },
 ];
 
-const GitHubButtons = () => {
+const mainContact = contactInfo.content.filter(
+  (contactItem) => contactItem.isMain,
+)[0];
+
+const MainButtons = () => {
   const classes = useStyles();
 
   return (
     <div className={classes.root}>
-      {buttons.map((ghButton) => (
-        <GHButton key={`gh-btn-${ghButton.attr}`} {...ghButton} />
-      ))}
+      <div>
+        {buttons.map((ghButton) => (
+          <GHButton key={`gh-btn-${ghButton.attr}`} {...ghButton} />
+        ))}
+      </div>
+      <div>
+        <ButtonLink
+          href={mainContact.url}
+          title={`Find me on ${mainContact.name}`}
+          icon={mainContact.icon}
+          iconSize="lg"
+          text="Contact Me"
+          showCount={false}
+        />
+      </div>
     </div>
   );
 };
 
-export default GitHubButtons;
+export default MainButtons;

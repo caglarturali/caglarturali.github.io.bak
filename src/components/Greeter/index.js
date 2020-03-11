@@ -4,8 +4,7 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js';
 import { createUseStyles } from 'react-jss';
-import MainContact from './MainContact';
-import GitHubButtons from '../GHButtons';
+import MainButtons from './MainButtons';
 import strings from '../../data/strings.json';
 import styles from './styles';
 
@@ -38,8 +37,7 @@ const Greeter = () => {
       <div className={classes.typedWrap}>
         <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
       </div>
-      <GitHubButtons />
-      <MainContact />
+      <MainButtons />
     </section>
   );
 };
