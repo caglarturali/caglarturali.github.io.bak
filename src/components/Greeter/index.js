@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import Typed from 'typed.js';
-import MainContact from './MainContact.js';
+import MainContact from './MainContact';
 import GitHubButtons from '../GHButtons';
 
 import strings from '../../data/strings.json';
