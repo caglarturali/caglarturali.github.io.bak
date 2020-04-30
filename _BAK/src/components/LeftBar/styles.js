@@ -36,9 +36,7 @@ export default () => ({
     marginBottom: '10px',
     transition: 'color 100ms ease',
     '&:hover': {
-      color: Color(lbIconColor)
-        .lighten(0.2)
-        .string(),
+      color: Color(lbIconColor).lighten(0.2).string(),
     },
     '&:last-of-type': {
       marginBottom: '30px',

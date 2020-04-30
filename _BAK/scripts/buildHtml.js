@@ -43,8 +43,11 @@ const buildMeta = () => {
 };
 
 const buildHtml = () => {
-  let template = fs.readFileSync(path.join(__dirname, 'template.html'), 'utf8');
-  let metaString = buildMeta();
+  const template = fs.readFileSync(
+    path.join(__dirname, 'template.html'),
+    'utf8',
+  );
+  const metaString = buildMeta();
   return template.replace('__METADATA__', metaString);
 };
 
@@ -54,6 +57,6 @@ const stream = fs.createWriteStream(
 );
 
 stream.once('open', () => {
-  let html = buildHtml();
+  const html = buildHtml();
   stream.end(html);
 });

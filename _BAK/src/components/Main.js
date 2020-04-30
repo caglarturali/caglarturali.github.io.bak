@@ -40,7 +40,7 @@ import Projects from './Projects';
 import Contact from './Contact';
 import Certificates from './Certificates';
 
-let history = createHistory(window);
+const history = createHistory(window);
 
 const Main = () => (
   <MainLayout>

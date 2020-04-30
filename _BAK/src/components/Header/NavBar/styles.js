@@ -26,9 +26,7 @@ export default () => ({
   listItem: {
     display: 'inline-block',
     '& a': {
-      borderRight: `1px solid ${Color(bgMidBlue)
-        .darken(0.05)
-        .string()}`,
+      borderRight: `1px solid ${Color(bgMidBlue).darken(0.05).string()}`,
       borderTop: `4px solid ${bgDarkBlue}`,
       cursor: 'pointer',
       display: 'inline-block',
@@ -43,16 +41,12 @@ export default () => ({
       },
       '&:hover, &[aria-current="page"]': {
         borderTopColor: bgDarkBlue,
-        background: Color(bgDarkBlue)
-          .lighten(0.02)
-          .string(),
+        background: Color(bgDarkBlue).lighten(0.02).string(),
         color: textWhite,
       },
       '&[aria-current="page"]': {
         background: bgMidBlue,
-        borderTopColor: Color(bgDarkBlue)
-          .lighten(0.05)
-          .string(),
+        borderTopColor: Color(bgDarkBlue).lighten(0.05).string(),
       },
     },
   },

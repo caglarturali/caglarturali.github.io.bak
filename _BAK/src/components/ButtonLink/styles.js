@@ -13,9 +13,7 @@ export default () => ({
     margin: '8px',
     transition: 'color 500ms ease',
     '&:hover': {
-      background: Color(bgDarkBlue)
-        .darken(0.1)
-        .string(),
+      background: Color(bgDarkBlue).darken(0.1).string(),
     },
     '&:hover .icon': {
       color: midBlue,
@@ -34,9 +32,7 @@ export default () => ({
   },
   count: {
     fontSize: sSize,
-    background: Color(bgDarkBlue)
-      .lighten(0.5)
-      .string(),
+    background: Color(bgDarkBlue).lighten(0.5).string(),
     borderRadius: '50%',
     marginLeft: '10px',
     padding: '4px 8px',

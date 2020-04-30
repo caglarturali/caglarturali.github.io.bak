@@ -28,9 +28,7 @@ export default {
       textDecoration: 'none',
       transition: 'color 500ms ease',
       '&:visited': {
-        color: Color(textLightBlue)
-          .darken(0.1)
-          .string(),
+        color: Color(textLightBlue).darken(0.1).string(),
       },
     },
     '.color-transform': {
