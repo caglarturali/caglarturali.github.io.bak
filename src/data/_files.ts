@@ -5,17 +5,17 @@ import Education from '../views/Education';
 import Projects from '../views/Projects';
 import Certificates from '../views/Certificates';
 import Contact from '../views/Contact';
-import { certificates, contact, education, greeter, projects, skills } from '.';
+import { certificates, contact, education, projects, skills } from '.';
 
 export const files: NavLink[] = [
   {
     icon: ['fab', 'html5'],
     color: '#e44d26',
     url: '/',
-    name: 'home.html',
+    name: 'index.html',
     route: {
       component: Greeter,
-      data: { greeter, contact },
+      data: contact,
     },
   },
   {

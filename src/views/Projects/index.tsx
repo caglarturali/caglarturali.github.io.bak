@@ -4,20 +4,22 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import Container from '../../components/Container';
-import { Page, Project } from '../../models';
+import { Project, BaseProps } from '../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface ProjectsProps {
-  data: Page<Project>;
-}
+export type ProjectsProps = BaseProps<Project>;
 
-const Projects: React.FC<ProjectsProps> = ({ data }) => {
+const Projects: React.FC<ProjectsProps> = ({ data, fileName }) => {
   const classes = useStyles();
 
   return (
-    <Container title={data.name} subtitle={data.desc}>
+    <Container
+      title={data.name}
+      subtitle={data.desc}
+      seo={{ title: fileName, description: data.desc }}
+    >
       <ul>
         {data.content.map(({ name, summary, tech, url }) => (
           <div className="container__list" key={name}>

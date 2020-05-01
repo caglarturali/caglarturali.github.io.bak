@@ -4,20 +4,22 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import Container from '../../components/Container';
-import { Page, School } from '../../models';
+import { School, BaseProps } from '../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface EducationProps {
-  data: Page<School>;
-}
+export type EducationProps = BaseProps<School>;
 
-const Education: React.FC<EducationProps> = ({ data }) => {
+const Education: React.FC<EducationProps> = ({ data, fileName }) => {
   const classes = useStyles();
 
   return (
-    <Container title={data.name} subtitle={data.desc}>
+    <Container
+      title={data.name}
+      subtitle={data.desc}
+      seo={{ title: fileName, description: data.desc }}
+    >
       <ul>
         {data.content.map(({ name, department, degree, years }, i) => (
           <div key={`education-item-${i}`}>

@@ -6,21 +6,18 @@ import Typed from 'typed.js';
 import { createUseStyles } from 'react-jss';
 import MainButtons from './MainButtons';
 import { GHButtonProps } from '../../components/GHButton';
+import SEO from '../../components/SEO';
 import { getGHCredentials } from '../../utils';
-import { Greeting, Page, ContactItem } from '../../models';
+import { ContactItem, BaseProps } from '../../models';
+import { greeter } from '../../data';
 import styles from './styles';
 import pkg from '../../../package.json';
 
 const useStyles = createUseStyles(styles);
 
-export interface GreeterProps {
-  data: {
-    greeter: Greeting;
-    contact: Page<ContactItem>;
-  };
-}
+export type GreeterProps = BaseProps<ContactItem>;
 
-const Greeter: React.FC<GreeterProps> = ({ data: { contact, greeter } }) => {
+const Greeter: React.FC<GreeterProps> = ({ data, fileName }) => {
   const classes = useStyles();
 
   useEffect(() => {
@@ -71,13 +68,16 @@ const Greeter: React.FC<GreeterProps> = ({ data: { contact, greeter } }) => {
   ];
 
   return (
-    <section className={classes.root}>
-      <h1 className={classes.heading}>{greeter.mainLine}</h1>
-      <div className={classes.typedWrap}>
-        <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
-      </div>
-      <MainButtons data={contact} ghButtons={ghButtons} />
-    </section>
+    <>
+      <SEO title={fileName} />
+      <section className={classes.root}>
+        <h1 className={classes.heading}>{greeter.mainLine}</h1>
+        <div className={classes.typedWrap}>
+          <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
+        </div>
+        <MainButtons data={data} ghButtons={ghButtons} />
+      </section>
+    </>
   );
 };
 

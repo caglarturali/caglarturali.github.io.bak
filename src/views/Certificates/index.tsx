@@ -5,16 +5,14 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import clsx from 'clsx';
 import Container from '../../components/Container';
-import { Certificate, Linkable, Page } from '../../models';
+import { Certificate, Linkable, BaseProps } from '../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface CertificatesProps {
-  data: Page<Certificate<Linkable>>;
-}
+export type CertificatesProps = BaseProps<Certificate<Linkable>>;
 
-const Certificates: React.FC<CertificatesProps> = ({ data }) => {
+const Certificates: React.FC<CertificatesProps> = ({ data, fileName }) => {
   const classes = useStyles();
 
   const listSubItems = (subItems: Linkable[]): React.ReactNode => (
@@ -57,7 +55,11 @@ const Certificates: React.FC<CertificatesProps> = ({ data }) => {
   };
 
   return (
-    <Container title={data.name} subtitle={data.desc}>
+    <Container
+      title={data.name}
+      subtitle={data.desc}
+      seo={{ title: fileName, description: data.desc }}
+    >
       <ul>
         {data.content.map(({ name, url, totalCourses, earned }) => (
           <div key={`${name}-div`}>

@@ -23,6 +23,7 @@ devDependencies:
   '@types/reach__router': 1.3.5
   '@types/react': 16.9.34
   '@types/react-dom': 16.9.7
+  '@types/react-helmet': 5.0.15
   '@typescript-eslint/eslint-plugin': 2.30.0_696401c5c7047c2332f703e0635826dc
   '@typescript-eslint/parser': 2.30.0_eslint@6.8.0+typescript@3.8.3
   eslint: 6.8.0
@@ -1778,6 +1779,12 @@ packages:
     dev: true
     resolution:
       integrity: sha512-GHTYhM8/OwUCf254WO5xqR/aqD3gC9kSTLpopWGpQLpnw23jk44RvMHsyUSEplvRJZdHxhJGMMLF0kCPYHPhQA==
+  /@types/react-helmet/5.0.15:
+    dependencies:
+      '@types/react': 16.9.34
+    dev: true
+    resolution:
+      integrity: sha512-CCjqvecDJTXRrHG8aTc2YECcQCl26za/q+NaBRvy/wtm0Uh38koM2dpv2bG1xJV4ckz3t1lm2/5KU6nt2s9BWg==
   /@types/react/16.9.34:
     dependencies:
       '@types/prop-types': 15.7.3
@@ -11982,6 +11989,7 @@ specifiers:
   '@types/reach__router': ^1.3.5
   '@types/react': ^16.9.34
   '@types/react-dom': ^16.9.7
+  '@types/react-helmet': ^5.0.15
   '@typescript-eslint/eslint-plugin': ^2.30.0
   '@typescript-eslint/parser': ^2.30.0
   clsx: ^1.1.0

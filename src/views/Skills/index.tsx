@@ -4,20 +4,21 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import Container from '../../components/Container';
-import { Page, Skill } from '../../models';
+import { Skill, BaseProps } from '../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface SkillsProps {
-  data: Page<Skill>;
-}
+export type SkillsProps = BaseProps<Skill>;
 
-const Skills: React.FC<SkillsProps> = ({ data }) => {
+const Skills: React.FC<SkillsProps> = ({ data, fileName }) => {
   const classes = useStyles();
 
   return (
-    <Container title={data.name}>
+    <Container
+      title={data.name}
+      seo={{ title: fileName, description: data.desc }}
+    >
       {data.content.map(({ title, items }) => (
         <div key={title}>
           <h3 className={classes.subSectionTitle}>{title}</h3>
