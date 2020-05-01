@@ -1,10 +1,10 @@
 import { NavLink } from '../models';
-import Greeter from '../components/Greeter';
-import Skills from '../components/Skills';
-import Education from '../components/Education';
-import Projects from '../components/Projects';
-import Certificates from '../components/Certificates';
-import Contact from '../components/Contact';
+import Greeter from '../views/Greeter';
+import Skills from '../views/Skills';
+import Education from '../views/Education';
+import Projects from '../views/Projects';
+import Certificates from '../views/Certificates';
+import Contact from '../views/Contact';
 import { certificates, contact, education, greeter, projects, skills } from '.';
 
 export const files: NavLink[] = [

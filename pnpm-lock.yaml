@@ -9,6 +9,7 @@ dependencies:
   normalize.css: 8.0.1
   react: 16.13.1
   react-dom: 16.13.1_react@16.13.1
+  react-helmet: 6.0.0_react@16.13.1
   react-jss: 10.1.1_react@16.13.1
   react-scripts: 3.4.1_typescript@3.8.3
   typed.js: 2.0.11
@@ -9510,6 +9511,22 @@ packages:
     dev: false
     resolution:
       integrity: sha512-TAv1KJFh3RhqxNvhzxj6LeT5NWklP6rDr2a0jaTfsZ5wSZWHOGeqQyejUp3xxLfPt2UpyJEcVQB/zyPcmonNFA==
+  /react-fast-compare/2.0.4:
+    dev: false
+    resolution:
+      integrity: sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
+  /react-helmet/6.0.0_react@16.13.1:
+    dependencies:
+      object-assign: 4.1.1
+      prop-types: 15.7.2
+      react: 16.13.1
+      react-fast-compare: 2.0.4
+      react-side-effect: 2.1.0_react@16.13.1
+    dev: false
+    peerDependencies:
+      react: '>=16.3.0'
+    resolution:
+      integrity: sha512-My6S4sa0uHN/IuVUn0HFmasW5xj9clTkB9qmMngscVycQ5vVG51Qp44BEvLJ4lixupTwDlU9qX1/sCrMN4AEPg==
   /react-is/16.13.1:
     resolution:
       integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
@@ -9604,6 +9621,14 @@ packages:
         optional: true
     resolution:
       integrity: sha512-JpTdi/0Sfd31mZA6Ukx+lq5j1JoKItX7qqEK4OiACjVQletM1P38g49d9/D0yTxp9FrSF+xpJFStkGgKEIRjlQ==
+  /react-side-effect/2.1.0_react@16.13.1:
+    dependencies:
+      react: 16.13.1
+    dev: false
+    peerDependencies:
+      react: ^16.3.0
+    resolution:
+      integrity: sha512-IgmcegOSi5SNX+2Snh1vqmF0Vg/CbkycU9XZbOHJlZ6kMzTmi3yc254oB1WCkgA7OQtIAoLmcSFuHTc/tlcqXg==
   /react/16.13.1:
     dependencies:
       loose-envify: 1.4.0
@@ -11971,6 +11996,7 @@ specifiers:
   prettier: ^2.0.5
   react: ^16.13.1
   react-dom: ^16.13.1
+  react-helmet: ^6.0.0
   react-jss: ^10.1.1
   react-scripts: 3.4.1
   typed.js: ^2.0.11

@@ -31,6 +31,7 @@
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0",
     "react-jss": "^10.1.1",
     "react-scripts": "3.4.1",
     "typed.js": "^2.0.11"

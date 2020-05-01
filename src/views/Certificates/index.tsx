@@ -4,7 +4,7 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import clsx from 'clsx';
-import Container from '../Container';
+import Container from '../../components/Container';
 import { Certificate, Linkable, Page } from '../../models';
 import styles from './styles';
 

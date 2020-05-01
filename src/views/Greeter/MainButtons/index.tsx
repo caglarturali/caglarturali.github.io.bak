@@ -3,8 +3,8 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
-import ButtonLink from '../../ButtonLink';
-import GHButton, { GHButtonProps } from '../../GHButton';
+import ButtonLink from '../../../components/ButtonLink';
+import GHButton, { GHButtonProps } from '../../../components/GHButton';
 import { ContactItem, Page } from '../../../models';
 import styles from './styles';
 

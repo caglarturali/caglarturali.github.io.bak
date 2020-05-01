@@ -5,7 +5,7 @@ import React, { useEffect } from 'react';
 import Typed from 'typed.js';
 import { createUseStyles } from 'react-jss';
 import MainButtons from './MainButtons';
-import { GHButtonProps } from '../GHButton';
+import { GHButtonProps } from '../../components/GHButton';
 import { getGHCredentials } from '../../utils';
 import { Greeting, Page, ContactItem } from '../../models';
 import styles from './styles';

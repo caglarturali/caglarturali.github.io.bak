@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
-import Container from '../Container';
+import Container from '../../components/Container';
 import { Page, Project } from '../../models';
 import styles from './styles';
 
