@@ -1,5 +1,6 @@
 export * from './Certificate';
 export * from './ContactItem';
+export * from './Greeting';
 export * from './Linkable';
 export * from './NavLink';
 export * from './Page';

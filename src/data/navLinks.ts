@@ -1,4 +1,7 @@
+import React from 'react';
 import { NavLink } from '../models';
+import Certificates from '../components/Certificates';
+import { certificates } from './';
 
 export const navLinks: NavLink[] = [
   {
@@ -30,6 +33,7 @@ export const navLinks: NavLink[] = [
     color: '#e13e76',
     url: '/certifications',
     name: 'certifications.sass',
+    component: React.createElement(Certificates, { data: certificates }),
   },
   {
     icon: ['fab', 'markdown'],
