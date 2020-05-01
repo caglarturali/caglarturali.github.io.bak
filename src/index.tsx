@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'normalize.css';
+import './theme/icons';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
