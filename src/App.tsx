@@ -1,7 +1,7 @@
 import React from 'react';
 import { Router, RouteComponentProps } from '@reach/router';
 import MainLayout from './layouts/Main';
-import { navLinks } from './data';
+import { files } from './data/_files';
 
 const getRoute = (
   Comp: React.ReactType,
@@ -14,7 +14,7 @@ const getRoute = (
 const Routes: React.FC = () => (
   <MainLayout>
     <Router>
-      {navLinks.map(({ component, data, url }, i) =>
+      {files.map(({ route: { component, data }, url }, i) =>
         getRoute(component, data, i)({ path: url }),
       )}
     </Router>

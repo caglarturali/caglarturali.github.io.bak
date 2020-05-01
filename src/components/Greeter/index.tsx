@@ -7,9 +7,9 @@ import { createUseStyles } from 'react-jss';
 import MainButtons from './MainButtons';
 import { GHButtonProps } from '../GHButton';
 import { getGHCredentials } from '../../utils';
+import { Greeting, Page, ContactItem } from '../../models';
 import styles from './styles';
 import pkg from '../../../package.json';
-import { Greeting, Page, ContactItem } from '../../models';
 
 const useStyles = createUseStyles(styles);
 

@@ -4,8 +4,8 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import NavBar from './NavBar';
+import { files } from '../../../../data/_files';
 import styles from './styles';
-import { navLinks } from '../../../../data/navLinks';
 
 const useStyles = createUseStyles(styles);
 
@@ -14,7 +14,7 @@ const Header: React.FC = () => {
 
   return (
     <header className={classes.root}>
-      <NavBar items={navLinks} />
+      <NavBar items={files} />
     </header>
   );
 };

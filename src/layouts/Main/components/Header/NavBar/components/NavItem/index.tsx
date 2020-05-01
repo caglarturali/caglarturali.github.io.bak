@@ -16,8 +16,7 @@ const NavItem: React.FC<NavItemProps> = ({ name, url, ...iconProps }) => {
   const classes = useStyles();
 
   // Not needed here!
-  delete iconProps.component;
-  delete iconProps.data;
+  delete iconProps.route;
 
   return (
     <span className={classes.root}>

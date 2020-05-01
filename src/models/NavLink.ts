@@ -6,6 +6,8 @@ export interface NavLink extends Linkable {
   icon: IconProp;
   size?: SizeProp;
   color: string;
-  component: React.ReactType;
-  data: any;
+  route: {
+    component: React.ReactType;
+    data: any;
+  };
 }
