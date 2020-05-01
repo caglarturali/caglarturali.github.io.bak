@@ -2,7 +2,6 @@
  * NavBar component.
  */
 import React from 'react';
-import { FontAwesomeIconProps } from '@fortawesome/react-fontawesome';
 import { createUseStyles } from 'react-jss';
 import NavItem, { NavItemProps } from './components/NavItem';
 import styles from './styles';
@@ -10,7 +9,7 @@ import styles from './styles';
 const useStyles = createUseStyles(styles);
 
 export interface NavbarProps {
-  items: (NavItemProps & FontAwesomeIconProps)[];
+  items: NavItemProps[];
 }
 
 const Navbar: React.FC<NavbarProps> = ({ items }) => {

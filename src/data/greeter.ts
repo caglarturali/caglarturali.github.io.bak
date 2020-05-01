@@ -5,7 +5,8 @@ export const greeter: Greeting = {
   typed: [
     "I'm a Developer.",
     "I'm a <strong>JavaScript</strong> Developer.",
+    "I'm a <strong>TypeScript</strong> Enthusiast.",
     'You know where this goes..',
-    "..I'm a <strong>Full-Stack JavaScript</strong> Developer. :)",
+    "..I'm a <strong>Full-Stack Web</strong> Developer. :)",
   ],
 };

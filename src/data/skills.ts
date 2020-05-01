@@ -6,7 +6,7 @@ export const skills: Page<Skill> = {
     {
       title: 'Technical skills',
       items: [
-        'Web Development',
+        'Web Development (End-to-End)',
         'Responsive Design',
         'Mobile Development (Hybrid/Native)',
         'Game Development (Unity 3D)',
