@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "VS Code/Atom One Dark inspired developer portfolio app.",
   "private": true,
-  "homepage": "https://turali.js.org/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caglarturali/caglarturali.github.io"
+  },
+  "homepage": "https://turali.js.org",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -11,7 +15,9 @@
     "eject": "react-scripts eject",
     "lint": "eslint \"*/**/*.{js,ts,tsx}\"",
     "lint:ci": "npm run lint -- --quiet",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.github.io.git"
   },
   "husky": {
     "hooks": {
@@ -54,14 +60,11 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-react": "^7.19.0",
+    "gh-pages": "^2.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.1",
     "prettier": "^2.0.5",
     "typescript": "^3.7.5"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
   },
   "browserslist": {
     "production": [
