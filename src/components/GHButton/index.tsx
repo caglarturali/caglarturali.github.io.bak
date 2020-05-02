@@ -45,7 +45,7 @@ const GHButton: React.FC<GHButtonProps> = ({
     if (attrCount === null || Date.now() > lastCheck + TIMEOUT) {
       fetchApi();
     }
-  }, [lastCheck]);
+  });
 
   return (
     <ButtonLink

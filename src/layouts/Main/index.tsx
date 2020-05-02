@@ -11,6 +11,7 @@ import styles from './styles';
 const useStyles = createUseStyles(styles);
 
 const MainLayout: React.FC = ({ children }) => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const classes = useStyles();
 
   return (
