@@ -1,11 +1,9 @@
 language: node_js
 node_js:
   - 'node'
-before_script:
-  - npm install -g pnpm
 deploy:
   provider: script
-  script: pnpm install && pnpm run deploy
+  script: npm install && npm run deploy
   skip_cleanup: true
   on:
     branch: master
