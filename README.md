@@ -17,7 +17,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repo:
 
   ```bash
-  git clone https://github.com/caglarturali/caglarturali.github.io.git portfolio-app
+  git clone https://github.com/caglarturali/caglarturali.git portfolio-app
   cd portfolio-app
   ```
 
@@ -45,7 +45,7 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 
 - It's not required but I'd appreciate if you credit me. :innocent:
 
-**Note:** If you'd like to use more Font Awesome icons than already in use, you need to import them in [Main.js](src/components/Main.js#L7), as stated [here](https://github.com/FortAwesome/react-fontawesome#build-a-library-to-reference-icons-throughout-your-app-more-conveniently).
+**Note:** If you'd like to use more Font Awesome icons than already in use, you first need to import them in [icons.ts](src/theme/icons.ts#L3), as stated [here](https://github.com/FortAwesome/react-fontawesome#build-a-library-to-reference-icons-throughout-your-app-more-conveniently).
 
 #### Credits
 
