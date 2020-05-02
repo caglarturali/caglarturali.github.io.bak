@@ -1,6 +1,6 @@
 {
   "name": "developer-portfolio-app",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "VS Code/Atom One Dark inspired developer portfolio app.",
   "private": true,
   "repository": {
@@ -17,7 +17,7 @@
     "lint": "eslint \"*/**/*.{js,ts,tsx}\"",
     "lint:ci": "npm run lint -- --quiet",
     "lint:fix": "npm run lint -- --fix",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && cp build/index.html build/404.html",
     "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.git"
   },
   "husky": {
