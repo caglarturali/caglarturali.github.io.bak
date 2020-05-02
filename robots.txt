@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://turali.js.org/sitemap.xml
