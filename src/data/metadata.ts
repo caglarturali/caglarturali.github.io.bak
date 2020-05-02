@@ -43,7 +43,7 @@ export const metadata: (HTMLMetaElement | any)[] = [
   },
   {
     property: `og:image`,
-    content: 'https://turali.js.org/public/images/meta-img.png',
+    content: 'https://turali.js.org/images/logo512.png',
   },
   {
     property: `og:image:width`,
@@ -71,7 +71,7 @@ export const metadata: (HTMLMetaElement | any)[] = [
   },
   {
     name: `twitter:image`,
-    content: 'https://turali.js.org/public/images/meta-img.png',
+    content: 'https://turali.js.org/images/logo512.png',
   },
   {
     name: `google-site-verification`,
