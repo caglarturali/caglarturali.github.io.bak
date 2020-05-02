@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/caglarturali/caglarturali.github.io"
+    "url": "https://github.com/caglarturali/caglarturali"
   },
   "homepage": "https://turali.js.org",
   "scripts": {
@@ -17,7 +17,7 @@
     "lint:ci": "npm run lint -- --quiet",
     "lint:fix": "npm run lint -- --fix",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.github.io.git"
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.git"
   },
   "husky": {
     "hooks": {
