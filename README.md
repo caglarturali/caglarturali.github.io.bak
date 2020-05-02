@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/caglarturali/caglarturali.github.io.svg?branch=master)](https://travis-ci.org/caglarturali/caglarturali.github.io)
+[![Build Status](https://travis-ci.com/caglarturali/caglarturali.svg?branch=master)](https://travis-ci.com/caglarturali/caglarturali)
 
 ## What's this?
 
