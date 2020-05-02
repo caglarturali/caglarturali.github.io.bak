@@ -8,6 +8,7 @@
     "url": "https://github.com/caglarturali/caglarturali"
   },
   "homepage": "https://turali.js.org",
+  "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
