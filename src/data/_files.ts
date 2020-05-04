@@ -6,11 +6,19 @@ import Projects from '../views/Projects';
 import Certificates from '../views/Certificates';
 import Contact from '../views/Contact';
 import { certificates, contact, education, projects, skills } from '.';
+import {
+  darkOrange,
+  jsOrange,
+  midBlue,
+  green,
+  pink,
+  textLightBlue,
+} from '../theme/colors';
 
 export const files: NavLink[] = [
   {
     icon: ['fab', 'html5'],
-    color: '#e44d26',
+    color: darkOrange,
     url: '/',
     name: 'index.html',
     route: {
@@ -20,7 +28,7 @@ export const files: NavLink[] = [
   },
   {
     icon: ['fab', 'js'],
-    color: '#ffca28',
+    color: jsOrange,
     url: '/skills',
     name: 'skills.js',
     route: {
@@ -30,7 +38,7 @@ export const files: NavLink[] = [
   },
   {
     icon: 'university',
-    color: '#42a5f5',
+    color: midBlue,
     url: '/education',
     name: '.educationrc',
     route: {
@@ -40,7 +48,7 @@ export const files: NavLink[] = [
   },
   {
     icon: 'sliders-h',
-    color: '#98c379',
+    color: green,
     url: '/projects',
     name: 'projects.config',
     route: {
@@ -50,7 +58,7 @@ export const files: NavLink[] = [
   },
   {
     icon: ['fab', 'sass'],
-    color: '#e13e76',
+    color: pink,
     url: '/certifications',
     name: 'certifications.sass',
     route: {
@@ -60,7 +68,7 @@ export const files: NavLink[] = [
   },
   {
     icon: ['fab', 'markdown'],
-    color: '#abb2bf',
+    color: textLightBlue,
     url: '/contact',
     name: 'contact.md',
     route: {
