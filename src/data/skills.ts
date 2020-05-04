@@ -26,8 +26,9 @@ export const skills: Page<Skill> = {
         'MySQL',
         'Docker',
         'Golang (newcomer)',
-        'C#/.NET (3+ years)',
         'Java (~1 year)',
+        'C#/.NET (3+ years)',
+        'PHP (~3 years)',
       ],
     },
     {
