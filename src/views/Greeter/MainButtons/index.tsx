@@ -18,7 +18,7 @@ export interface MainButtonsProps {
 const MainButtons: React.FC<MainButtonsProps> = ({ data, ghButtons }) => {
   const classes = useStyles();
 
-  const [mainContact] = data.content.filter(({ isMain }) => isMain);
+  const [mainContact] = data.content.filter(({ isMain }) => !!isMain);
 
   return (
     <div className={classes.root}>

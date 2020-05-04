@@ -14,19 +14,21 @@ export const contact: Page<ContactItem> = {
       name: 'GitHub',
       url: 'https://github.com/caglarturali',
       icon: ['fab', 'github'],
-      isMain: false,
     },
     {
       name: 'LinkedIn',
       url: 'https://linkedin.com/in/caglarturali',
       icon: ['fab', 'linkedin'],
-      isMain: false,
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/caglarturali/',
       icon: ['fab', 'instagram'],
-      isMain: false,
+    },
+    {
+      name: 'goodreads',
+      url: 'https://www.goodreads.com/caglarturali',
+      icon: ['fab', 'goodreads'],
     },
   ],
 };

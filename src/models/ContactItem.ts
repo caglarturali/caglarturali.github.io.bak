@@ -3,5 +3,5 @@ import { Linkable } from './Linkable';
 
 export interface ContactItem extends Linkable {
   icon: IconProp;
-  isMain: boolean;
+  isMain?: boolean;
 }
