@@ -44,11 +44,15 @@ export default {
     margin: '5px',
     padding: '0',
     userSelect: 'none',
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
-      fontSize: mlSize,
+    '& a': {
+      textDecoration: 'none',
+      borderBottom: `1px dashed ${textDark}`,
     },
     '& strong': {
       fontWeight: '500',
+    },
+    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+      fontSize: mlSize,
     },
   },
   '.typed-cursor': {
