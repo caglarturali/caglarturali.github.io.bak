@@ -59,8 +59,8 @@ export const files: NavLink[] = [
   {
     icon: ['fab', 'sass'],
     color: pink,
-    url: '/certifications',
-    name: 'certifications.sass',
+    url: '/certificate',
+    name: 'certificate.sass',
     route: {
       component: Certificates,
       data: certificates,
