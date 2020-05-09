@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Container /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root-0-2-1"
+  >
+    <h2
+      class="title-0-2-2"
+    >
+      Test Title
+    </h2>
+    <h3
+      class="subtitle-0-2-3"
+    >
+      Test Subtitle
+    </h3>
+    <div
+      class="content-0-2-4"
+    />
+  </div>
+</DocumentFragment>
+`;

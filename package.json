@@ -13,6 +13,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
+    "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject",
     "lint": "eslint \"*/**/*.{js,ts,tsx}\"",
     "lint:ci": "npm run lint -- --quiet",

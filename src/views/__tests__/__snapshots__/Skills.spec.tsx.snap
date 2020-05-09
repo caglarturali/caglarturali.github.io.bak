@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Skills /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root-0-2-2"
+  >
+    <h2
+      class="title-0-2-3"
+    >
+      skills
+    </h2>
+    <h3
+      class="subtitle-0-2-4"
+    />
+    <div
+      class="content-0-2-5"
+    >
+      <div>
+        <h3
+          class="subSectionTitle-0-2-1"
+        >
+          Technical skills
+        </h3>
+        <ul>
+          <li>
+            <span>
+              Web Development (End-to-End)
+            </span>
+          </li>
+          <li>
+            <span>
+              Responsive Design
+            </span>
+          </li>
+          <li>
+            <span>
+              Mobile Development (Hybrid/Native)
+            </span>
+          </li>
+          <li>
+            <span>
+              Game Development (Unity 3D)
+            </span>
+          </li>
+          <li>
+            <span>
+              VR Development (Unity 3D)
+            </span>
+          </li>
+          <li>
+            <span>
+              3D Modelling / Animation
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3
+          class="subSectionTitle-0-2-1"
+        >
+          Programming languages / tech stacks
+        </h3>
+        <ul>
+          <li>
+            <span>
+              JavaScript/TypeScript
+            </span>
+          </li>
+          <li>
+            <span>
+              React/React Native
+            </span>
+          </li>
+          <li>
+            <span>
+              Node.js
+            </span>
+          </li>
+          <li>
+            <span>
+              Express.js
+            </span>
+          </li>
+          <li>
+            <span>
+              HTML & CSS
+            </span>
+          </li>
+          <li>
+            <span>
+              MongoDB
+            </span>
+          </li>
+          <li>
+            <span>
+              MySQL
+            </span>
+          </li>
+          <li>
+            <span>
+              Docker
+            </span>
+          </li>
+          <li>
+            <span>
+              Golang (newcomer)
+            </span>
+          </li>
+          <li>
+            <span>
+              Java (~1 year)
+            </span>
+          </li>
+          <li>
+            <span>
+              C#/.NET (3+ years)
+            </span>
+          </li>
+          <li>
+            <span>
+              PHP (~3 years)
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3
+          class="subSectionTitle-0-2-1"
+        >
+          Preferences
+        </h3>
+        <ul>
+          <li>
+            <span>
+              elementary OS 🐧
+            </span>
+          </li>
+          <li>
+            <span>
+              Zshell 💻
+            </span>
+          </li>
+          <li>
+            <span>
+              VSCode ¯\\_(ツ)_/¯
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3
+          class="subSectionTitle-0-2-1"
+        >
+          Special interests
+        </h3>
+        <ul>
+          <li>
+            <span>
+              Electronic music production
+            </span>
+          </li>
+          <li>
+            <span>
+              Entrepreneurship
+            </span>
+          </li>
+          <li>
+            <span>
+              Technical documentaries
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

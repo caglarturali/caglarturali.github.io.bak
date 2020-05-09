@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Certificates /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root-0-2-9"
+  >
+    <h2
+      class="title-0-2-10"
+    >
+      certifications
+    </h2>
+    <h3
+      class="subtitle-0-2-11"
+    >
+      Certificates that I have earned over time
+    </h3>
+    <div
+      class="content-0-2-12"
+    >
+      <ul>
+        <div>
+          <li
+            class="entry-0-2-1"
+          >
+            <div
+              class="name-0-2-2"
+            >
+              <a
+                aria-label="Full-Stack Web Development with React Specialization Link"
+                href="https://www.coursera.org/account/accomplishments/specialization/certificate/XGPU5C68VAEE"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Full-Stack Web Development with React Specialization
+                <span
+                  class="progress-0-2-5 progressHigh-0-2-6"
+                >
+                  100%
+                </span>
+              </a>
+              <ul
+                class="subsection-0-2-3"
+              >
+                <li>
+                  <a
+                    aria-label="Front-End Web UI Frameworks and Tools: Bootstrap 4 Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/TQ2HAVM6JJ73"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Front-End Web UI Frameworks and Tools: Bootstrap 4
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="Front-End Web Development with React Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/QJPWRV28SCV3"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Front-End Web Development with React
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="Multiplatform Mobile App Development with React Native Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/GNX5WEXJWSGY"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Multiplatform Mobile App Development with React Native
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="Server-Side Development with NodeJS, Express and MongoDB Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/XGMAYMHEXDZW"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Server-Side Development with NodeJS, Express and MongoDB
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </div>
+        <div>
+          <li
+            class="entry-0-2-1"
+          >
+            <div
+              class="name-0-2-2"
+            >
+              <a
+                aria-label="freeCodeCamp | The Full Stack Development Certificate Link"
+                href="https://guide.freecodecamp.org/certifications/"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                freeCodeCamp | The Full Stack Development Certificate
+                <span
+                  class="progress-0-2-5 progressLow-0-2-8"
+                >
+                  33%
+                </span>
+              </a>
+              <ul
+                class="subsection-0-2-3"
+              >
+                <li>
+                  <a
+                    aria-label="Responsive Web Design Certification Link"
+                    href="https://www.freecodecamp.org/certification/caglarturali/responsive-web-design"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Responsive Web Design Certification
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="JavaScript Algorithms and Data Structures Certification Link"
+                    href="https://www.freecodecamp.org/certification/caglarturali/javascript-algorithms-and-data-structures"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    JavaScript Algorithms and Data Structures Certification
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </div>
+        <div>
+          <li
+            class="entry-0-2-1"
+          >
+            <div
+              class="name-0-2-2"
+            >
+              <a
+                aria-label="Game Design and Development Specialization Link"
+                href="https://www.coursera.org/specializations/game-development"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Game Design and Development Specialization
+                <span
+                  class="progress-0-2-5 progressLow-0-2-8"
+                >
+                  20%
+                </span>
+              </a>
+              <ul
+                class="subsection-0-2-3"
+              >
+                <li>
+                  <a
+                    aria-label="Introduction to Game Development Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/GKDBNAGKPD6M"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Introduction to Game Development
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </div>
+        <div>
+          <li
+            class="entry-0-2-1"
+          >
+            <div
+              class="name-0-2-2"
+            >
+              <a
+                aria-label="Virtual Reality Specialization Link"
+                href="https://www.coursera.org/specializations/virtual-reality"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Virtual Reality Specialization
+                <span
+                  class="progress-0-2-5 progressLow-0-2-8"
+                >
+                  40%
+                </span>
+              </a>
+              <ul
+                class="subsection-0-2-3"
+              >
+                <li>
+                  <a
+                    aria-label="Introduction to Virtual Reality Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/UC3L666SD5TG"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Introduction to Virtual Reality
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="3D Models for Virtual Reality Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/4YHK3LYWMJPV"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    3D Models for Virtual Reality
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </div>
+        <div>
+          <li
+            class="entry-0-2-1"
+          >
+            <div
+              class="name-0-2-2"
+            >
+              <a
+                aria-label="Music Production Specialization Link"
+                href="https://www.coursera.org/specializations/music-production"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Music Production Specialization
+                <span
+                  class="progress-0-2-5 progressHigh-0-2-6"
+                >
+                  75%
+                </span>
+              </a>
+              <ul
+                class="subsection-0-2-3"
+              >
+                <li>
+                  <a
+                    aria-label="The Art of Music Production Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/DNVYLQQL3WVF"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    The Art of Music Production
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="The Technology of Music Production Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/VZDUNEC24XER"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    The Technology of Music Production
+                  </a>
+                </li>
+                <li>
+                  <a
+                    aria-label="Pro Tools Basics Link"
+                    href="https://www.coursera.org/account/accomplishments/certificate/YW4QY26UHC5F"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Pro Tools Basics
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </div>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

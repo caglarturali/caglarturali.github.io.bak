@@ -1,0 +1,258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Projects /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root-0-2-6"
+  >
+    <h2
+      class="title-0-2-7"
+    >
+      projects
+    </h2>
+    <h3
+      class="subtitle-0-2-8"
+    >
+      Some of the projects I've worked on so far
+    </h3>
+    <div
+      class="content-0-2-9"
+    >
+      <ul>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://getkernel.now.sh/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                GetKernel
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                The kernel store for Ubuntu derivatives.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                NextJS
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://turali.js.org/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                turali.js.org
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                The web app you are currently looking at.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                React, TypeScript
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://turali.js.org/girizgah/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                Girizgah
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                LightDM Webkit theme for Pardus Linux.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                React
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://deepintr.org/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                deepintr.org
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                Landing page for an online community.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                GatsbyJS, React, TypeScript
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://github.com/caglarturali/WatcherCatBot/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                WatcherCatBot
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                A Telegram bot that returns popularity info of the given Linux distribution.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                Node.js, Express.js
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://play.google.com/store/apps/details?id=com.astroloci.app"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                Astroloci
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                A horoscope application for Android.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                Native Android App, Express.js REST API
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://play.google.com/store/apps/details?id=com.caglarturali.bilenadam"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                Bilen Adam
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                Lottery machine for Turkey's national lottery games.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                Unity 3D
+              </div>
+            </a>
+          </li>
+        </div>
+        <div
+          class="container__list"
+        >
+          <li
+            class="entry-0-2-1"
+          >
+            <a
+              href="https://play.google.com/store/apps/details?id=com.caglarturali.the2o48"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <div
+                class="name-0-2-2"
+              >
+                2●48
+              </div>
+              <div
+                class="description-0-2-3"
+              >
+                A clone of the popular puzzle game 2048, with unlimited levels.
+              </div>
+              <div
+                class="tech-0-2-4"
+              >
+                Unity 3D
+              </div>
+            </a>
+          </li>
+        </div>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;
