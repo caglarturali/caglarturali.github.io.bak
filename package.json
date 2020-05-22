@@ -48,27 +48,27 @@
     "typed.js": "^2.0.11"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.7.0",
+    "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^10.0.4",
-    "@testing-library/user-event": "^10.1.2",
+    "@testing-library/user-event": "^10.3.4",
     "@types/color": "^3.0.1",
-    "@types/jest": "^25.2.1",
-    "@types/node": "^13.13.5",
+    "@types/jest": "^25.2.3",
+    "@types/node": "^13.13.9",
     "@types/reach__router": "^1.3.5",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
-    "@types/react-helmet": "^5.0.15",
-    "@typescript-eslint/eslint-plugin": "^2.32.0",
-    "@typescript-eslint/parser": "^2.32.0",
+    "@types/react-helmet": "^5.0.16",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
     "eslint": "6.8.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.3",
-    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react": "^7.20.0",
     "gh-pages": "^2.2.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.2",
+    "lint-staged": "^10.2.6",
     "prettier": "^2.0.5",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.3"
   },
   "browserslist": {
     "production": [
