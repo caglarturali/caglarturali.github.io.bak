@@ -4462,7 +4462,7 @@ packages:
       minimatch: 3.0.4
       object.values: 1.1.1
       read-pkg-up: 2.0.0
-      resolve: 1.17.0
+      resolve: 1.15.0
     dev: false
     engines:
       node: '>=4'
