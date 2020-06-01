@@ -66,7 +66,7 @@
     "eslint-plugin-react": "^7.20.0",
     "gh-pages": "^2.2.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.6",
+    "lint-staged": "^10.2.7",
     "prettier": "^2.0.5",
     "typescript": "^3.9.3"
   },
