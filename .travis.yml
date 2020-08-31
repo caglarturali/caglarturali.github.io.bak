@@ -1,9 +1,16 @@
 language: node_js
 node_js:
   - 'node'
+cache:
+  npm: false
+  directories:
+    - '~/.pnpm-store'
+before_install:
+  - curl -L https://unpkg.com/@pnpm/self-installer | node
+  - pnpm config set store-dir ~/.pnpm-store
 deploy:
   provider: script
-  script: npm install && npm run deploy
+  script: pnpm install && pnpm run deploy
   skip_cleanup: true
   on:
     branch: master
