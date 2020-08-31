@@ -8,9 +8,11 @@ cache:
 before_install:
   - curl -L https://unpkg.com/@pnpm/self-installer | node
   - pnpm config set store-dir ~/.pnpm-store
+install:
+  - pnpm install
 deploy:
   provider: script
-  script: pnpm install && pnpm run deploy
+  script: pnpm run deploy
   skip_cleanup: true
   on:
     branch: master
