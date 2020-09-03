@@ -4,7 +4,7 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import NavBar from './NavBar';
-import { files } from '../../../../data/_files';
+import { files } from '../../../../data/tabs';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);

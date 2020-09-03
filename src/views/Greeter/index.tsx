@@ -9,15 +9,17 @@ import { GHButtonProps } from '../../components/GHButton';
 import SEO from '../../components/SEO';
 import { getGHCredentials } from '../../utils';
 import { ContactItem, BaseProps } from '../../models';
-import { greeter } from '../../data';
 import styles from './styles';
+
+import greeter from '../../data/greeter.json';
+import contact from '../../data/contact.json';
 import pkg from '../../../package.json';
 
 const useStyles = createUseStyles(styles);
 
 export type GreeterProps = BaseProps<ContactItem>;
 
-const Greeter: React.FC<GreeterProps> = ({ data, fileName }) => {
+const Greeter: React.FC<GreeterProps> = ({ fileName }) => {
   const classes = useStyles();
 
   useEffect(() => {
@@ -67,6 +69,8 @@ const Greeter: React.FC<GreeterProps> = ({ data, fileName }) => {
     },
   ];
 
+  const mainContact = contact.find((c) => c.isMain) as ContactItem;
+
   return (
     <>
       <SEO title={fileName} />
@@ -75,7 +79,7 @@ const Greeter: React.FC<GreeterProps> = ({ data, fileName }) => {
         <div className={classes.typedWrap}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
-        <MainButtons data={data} ghButtons={ghButtons} />
+        <MainButtons mainContact={mainContact} ghButtons={ghButtons} />
       </section>
     </>
   );

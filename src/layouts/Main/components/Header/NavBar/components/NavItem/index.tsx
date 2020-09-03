@@ -12,11 +12,13 @@ const useStyles = createUseStyles(styles);
 
 export type NavItemProps = NavLink;
 
-const NavItem: React.FC<NavItemProps> = ({ name, url, ...iconProps }) => {
+const NavItem: React.FC<NavItemProps> = ({
+  name,
+  url,
+  mdFileName,
+  ...iconProps
+}) => {
   const classes = useStyles();
-
-  // Not needed here!
-  delete iconProps.route;
 
   return (
     <span className={classes.root}>

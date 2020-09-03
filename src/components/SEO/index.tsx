@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { siteMetadata, metadata } from '../../data';
+import metadata from '../../data/metadata.json';
 
 export interface SEOProps {
   title: string;
@@ -15,7 +15,7 @@ const SEO: React.FC<SEOProps> = ({
   lang = 'en',
   meta = [],
 }) => {
-  const metaDescription = description || siteMetadata.description;
+  const metaDescription = description || metadata.description;
 
   return (
     <Helmet
@@ -23,9 +23,76 @@ const SEO: React.FC<SEOProps> = ({
         lang,
       }}
       title={title}
-      titleTemplate={`%s • ${siteMetadata.title}`}
+      titleTemplate={`%s • ${metadata.title}`}
       meta={[
-        ...metadata,
+        {
+          name: 'description',
+          content: metaDescription,
+        },
+        {
+          name: 'keywords',
+          content: metadata.keywords,
+        },
+        {
+          name: 'canonical',
+          content: metadata.homepage,
+        },
+        {
+          name: 'theme-color',
+          content: metadata.themeColor,
+        },
+        {
+          property: `og:title`,
+          content: metadata.title,
+        },
+        {
+          property: `og:description`,
+          content: metadata.description,
+        },
+        {
+          property: `og:type`,
+          content: `website`,
+        },
+        {
+          property: `og:url`,
+          content: metadata.homepage,
+        },
+        {
+          property: `og:image`,
+          content: metadata.image,
+        },
+        {
+          property: `og:image:width`,
+          content: '320',
+        },
+        {
+          property: `og:image:height`,
+          content: '320',
+        },
+        {
+          name: `twitter:card`,
+          content: `summary`,
+        },
+        {
+          name: `twitter:site`,
+          content: metadata.homepage,
+        },
+        {
+          name: `twitter:title`,
+          content: metadata.title,
+        },
+        {
+          name: `twitter:description`,
+          content: metadata.description,
+        },
+        {
+          name: `twitter:image`,
+          content: metadata.image,
+        },
+        {
+          name: `google-site-verification`,
+          content: metadata.verification.google,
+        },
         {
           name: 'description',
           content: metaDescription,

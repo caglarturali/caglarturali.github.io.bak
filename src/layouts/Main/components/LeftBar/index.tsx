@@ -4,8 +4,9 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { contact } from '../../../../data/contact';
+import contact from '../../../../data/contact.json';
 import styles from './styles';
+import { IconProp } from '@fortawesome/fontawesome-svg-core';
 
 const useStyles = createUseStyles(styles);
 
@@ -15,7 +16,7 @@ const LeftBar: React.FC = () => {
   return (
     <div className={classes.root}>
       <div>
-        {contact.content.map(({ name, url, icon }) => (
+        {contact.map(({ name, url, icon }) => (
           <a
             className={classes.item}
             key={`left-bar-${name}`}
@@ -25,7 +26,11 @@ const LeftBar: React.FC = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FontAwesomeIcon className={classes.icon} icon={icon} size="lg" />
+            <FontAwesomeIcon
+              className={classes.icon}
+              icon={icon as IconProp}
+              size="lg"
+            />
           </a>
         ))}
       </div>
