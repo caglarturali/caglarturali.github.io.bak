@@ -36,6 +36,7 @@ const NavItem: React.FC<TabSpec> = ({ name, url, ...iconProps }) => {
           className="closeButton"
           icon="times"
           size="1x"
+          title="Close"
         />
       </Link>
     </span>

@@ -2,7 +2,11 @@
  * NavItem component styles.
  */
 import { Styles } from 'react-jss';
-import { desktopBreakpoint } from '../../../../../../theme';
+import {
+  desktopBreakpoint,
+  textLightBlue,
+  textWhite,
+} from '../../../../../../theme';
 
 export default {
   root: {
@@ -18,9 +22,14 @@ export default {
   },
   currentTab: {
     '& .closeButton': {
-      marginLeft: '16px',
+      color: textLightBlue,
+      marginLeft: '8px',
+      paddingLeft: '8px',
       [`@media screen and (max-width: ${desktopBreakpoint})`]: {
-        marginLeft: '8px',
+        paddingLeft: '8px',
+      },
+      '&:hover': {
+        color: textWhite,
       },
     },
   },
