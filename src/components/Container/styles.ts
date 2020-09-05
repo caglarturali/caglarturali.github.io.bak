@@ -39,17 +39,12 @@ export default {
       fontSize: mSize,
     },
   },
-  subtitle: {
-    color: midBlue,
-    fontSize: mSize,
-    fontWeight: 500,
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
-      fontSize: mSize,
-    },
-  },
   content: {
     color: textLightBlue,
     fontSize: mSize,
+    '& h3': {
+      color: midBlue,
+    },
     '& ul': {
       [`@media screen and (max-width: ${desktopBreakpoint})`]: {
         paddingLeft: '20px',

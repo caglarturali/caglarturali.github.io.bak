@@ -10,16 +10,10 @@ const useStyles = createUseStyles(styles);
 
 export interface ContainerProps {
   title: string;
-  subtitle?: string;
   seo?: SEOProps;
 }
 
-const Container: React.FC<ContainerProps> = ({
-  title,
-  subtitle,
-  seo,
-  children,
-}) => {
+const Container: React.FC<ContainerProps> = ({ title, seo, children }) => {
   const classes = useStyles();
 
   return (
@@ -27,7 +21,6 @@ const Container: React.FC<ContainerProps> = ({
       {!!seo && <SEO {...seo} />}
       <div className={classes.root}>
         <h2 className={classes.title}>{title}</h2>
-        <h3 className={classes.subtitle}>{subtitle}</h3>
         <div className={classes.content}>{children}</div>
       </div>
     </>
