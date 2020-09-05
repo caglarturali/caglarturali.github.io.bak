@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import marked from 'marked';
+import ReactMarkdown from 'react-markdown';
 import Container from '../Container';
 
 export interface MDPageProps {
@@ -21,7 +21,7 @@ const MDPage: React.FC<MDPageProps> = ({ fileName }) => {
 
   return (
     <Container title={fileName} seo={{ title: fileName }}>
-      <div dangerouslySetInnerHTML={{ __html: marked(contents) }}></div>
+      <ReactMarkdown source={contents} />
     </Container>
   );
 };
