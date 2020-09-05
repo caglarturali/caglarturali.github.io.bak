@@ -3,6 +3,7 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
+import { Link } from '@reach/router';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import contact from '../../../../data/contact.json';
 import styles from './styles';
@@ -16,6 +17,17 @@ const LeftBar: React.FC = () => {
   return (
     <div className={classes.root}>
       <div>
+        {/* Home button */}
+        <Link
+          className={classes.item}
+          key="main-page"
+          to="/"
+          aria-label="Main page"
+          title="Main page"
+        >
+          <FontAwesomeIcon className={classes.icon} icon="home" size="lg" />
+        </Link>
+        {/* Contact buttons */}
         {contact.map(({ name, url, icon }) => (
           <a
             className={classes.item}
