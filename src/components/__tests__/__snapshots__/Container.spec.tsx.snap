@@ -10,13 +10,8 @@ exports[`<Container /> should render correctly 1`] = `
     >
       Test Title
     </h2>
-    <h3
-      class="subtitle-0-2-3"
-    >
-      Test Subtitle
-    </h3>
     <div
-      class="content-0-2-4"
+      class="content-0-2-3"
     />
   </div>
 </DocumentFragment>
