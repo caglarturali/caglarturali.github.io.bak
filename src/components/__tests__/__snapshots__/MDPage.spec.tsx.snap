@@ -15,9 +15,7 @@ exports[`<MDPage /> should render correctly 1`] = `
     />
     <div
       class="content-0-2-4"
-    >
-      <div />
-    </div>
+    />
   </div>
 </DocumentFragment>
 `;
