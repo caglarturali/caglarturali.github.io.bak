@@ -2,7 +2,7 @@
  * NavItem component styles.
  */
 import { Styles } from 'react-jss';
-import { desktopBreakpoint } from '../../../../../../../theme';
+import { desktopBreakpoint } from '../../../../../../theme';
 
 export default {
   root: {

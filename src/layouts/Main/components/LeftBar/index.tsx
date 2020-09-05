@@ -5,13 +5,17 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { Link } from '@reach/router';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import contact from '../../../../data/contact.json';
-import styles from './styles';
 import { IconProp } from '@fortawesome/fontawesome-svg-core';
+import { ContactItem } from '../../../../models';
+import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-const LeftBar: React.FC = () => {
+export interface LeftBarProps {
+  contactData: ContactItem[];
+}
+
+const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
   const classes = useStyles();
 
   return (
@@ -19,16 +23,16 @@ const LeftBar: React.FC = () => {
       <div>
         {/* Home button */}
         <Link
-          className={classes.item}
-          key="main-page"
           to="/"
-          aria-label="Main page"
-          title="Main page"
+          key="home-page"
+          className={classes.item}
+          aria-label="Home page"
+          title="Home page"
         >
           <FontAwesomeIcon className={classes.icon} icon="home" size="lg" />
         </Link>
         {/* Contact buttons */}
-        {contact.map(({ name, url, icon }) => (
+        {contactData.map(({ name, url, icon }) => (
           <a
             className={classes.item}
             key={`left-bar-${name}`}

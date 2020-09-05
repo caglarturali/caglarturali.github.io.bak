@@ -3,24 +3,21 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
-import NavItem, { NavItemProps } from './components/NavItem';
+import NavItem from './NavItem';
+import { TabProps } from '../../..';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface NavbarProps {
-  items: NavItemProps[];
-}
-
-const Navbar: React.FC<NavbarProps> = ({ items }) => {
+const Navbar: React.FC<TabProps> = ({ tabs }) => {
   const classes = useStyles();
 
   return (
     <nav className={classes.root}>
       <ul className={classes.list}>
-        {items.map((item) => (
-          <li className={classes.listItem} key={item.name}>
-            <NavItem {...item} />
+        {tabs.map((tab) => (
+          <li className={classes.listItem} key={tab.name}>
+            <NavItem {...tab} />
           </li>
         ))}
       </ul>
