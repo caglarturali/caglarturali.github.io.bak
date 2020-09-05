@@ -93,10 +93,6 @@ const SEO: React.FC<SEOProps> = ({
           name: `google-site-verification`,
           content: metadata.verification.google,
         },
-        {
-          name: 'description',
-          content: metaDescription,
-        },
       ].concat(meta)}
     />
   );

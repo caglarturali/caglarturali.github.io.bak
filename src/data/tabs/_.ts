@@ -1,7 +1,7 @@
-import { NavLink } from '../models';
-import { jsOrange, midBlue, green, pink, textLightBlue } from '../theme/colors';
+import { TabLink } from '../../models';
+import { jsOrange, midBlue, green, pink } from '../../theme/colors';
 
-export const files: NavLink[] = [
+export default [
   {
     icon: ['fab', 'js'],
     color: jsOrange,
@@ -30,11 +30,4 @@ export const files: NavLink[] = [
     name: 'certificates.sass',
     mdFileName: 'certificates',
   },
-  {
-    icon: ['fab', 'markdown'],
-    color: textLightBlue,
-    url: '/contact',
-    name: 'contact.md',
-    mdFileName: 'contact',
-  },
-];
+] as TabLink[];

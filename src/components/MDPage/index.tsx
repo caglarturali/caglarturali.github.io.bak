@@ -11,7 +11,7 @@ const MDPage: React.FC<MDPageProps> = ({ fileName }) => {
 
   useEffect(() => {
     const loadFile = async () => {
-      const file = await import(`../../data/pages/${fileName}.md`);
+      const file = await import(`../../data/tabs/${fileName}.md`);
       const response = await fetch(file.default);
       const text = await response.text();
       setContents(text);
@@ -20,7 +20,7 @@ const MDPage: React.FC<MDPageProps> = ({ fileName }) => {
   }, [fileName]);
 
   return (
-    <Container title={fileName}>
+    <Container title={fileName} seo={{ title: fileName }}>
       <div dangerouslySetInnerHTML={{ __html: marked(contents) }}></div>
     </Container>
   );

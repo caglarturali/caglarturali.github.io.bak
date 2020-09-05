@@ -11,8 +11,21 @@ export default {
     },
   },
   navText: {
-    marginLeft: '5px',
+    marginLeft: '8px',
     [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+      display: 'none',
+    },
+  },
+  currentTab: {
+    '& .closeButton': {
+      marginLeft: '16px',
+      [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+        marginLeft: '8px',
+      },
+    },
+  },
+  otherTab: {
+    '& .closeButton': {
       display: 'none',
     },
   },

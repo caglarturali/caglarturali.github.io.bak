@@ -2,29 +2,43 @@
  * NavItem component.
  */
 import React from 'react';
-import { Link } from '@reach/router';
+import { Link, navigate } from '@reach/router';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { createUseStyles } from 'react-jss';
-import { NavLink } from '../../../../../../../models';
+import { TabSpec } from '../../../../../../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export type NavItemProps = NavLink;
+export type NavItemProps = TabSpec;
 
-const NavItem: React.FC<NavItemProps> = ({
-  name,
-  url,
-  mdFileName,
-  ...iconProps
-}) => {
+const NavItem: React.FC<NavItemProps> = ({ name, url, ...iconProps }) => {
   const classes = useStyles();
+
+  const onCloseClicked = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    navigate('/');
+  };
 
   return (
     <span className={classes.root}>
-      <Link to={url}>
+      <Link
+        to={url}
+        getProps={({ isCurrent }) => {
+          return {
+            className: isCurrent ? classes.currentTab : classes.otherTab,
+          };
+        }}
+      >
         <FontAwesomeIcon {...iconProps} size={iconProps.size || 'lg'} />
         <span className={classes.navText}>{name}</span>
+        <FontAwesomeIcon
+          onClick={onCloseClicked}
+          className="closeButton"
+          icon="times"
+          size="1x"
+        />
       </Link>
     </span>
   );

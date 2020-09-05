@@ -4,27 +4,28 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js';
 import { createUseStyles } from 'react-jss';
-import MainButtons from './MainButtons';
-import { GHButtonProps } from '../../components/GHButton';
+import MainButtons, { MainButtonsProps } from './components/MainButtons';
 import SEO from '../../components/SEO';
-import { getGHCredentials } from '../../utils';
-import { ContactItem, BaseProps } from '../../models';
+import { Greeting } from '../../models';
+import { randomHello } from '../../utils';
 import styles from './styles';
-
-import greeter from '../../data/greeter.json';
-import contact from '../../data/contact.json';
-import pkg from '../../../package.json';
 
 const useStyles = createUseStyles(styles);
 
-export type GreeterProps = BaseProps<ContactItem>;
+export interface GreeterProps extends MainButtonsProps {
+  greeting: Greeting;
+}
 
-const Greeter: React.FC<GreeterProps> = ({ fileName }) => {
+const Greeter: React.FC<GreeterProps> = ({
+  greeting,
+  contactItems,
+  repoUrl,
+}) => {
   const classes = useStyles();
 
   useEffect(() => {
     const options = {
-      strings: greeter.typed,
+      strings: greeting.typed,
       typeSpeed: 70,
       backSpeed: 50,
       loop: true,
@@ -38,48 +39,19 @@ const Greeter: React.FC<GreeterProps> = ({ fileName }) => {
       // to prevent memory leaks
       typed.destroy();
     };
-  }, []);
+  }, [greeting]);
 
-  const { repo, username } = getGHCredentials(pkg.repository.url);
-
-  const ghButtons: GHButtonProps[] = [
-    // Follow button
-    {
-      resource: {
-        endpoint: `https://api.github.com/users/${username}`,
-        attr: 'followers',
-      },
-      href: `https://github.com/${username}`,
-      title: `Follow @${username} on GitHub`,
-      icon: ['fab', 'github'],
-      size: 'lg',
-      text: `Follow @${username}`,
-    },
-    // Stargazers button
-    {
-      resource: {
-        endpoint: `https://api.github.com/repos/${username}/${repo}`,
-        attr: 'stargazers_count',
-      },
-      href: pkg.repository.url,
-      title: `Star ${username}/${repo} on GitHub`,
-      icon: 'star',
-      size: 'sm',
-      text: 'Star',
-    },
-  ];
-
-  const mainContact = contact.find((c) => c.isMain) as ContactItem;
+  const hello = randomHello();
 
   return (
     <>
-      <SEO title={fileName} />
+      <SEO title={hello} />
       <section className={classes.root}>
-        <h1 className={classes.heading}>{greeter.mainLine}</h1>
+        <h1 className={classes.heading}>{greeting.mainLine}</h1>
         <div className={classes.typedWrap}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
-        <MainButtons mainContact={mainContact} ghButtons={ghButtons} />
+        <MainButtons contactItems={contactItems} repoUrl={repoUrl} />
       </section>
     </>
   );
