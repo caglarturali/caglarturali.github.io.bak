@@ -13,19 +13,19 @@ import styles from './styles';
 const useStyles = createUseStyles(styles);
 
 export interface GreeterProps extends MainButtonsProps {
-  greeting: Greeting;
+  greetingData: Greeting;
 }
 
 const Greeter: React.FC<GreeterProps> = ({
-  greeting,
-  contactItems,
+  greetingData,
+  contactData,
   repoUrl,
 }) => {
   const classes = useStyles();
 
   useEffect(() => {
     const options = {
-      strings: greeting.typed,
+      strings: greetingData.typed,
       typeSpeed: 70,
       backSpeed: 50,
       loop: true,
@@ -39,7 +39,7 @@ const Greeter: React.FC<GreeterProps> = ({
       // to prevent memory leaks
       typed.destroy();
     };
-  }, [greeting]);
+  }, [greetingData]);
 
   const hello = randomHello();
 
@@ -47,11 +47,11 @@ const Greeter: React.FC<GreeterProps> = ({
     <>
       <SEO title={hello} />
       <section className={classes.root}>
-        <h1 className={classes.heading}>{greeting.mainLine}</h1>
+        <h1 className={classes.heading}>{greetingData.mainLine}</h1>
         <div className={classes.typedWrap}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
-        <MainButtons contactItems={contactItems} repoUrl={repoUrl} />
+        <MainButtons contactData={contactData} repoUrl={repoUrl} />
       </section>
     </>
   );

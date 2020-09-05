@@ -13,11 +13,11 @@ import styles from './styles';
 const useStyles = createUseStyles(styles);
 
 export interface MainButtonsProps {
-  contactItems: ContactItem[];
+  contactData: ContactItem[];
   repoUrl: string;
 }
 
-const MainButtons: React.FC<MainButtonsProps> = ({ contactItems, repoUrl }) => {
+const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
   const classes = useStyles();
 
   const { repo, username } = getGHCredentials(repoUrl);
@@ -49,7 +49,7 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactItems, repoUrl }) => {
     },
   ];
 
-  const mainContact = contactItems.find((c) => c.isMain) as ContactItem;
+  const mainContact = contactData.find((c) => c.isMain) as ContactItem;
 
   return (
     <div className={classes.root}>

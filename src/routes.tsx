@@ -10,8 +10,8 @@ import pkg from '../package.json';
 const Home: React.FC<{ path: string }> = (props) => {
   return (
     <Greeter
-      greeting={greetingData}
-      contactItems={contactData}
+      greetingData={greetingData}
+      contactData={contactData}
       repoUrl={pkg.repository.url}
       {...props}
     />
