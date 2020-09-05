@@ -50,3 +50,5 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 #### Credits
 
 - Implements [typed.js](https://github.com/mattboldt/typed.js/) by [@mattboldt](https://github.com/mattboldt)
+
+- [multilanguage-hello-json](https://github.com/novellac/multilanguage-hello-json) by [@novellac](https://github.com/novellac)
