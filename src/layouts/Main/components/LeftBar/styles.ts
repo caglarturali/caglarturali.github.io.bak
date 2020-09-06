@@ -2,10 +2,8 @@
  * LeftBar component styles.
  */
 import { Styles } from 'react-jss';
-import Color from 'color';
 import {
   bgLightBlue,
-  lbIconColor,
   leftBarWidth,
   desktopBreakpoint,
 } from '../../../../theme';
@@ -27,23 +25,9 @@ export default {
     },
     '& div': {
       display: 'flex',
+      alignItems: 'center',
       flexDirection: 'column',
       padding: '10px 0',
     },
-  },
-  item: {
-    color: lbIconColor,
-    cursor: 'pointer',
-    marginBottom: '10px',
-    transition: 'color 100ms ease',
-    '&:hover': {
-      color: Color(lbIconColor).lighten(0.2).string(),
-    },
-    '&:last-of-type': {
-      marginBottom: '30px',
-    },
-  },
-  icon: {
-    padding: '10px',
   },
 } as Styles;

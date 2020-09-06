@@ -3,9 +3,7 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
-import { Link } from '@reach/router';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { IconProp } from '@fortawesome/fontawesome-svg-core';
+import IconLink from '../../../../components/IconLink';
 import { ContactItem } from '../../../../models';
 import styles from './styles';
 
@@ -18,42 +16,43 @@ export interface LeftBarProps {
 const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
   const classes = useStyles();
 
+  // Prepend internal links.
+  const contactTop: ContactItem[] = [
+    {
+      name: 'Home',
+      url: '/',
+      icon: 'home',
+      isInternal: true,
+    },
+    {
+      name: 'Diploma',
+      url: '/diploma',
+      icon: 'graduation-cap',
+      isInternal: true,
+    },
+    ...contactData,
+  ];
+
+  const contactBottom: ContactItem[] = [
+    {
+      name: 'Useless button!',
+      url: '',
+      icon: 'cog',
+      isInternal: true,
+    },
+  ];
+
   return (
     <div className={classes.root}>
       <div>
-        {/* Home button */}
-        <Link
-          to="/"
-          key="home-page"
-          className={classes.item}
-          aria-label="Home page"
-          title="Home page"
-        >
-          <FontAwesomeIcon className={classes.icon} icon="home" size="lg" />
-        </Link>
-        {/* Contact buttons */}
-        {contactData.map(({ name, url, icon }) => (
-          <a
-            className={classes.item}
-            key={`left-bar-${name}`}
-            href={url}
-            aria-label={`Find me on ${name}`}
-            title={`Find me on ${name}`}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FontAwesomeIcon
-              className={classes.icon}
-              icon={icon as IconProp}
-              size="lg"
-            />
-          </a>
+        {contactTop.map((contactItem) => (
+          <IconLink key={contactItem.name} {...contactItem} />
         ))}
       </div>
       <div>
-        <span className={classes.item} title="Useless button!">
-          <FontAwesomeIcon icon="cog" size="lg" />
-        </span>
+        {contactBottom.map((contactItem) => (
+          <IconLink key={contactItem.name} {...contactItem} />
+        ))}
       </div>
     </div>
   );
