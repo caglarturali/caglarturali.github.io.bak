@@ -1,6 +1,6 @@
 import React from 'react';
 import { RouteComponentProps } from '@reach/router';
-import MDPage, { MDPageProps } from './components/MDPage';
+import MDTab, { MDTabProps } from './components/MDTab';
 import { PageProps } from './models';
 
 import { pages, tabs } from './data/';
@@ -10,9 +10,9 @@ const View: React.FC<ViewProps> = ({ comp: Comp, ...rest }) => {
   return <Comp {...rest} />;
 };
 
-type TabProps = RouteComponentProps & MDPageProps;
+type TabProps = RouteComponentProps & MDTabProps;
 const Tab: React.FC<TabProps> = (props) => {
-  return <MDPage {...props} />;
+  return <MDTab {...props} />;
 };
 
 export default [

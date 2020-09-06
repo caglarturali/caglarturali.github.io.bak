@@ -1,12 +1,15 @@
+/**
+ * MDTab component.
+ */
 import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import Container from '../Container';
 
-export interface MDPageProps {
+export interface MDTabProps {
   fileName: string;
 }
 
-const MDPage: React.FC<MDPageProps> = ({ fileName }) => {
+const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
   const [contents, setContents] = useState<string>('');
 
   useEffect(() => {
@@ -26,4 +29,4 @@ const MDPage: React.FC<MDPageProps> = ({ fileName }) => {
   );
 };
 
-export default MDPage;
+export default MDTab;
