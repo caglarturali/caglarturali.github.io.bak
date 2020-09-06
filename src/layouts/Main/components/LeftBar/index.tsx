@@ -17,18 +17,15 @@ export interface LeftBarProps {
 const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
   const classes = useStyles();
 
-  // Prepend internal links.
-  const contactTop = [
-    ...pages.map(({ name, url, icon, isInternal }) => ({
-      name,
-      url,
-      icon,
-      isInternal,
-    })),
-    ...contactData,
-  ];
+  // Internal links.
+  const internals = pages.map(({ name, url, icon, isInternal }) => ({
+    name,
+    url,
+    icon,
+    isInternal,
+  }));
 
-  const contactBottom: ContactItem[] = [
+  const bottom: ContactItem[] = [
     {
       name: 'Useless button!',
       url: '',
@@ -37,18 +34,22 @@ const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
     },
   ];
 
+  const renderData = (data: ContactItem[]) => {
+    return data.map((contactItem) => (
+      <IconLink key={contactItem.name} {...contactItem} />
+    ));
+  };
+
+  const renderDivider = () => <span className={classes.divider} />;
+
   return (
     <div className={classes.root}>
       <div>
-        {contactTop.map((contactItem) => (
-          <IconLink key={contactItem.name} {...contactItem} />
-        ))}
+        {renderData(internals)}
+        {renderDivider()}
+        {renderData(contactData)}
       </div>
-      <div>
-        {contactBottom.map((contactItem) => (
-          <IconLink key={contactItem.name} {...contactItem} />
-        ))}
-      </div>
+      <div>{renderData(bottom)}</div>
     </div>
   );
 };

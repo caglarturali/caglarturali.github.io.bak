@@ -2,6 +2,7 @@
  * LeftBar component styles.
  */
 import { Styles } from 'react-jss';
+import Color from 'color';
 import {
   bgLightBlue,
   leftBarWidth,
@@ -29,5 +30,12 @@ export default {
       flexDirection: 'column',
       padding: '10px 0',
     },
+  },
+  divider: {
+    height: '1px',
+    background: Color(bgLightBlue).lighten(0.35).string(),
+    width: '95%',
+    marginTop: '4px',
+    marginBottom: '12px',
   },
 } as Styles;
