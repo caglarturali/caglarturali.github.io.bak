@@ -1,409 +1,456 @@
 {
-  "1. Semester": {
-    "SWE 501 Introduction to Object Oriented Programming": [
-      {
-        "Head First Object-Oriented Analysis and Design": {
-          "url": "https://www.goodreads.com/book/show/19561698-head-first-object-oriented-analysis-and-design",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387662212l/19561698.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
+  "terms": [
+    {
+      "name": "1. Semester",
+      "courses": [
+        {
+          "courseName": "SWE 501 Introduction to Object Oriented Programming",
+          "books": [
+            {
+              "name": "Head First Object-Oriented Analysis and Design",
+              "url": "https://www.goodreads.com/book/show/19561698-head-first-object-oriented-analysis-and-design",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387662212l/19561698.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 513 Principles of Software Engineering",
+          "books": [
+            {
+              "name": "Software Engineering, Tenth Edition",
+              "url": "https://www.goodreads.com/book/show/27151340-software-engineering",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg",
+              "startDate": "2020-08-30",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 522 Software Requirements Engineering",
+          "books": [
+            {
+              "name": "Requirements Engineering for Software and Systems",
+              "url": "https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 530 Software Design Process",
+          "books": [
+            {
+              "name": "Software Architecture for Developers Vol 1-2",
+              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWM 501 Mathematics for Computer Science I",
+          "books": [
+            {
+              "name": "Head First Algebra: A Learner's Guide to Algebra I",
+              "url": "https://www.goodreads.com/book/show/19226291-head-first-algebra",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386305575l/19226291.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWX 501 Computing Classics I",
+          "books": [
+            {
+              "name": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+              "url": "https://www.goodreads.com/book/show/28928219-the-art-of-computer-programming",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454534947l/28928219._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The Practice of Programming",
+              "url": "https://www.goodreads.com/book/show/20722071-the-practice-of-programming",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890468l/20722071.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition",
+              "url": "https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417439l/52715562._SX318_SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
         }
-      }
-    ],
-    "SWE 513 Principles of Software Engineering": [
-      {
-        "Software Engineering, Tenth Edition": {
-          "url": "https://www.goodreads.com/book/show/27151340-software-engineering",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg",
-          "startDate": "2020-08-30",
-          "endDate": "",
-          "progress": 0
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "courses": [
+        {
+          "courseName": "SWE 510 Data Structures and Algorithms",
+          "books": [
+            {
+              "name": "Algorithms in a Nutshell: A Practical Guide",
+              "url": "https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Introduction to Algorithms",
+              "url": "https://www.goodreads.com/book/show/18657578-introduction-to-algorithms",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 523 Managing Software Development",
+          "books": [
+            {
+              "name": "Introduction to Software Project Management",
+              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 550 Software Quality Assurance and Reliability",
+          "books": [
+            {
+              "name": "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement",
+              "url": "https://www.goodreads.com/book/show/243903.Software_Quality_Engineering",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 573 Software Development Practice",
+          "books": [
+            {
+              "name": "Head First Software Development",
+              "url": "https://www.goodreads.com/book/show/18927880-head-first-software-development",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389363307l/18927880.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWM 502 Mathematics for Computer Science II",
+          "books": [
+            {
+              "name": "Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer",
+              "url": "https://www.goodreads.com/book/show/40195184-fundamentals-of-discrete-math-for-computer-science",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527028716l/40195184._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWX 502 Computing Classics II",
+          "books": [
+            {
+              "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+              "url": "https://www.goodreads.com/book/show/6607720-clean-code",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596157778l/6607720._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Code Complete: A Practical Handbook of Software Construction",
+              "url": "https://www.goodreads.com/book/show/21899045-code-complete",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397317998l/21899045.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The Art of Computer Programming, Volume 2: Seminumerical Algorithms",
+              "url": "https://www.goodreads.com/book/show/29390889-art-of-computer-programming-volume-2",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456899805l/29390889._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
         }
-      }
-    ],
-    "SWE 522 Software Requirements Engineering": [
-      {
-        "Requirements Engineering for Software and Systems": {
-          "url": "https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
+      ]
+    },
+    {
+      "name": "3. Semester",
+      "courses": [
+        {
+          "courseName": "SWE 521 Database Systems",
+          "books": [
+            {
+              "name": "Database Systems: A Practical Approach to Design, Implementation and Management",
+              "url": "https://www.goodreads.com/book/show/41532004-database-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Fundamentals of Database Systems",
+              "url": "https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 542 Advanced Software Engineering",
+          "books": [
+            {
+              "name": "Agile Software Development: Principles, Patterns, and Practices",
+              "url": "https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Software Engineering: A Practitioner's Approach",
+              "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 551 Software Verification and Validation",
+          "books": [
+            {
+              "name": "Software Verification and Validation for Practitioners and Managers",
+              "url": "https://www.goodreads.com/book/show/29969968-software-verification-and-validation-for-practitioners-and-managers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461232446l/29969968._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 557 Patterns in Software Engineering",
+          "books": [
+            {
+              "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+              "url": "https://www.goodreads.com/book/show/8732565-design-patterns",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328347527l/8732565.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Head First Design Patterns",
+              "url": "https://www.goodreads.com/book/show/17374834-head-first-design-patterns",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360888250l/17374834.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWX 503 Computing Classics III",
+          "books": [
+            {
+              "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+              "url": "https://www.goodreads.com/book/show/36239393-clean-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505400487l/36239393._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Refactoring: Improving the Design of Existing Code",
+              "url": "https://www.goodreads.com/book/show/43242144-refactoring",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544902912l/43242144._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The Art of Computer Programming, Volume 3: Sorting and Searching",
+              "url": "https://www.goodreads.com/book/show/23435546-the-art-of-computer-programming-volume-3",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413993179l/23435546.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
         }
-      }
-    ],
-    "SWE 530 Software Design Process": [
-      {
-        "Software Architecture for Developers Vol 1-2": {
-          "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
+      ]
+    },
+    {
+      "name": "4. Semester",
+      "courses": [
+        {
+          "courseName": "SWE 514 Computer Systems",
+          "books": [
+            {
+              "name": "Computer Organization and Architecture: Designing for Performance",
+              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 560 Software Metrics and Models",
+          "books": [
+            {
+              "name": "Software Measurement and Estimation: A Practical Approach",
+              "url": "https://www.goodreads.com/book/show/20741029-software-measurement-and-estimation",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391662288l/20741029.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Software Metrics: A Rigorous and Practical Approach",
+              "url": "https://www.goodreads.com/book/show/2847653-software-metrics",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267315738l/2847653.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 575 Secure Software Development and Software Security",
+          "books": [
+            {
+              "name": "Security for Software Engineers",
+              "url": "https://www.goodreads.com/book/show/43305216-security-for-software-engineers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 580 User Interface Design",
+          "books": [
+            {
+              "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+              "url": "https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "User Interface Design for Programmers",
+              "url": "https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWX 504 Computing Classics IV",
+          "books": [
+            {
+              "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
+              "url": "https://www.goodreads.com/book/show/23435548-the-art-of-computer-programming-volume-4a",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442382280l/23435548._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+              "url": "https://www.goodreads.com/book/show/11486819-the-clean-coder",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328340563l/11486819.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
         }
-      }
-    ],
-    "SWM 501 Mathematics for Computer Science I": [
-      {
-        "Head First Algebra: A Learner's Guide to Algebra I": {
-          "url": "https://www.goodreads.com/book/show/19226291-head-first-algebra",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386305575l/19226291.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
+      ]
+    },
+    {
+      "name": "Optional Reading",
+      "courses": [
+        {
+          "courseName": "Electives",
+          "books": [
+            {
+              "name": "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",
+              "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Linux: The Complete Reference",
+              "url": "https://www.goodreads.com/book/show/16825197-linux",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Peopleware: Productive Projects and Teams",
+              "url": "https://www.goodreads.com/book/show/18895165-peopleware",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "The UNIX Programming Environment",
+              "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
         }
-      }
-    ],
-    "SWX 501 Computing Classics I": [
-      {
-        "The Art of Computer Programming, Volume 1: Fundamental Algorithms": {
-          "url": "https://www.goodreads.com/book/show/28928219-the-art-of-computer-programming",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454534947l/28928219._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The Practice of Programming": {
-          "url": "https://www.goodreads.com/book/show/20722071-the-practice-of-programming",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890468l/20722071.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition": {
-          "url": "https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417439l/52715562._SX318_SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ]
-  },
-  "2. Semester": {
-    "SWE 510 Data Structures and Algorithms": [
-      {
-        "Algorithms in a Nutshell: A Practical Guide": {
-          "url": "https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Introduction to Algorithms": {
-          "url": "https://www.goodreads.com/book/show/18657578-introduction-to-algorithms",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 523 Managing Software Development": [
-      {
-        "Introduction to Software Project Management": {
-          "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 550 Software Quality Assurance and Reliability": [
-      {
-        "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement": {
-          "url": "https://www.goodreads.com/book/show/243903.Software_Quality_Engineering",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 573 Software Development Practice": [
-      {
-        "Head First Software Development": {
-          "url": "https://www.goodreads.com/book/show/18927880-head-first-software-development",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389363307l/18927880.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWM 502 Mathematics for Computer Science II": [
-      {
-        "Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer": {
-          "url": "https://www.goodreads.com/book/show/40195184-fundamentals-of-discrete-math-for-computer-science",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527028716l/40195184._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWX 502 Computing Classics II": [
-      {
-        "Clean Code: A Handbook of Agile Software Craftsmanship": {
-          "url": "https://www.goodreads.com/book/show/6607720-clean-code",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596157778l/6607720._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Code Complete: A Practical Handbook of Software Construction": {
-          "url": "https://www.goodreads.com/book/show/21899045-code-complete",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397317998l/21899045.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The Art of Computer Programming, Volume 2: Seminumerical Algorithms": {
-          "url": "https://www.goodreads.com/book/show/29390889-art-of-computer-programming-volume-2",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456899805l/29390889._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ]
-  },
-  "3. Semester": {
-    "SWE 521 Database Systems": [
-      {
-        "Database Systems: A Practical Approach to Design, Implementation and Management": {
-          "url": "https://www.goodreads.com/book/show/41532004-database-systems",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Fundamentals of Database Systems": {
-          "url": "https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 542 Advanced Software Engineering": [
-      {
-        "Agile Software Development: Principles, Patterns, and Practices": {
-          "url": "https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Software Engineering: A Practitioner's Approach": {
-          "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 551 Software Verification and Validation": [
-      {
-        "Software Verification and Validation for Practitioners and Managers": {
-          "url": "https://www.goodreads.com/book/show/29969968-software-verification-and-validation-for-practitioners-and-managers",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461232446l/29969968._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 557 Patterns in Software Engineering": [
-      {
-        "Design Patterns: Elements of Reusable Object-Oriented Software": {
-          "url": "https://www.goodreads.com/book/show/8732565-design-patterns",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328347527l/8732565.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Head First Design Patterns": {
-          "url": "https://www.goodreads.com/book/show/17374834-head-first-design-patterns",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360888250l/17374834.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWX 503 Computing Classics III": [
-      {
-        "Clean Architecture: A Craftsman's Guide to Software Structure and Design": {
-          "url": "https://www.goodreads.com/book/show/36239393-clean-architecture",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505400487l/36239393._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Refactoring: Improving the Design of Existing Code": {
-          "url": "https://www.goodreads.com/book/show/43242144-refactoring",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544902912l/43242144._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The Art of Computer Programming, Volume 3: Sorting and Searching": {
-          "url": "https://www.goodreads.com/book/show/23435546-the-art-of-computer-programming-volume-3",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413993179l/23435546.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ]
-  },
-  "4. Semester": {
-    "SWE 514 Computer Systems": [
-      {
-        "Computer Organization and Architecture: Designing for Performance": {
-          "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 560 Software Metrics and Models": [
-      {
-        "Software Measurement and Estimation: A Practical Approach": {
-          "url": "https://www.goodreads.com/book/show/20741029-software-measurement-and-estimation",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391662288l/20741029.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Software Metrics: A Rigorous and Practical Approach": {
-          "url": "https://www.goodreads.com/book/show/2847653-software-metrics",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267315738l/2847653.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 575 Secure Software Development and Software Security": [
-      {
-        "Security for Software Engineers": {
-          "url": "https://www.goodreads.com/book/show/43305216-security-for-software-engineers",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWE 580 User Interface Design": [
-      {
-        "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability": {
-          "url": "https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "User Interface Design for Programmers": {
-          "url": "https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ],
-    "SWX 504 Computing Classics IV": [
-      {
-        "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1": {
-          "url": "https://www.goodreads.com/book/show/23435548-the-art-of-computer-programming-volume-4a",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442382280l/23435548._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The Clean Coder: A Code of Conduct for Professional Programmers": {
-          "url": "https://www.goodreads.com/book/show/11486819-the-clean-coder",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328340563l/11486819.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ]
-  },
-  "Optional Reading": {
-    "Optional": [
-      {
-        "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams": {
-          "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Linux: The Complete Reference": {
-          "url": "https://www.goodreads.com/book/show/16825197-linux",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "Peopleware: Productive Projects and Teams": {
-          "url": "https://www.goodreads.com/book/show/18895165-peopleware",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      },
-      {
-        "The UNIX Programming Environment": {
-          "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
-          "progress": 0
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }
