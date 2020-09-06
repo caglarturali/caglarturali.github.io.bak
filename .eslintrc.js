@@ -18,6 +18,7 @@ module.exports = {
     'react/display-name': 0,
     '@typescript-eslint/no-explicit-any': 0,
     '@typescript-eslint/explicit-function-return-type': 0,
+    '@typescript-eslint/no-namespace': 0,
   },
   settings: {
     react: {

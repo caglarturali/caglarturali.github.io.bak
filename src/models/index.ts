@@ -1,4 +1,5 @@
 export * from './ContactItem';
+export * from './DiplomaTypes';
 export * from './Greeting';
 export * from './Linkable';
 export * from './PageLink';
