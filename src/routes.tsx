@@ -11,8 +11,8 @@ const View: React.FC<ViewProps> = ({ comp: Comp, ...rest }) => {
 };
 
 type TabProps = RouteComponentProps & MDTabProps;
-const Tab: React.FC<TabProps> = (props) => {
-  return <MDTab {...props} />;
+const Tab: React.FC<TabProps> = ({ fileName }) => {
+  return <MDTab fileName={fileName} />;
 };
 
 export default [
