@@ -1,7 +1,7 @@
 /**
  * Semester component.
  */
-import React, { useState } from 'react';
+import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { DiplomaTypes } from '../../../../models';
 import Course from './Course';
@@ -14,9 +14,9 @@ export interface SemesterProps {
 }
 
 const Semester: React.FC<SemesterProps> = ({ semesterData }) => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const classes = useStyles();
   const { name, courses } = semesterData;
-  const [showDetails, setShowDetails] = useState<boolean>(true);
 
   return (
     <details open={true}>
