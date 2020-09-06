@@ -1,5 +1,4 @@
 import { ContactItem } from './ContactItem';
+import { PageProps } from './PageProps';
 
-export interface PageLink extends ContactItem {
-  comp: React.ComponentType;
-}
+export type PageLink = ContactItem & PageProps;
