@@ -22,5 +22,12 @@ module.exports = {
     react: {
       version: 'detect',
     },
+    settings: {
+      'import/resolver': {
+        node: {
+          extensions: ['.js', '.jsx', '.ts', '.tsx'],
+        },
+      },
+    },
   },
 };

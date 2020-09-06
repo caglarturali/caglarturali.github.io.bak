@@ -1,25 +1,19 @@
 import React from 'react';
 import { RouteComponentProps } from '@reach/router';
 import MDPage from './components/MDPage';
-import Greeter from './views/Greeter';
-import Diploma from './views/Diploma';
 
-import tabs from './data/tabs/_';
-import greetingData from './data/greeter.json';
-import contactData from './data/contact.json';
-import diplomaData from './data/diploma.json';
-import pkg from '../package.json';
+import { pages, tabs } from './data/';
 
 interface PageProps extends RouteComponentProps {
-  comp: React.ReactType;
+  comp: React.ReactElement;
 }
 
 interface TabProps extends RouteComponentProps {
   fileName: string;
 }
 
-const Page: React.FC<PageProps> = ({ comp: Comp, ...rest }) => {
-  return <Comp {...rest} />;
+const Page: React.FC<PageProps> = ({ comp, ...rest }) => {
+  return <React.Fragment {...rest}>{comp}</React.Fragment>;
 };
 
 const Tab: React.FC<TabProps> = (props) => {
@@ -27,23 +21,10 @@ const Tab: React.FC<TabProps> = (props) => {
 };
 
 export default [
-  <Page
-    path="/"
-    key="home-page"
-    comp={() => (
-      <Greeter
-        greetingData={greetingData}
-        contactData={contactData}
-        repoUrl={pkg.repository.url}
-      />
-    )}
-  />,
-  <Page
-    path="/diploma"
-    key="diploma-page"
-    comp={() => <Diploma diplomaData={diplomaData} />}
-  />,
-  tabs.map((file) => (
-    <Tab path={file.url} key={file.name} fileName={file.mdFileName} />
+  pages.map(({ name, url, ...rest }) => (
+    <Page path={url} key={name} {...rest} />
+  )),
+  tabs.map(({ name, url, mdFileName }) => (
+    <Tab path={url} key={name} fileName={mdFileName} />
   )),
 ];

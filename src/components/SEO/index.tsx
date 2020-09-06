@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import metadata from '../../data/metadata.json';
+import metadata from '../../data/json/metadata.json';
 
 export interface SEOProps {
   title: string;

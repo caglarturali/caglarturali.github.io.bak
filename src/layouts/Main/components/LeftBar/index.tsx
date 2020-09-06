@@ -5,6 +5,7 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import IconLink from '../../../../components/IconLink';
 import { ContactItem } from '../../../../models';
+import { pages } from './../../../../data';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -17,19 +18,13 @@ const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
   const classes = useStyles();
 
   // Prepend internal links.
-  const contactTop: ContactItem[] = [
-    {
-      name: 'Home',
-      url: '/',
-      icon: 'home',
-      isInternal: true,
-    },
-    {
-      name: 'Diploma',
-      url: '/diploma',
-      icon: 'graduation-cap',
-      isInternal: true,
-    },
+  const contactTop = [
+    ...pages.map(({ name, url, icon, isInternal }) => ({
+      name,
+      url,
+      icon,
+      isInternal,
+    })),
     ...contactData,
   ];
 
