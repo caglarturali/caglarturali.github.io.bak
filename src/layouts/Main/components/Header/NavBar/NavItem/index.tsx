@@ -5,12 +5,17 @@ import React from 'react';
 import { Link, navigate } from '@reach/router';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { createUseStyles } from 'react-jss';
-import { TabSpec } from '../../../../../../models';
+import { TabSpec, TabLink } from '../../../../../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-const NavItem: React.FC<TabSpec> = ({ name, url, ...iconProps }) => {
+const NavItem: React.FC<TabSpec & TabLink> = ({
+  name,
+  url,
+  mdFileName, // eslint-disable-line @typescript-eslint/no-unused-vars
+  ...iconProps
+}) => {
   const classes = useStyles();
 
   const onCloseClicked = (e: React.MouseEvent) => {
