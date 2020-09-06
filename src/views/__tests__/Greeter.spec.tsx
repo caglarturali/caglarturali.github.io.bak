@@ -1,8 +1,8 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import Greeter from '../Greeter';
-import greetingData from '../../data/greeter.json';
-import contactData from '../../data/contact.json';
+import greetingData from '../../data/json/greeter.json';
+import contactData from '../../data/json/contact.json';
 import pkg from '../../../package.json';
 
 describe('<Greeter />', () => {
