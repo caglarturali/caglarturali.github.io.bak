@@ -15,7 +15,7 @@ export const pages: PageLink[] = [
     url: '/',
     icon: 'home',
     isInternal: true,
-    comp: (
+    comp: () => (
       <Greeter
         greetingData={greetingData}
         contactData={contactData}
@@ -28,7 +28,7 @@ export const pages: PageLink[] = [
     url: '/diploma',
     icon: 'graduation-cap',
     isInternal: true,
-    comp: <Diploma diplomaData={diplomaData} />,
+    comp: () => <Diploma diplomaData={diplomaData} />,
   },
 ];
 
