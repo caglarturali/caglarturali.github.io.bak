@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Greeter /> should render correctly 1`] = `
+exports[`<Diploma /> should render correctly 1`] = `
 <DocumentFragment>
   <div
     class="root-0-2-2"
