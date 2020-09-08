@@ -1,0 +1,1254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Greeter /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="root-0-2-2"
+  >
+    <h2
+      class="title-0-2-3"
+    >
+      Diploma
+    </h2>
+    <div
+      class="content-0-2-4"
+    >
+      <p>
+        Here is my self-curated study plan of 
+        <em>
+          Diploma in Software Engineering
+        </em>
+        :
+      </p>
+      <div
+        class="root-0-2-1"
+      >
+        <details
+          open=""
+        >
+          <summary>
+            1. Semester
+          </summary>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 501 Introduction to Object Oriented Programming
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Head First Object-Oriented Analysis and Design"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387662212l/19561698.jpg\\" 
+        alt=\\"Head First Object-Oriented Analysis and Design book cover\\"
+        aria-label=\\"Head First Object-Oriented Analysis and Design book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/19561698-head-first-object-oriented-analysis-and-design"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Head First Object-Oriented Analysis and Design
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 513 Principles of Software Engineering
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Engineering, Tenth Edition"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg\\" 
+        alt=\\"Software Engineering, Tenth Edition book cover\\"
+        aria-label=\\"Software Engineering, Tenth Edition book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/27151340-software-engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Engineering, Tenth Edition
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 522 Software Requirements Engineering
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Requirements Engineering for Software and Systems"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg\\" 
+        alt=\\"Requirements Engineering for Software and Systems book cover\\"
+        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Requirements Engineering for Software and Systems
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 530 Software Design Process
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Architecture for Developers Vol 1-2"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
+        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Architecture for Developers Vol 1-2
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWM 501 Mathematics for Computer Science I
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Head First Algebra: A Learner's Guide to Algebra I"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386305575l/19226291.jpg\\" 
+        alt=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
+        aria-label=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/19226291-head-first-algebra"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Head First Algebra: A Learner's Guide to Algebra I
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWX 501 Computing Classics I
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Art of Computer Programming, Volume 1: Fundamental Algorithms"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454534947l/28928219._SY475_.jpg\\" 
+        alt=\\"The Art of Computer Programming, Volume 1: Fundamental Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 1: Fundamental Algorithms book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/28928219-the-art-of-computer-programming"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Art of Computer Programming, Volume 1: Fundamental Algorithms
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Practice of Programming"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890468l/20722071.jpg\\" 
+        alt=\\"The Practice of Programming book cover\\"
+        aria-label=\\"The Practice of Programming book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/20722071-the-practice-of-programming"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Practice of Programming
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417439l/52715562._SX318_SY475_.jpg\\" 
+        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          open=""
+        >
+          <summary>
+            2. Semester
+          </summary>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 510 Data Structures and Algorithms
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Algorithms in a Nutshell: A Practical Guide"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg\\" 
+        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Algorithms in a Nutshell: A Practical Guide
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Introduction to Algorithms"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg\\" 
+        alt=\\"Introduction to Algorithms book cover\\"
+        aria-label=\\"Introduction to Algorithms book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/18657578-introduction-to-algorithms"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Algorithms
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 523 Managing Software Development
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Introduction to Software Project Management"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg\\" 
+        alt=\\"Introduction to Software Project Management book cover\\"
+        aria-label=\\"Introduction to Software Project Management book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Software Project Management
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 550 Software Quality Assurance and Reliability
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg\\" 
+        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/243903.Software_Quality_Engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 573 Software Development Practice
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Head First Software Development"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389363307l/18927880.jpg\\" 
+        alt=\\"Head First Software Development book cover\\"
+        aria-label=\\"Head First Software Development book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/18927880-head-first-software-development"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Head First Software Development
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWM 502 Mathematics for Computer Science II
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527028716l/40195184._SY475_.jpg\\" 
+        alt=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
+        aria-label=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/40195184-fundamentals-of-discrete-math-for-computer-science"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWX 502 Computing Classics II
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596157778l/6607720._SX318_.jpg\\" 
+        alt=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
+        aria-label=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/6607720-clean-code"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Clean Code: A Handbook of Agile Software Craftsmanship
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Code Complete: A Practical Handbook of Software Construction"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397317998l/21899045.jpg\\" 
+        alt=\\"Code Complete: A Practical Handbook of Software Construction book cover\\"
+        aria-label=\\"Code Complete: A Practical Handbook of Software Construction book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/21899045-code-complete"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Code Complete: A Practical Handbook of Software Construction
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Art of Computer Programming, Volume 2: Seminumerical Algorithms"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456899805l/29390889._SY475_.jpg\\" 
+        alt=\\"The Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/29390889-art-of-computer-programming-volume-2"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Art of Computer Programming, Volume 2: Seminumerical Algorithms
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          open=""
+        >
+          <summary>
+            3. Semester
+          </summary>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 521 Database Systems
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg\\" 
+        alt=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
+        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/41532004-database-systems"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Database Systems: A Practical Approach to Design, Implementation and Management
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Fundamentals of Database Systems"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg\\" 
+        alt=\\"Fundamentals of Database Systems book cover\\"
+        aria-label=\\"Fundamentals of Database Systems book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Fundamentals of Database Systems
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 542 Advanced Software Engineering
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg\\" 
+        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Agile Software Development: Principles, Patterns, and Practices
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Engineering: A Practitioner's Approach"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg\\" 
+        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/24062830-software-engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Engineering: A Practitioner's Approach
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 551 Software Verification and Validation
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Verification and Validation for Practitioners and Managers"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461232446l/29969968._SY475_.jpg\\" 
+        alt=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
+        aria-label=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/29969968-software-verification-and-validation-for-practitioners-and-managers"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Verification and Validation for Practitioners and Managers
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 557 Patterns in Software Engineering
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Design Patterns: Elements of Reusable Object-Oriented Software"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328347527l/8732565.jpg\\" 
+        alt=\\"Design Patterns: Elements of Reusable Object-Oriented Software book cover\\"
+        aria-label=\\"Design Patterns: Elements of Reusable Object-Oriented Software book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/8732565-design-patterns"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Design Patterns: Elements of Reusable Object-Oriented Software
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Head First Design Patterns"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360888250l/17374834.jpg\\" 
+        alt=\\"Head First Design Patterns book cover\\"
+        aria-label=\\"Head First Design Patterns book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/17374834-head-first-design-patterns"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Head First Design Patterns
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWX 503 Computing Classics III
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505400487l/36239393._SX318_.jpg\\" 
+        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
+        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/36239393-clean-architecture"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Clean Architecture: A Craftsman's Guide to Software Structure and Design
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Refactoring: Improving the Design of Existing Code"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544902912l/43242144._SX318_.jpg\\" 
+        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/43242144-refactoring"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Refactoring: Improving the Design of Existing Code
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Art of Computer Programming, Volume 3: Sorting and Searching"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413993179l/23435546.jpg\\" 
+        alt=\\"The Art of Computer Programming, Volume 3: Sorting and Searching book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 3: Sorting and Searching book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/23435546-the-art-of-computer-programming-volume-3"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Art of Computer Programming, Volume 3: Sorting and Searching
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          open=""
+        >
+          <summary>
+            4. Semester
+          </summary>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 514 Computer Systems
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Computer Organization and Architecture: Designing for Performance"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
+        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Computer Organization and Architecture: Designing for Performance
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 560 Software Metrics and Models
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Measurement and Estimation: A Practical Approach"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391662288l/20741029.jpg\\" 
+        alt=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
+        aria-label=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/20741029-software-measurement-and-estimation"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Measurement and Estimation: A Practical Approach
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Metrics: A Rigorous and Practical Approach"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267315738l/2847653.jpg\\" 
+        alt=\\"Software Metrics: A Rigorous and Practical Approach book cover\\"
+        aria-label=\\"Software Metrics: A Rigorous and Practical Approach book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/2847653-software-metrics"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Metrics: A Rigorous and Practical Approach
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 575 Secure Software Development and Software Security
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Security for Software Engineers"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg\\" 
+        alt=\\"Security for Software Engineers book cover\\"
+        aria-label=\\"Security for Software Engineers book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/43305216-security-for-software-engineers"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Security for Software Engineers
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWE 580 User Interface Design
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg\\" 
+        alt=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
+        aria-label=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="User Interface Design for Programmers"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg\\" 
+        alt=\\"User Interface Design for Programmers book cover\\"
+        aria-label=\\"User Interface Design for Programmers book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  User Interface Design for Programmers
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              SWX 504 Computing Classics IV
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442382280l/23435548._SX318_.jpg\\" 
+        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1 book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1 book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/23435548-the-art-of-computer-programming-volume-4a"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328340563l/11486819.jpg\\" 
+        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/11486819-the-clean-coder"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Clean Coder: A Code of Conduct for Professional Programmers
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          open=""
+        >
+          <summary>
+            Optional Reading
+          </summary>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
+              Electives
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg\\" 
+        alt=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
+        aria-label=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/27797542-hello-startup"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Linux: The Complete Reference"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg\\" 
+        alt=\\"Linux: The Complete Reference book cover\\"
+        aria-label=\\"Linux: The Complete Reference book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/16825197-linux"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Linux: The Complete Reference
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Peopleware: Productive Projects and Teams"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg\\" 
+        alt=\\"Peopleware: Productive Projects and Teams book cover\\"
+        aria-label=\\"Peopleware: Productive Projects and Teams book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/18895165-peopleware"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Peopleware: Productive Projects and Teams
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="The UNIX Programming Environment"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg\\" 
+        alt=\\"The UNIX Programming Environment book cover\\"
+        aria-label=\\"The UNIX Programming Environment book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The UNIX Programming Environment
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
