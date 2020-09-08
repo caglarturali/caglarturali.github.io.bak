@@ -28,16 +28,17 @@ const Book: React.FC<BookProps> = ({ bookData }) => {
   `;
 
   return (
-    <li
-      className={classes.bookItem}
-      key={name}
-      data-html={true}
-      data-tip={toolTip}
-      data-class={classes.toolTip}
-      data-place="right"
-      data-delay-show="300"
-    >
-      <a href={url} aria-label={name} target="_blank" rel="noopener noreferrer">
+    <li className={classes.bookItem} key={name}>
+      <a
+        href={url}
+        aria-label={name}
+        data-html={true}
+        data-tip={toolTip}
+        data-class={classes.toolTip}
+        data-place="right"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         {name}
       </a>
     </li>
