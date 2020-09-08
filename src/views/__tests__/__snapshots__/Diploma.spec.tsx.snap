@@ -3,25 +3,43 @@
 exports[`<Diploma /> should render correctly 1`] = `
 <DocumentFragment>
   <div
-    class="root-0-2-2"
+    class="root-0-2-4"
   >
     <h2
-      class="title-0-2-3"
+      class="title-0-2-5"
     >
       Diploma
     </h2>
     <div
-      class="content-0-2-4"
+      class="content-0-2-6"
     >
-      <p>
-        Here is my self-curated study plan of 
-        <em>
+      <h2
+        class="title-0-2-1"
+        currentitem="false"
+        data-class="tip-0-2-2"
+        data-tip="Long story short, I've been thinking about committing a graduate degree in the field of software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated study plan of Diploma in Software Engineering. We'll see how much time it will take me to complete the whole thing. :)"
+      >
+        <span>
           Diploma in Software Engineering
-        </em>
-        :
-      </p>
+        </span>
+        <svg
+          aria-hidden="true"
+          class="svg-inline--fa fa-question-circle fa-w-16 "
+          data-icon="question-circle"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          viewBox="0 0 512 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"
+            fill="currentColor"
+          />
+        </svg>
+      </h2>
       <div
-        class="root-0-2-1"
+        class="contents-0-2-3"
       >
         <details
           open=""
@@ -30,20 +48,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             1. Semester
           </summary>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 501 Introduction to Object Oriented Programming
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Head First Object-Oriented Analysis and Design"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -65,20 +84,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 510 Data Structures and Algorithms
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Algorithms in a Nutshell: A Practical Guide"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -98,11 +118,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Introduction to Algorithms"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -124,20 +145,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 513 Principles of Software Engineering
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Engineering, Tenth Edition"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -159,20 +181,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 514 Computer Systems
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Computer Organization and Architecture: Designing for Performance"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -194,20 +217,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWM 501 Mathematics for Computer Science I
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Head First Algebra: A Learner's Guide to Algebra I"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -229,20 +253,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWX 501 Computing Classics I
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Art of Computer Programming, Volume 1: Fundamental Algorithms"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -262,11 +287,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Practice of Programming"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -286,11 +312,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -319,20 +346,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             2. Semester
           </summary>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 521 Database Systems
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -352,11 +380,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Fundamentals of Database Systems"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -378,20 +407,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 522 Software Requirements Engineering
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Requirements Engineering for Software and Systems"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -413,20 +443,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 530 Software Design Process
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Architecture for Developers Vol 1-2"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -448,20 +479,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 573 Software Development Practice
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Head First Software Development"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -483,20 +515,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWM 502 Mathematics for Computer Science II
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -518,20 +551,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWX 502 Computing Classics II
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -551,11 +585,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Code Complete: A Practical Handbook of Software Construction"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -575,11 +610,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Art of Computer Programming, Volume 2: Seminumerical Algorithms"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -608,20 +644,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             3. Semester
           </summary>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 523 Managing Software Development
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Introduction to Software Project Management"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -643,20 +680,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 550 Software Quality Assurance and Reliability
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -678,20 +716,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 551 Software Verification and Validation
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Verification and Validation for Practitioners and Managers"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -713,20 +752,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 557 Patterns in Software Engineering
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Design Patterns: Elements of Reusable Object-Oriented Software"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -746,11 +786,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Head First Design Patterns"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -772,20 +813,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWX 503 Computing Classics III
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -805,11 +847,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Refactoring: Improving the Design of Existing Code"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -829,11 +872,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Art of Computer Programming, Volume 3: Sorting and Searching"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -862,20 +906,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             4. Semester
           </summary>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 542 Advanced Software Engineering
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Agile Software Development: Principles, Patterns, and Practices"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -895,11 +940,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Engineering: A Practitioner's Approach"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -921,20 +967,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 560 Software Metrics and Models
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Measurement and Estimation: A Practical Approach"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -954,11 +1001,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Software Metrics: A Rigorous and Practical Approach"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -980,20 +1028,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 575 Secure Software Development and Software Security
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Security for Software Engineers"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1015,20 +1064,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWE 580 User Interface Design
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1048,11 +1098,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="User Interface Design for Programmers"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1074,20 +1125,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               SWX 504 Computing Classics IV
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1107,11 +1159,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1140,20 +1193,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             Optional Reading
           </summary>
           <details
-            class="courseDetails-0-2-5"
+            class="courseDetails-0-2-7"
           >
             <summary>
               Electives
             </summary>
             <div
-              class="bookPanel-0-2-6"
+              class="bookPanel-0-2-8"
             >
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1173,11 +1227,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Linux: The Complete Reference"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1197,11 +1252,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="Peopleware: Productive Projects and Teams"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1221,11 +1277,12 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-8"
+                class="bookItem-0-2-10"
               >
                 <a
                   aria-label="The UNIX Programming Environment"
-                  data-class="toolTip-0-2-7"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1247,6 +1304,88 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
         </details>
+      </div>
+      <div
+        class="__react_component_tooltip t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180 place-top type-dark"
+        data-id="tooltip"
+      >
+        <style>
+          
+  	.t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180 {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top {
+        margin-top: -10px;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom {
+        margin-top: 10px;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left {
+        margin-left: -10px;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right {
+        margin-left: 10px;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  
+        </style>
       </div>
     </div>
   </div>
