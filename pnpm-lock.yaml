@@ -13,6 +13,7 @@ dependencies:
   react-jss: 10.4.0_react@16.13.1
   react-markdown: 4.3.1_react@16.13.1
   react-scripts: 3.4.1_typescript@3.9.7
+  react-tooltip: 4.2.9_react-dom@16.13.1+react@16.13.1
   typed.js: 2.0.11
 devDependencies:
   '@testing-library/jest-dom': 5.11.4
@@ -10149,6 +10150,20 @@ packages:
       react: ^16.3.0
     resolution:
       integrity: sha512-IgmcegOSi5SNX+2Snh1vqmF0Vg/CbkycU9XZbOHJlZ6kMzTmi3yc254oB1WCkgA7OQtIAoLmcSFuHTc/tlcqXg==
+  /react-tooltip/4.2.9_react-dom@16.13.1+react@16.13.1:
+    dependencies:
+      prop-types: 15.7.2
+      react: 16.13.1
+      react-dom: 16.13.1_react@16.13.1
+      uuid: 7.0.3
+    dev: false
+    engines:
+      npm: '>=6.13'
+    peerDependencies:
+      react: '>=16.0.0'
+      react-dom: '>=16.0.0'
+    resolution:
+      integrity: sha512-DgZyg5oxk9/orgePDLLeuDtlwwYv7CalJRahk9nNsoEJDzIO58GC6zSAet4bKTm6c01hg1z3EocP9H0nmMHTMA==
   /react/16.13.1:
     dependencies:
       loose-envify: 1.4.0
@@ -12145,6 +12160,11 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+  /uuid/7.0.3:
+    dev: false
+    hasBin: true
+    resolution:
+      integrity: sha512-DPSke0pXhTZgoF/d+WSt2QaKMCFSfx7QegxEWT+JOuHF5aWrKEn0G+ztjuJg/gG8/ItK+rbPCD/yNv8yyih6Cg==
   /v8-compile-cache/2.1.1:
     resolution:
       integrity: sha512-8OQ9CL+VWyt3JStj7HX7/ciTL2V3Rl1Wf5OL+SNTm0yK1KvtReVulksyeRnCANHHuUxHlQig+JJDlUhBt1NQDQ==
@@ -12775,6 +12795,7 @@ specifiers:
   react-jss: ^10.4.0
   react-markdown: ^4.3.1
   react-scripts: 3.4.1
+  react-tooltip: ^4.2.9
   ts-node-dev: ^1.0.0-pre.62
   typed.js: ^2.0.11
   typescript: ^3.9.7
