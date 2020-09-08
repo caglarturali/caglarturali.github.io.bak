@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ReactTooltip from 'react-tooltip';
 import 'normalize.css';
 import './theme/icons';
 import App from './App';
@@ -8,6 +9,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <ReactTooltip />
   </React.StrictMode>,
   document.getElementById('root'),
 );
