@@ -1306,24 +1306,24 @@ exports[`<Diploma /> should render correctly 1`] = `
         </details>
       </div>
       <div
-        class="__react_component_tooltip t69a1094b-73c8-4e39-b284-2fb862bd1372 place-top type-dark"
+        class="__react_component_tooltip t00000000-0000-4000-8000-000000000000 place-top type-dark"
         data-id="tooltip"
       >
         <style>
           
-  	.t69a1094b-73c8-4e39-b284-2fb862bd1372 {
+  	.t00000000-0000-4000-8000-000000000000 {
 	    color: #fff;
 	    background: #222;
 	    border: 1px solid transparent;
   	}
 
-  	.t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top {
+  	.t00000000-0000-4000-8000-000000000000.place-top {
         margin-top: -10px;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top::before {
+    .t00000000-0000-4000-8000-000000000000.place-top::before {
         border-top: 8px solid transparent;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top::after {
+    .t00000000-0000-4000-8000-000000000000.place-top::after {
         border-left: 8px solid transparent;
         border-right: 8px solid transparent;
         bottom: -6px;
@@ -1334,13 +1334,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-top-width: 6px;
     }
 
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom {
+    .t00000000-0000-4000-8000-000000000000.place-bottom {
         margin-top: 10px;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom::before {
+    .t00000000-0000-4000-8000-000000000000.place-bottom::before {
         border-bottom: 8px solid transparent;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom::after {
+    .t00000000-0000-4000-8000-000000000000.place-bottom::after {
         border-left: 8px solid transparent;
         border-right: 8px solid transparent;
         top: -6px;
@@ -1351,13 +1351,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-bottom-width: 6px;
     }
 
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left {
+    .t00000000-0000-4000-8000-000000000000.place-left {
         margin-left: -10px;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left::before {
+    .t00000000-0000-4000-8000-000000000000.place-left::before {
         border-left: 8px solid transparent;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left::after {
+    .t00000000-0000-4000-8000-000000000000.place-left::after {
         border-top: 5px solid transparent;
         border-bottom: 5px solid transparent;
         right: -6px;
@@ -1368,13 +1368,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-left-width: 6px;
     }
 
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right {
+    .t00000000-0000-4000-8000-000000000000.place-right {
         margin-left: 10px;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right::before {
+    .t00000000-0000-4000-8000-000000000000.place-right::before {
         border-right: 8px solid transparent;
     }
-    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right::after {
+    .t00000000-0000-4000-8000-000000000000.place-right::after {
         border-top: 5px solid transparent;
         border-bottom: 5px solid transparent;
         left: -6px;
