@@ -1306,24 +1306,24 @@ exports[`<Diploma /> should render correctly 1`] = `
         </details>
       </div>
       <div
-        class="__react_component_tooltip t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180 place-top type-dark"
+        class="__react_component_tooltip t69a1094b-73c8-4e39-b284-2fb862bd1372 place-top type-dark"
         data-id="tooltip"
       >
         <style>
           
-  	.t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180 {
+  	.t69a1094b-73c8-4e39-b284-2fb862bd1372 {
 	    color: #fff;
 	    background: #222;
 	    border: 1px solid transparent;
   	}
 
-  	.t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top {
+  	.t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top {
         margin-top: -10px;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top::before {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top::before {
         border-top: 8px solid transparent;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-top::after {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-top::after {
         border-left: 8px solid transparent;
         border-right: 8px solid transparent;
         bottom: -6px;
@@ -1334,13 +1334,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-top-width: 6px;
     }
 
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom {
         margin-top: 10px;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom::before {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom::before {
         border-bottom: 8px solid transparent;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-bottom::after {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-bottom::after {
         border-left: 8px solid transparent;
         border-right: 8px solid transparent;
         top: -6px;
@@ -1351,13 +1351,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-bottom-width: 6px;
     }
 
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left {
         margin-left: -10px;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left::before {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left::before {
         border-left: 8px solid transparent;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-left::after {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-left::after {
         border-top: 5px solid transparent;
         border-bottom: 5px solid transparent;
         right: -6px;
@@ -1368,13 +1368,13 @@ exports[`<Diploma /> should render correctly 1`] = `
         border-left-width: 6px;
     }
 
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right {
         margin-left: 10px;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right::before {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right::before {
         border-right: 8px solid transparent;
     }
-    .t4cfb745c-6dfd-40e3-bdaf-4e23c1d9d180.place-right::after {
+    .t69a1094b-73c8-4e39-b284-2fb862bd1372.place-right::after {
         border-top: 5px solid transparent;
         border-bottom: 5px solid transparent;
         left: -6px;
