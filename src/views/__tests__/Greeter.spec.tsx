@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import Greeter from '../Greeter';
-import greetingData from '../../data/json/greeter.json';
+import staticData from '../../data/json/static.json';
 import contactData from '../../data/json/contact.json';
 import pkg from '../../../package.json';
 
@@ -9,7 +9,7 @@ describe('<Greeter />', () => {
   test('should render correctly', () => {
     const { asFragment } = render(
       <Greeter
-        greetingData={greetingData}
+        staticData={staticData}
         contactData={contactData}
         repoUrl={pkg.repository.url}
       />,

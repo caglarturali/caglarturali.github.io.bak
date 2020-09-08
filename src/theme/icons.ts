@@ -14,6 +14,7 @@ import {
   faCopy,
   faSearch,
   faCog,
+  faQuestionCircle,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -31,4 +32,5 @@ library.add(
   faCopy,
   faSearch,
   faCog,
+  faQuestionCircle,
 );

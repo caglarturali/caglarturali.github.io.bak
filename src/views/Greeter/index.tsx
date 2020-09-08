@@ -6,18 +6,18 @@ import Typed from 'typed.js';
 import { createUseStyles } from 'react-jss';
 import MainButtons, { MainButtonsProps } from './components/MainButtons';
 import SEO from '../../components/SEO';
-import { Greeting } from '../../models';
+import { Static } from '../../models';
 import { randomHello } from '../../utils';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
 export interface GreeterProps extends MainButtonsProps {
-  greetingData: Greeting;
+  staticData: Static;
 }
 
 const Greeter: React.FC<GreeterProps> = ({
-  greetingData,
+  staticData,
   contactData,
   repoUrl,
 }) => {
@@ -25,7 +25,7 @@ const Greeter: React.FC<GreeterProps> = ({
 
   useEffect(() => {
     const options = {
-      strings: greetingData.typed,
+      strings: staticData.typed,
       typeSpeed: 70,
       backSpeed: 50,
       loop: true,
@@ -39,7 +39,7 @@ const Greeter: React.FC<GreeterProps> = ({
       // to prevent memory leaks
       typed.destroy();
     };
-  }, [greetingData]);
+  }, [staticData]);
 
   const hello = randomHello();
 
@@ -47,7 +47,7 @@ const Greeter: React.FC<GreeterProps> = ({
     <>
       <SEO title={hello} />
       <section className={classes.root}>
-        <h1 className={classes.heading}>{greetingData.mainLine}</h1>
+        <h1 className={classes.heading}>{staticData.mainLine}</h1>
         <div className={classes.typedWrap}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>

@@ -4,7 +4,7 @@ import Diploma from '../views/Diploma';
 import { PageLink, TabLink } from '../models';
 import { jsOrange, midBlue, green, pink } from '../theme/colors';
 
-import greetingData from './json/greeter.json';
+import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import diplomaData from './json/diploma.json';
 import pkg from '../../package.json';
@@ -17,7 +17,7 @@ export const pages: PageLink[] = [
     isInternal: true,
     comp: () => (
       <Greeter
-        greetingData={greetingData}
+        staticData={staticData}
         contactData={contactData}
         repoUrl={pkg.repository.url}
       />
@@ -28,7 +28,7 @@ export const pages: PageLink[] = [
     url: '/diploma',
     icon: 'graduation-cap',
     isInternal: true,
-    comp: () => <Diploma diplomaData={diplomaData} />,
+    comp: () => <Diploma diplomaData={diplomaData} staticData={staticData} />,
   },
 ];
 
