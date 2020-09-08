@@ -68,6 +68,65 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
+              SWE 510 Data Structures and Algorithms
+            </summary>
+            <div
+              class="bookPanel-0-2-6"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Algorithms in a Nutshell: A Practical Guide"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg\\" 
+        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Algorithms in a Nutshell: A Practical Guide
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Introduction to Algorithms"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg\\" 
+        alt=\\"Introduction to Algorithms book cover\\"
+        aria-label=\\"Introduction to Algorithms book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/18657578-introduction-to-algorithms"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Algorithms
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-5"
+          >
+            <summary>
               SWE 513 Principles of Software Engineering
             </summary>
             <div
@@ -103,7 +162,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 522 Software Requirements Engineering
+              SWE 514 Computer Systems
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -112,59 +171,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Requirements Engineering for Software and Systems"
+                  aria-label="Computer Organization and Architecture: Designing for Performance"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg\\" 
-        alt=\\"Requirements Engineering for Software and Systems book cover\\"
-        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
+        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition"
+                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Requirements Engineering for Software and Systems
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-5"
-          >
-            <summary>
-              SWE 530 Software Design Process
-            </summary>
-            <div
-              class="bookPanel-0-2-6"
-            >
-              <li
-                class="bookItem-0-2-8"
-              >
-                <a
-                  aria-label="Software Architecture for Developers Vol 1-2"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
-        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
-        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Architecture for Developers Vol 1-2
+                  Computer Organization and Architecture: Designing for Performance
                 </a>
               </li>
             </div>
@@ -298,7 +322,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 510 Data Structures and Algorithms
+              SWE 521 Database Systems
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -307,48 +331,48 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Algorithms in a Nutshell: A Practical Guide"
+                  aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg\\" 
-        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
-        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg\\" 
+        alt=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
+        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell"
+                  href="https://www.goodreads.com/book/show/41532004-database-systems"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algorithms in a Nutshell: A Practical Guide
+                  Database Systems: A Practical Approach to Design, Implementation and Management
                 </a>
               </li>
               <li
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Introduction to Algorithms"
+                  aria-label="Fundamentals of Database Systems"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg\\" 
-        alt=\\"Introduction to Algorithms book cover\\"
-        aria-label=\\"Introduction to Algorithms book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg\\" 
+        alt=\\"Fundamentals of Database Systems book cover\\"
+        aria-label=\\"Fundamentals of Database Systems book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/18657578-introduction-to-algorithms"
+                  href="https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Algorithms
+                  Fundamentals of Database Systems
                 </a>
               </li>
             </div>
@@ -357,7 +381,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 523 Managing Software Development
+              SWE 522 Software Requirements Engineering
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -366,24 +390,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Introduction to Software Project Management"
+                  aria-label="Requirements Engineering for Software and Systems"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg\\" 
-        alt=\\"Introduction to Software Project Management book cover\\"
-        aria-label=\\"Introduction to Software Project Management book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg\\" 
+        alt=\\"Requirements Engineering for Software and Systems book cover\\"
+        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management"
+                  href="https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Software Project Management
+                  Requirements Engineering for Software and Systems
                 </a>
               </li>
             </div>
@@ -587,7 +611,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 521 Database Systems
+              SWE 523 Managing Software Development
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -596,48 +620,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
+                  aria-label="Introduction to Software Project Management"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg\\" 
-        alt=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
-        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg\\" 
+        alt=\\"Introduction to Software Project Management book cover\\"
+        aria-label=\\"Introduction to Software Project Management book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/41532004-database-systems"
+                  href="https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Database Systems: A Practical Approach to Design, Implementation and Management
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-8"
-              >
-                <a
-                  aria-label="Fundamentals of Database Systems"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg\\" 
-        alt=\\"Fundamentals of Database Systems book cover\\"
-        aria-label=\\"Fundamentals of Database Systems book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Fundamentals of Database Systems
+                  Introduction to Software Project Management
                 </a>
               </li>
             </div>
@@ -646,7 +646,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 542 Advanced Software Engineering
+              SWE 530 Software Design Process
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -655,48 +655,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
+                  aria-label="Software Architecture for Developers Vol 1-2"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg\\" 
-        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
-        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
+        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices"
+                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Agile Software Development: Principles, Patterns, and Practices
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-8"
-              >
-                <a
-                  aria-label="Software Engineering: A Practitioner's Approach"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg\\" 
-        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
-        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/book/show/24062830-software-engineering"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Engineering: A Practitioner's Approach
+                  Software Architecture for Developers Vol 1-2
                 </a>
               </li>
             </div>
@@ -889,7 +865,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 514 Computer Systems
+              SWE 542 Advanced Software Engineering
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -898,24 +874,48 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Computer Organization and Architecture: Designing for Performance"
+                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
-        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
-        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg\\" 
+        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
+                  href="https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Computer Organization and Architecture: Designing for Performance
+                  Agile Software Development: Principles, Patterns, and Practices
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <a
+                  aria-label="Software Engineering: A Practitioner's Approach"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg\\" 
+        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/24062830-software-engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Engineering: A Practitioner's Approach
                 </a>
               </li>
             </div>
