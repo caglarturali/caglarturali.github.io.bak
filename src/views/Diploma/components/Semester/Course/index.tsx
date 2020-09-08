@@ -3,6 +3,7 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
+import ProgressBar from '../../../../../components/ProgressBar';
 import { DiplomaTypes } from '../../../../../models';
 import Book from './Book';
 import styles from './styles';
@@ -17,9 +18,14 @@ const Course: React.FC<CourseProps> = ({ courseData }) => {
   const classes = useStyles();
   const { courseName, books } = courseData;
 
+  const courseMaxProgress = Math.max(...books.map((b) => b.progress));
+
   return (
     <details open={false} className={classes.courseDetails}>
-      <summary>{courseName}</summary>
+      <summary>
+        <span>{courseName}</span>
+        <ProgressBar progress={courseMaxProgress} />
+      </summary>
       <div className={classes.bookPanel}>
         {books.map((book) => (
           <Book bookData={book} key={book.name} />

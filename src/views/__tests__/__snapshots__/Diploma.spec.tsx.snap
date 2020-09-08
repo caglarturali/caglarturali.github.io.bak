@@ -51,7 +51,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 501 Introduction to Object Oriented Programming
+              <span>
+                SWE 501 Introduction to Object Oriented Programming
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 13%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -87,7 +96,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 510 Data Structures and Algorithms
+              <span>
+                SWE 510 Data Structures and Algorithms
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -148,7 +166,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 513 Principles of Software Engineering
+              <span>
+                SWE 513 Principles of Software Engineering
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 8%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -184,7 +211,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 514 Computer Systems
+              <span>
+                SWE 514 Computer Systems
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -220,7 +256,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWM 501 Mathematics for Computer Science I
+              <span>
+                SWM 501 Mathematics for Computer Science I
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -256,7 +301,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWX 501 Computing Classics I
+              <span>
+                SWX 501 Computing Classics I
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -349,7 +403,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 521 Database Systems
+              <span>
+                SWE 521 Database Systems
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -410,7 +473,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 522 Software Requirements Engineering
+              <span>
+                SWE 522 Software Requirements Engineering
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -446,7 +518,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 530 Software Design Process
+              <span>
+                SWE 530 Software Design Process
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -507,7 +588,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 573 Software Development Practice
+              <span>
+                SWE 573 Software Development Practice
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -543,7 +633,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWM 502 Mathematics for Computer Science II
+              <span>
+                SWM 502 Mathematics for Computer Science II
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -579,7 +678,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWX 502 Computing Classics II
+              <span>
+                SWX 502 Computing Classics II
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -672,7 +780,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 523 Managing Software Development
+              <span>
+                SWE 523 Managing Software Development
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -708,7 +825,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 550 Software Quality Assurance and Reliability
+              <span>
+                SWE 550 Software Quality Assurance and Reliability
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -744,7 +870,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 551 Software Verification and Validation
+              <span>
+                SWE 551 Software Verification and Validation
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -780,7 +915,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 557 Patterns in Software Engineering
+              <span>
+                SWE 557 Patterns in Software Engineering
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -841,7 +985,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWX 503 Computing Classics III
+              <span>
+                SWX 503 Computing Classics III
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -934,7 +1087,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 542 Advanced Software Engineering
+              <span>
+                SWE 542 Advanced Software Engineering
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -995,7 +1157,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 560 Software Metrics and Models
+              <span>
+                SWE 560 Software Metrics and Models
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -1056,7 +1227,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 575 Secure Software Development and Software Security
+              <span>
+                SWE 575 Secure Software Development and Software Security
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -1092,7 +1272,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWE 580 User Interface Design
+              <span>
+                SWE 580 User Interface Design
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -1153,7 +1342,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              SWX 504 Computing Classics IV
+              <span>
+                SWX 504 Computing Classics IV
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
@@ -1221,7 +1419,16 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-7"
           >
             <summary>
-              Electives
+              <span>
+                Electives
+              </span>
+              <div
+                style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
             </summary>
             <div
               class="bookPanel-0-2-8"
