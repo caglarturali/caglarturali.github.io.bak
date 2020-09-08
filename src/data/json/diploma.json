@@ -17,6 +17,27 @@
           ]
         },
         {
+          "courseName": "SWE 510 Data Structures and Algorithms",
+          "books": [
+            {
+              "name": "Algorithms in a Nutshell: A Practical Guide",
+              "url": "https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Introduction to Algorithms",
+              "url": "https://www.goodreads.com/book/show/18657578-introduction-to-algorithms",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
           "courseName": "SWE 513 Principles of Software Engineering",
           "books": [
             {
@@ -30,25 +51,12 @@
           ]
         },
         {
-          "courseName": "SWE 522 Software Requirements Engineering",
+          "courseName": "SWE 514 Computer Systems",
           "books": [
             {
-              "name": "Requirements Engineering for Software and Systems",
-              "url": "https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 530 Software Design Process",
-          "books": [
-            {
-              "name": "Software Architecture for Developers Vol 1-2",
-              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
+              "name": "Computer Organization and Architecture: Designing for Performance",
+              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -103,20 +111,20 @@
       "name": "2. Semester",
       "courses": [
         {
-          "courseName": "SWE 510 Data Structures and Algorithms",
+          "courseName": "SWE 521 Database Systems",
           "books": [
             {
-              "name": "Algorithms in a Nutshell: A Practical Guide",
-              "url": "https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg",
+              "name": "Database Systems: A Practical Approach to Design, Implementation and Management",
+              "url": "https://www.goodreads.com/book/show/41532004-database-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
             },
             {
-              "name": "Introduction to Algorithms",
-              "url": "https://www.goodreads.com/book/show/18657578-introduction-to-algorithms",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg",
+              "name": "Fundamentals of Database Systems",
+              "url": "https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -124,12 +132,12 @@
           ]
         },
         {
-          "courseName": "SWE 523 Managing Software Development",
+          "courseName": "SWE 522 Software Requirements Engineering",
           "books": [
             {
-              "name": "Introduction to Software Project Management",
-              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
+              "name": "Requirements Engineering for Software and Systems",
+              "url": "https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -210,20 +218,12 @@
       "name": "3. Semester",
       "courses": [
         {
-          "courseName": "SWE 521 Database Systems",
+          "courseName": "SWE 523 Managing Software Development",
           "books": [
             {
-              "name": "Database Systems: A Practical Approach to Design, Implementation and Management",
-              "url": "https://www.goodreads.com/book/show/41532004-database-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Fundamentals of Database Systems",
-              "url": "https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg",
+              "name": "Introduction to Software Project Management",
+              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -231,20 +231,12 @@
           ]
         },
         {
-          "courseName": "SWE 542 Advanced Software Engineering",
+          "courseName": "SWE 530 Software Design Process",
           "books": [
             {
-              "name": "Agile Software Development: Principles, Patterns, and Practices",
-              "url": "https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Software Engineering: A Practitioner's Approach",
-              "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
+              "name": "Software Architecture for Developers Vol 1-2",
+              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -320,12 +312,20 @@
       "name": "4. Semester",
       "courses": [
         {
-          "courseName": "SWE 514 Computer Systems",
+          "courseName": "SWE 542 Advanced Software Engineering",
           "books": [
             {
-              "name": "Computer Organization and Architecture: Designing for Performance",
-              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
+              "name": "Agile Software Development: Principles, Patterns, and Practices",
+              "url": "https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Software Engineering: A Practitioner's Approach",
+              "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
