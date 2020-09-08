@@ -416,7 +416,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 550 Software Quality Assurance and Reliability
+              SWE 530 Software Design Process
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -425,24 +425,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
+                  aria-label="Software Architecture for Developers Vol 1-2"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg\\" 
-        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
-        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
+        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/243903.Software_Quality_Engineering"
+                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
+                  Software Architecture for Developers Vol 1-2
                 </a>
               </li>
             </div>
@@ -646,7 +646,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-5"
           >
             <summary>
-              SWE 530 Software Design Process
+              SWE 550 Software Quality Assurance and Reliability
             </summary>
             <div
               class="bookPanel-0-2-6"
@@ -655,24 +655,24 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-8"
               >
                 <a
-                  aria-label="Software Architecture for Developers Vol 1-2"
+                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
                   data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
-        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
-        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg\\" 
+        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
+                  href="https://www.goodreads.com/book/show/243903.Software_Quality_Engineering"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Architecture for Developers Vol 1-2
+                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
                 </a>
               </li>
             </div>

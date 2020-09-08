@@ -145,12 +145,12 @@
           ]
         },
         {
-          "courseName": "SWE 550 Software Quality Assurance and Reliability",
+          "courseName": "SWE 530 Software Design Process",
           "books": [
             {
-              "name": "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement",
-              "url": "https://www.goodreads.com/book/show/243903.Software_Quality_Engineering",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg",
+              "name": "Software Architecture for Developers Vol 1-2",
+              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -231,12 +231,12 @@
           ]
         },
         {
-          "courseName": "SWE 530 Software Design Process",
+          "courseName": "SWE 550 Software Quality Assurance and Reliability",
           "books": [
             {
-              "name": "Software Architecture for Developers Vol 1-2",
-              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
+              "name": "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement",
+              "url": "https://www.goodreads.com/book/show/243903.Software_Quality_Engineering",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
