@@ -455,7 +455,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 class="bookItem-0-2-10"
               >
                 <a
-                  aria-label="Software Architecture for Developers Vol 1-2"
+                  aria-label="Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility"
                   currentitem="false"
                   data-class="toolTip-0-2-9"
                   data-html="true"
@@ -464,16 +464,41 @@ exports[`<Diploma /> should render correctly 1`] = `
     <div>
       <img
         src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
-        alt=\\"Software Architecture for Developers Vol 1-2 book cover\\"
-        aria-label=\\"Software Architecture for Developers Vol 1-2 book cover\\"
+        alt=\\"Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility book cover\\"
+        aria-label=\\"Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/series/194818-software-architecture-for-developers"
+                  href="https://www.goodreads.com/book/show/33221518-software-architecture-for-developers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Architecture for Developers Vol 1-2
+                  Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-10"
+              >
+                <a
+                  aria-label="Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture"
+                  currentitem="false"
+                  data-class="toolTip-0-2-9"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480624025l/33221619._SX318_.jpg\\" 
+        alt=\\"Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture book cover\\"
+        aria-label=\\"Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/33221619-software-architecture-for-developers"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture
                 </a>
               </li>
             </div>

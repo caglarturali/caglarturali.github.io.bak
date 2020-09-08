@@ -148,9 +148,17 @@
           "courseName": "SWE 530 Software Design Process",
           "books": [
             {
-              "name": "Software Architecture for Developers Vol 1-2",
-              "url": "https://www.goodreads.com/series/194818-software-architecture-for-developers",
+              "name": "Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility",
+              "url": "https://www.goodreads.com/book/show/33221518-software-architecture-for-developers",
               "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
+            {
+              "name": "Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture",
+              "url": "https://www.goodreads.com/book/show/33221619-software-architecture-for-developers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480624025l/33221619._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
