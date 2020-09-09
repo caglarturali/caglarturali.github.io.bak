@@ -22,7 +22,7 @@
     "lint:fix": "npm run lint -- --fix",
     "predeploy": "npm run build && cp build/index.html build/404.html",
     "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.github.io.git",
-    "populateDiploma": "ts-node-dev --respawn -O '{\"module\":\"commonjs\"}' scripts/populateDiploma.ts"
+    "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts"
   },
   "husky": {
     "hooks": {
@@ -73,6 +73,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.3.0",
     "prettier": "^2.1.1",
+    "ts-node": "^9.0.0",
     "ts-node-dev": "^1.0.0-pre.62",
     "typescript": "^3.9.7"
   },
