@@ -1,0 +1,2 @@
+(this["webpackJsonpdeveloper-portfolio-app"]=this["webpackJsonpdeveloper-portfolio-app"]||[]).push([[5],{166:function(p,o,e){p.exports=e.p+"static/media/projects.562f845a.md"}}]);
+//# sourceMappingURL=5.ca4c637f.chunk.js.map
