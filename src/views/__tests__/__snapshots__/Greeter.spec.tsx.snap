@@ -61,12 +61,12 @@ exports[`<Greeter /> should render correctly 1`] = `
           </span>
         </a>
         <a
-          aria-label="Star caglarturali/caglarturali on GitHub"
+          aria-label="Star caglarturali/caglarturali.github.io on GitHub"
           class="root-0-2-6"
-          href="https://github.com/caglarturali/caglarturali"
+          href="https://github.com/caglarturali/caglarturali.github.io"
           rel="noopener noreferrer"
           target="_blank"
-          title="Star caglarturali/caglarturali on GitHub"
+          title="Star caglarturali/caglarturali.github.io on GitHub"
         >
           <span
             class="contents-0-2-7"
