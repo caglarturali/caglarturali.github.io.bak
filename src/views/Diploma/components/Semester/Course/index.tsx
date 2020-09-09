@@ -24,7 +24,7 @@ const Course: React.FC<CourseProps> = ({ courseData }) => {
     <details open={false} className={classes.courseDetails}>
       <summary>
         <span>{courseName}</span>
-        <ProgressBar progress={courseMaxProgress} />
+        <ProgressBar value={courseMaxProgress} />
       </summary>
       <div className={classes.bookPanel}>
         {books.map((book) => (

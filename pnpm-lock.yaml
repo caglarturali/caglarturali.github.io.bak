@@ -8,6 +8,7 @@ dependencies:
   color: 3.1.2
   normalize.css: 8.0.1
   react: 16.13.1
+  react-circular-progressbar: 2.0.3_react@16.13.1
   react-dom: 16.13.1_react@16.13.1
   react-helmet: 6.1.0_react@16.13.1
   react-jss: 10.4.0_react@16.13.1
@@ -9965,6 +9966,14 @@ packages:
       node: '>=6'
     resolution:
       integrity: sha512-OfBnObtnGgLGfweORmdZbyEz+3dgVePQBb3zipiaDsMHV1NpWm0rDFYIVXFV/AK+x4VIIfWHhrdMIeoTLyRr2g==
+  /react-circular-progressbar/2.0.3_react@16.13.1:
+    dependencies:
+      react: 16.13.1
+    dev: false
+    peerDependencies:
+      react: ^0.14.0 || ^15.0.0 || ^16.0.0
+    resolution:
+      integrity: sha512-YKN+xAShXA3gYihevbQZbavfiJxo83Dt1cUxqg/cltj4VVsRQpDr7Fg1mvjDG3x1KHGtd9NmYKvJ2mMrPwbKyw==
   /react-dev-utils/10.2.1:
     dependencies:
       '@babel/code-frame': 7.8.3
@@ -12790,6 +12799,7 @@ specifiers:
   normalize.css: ^8.0.1
   prettier: ^2.1.1
   react: ^16.13.1
+  react-circular-progressbar: ^2.0.3
   react-dom: ^16.13.1
   react-helmet: ^6.1.0
   react-jss: ^10.4.0

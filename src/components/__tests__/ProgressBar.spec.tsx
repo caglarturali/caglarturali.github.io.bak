@@ -4,7 +4,7 @@ import ProgressBar from '../ProgressBar';
 
 describe('<ProgressBar />', () => {
   test('should render correctly', () => {
-    const { asFragment } = render(<ProgressBar progress={80} />);
+    const { asFragment } = render(<ProgressBar value={80} />);
     expect(asFragment()).toMatchSnapshot();
   });
 });

@@ -43,6 +43,7 @@
     "color": "^3.1.2",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
+    "react-circular-progressbar": "^2.0.3",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "react-jss": "^10.4.0",

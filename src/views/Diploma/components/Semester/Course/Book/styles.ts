@@ -2,6 +2,7 @@
  * Book component styles.
  */
 import { Styles } from 'react-jss';
+import { bgLightBlue, green } from '../../../../../../theme';
 
 export default {
   toolTip: {
@@ -13,7 +14,28 @@ export default {
     },
   },
   bookItem: {
-    marginTop: '4px',
-    marginBottom: '4px',
+    display: 'flex',
+    alignItems: 'center',
+    marginTop: '6px',
+    marginBottom: '6px',
+  },
+  progress: {
+    marginRight: '8px',
+    width: '20px',
+    '@global': {
+      '.CircularProgressbar-path': {
+        stroke: green,
+        strokeLinecap: 'butt',
+      },
+      '.CircularProgressbar-trail': {
+        stroke: bgLightBlue,
+      },
+      '.CircularProgressbar-text': {
+        // fill: 'yellow',
+      },
+      '.CircularProgressbar-background': {
+        // fill: 'green',
+      },
+    },
   },
 } as Styles;

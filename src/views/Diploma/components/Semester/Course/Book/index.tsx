@@ -3,6 +3,8 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
+import { CircularProgressbar } from 'react-circular-progressbar';
+import 'react-circular-progressbar/dist/styles.css';
 import { DiplomaTypes } from '../../../../../../models/DiplomaTypes';
 import styles from './styles';
 
@@ -14,8 +16,7 @@ export interface BookProps {
 
 const Book: React.FC<BookProps> = ({ bookData }) => {
   const classes = useStyles();
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const { name, url, coverImg, startDate, endDate, progress } = bookData;
+  const { name, url, coverImg, progress } = bookData;
 
   const toolTip = `
     <div>
@@ -28,7 +29,14 @@ const Book: React.FC<BookProps> = ({ bookData }) => {
   `;
 
   return (
-    <li className={classes.bookItem} key={name}>
+    <li className={classes.bookItem}>
+      <span data-tip={`${progress}% done`}>
+        <CircularProgressbar
+          value={progress}
+          className={classes.progress}
+          strokeWidth={24}
+        />
+      </span>
       <a
         href={url}
         aria-label={name}

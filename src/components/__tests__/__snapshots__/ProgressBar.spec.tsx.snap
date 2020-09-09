@@ -3,7 +3,7 @@
 exports[`<ProgressBar /> should render correctly 1`] = `
 <DocumentFragment>
   <div
-    style="width: 480px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+    style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
   >
     <div
       style="height: 100%; width: 80%; background-color: rgb(152, 195, 121);"
