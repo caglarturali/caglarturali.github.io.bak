@@ -1,7 +1,7 @@
 export declare namespace DiplomaTypes {
   export interface Curriculum {
     terms: Semester[];
-    optional: Book[];
+    extras: Extra[];
   }
 
   export interface Semester {
@@ -21,5 +21,10 @@ export declare namespace DiplomaTypes {
     startDate: string;
     endDate: string;
     progress: number;
+  }
+
+  export interface Extra {
+    title: string;
+    books: Book[];
   }
 }

@@ -14,12 +14,11 @@ export interface SemesterProps {
 }
 
 const Semester: React.FC<SemesterProps> = ({ semesterData }) => {
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const classes = useStyles();
   const { name, courses } = semesterData;
 
   return (
-    <details open={true}>
+    <details open={true} className={classes.root}>
       <summary>{name}</summary>
       {courses.map((c) => (
         <Course courseData={c} key={c.courseName} />

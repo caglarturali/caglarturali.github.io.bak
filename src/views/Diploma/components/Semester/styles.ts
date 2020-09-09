@@ -3,4 +3,8 @@
  */
 import { Styles } from 'react-jss';
 
-export default {} as Styles;
+export default {
+  root: {
+    marginBottom: '20px',
+  },
+} as Styles;

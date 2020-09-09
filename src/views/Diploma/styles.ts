@@ -19,15 +19,14 @@ export default {
   contents: {
     '&>details': {
       cursor: 'pointer',
-      padding: '10px 4px',
-      marginBottom: '20px',
+      padding: '10px 0',
       '& summary': {
         border: 'none',
         outline: 'none',
       },
     },
   },
-  optional: {
+  extra: {
     '&>li': {
       marginLeft: '20px',
     },

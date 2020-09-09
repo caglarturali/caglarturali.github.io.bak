@@ -20,8 +20,20 @@ export interface DiplomaProps {
 
 const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   const classes = useStyles();
-  const { terms, optional } = diplomaData;
+  const { terms, extras } = diplomaData;
   const { diploma: diplomaStatic } = staticData;
+
+  const renderExtra = (extra: DiplomaTypes.Extra) => {
+    const { title, books } = extra;
+    return (
+      <details className={classes.extra} key={title}>
+        <summary>{title}</summary>
+        {books.map((book) => (
+          <Book bookData={book} key={book.name} />
+        ))}
+      </details>
+    );
+  };
 
   return (
     <Container title="Diploma" seo={{ title: diplomaStatic.title }}>
@@ -34,20 +46,14 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
         <FontAwesomeIcon icon="question-circle" />
       </h2>
       <div className={classes.contents}>
+        {/* Extras */}
+        {extras.map((e) => renderExtra(e))}
+
         {/* Base Curriculum */}
         {terms.map((t) => (
           <Semester semesterData={t} key={t.name} />
         ))}
-
-        {/* Optional Reading */}
-        <details className={classes.optional}>
-          <summary>Optional Reading</summary>
-          {optional.map((book) => (
-            <Book bookData={book} key={book.name} />
-          ))}
-        </details>
       </div>
-
       <ReactTooltip />
     </Container>
   );
