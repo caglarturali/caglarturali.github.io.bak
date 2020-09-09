@@ -5,6 +5,7 @@ import { Styles } from 'react-jss';
 
 export default {
   root: {
-    marginBottom: '20px',
+    marginTop: '10px',
+    marginBottom: '10px',
   },
 } as Styles;
