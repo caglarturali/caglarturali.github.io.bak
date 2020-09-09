@@ -417,48 +417,40 @@
           ]
         }
       ]
+    }
+  ],
+  "optional": [
+    {
+      "name": "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",
+      "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
+      "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
+      "startDate": "",
+      "endDate": "",
+      "progress": 0
     },
     {
-      "name": "Optional Reading",
-      "courses": [
-        {
-          "courseName": "Electives",
-          "books": [
-            {
-              "name": "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",
-              "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Linux: The Complete Reference",
-              "url": "https://www.goodreads.com/book/show/16825197-linux",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Peopleware: Productive Projects and Teams",
-              "url": "https://www.goodreads.com/book/show/18895165-peopleware",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "The UNIX Programming Environment",
-              "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            }
-          ]
-        }
-      ]
+      "name": "Linux: The Complete Reference",
+      "url": "https://www.goodreads.com/book/show/16825197-linux",
+      "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg",
+      "startDate": "",
+      "endDate": "",
+      "progress": 0
+    },
+    {
+      "name": "Peopleware: Productive Projects and Teams",
+      "url": "https://www.goodreads.com/book/show/18895165-peopleware",
+      "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg",
+      "startDate": "",
+      "endDate": "",
+      "progress": 0
+    },
+    {
+      "name": "The UNIX Programming Environment",
+      "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
+      "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
+      "startDate": "",
+      "endDate": "",
+      "progress": 0
     }
   ]
 }

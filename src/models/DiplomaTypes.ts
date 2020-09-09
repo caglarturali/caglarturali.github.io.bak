@@ -1,6 +1,7 @@
 export declare namespace DiplomaTypes {
   export interface Curriculum {
     terms: Semester[];
+    optional: Book[];
   }
 
   export interface Semester {

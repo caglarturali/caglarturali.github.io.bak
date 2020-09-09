@@ -9,6 +9,7 @@ import Container from '../../components/Container';
 import Semester from './components/Semester';
 import { DiplomaTypes, Static } from '../../models';
 import styles from './styles';
+import Book from './components/Semester/Course/Book';
 
 const useStyles = createUseStyles(styles);
 
@@ -19,7 +20,7 @@ export interface DiplomaProps {
 
 const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   const classes = useStyles();
-  const { terms } = diplomaData;
+  const { terms, optional } = diplomaData;
   const { diploma: diplomaStatic } = staticData;
 
   return (
@@ -33,10 +34,20 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
         <FontAwesomeIcon icon="question-circle" />
       </h2>
       <div className={classes.contents}>
+        {/* Base Curriculum */}
         {terms.map((t) => (
           <Semester semesterData={t} key={t.name} />
         ))}
+
+        {/* Optional Reading */}
+        <details className={classes.optional}>
+          <summary>Optional Reading</summary>
+          {optional.map((book) => (
+            <Book bookData={book} key={book.name} />
+          ))}
+        </details>
       </div>
+
       <ReactTooltip />
     </Container>
   );

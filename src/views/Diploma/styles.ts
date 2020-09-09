@@ -27,4 +27,9 @@ export default {
       },
     },
   },
+  optional: {
+    '&>li': {
+      marginLeft: '20px',
+    },
+  },
 } as Styles;
