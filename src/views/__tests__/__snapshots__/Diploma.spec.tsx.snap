@@ -673,7 +673,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 4%; background-color: rgb(152, 195, 121);"
                 />
               </div>
             </summary>
@@ -685,7 +685,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="4% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-10"
@@ -714,7 +714,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 229.2106000059113px;"
                     />
                   </svg>
                 </span>
