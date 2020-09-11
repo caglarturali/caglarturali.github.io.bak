@@ -226,6 +226,19 @@
       "name": "3. Semester",
       "courses": [
         {
+          "courseName": "SWE 512 Operating Systems",
+          "books": [
+            {
+              "name": "Modern Operating Systems",
+              "url": "https://www.goodreads.com/book/show/24106618-modern-operating-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
           "courseName": "SWE 523 Managing Software Development",
           "books": [
             {
@@ -334,6 +347,19 @@
               "name": "Software Engineering: A Practitioner's Approach",
               "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
               "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 555 Artificial Intelligence Techniques",
+          "books": [
+            {
+              "name": "Artificial Intelligence: With an Introduction to Machine Learning, Second Edition",
+              "url": "https://www.goodreads.com/book/show/39294391-artificial-intelligence",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521177920l/39294391._SY475_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
