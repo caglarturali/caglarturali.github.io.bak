@@ -145,8 +145,16 @@
           ]
         },
         {
-          "courseName": "SWE 530 Software Design Process",
+          "courseName": "SWE 525 Software Design and Architecture",
           "books": [
+            {
+              "name": "Software Architecture: Foundations, Theory, and Practice",
+              "url": "https://www.goodreads.com/book/show/6329721-software-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348733397l/6329721.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            },
             {
               "name": "Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility",
               "url": "https://www.goodreads.com/book/show/33221518-software-architecture-for-developers",
@@ -239,12 +247,12 @@
           ]
         },
         {
-          "courseName": "SWE 523 Managing Software Development",
+          "courseName": "SWE 526 Applied Software Architecture",
           "books": [
             {
-              "name": "Introduction to Software Project Management",
-              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
+              "name": "Fundamentals of Software Architecture: An Engineering Approach",
+              "url": "https://www.goodreads.com/book/show/50717789-fundamentals-of-software-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580347327l/50717789._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -388,12 +396,12 @@
           ]
         },
         {
-          "courseName": "SWE 575 Secure Software Development and Software Security",
+          "courseName": "SWE 565 Managing Software Development",
           "books": [
             {
-              "name": "Security for Software Engineers",
-              "url": "https://www.goodreads.com/book/show/43305216-security-for-software-engineers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg",
+              "name": "Introduction to Software Project Management",
+              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -401,20 +409,12 @@
           ]
         },
         {
-          "courseName": "SWE 580 User Interface Design",
+          "courseName": "SWE 575 Secure Software Development and Software Security",
           "books": [
             {
-              "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
-              "url": "https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "User Interface Design for Programmers",
-              "url": "https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg",
+              "name": "Security for Software Engineers",
+              "url": "https://www.goodreads.com/book/show/43305216-security-for-software-engineers",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg",
               "startDate": "",
               "endDate": "",
               "progress": 0
@@ -463,6 +463,14 @@
       "title": "Optional Reading",
       "books": [
         {
+          "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+          "url": "https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited",
+          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg",
+          "startDate": "",
+          "endDate": "",
+          "progress": 0
+        },
+        {
           "name": "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",
           "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
           "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
@@ -490,6 +498,14 @@
           "name": "The UNIX Programming Environment",
           "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
           "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
+          "startDate": "",
+          "endDate": "",
+          "progress": 0
+        },
+        {
+          "name": "User Interface Design for Programmers",
+          "url": "https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers",
+          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg",
           "startDate": "",
           "endDate": "",
           "progress": 0
