@@ -5,13 +5,8 @@ exports[`<Diploma /> should render correctly 1`] = `
   <div
     class="root-0-2-5"
   >
-    <h2
-      class="title-0-2-6"
-    >
-      Diploma
-    </h2>
     <div
-      class="content-0-2-7"
+      class="content-0-2-6"
     >
       <h2
         class="title-0-2-1"
@@ -48,14 +43,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             Guides
           </summary>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -88,7 +83,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -115,14 +110,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             Optional Reading
           </summary>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -155,7 +150,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -175,14 +170,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -215,7 +210,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -235,14 +230,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -275,7 +270,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="Linux: The Complete Reference"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -295,14 +290,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -335,7 +330,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="Peopleware: Productive Projects and Teams"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -355,14 +350,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -395,7 +390,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="The UNIX Programming Environment"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -415,14 +410,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-9"
+            class="bookItem-0-2-8"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-10"
+                class="CircularProgressbar progress-0-2-9"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -455,7 +450,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <a
               aria-label="User Interface Design for Programmers"
               currentitem="false"
-              data-class="toolTip-0-2-8"
+              data-class="toolTip-0-2-7"
               data-html="true"
               data-place="right"
               data-tip="
@@ -476,14 +471,14 @@ exports[`<Diploma /> should render correctly 1`] = `
           </li>
         </details>
         <details
-          class="root-0-2-11"
+          class="root-0-2-10"
           open=""
         >
           <summary>
             1. Semester
           </summary>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -498,17 +493,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="20% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -541,7 +536,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Head First Object-Oriented Analysis and Design"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -563,7 +558,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -578,17 +573,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -621,7 +616,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Algorithms in a Nutshell: A Practical Guide"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -641,14 +636,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -681,7 +676,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Introduction to Algorithms"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -703,7 +698,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -718,17 +713,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="8% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -761,7 +756,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Engineering, Tenth Edition"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -783,7 +778,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -798,17 +793,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="7% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -841,7 +836,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Computer Organization and Architecture: Designing for Performance"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -863,7 +858,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -878,17 +873,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -921,7 +916,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Head First Algebra: A Learner's Guide to Algebra I"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -943,7 +938,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -958,17 +953,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1001,7 +996,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Art of Computer Programming, Volume 1: Fundamental Algorithms"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1021,14 +1016,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1061,7 +1056,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Practice of Programming"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1081,14 +1076,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1121,7 +1116,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1144,14 +1139,14 @@ exports[`<Diploma /> should render correctly 1`] = `
           </details>
         </details>
         <details
-          class="root-0-2-11"
+          class="root-0-2-10"
           open=""
         >
           <summary>
             2. Semester
           </summary>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1166,17 +1161,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1209,7 +1204,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1229,14 +1224,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1269,7 +1264,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Fundamentals of Database Systems"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1291,7 +1286,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1306,17 +1301,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1349,7 +1344,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Requirements Engineering for Software and Systems"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1371,7 +1366,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1386,17 +1381,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1429,7 +1424,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Architecture: Foundations, Theory, and Practice"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1449,14 +1444,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1489,7 +1484,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1509,14 +1504,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1549,7 +1544,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1571,7 +1566,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1586,17 +1581,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1629,7 +1624,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Head First Software Development"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1651,7 +1646,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1666,17 +1661,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1709,7 +1704,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1731,7 +1726,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1746,17 +1741,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1789,7 +1784,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1809,14 +1804,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1849,7 +1844,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Code Complete: A Practical Handbook of Software Construction"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1869,14 +1864,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1909,7 +1904,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Art of Computer Programming, Volume 2: Seminumerical Algorithms"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -1932,14 +1927,14 @@ exports[`<Diploma /> should render correctly 1`] = `
           </details>
         </details>
         <details
-          class="root-0-2-11"
+          class="root-0-2-10"
           open=""
         >
           <summary>
             3. Semester
           </summary>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -1954,17 +1949,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1997,7 +1992,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Modern Operating Systems"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2019,7 +2014,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2034,17 +2029,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2077,7 +2072,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Fundamentals of Software Architecture: An Engineering Approach"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2099,7 +2094,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2114,17 +2109,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2157,7 +2152,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2179,7 +2174,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2194,17 +2189,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2237,7 +2232,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Verification and Validation for Practitioners and Managers"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2259,7 +2254,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2274,17 +2269,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2317,7 +2312,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Design Patterns: Elements of Reusable Object-Oriented Software"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2337,14 +2332,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2377,7 +2372,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Head First Design Patterns"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2399,7 +2394,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2414,17 +2409,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2457,7 +2452,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2477,14 +2472,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2517,7 +2512,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Refactoring: Improving the Design of Existing Code"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2537,14 +2532,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2577,7 +2572,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Art of Computer Programming, Volume 3: Sorting and Searching"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2600,14 +2595,14 @@ exports[`<Diploma /> should render correctly 1`] = `
           </details>
         </details>
         <details
-          class="root-0-2-11"
+          class="root-0-2-10"
           open=""
         >
           <summary>
             4. Semester
           </summary>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2622,17 +2617,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2665,7 +2660,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Agile Software Development: Principles, Patterns, and Practices"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2685,14 +2680,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2725,7 +2720,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Engineering: A Practitioner's Approach"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2747,7 +2742,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2762,17 +2757,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2805,7 +2800,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Artificial Intelligence: With an Introduction to Machine Learning, Second Edition"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2827,7 +2822,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2842,17 +2837,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2885,7 +2880,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Measurement and Estimation: A Practical Approach"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2905,14 +2900,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2945,7 +2940,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Software Metrics: A Rigorous and Practical Approach"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -2967,7 +2962,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -2982,17 +2977,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3025,7 +3020,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Introduction to Software Project Management"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -3047,7 +3042,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -3062,17 +3057,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3105,7 +3100,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="Security for Software Engineers"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -3127,7 +3122,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </div>
           </details>
           <details
-            class="courseDetails-0-2-12"
+            class="courseDetails-0-2-11"
           >
             <summary>
               <span>
@@ -3142,17 +3137,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-13"
+              class="bookPanel-0-2-12"
             >
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3185,7 +3180,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="
@@ -3205,14 +3200,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-9"
+                class="bookItem-0-2-8"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-10"
+                    class="CircularProgressbar progress-0-2-9"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3245,7 +3240,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 <a
                   aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
                   currentitem="false"
-                  data-class="toolTip-0-2-8"
+                  data-class="toolTip-0-2-7"
                   data-html="true"
                   data-place="right"
                   data-tip="

@@ -5,18 +5,16 @@ import { Styles } from 'react-jss';
 import {
   leftBarWidth,
   desktopBreakpoint,
-  green,
   midBlue,
   textLightBlue,
   textMid,
-  mlSize,
   mSize,
 } from '../../theme';
 
 export default {
   root: {
     marginBottom: '64px',
-    marginTop: '36px',
+    marginTop: '20px',
     marginLeft: leftBarWidth,
     maxWidth: '960px',
     padding: '20px',
@@ -28,15 +26,6 @@ export default {
     },
     [`@media screen and (max-width: ${desktopBreakpoint})`]: {
       marginLeft: 0,
-    },
-  },
-  title: {
-    color: green,
-    fontSize: mlSize,
-    margin: 0,
-    padding: 0,
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
-      fontSize: mSize,
     },
   },
   content: {

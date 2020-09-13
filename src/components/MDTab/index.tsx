@@ -23,7 +23,7 @@ const MDTab: React.FC<MDTabProps> = ({ fileName }) => {
   }, [fileName]);
 
   return (
-    <Container title={fileName} seo={{ title: fileName }}>
+    <Container seo={{ title: fileName }}>
       <ReactMarkdown source={contents} />
     </Container>
   );

@@ -36,7 +36,7 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   };
 
   return (
-    <Container title="Diploma" seo={{ title: diplomaStatic.title }}>
+    <Container seo={{ title: diplomaStatic.title }}>
       <h2
         data-tip={diplomaStatic.info}
         data-class={classes.tip}

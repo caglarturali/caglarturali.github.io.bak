@@ -5,13 +5,8 @@ exports[`<MDPage /> should render correctly 1`] = `
   <div
     class="root-0-2-1"
   >
-    <h2
-      class="title-0-2-2"
-    >
-      skills
-    </h2>
     <div
-      class="content-0-2-3"
+      class="content-0-2-2"
     />
   </div>
 </DocumentFragment>
