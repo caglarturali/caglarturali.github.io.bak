@@ -9,27 +9,30 @@
 
 ### Programming languages / tech stacks
 
-- JavaScript/TypeScript
-- React/React Native
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Docker
-- Golang (newcomer)
-- Java (~1 year)
-- C#/.NET (3+ years)
-- PHP (~3 years)
+- In modern times:
+  - Flutter/Dart
+  - JavaScript/TypeScript (2+ years)
+    - React.js
+    - Node.js
+    - Express.js
+    - MongoDB
+  - Golang (newcomer)
+  - Docker
+- In ancient times:
+  - Java (~1 year)
+  - C#/.NET (3+ years)
+  - PHP/MySQL (~3 years)
 
 ### Preferences
 
-- Debian/Ubuntu based Linux distros 🐧
-- Zshell 💻
-- VSCode ¯\\_(ツ)_/¯
+- [macOS on PC hardware](https://wikipedia.org/wiki/Hackintosh) 🙈 || [elementary OS](https://elementary.io/) 🐧
+- [Zshell](https://en.wikipedia.org/wiki/Z_shell) 💻
+- [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
 
 ### Special interests
 
 - Cycling 🚴‍♂️
-- Electronic music production
-- Entrepreneurship
-- Technical documentaries
+- Electronic music production 🎧
+- Entrepreneurship 👨🏻‍💻
+- Technical documentaries 🎥
