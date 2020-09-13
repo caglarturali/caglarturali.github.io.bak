@@ -12,7 +12,7 @@ export default {
     },
   },
   tip: {
-    maxWidth: '300px',
+    maxWidth: '360px',
     fontSize: '1.5rem',
     lineHeight: '2rem',
   },
