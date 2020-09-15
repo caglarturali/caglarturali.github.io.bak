@@ -19,11 +19,19 @@ export default {
   contents: {
     '&>details': {
       cursor: 'pointer',
+      // Find a proper solution!
+      display: 'block',
+      float: 'left',
+      clear: 'left',
+      // ---
       padding: '10px 0',
       '& summary': {
         border: 'none',
         outline: 'none',
       },
+    },
+    '&>details:last-child': {
+      marginBottom: '64px',
     },
   },
   extra: {
