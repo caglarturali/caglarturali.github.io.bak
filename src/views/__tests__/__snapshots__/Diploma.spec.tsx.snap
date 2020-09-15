@@ -702,6 +702,86 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
+                SWE 512 Operating Systems
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-12"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-9"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Modern Operating Systems"
+                  currentitem="false"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg\\" 
+        alt=\\"Modern Operating Systems book cover\\"
+        aria-label=\\"Modern Operating Systems book cover\\"
+        />
+    </div>
+  "
+                  href="https://www.goodreads.com/book/show/24106618-modern-operating-systems"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Modern Operating Systems
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-11"
+          >
+            <summary>
+              <span>
                 SWE 513 Principles of Software Engineering
               </span>
               <div
@@ -773,86 +853,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Software Engineering, Tenth Edition
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-11"
-          >
-            <summary>
-              <span>
-                SWE 514 Computer Systems
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 8%; background-color: rgb(152, 195, 121);"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-12"
-            >
-              <li
-                class="bookItem-0-2-8"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="8% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-9"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 219.66015833899834px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Computer Organization and Architecture: Designing for Performance"
-                  currentitem="false"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
-        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
-        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Computer Organization and Architecture: Designing for Performance
                 </a>
               </li>
             </div>
@@ -1938,13 +1938,13 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 512 Operating Systems
+                SWE 514 Computer Systems
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 8%; background-color: rgb(152, 195, 121);"
                 />
               </div>
             </summary>
@@ -1956,7 +1956,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="8% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1985,12 +1985,12 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 219.66015833899834px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Modern Operating Systems"
+                  aria-label="Computer Organization and Architecture: Designing for Performance"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1998,17 +1998,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg\\" 
-        alt=\\"Modern Operating Systems book cover\\"
-        aria-label=\\"Modern Operating Systems book cover\\"
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
+        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24106618-modern-operating-systems"
+                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Modern Operating Systems
+                  Computer Organization and Architecture: Designing for Performance
                 </a>
               </li>
             </div>

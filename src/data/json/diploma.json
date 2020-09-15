@@ -38,6 +38,19 @@
           ]
         },
         {
+          "courseName": "SWE 512 Operating Systems",
+          "books": [
+            {
+              "name": "Modern Operating Systems",
+              "url": "https://www.goodreads.com/book/show/24106618-modern-operating-systems",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg",
+              "startDate": "",
+              "endDate": "",
+              "progress": 0
+            }
+          ]
+        },
+        {
           "courseName": "SWE 513 Principles of Software Engineering",
           "books": [
             {
@@ -45,19 +58,6 @@
               "url": "https://www.goodreads.com/book/show/27151340-software-engineering",
               "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg",
               "startDate": "2020-08-30",
-              "endDate": "",
-              "progress": 8
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 514 Computer Systems",
-          "books": [
-            {
-              "name": "Computer Organization and Architecture: Designing for Performance",
-              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
-              "startDate": "",
               "endDate": "",
               "progress": 8
             }
@@ -234,15 +234,15 @@
       "name": "3. Semester",
       "courses": [
         {
-          "courseName": "SWE 512 Operating Systems",
+          "courseName": "SWE 514 Computer Systems",
           "books": [
             {
-              "name": "Modern Operating Systems",
-              "url": "https://www.goodreads.com/book/show/24106618-modern-operating-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg",
+              "name": "Computer Organization and Architecture: Designing for Performance",
+              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
+              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
               "startDate": "",
               "endDate": "",
-              "progress": 0
+              "progress": 8
             }
           ]
         },
