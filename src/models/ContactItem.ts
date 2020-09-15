@@ -5,4 +5,5 @@ export interface ContactItem extends Linkable {
   icon: string | string[];
   url: string;
   isMain?: boolean;
+  badge?: any;
 }

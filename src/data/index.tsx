@@ -9,6 +9,8 @@ import contactData from './json/contact.json';
 import diplomaData from './json/diploma.json';
 import pkg from '../../package.json';
 
+import { calculateDiplomaProgress } from '../utils';
+
 export const pages: PageLink[] = [
   {
     name: 'Home',
@@ -28,6 +30,7 @@ export const pages: PageLink[] = [
     url: '/diploma',
     icon: 'graduation-cap',
     isInternal: true,
+    badge: `${calculateDiplomaProgress(diplomaData, 0)}%`,
     comp: () => <Diploma diplomaData={diplomaData} staticData={staticData} />,
   },
 ];

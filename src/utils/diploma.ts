@@ -6,21 +6,25 @@ export const calculateCourseProgress = (course: DiplomaTypes.Course) => {
   return Math.min(highest, 100);
 };
 
-const progressAverage = (nums: number[], precision = 1) => {
+const progressAverage = (nums: number[], precision: number) => {
   const totalPercentage = nums.reduce((prev, current) => prev + current, 0);
   return parseFloat((totalPercentage / nums.length).toFixed(precision));
 };
 
-export const calculateSemesterProgress = (semester: DiplomaTypes.Semester) => {
+export const calculateSemesterProgress = (
+  semester: DiplomaTypes.Semester,
+  precision = 1,
+) => {
   const { courses } = semester;
   const progresses = courses.map((c) => calculateCourseProgress(c));
-  return progressAverage(progresses);
+  return progressAverage(progresses, precision);
 };
 
 export const calculateDiplomaProgress = (
   diplomaData: DiplomaTypes.Curriculum,
+  precision = 1,
 ) => {
   const { terms } = diplomaData;
   const progresses = terms.map((t) => calculateSemesterProgress(t));
-  return progressAverage(progresses);
+  return progressAverage(progresses, precision);
 };

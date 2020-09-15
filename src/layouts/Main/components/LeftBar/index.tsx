@@ -18,11 +18,12 @@ const LeftBar: React.FC<LeftBarProps> = ({ contactData }) => {
   const classes = useStyles();
 
   // Internal links.
-  const internals = pages.map(({ name, url, icon, isInternal }) => ({
+  const internals = pages.map(({ name, url, icon, isInternal, badge }) => ({
     name,
     url,
     icon,
     isInternal,
+    badge,
   }));
 
   const bottom: ContactItem[] = [

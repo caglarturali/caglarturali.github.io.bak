@@ -11,15 +11,24 @@ import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-const IconLink: React.FC<ContactItem> = ({ name, url, icon, isInternal }) => {
+const IconLink: React.FC<ContactItem> = ({
+  name,
+  url,
+  icon,
+  isInternal,
+  badge,
+}) => {
   const classes = useStyles();
 
   const iconComp = (
-    <FontAwesomeIcon
-      className={classes.icon}
-      icon={icon as IconProp}
-      size="lg"
-    />
+    <span className={classes.iconWrapper}>
+      <FontAwesomeIcon
+        className={classes.icon}
+        icon={icon as IconProp}
+        size="lg"
+      />
+      {badge && <span className={classes.badge}>{badge}</span>}
+    </span>
   );
 
   if (isInternal) {
@@ -27,7 +36,7 @@ const IconLink: React.FC<ContactItem> = ({ name, url, icon, isInternal }) => {
       <Link
         to={url}
         key={`left-bar-${name}`}
-        className={classes.item}
+        className={classes.link}
         aria-label={`${name} page`}
         title={`${name} page`}
       >
@@ -40,7 +49,7 @@ const IconLink: React.FC<ContactItem> = ({ name, url, icon, isInternal }) => {
     <a
       href={url}
       key={`left-bar-${name}`}
-      className={classes.item}
+      className={classes.link}
       aria-label={`Find me on ${name}`}
       title={`Find me on ${name}`}
       target="_blank"
