@@ -8,8 +8,8 @@ import ReactTooltip from 'react-tooltip';
 import Container from '../../components/Container';
 import Semester from './components/Semester';
 import { DiplomaTypes, Static } from '../../models';
-import styles from './styles';
 import Book from './components/Semester/Course/Book';
+import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 

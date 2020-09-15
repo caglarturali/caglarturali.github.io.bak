@@ -4,27 +4,30 @@
 import React from 'react';
 import { createUseStyles } from 'react-jss';
 import ProgressBar from '../../../../../components/ProgressBar';
-import { DiplomaTypes } from '../../../../../models';
+import { DetailsPanel, DiplomaTypes } from '../../../../../models';
 import Book from './Book';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
-export interface CourseProps {
+export interface CourseProps extends DetailsPanel {
   courseData: DiplomaTypes.Course;
+  progress: number;
 }
 
-const Course: React.FC<CourseProps> = ({ courseData }) => {
+const Course: React.FC<CourseProps> = ({
+  courseData,
+  progress,
+  showDetails = false,
+}) => {
   const classes = useStyles();
   const { courseName, books } = courseData;
 
-  const courseMaxProgress = Math.max(...books.map((b) => b.progress));
-
   return (
-    <details open={false} className={classes.courseDetails}>
+    <details open={showDetails} className={classes.courseDetails}>
       <summary>
         <span>{courseName}</span>
-        <ProgressBar value={courseMaxProgress} />
+        <ProgressBar value={progress} />
       </summary>
       <div className={classes.bookPanel}>
         {books.map((book) => (
