@@ -5,6 +5,7 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { DetailsPanel, DiplomaTypes } from '../../../../models';
 import Course from './Course';
+import { calculateCourseProgress } from '../../../../utils';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -19,11 +20,6 @@ const Semester: React.FC<SemesterProps> = ({
 }) => {
   const classes = useStyles();
   const { name, courses } = semesterData;
-
-  const calculateCourseProgress = (course: DiplomaTypes.Course) => {
-    const highest = Math.max(...course.books.map((b) => b.progress));
-    return Math.min(highest, 100);
-  };
 
   return (
     <details open={showDetails} className={classes.root}>
