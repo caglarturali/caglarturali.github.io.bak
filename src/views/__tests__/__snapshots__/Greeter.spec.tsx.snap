@@ -58,6 +58,9 @@ exports[`<Greeter /> should render correctly 1`] = `
             >
               Follow @caglarturali
             </span>
+            <span
+              class="count-0-2-9"
+            />
           </span>
         </a>
         <a
@@ -91,6 +94,9 @@ exports[`<Greeter /> should render correctly 1`] = `
             >
               Star
             </span>
+            <span
+              class="count-0-2-9"
+            />
           </span>
         </a>
       </div>

@@ -33,6 +33,9 @@ exports[`<GHButton /> should render correctly 1`] = `
       >
         Follow @caglarturali on GitHub
       </span>
+      <span
+        class="count-0-2-4"
+      />
     </span>
   </a>
 </DocumentFragment>
