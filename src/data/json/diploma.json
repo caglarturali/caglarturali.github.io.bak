@@ -7,11 +7,7 @@
           "courseName": "SWE 501 Introduction to Object Oriented Programming",
           "books": [
             {
-              "name": "Head First Object-Oriented Analysis and Design",
-              "url": "https://www.goodreads.com/book/show/19561698-head-first-object-oriented-analysis-and-design",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387662212l/19561698.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0596008678", "9780596008673"],
               "progress": 20
             }
           ]
@@ -20,19 +16,11 @@
           "courseName": "SWE 510 Data Structures and Algorithms",
           "books": [
             {
-              "name": "Algorithms in a Nutshell: A Practical Guide",
-              "url": "https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1491912987", "9781491912980"],
               "progress": 0
             },
             {
-              "name": "Introduction to Algorithms",
-              "url": "https://www.goodreads.com/book/show/18657578-introduction-to-algorithms",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0262258102", "9780262258104"],
               "progress": 0
             }
           ]
@@ -41,11 +29,7 @@
           "courseName": "SWE 512 Operating Systems",
           "books": [
             {
-              "name": "Modern Operating Systems",
-              "url": "https://www.goodreads.com/book/show/24106618-modern-operating-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["013359162X", "9780133591620"],
               "progress": 4
             }
           ]
@@ -54,11 +38,7 @@
           "courseName": "SWE 513 Principles of Software Engineering",
           "books": [
             {
-              "name": "Software Engineering, Tenth Edition",
-              "url": "https://www.goodreads.com/book/show/27151340-software-engineering",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg",
-              "startDate": "2020-08-30",
-              "endDate": "",
+              "isbn": ["0133943038", "9780133943030"],
               "progress": 8
             }
           ]
@@ -67,11 +47,7 @@
           "courseName": "SWM 501 Mathematics for Computer Science I",
           "books": [
             {
-              "name": "Head First Algebra: A Learner's Guide to Algebra I",
-              "url": "https://www.goodreads.com/book/show/19226291-head-first-algebra",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386305575l/19226291.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0596514867", "9780596514860"],
               "progress": 0
             }
           ]
@@ -80,27 +56,15 @@
           "courseName": "SWX 501 Computing Classics I",
           "books": [
             {
-              "name": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
-              "url": "https://www.goodreads.com/book/show/28928219-the-art-of-computer-programming",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454534947l/28928219._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0321635744", "9780321635747"],
               "progress": 0
             },
             {
-              "name": "The Practice of Programming",
-              "url": "https://www.goodreads.com/book/show/20722071-the-practice-of-programming",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890468l/20722071.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["020161586X", "9780201615869"],
               "progress": 0
             },
             {
-              "name": "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition",
-              "url": "https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417439l/52715562._SX318_SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0135956919", "9780135956915"],
               "progress": 0
             }
           ]
@@ -114,19 +78,11 @@
           "courseName": "SWE 521 Database Systems",
           "books": [
             {
-              "name": "Database Systems: A Practical Approach to Design, Implementation and Management",
-              "url": "https://www.goodreads.com/book/show/41532004-database-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1292061847", "9781292061849"],
               "progress": 0
             },
             {
-              "name": "Fundamentals of Database Systems",
-              "url": "https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1292097620", "9781292097626"],
               "progress": 0
             }
           ]
@@ -135,11 +91,7 @@
           "courseName": "SWE 522 Software Requirements Engineering",
           "books": [
             {
-              "name": "Requirements Engineering for Software and Systems",
-              "url": "https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1315303698", "9781315303697"],
               "progress": 0
             }
           ]
@@ -148,27 +100,7 @@
           "courseName": "SWE 525 Software Design and Architecture",
           "books": [
             {
-              "name": "Software Architecture: Foundations, Theory, and Practice",
-              "url": "https://www.goodreads.com/book/show/6329721-software-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348733397l/6329721.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility",
-              "url": "https://www.goodreads.com/book/show/33221518-software-architecture-for-developers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
-              "progress": 0
-            },
-            {
-              "name": "Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture",
-              "url": "https://www.goodreads.com/book/show/33221619-software-architecture-for-developers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480624025l/33221619._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0470167742", "9780470167748"],
               "progress": 0
             }
           ]
@@ -177,11 +109,7 @@
           "courseName": "SWE 573 Software Development Practice",
           "books": [
             {
-              "name": "Head First Software Development",
-              "url": "https://www.goodreads.com/book/show/18927880-head-first-software-development",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389363307l/18927880.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0596527357", "9780596527358"],
               "progress": 0
             }
           ]
@@ -190,11 +118,7 @@
           "courseName": "SWM 502 Mathematics for Computer Science II",
           "books": [
             {
-              "name": "Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer",
-              "url": "https://www.goodreads.com/book/show/40195184-fundamentals-of-discrete-math-for-computer-science",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527028716l/40195184._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["3319701517", "9783319701516"],
               "progress": 0
             }
           ]
@@ -203,27 +127,15 @@
           "courseName": "SWX 502 Computing Classics II",
           "books": [
             {
-              "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
-              "url": "https://www.goodreads.com/book/show/6607720-clean-code",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596157778l/6607720._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0136083250", "9780136083252"],
               "progress": 0
             },
             {
-              "name": "Code Complete: A Practical Handbook of Software Construction",
-              "url": "https://www.goodreads.com/book/show/21899045-code-complete",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397317998l/21899045.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["9350041243", "9789350041246"],
               "progress": 0
             },
             {
-              "name": "The Art of Computer Programming, Volume 2: Seminumerical Algorithms",
-              "url": "https://www.goodreads.com/book/show/29390889-art-of-computer-programming-volume-2",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456899805l/29390889._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0321635760", "9780321635761"],
               "progress": 0
             }
           ]
@@ -237,11 +149,7 @@
           "courseName": "SWE 514 Computer Systems",
           "books": [
             {
-              "name": "Computer Organization and Architecture: Designing for Performance",
-              "url": "https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1292096861", "9781292096865"],
               "progress": 8
             }
           ]
@@ -250,11 +158,7 @@
           "courseName": "SWE 526 Applied Software Architecture",
           "books": [
             {
-              "name": "Fundamentals of Software Architecture: An Engineering Approach",
-              "url": "https://www.goodreads.com/book/show/50717789-fundamentals-of-software-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580347327l/50717789._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1492043427", "9781492043423"],
               "progress": 0
             }
           ]
@@ -263,11 +167,7 @@
           "courseName": "SWE 550 Software Quality Assurance and Reliability",
           "books": [
             {
-              "name": "Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement",
-              "url": "https://www.goodreads.com/book/show/243903.Software_Quality_Engineering",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0471722332", "9780471722335"],
               "progress": 0
             }
           ]
@@ -276,11 +176,7 @@
           "courseName": "SWE 551 Software Verification and Validation",
           "books": [
             {
-              "name": "Software Verification and Validation for Practitioners and Managers",
-              "url": "https://www.goodreads.com/book/show/29969968-software-verification-and-validation-for-practitioners-and-managers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461232446l/29969968._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1580532969", "9781580532969"],
               "progress": 0
             }
           ]
@@ -289,19 +185,11 @@
           "courseName": "SWE 557 Patterns in Software Engineering",
           "books": [
             {
-              "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
-              "url": "https://www.goodreads.com/book/show/8732565-design-patterns",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328347527l/8732565.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0321700694", "9780321700698"],
               "progress": 0
             },
             {
-              "name": "Head First Design Patterns",
-              "url": "https://www.goodreads.com/book/show/17374834-head-first-design-patterns",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360888250l/17374834.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0596800746", "9780596800741"],
               "progress": 0
             }
           ]
@@ -310,27 +198,15 @@
           "courseName": "SWX 503 Computing Classics III",
           "books": [
             {
-              "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
-              "url": "https://www.goodreads.com/book/show/36239393-clean-architecture",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505400487l/36239393._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0134494164", "9780134494166"],
               "progress": 0
             },
             {
-              "name": "Refactoring: Improving the Design of Existing Code",
-              "url": "https://www.goodreads.com/book/show/43242144-refactoring",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544902912l/43242144._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0201485672", "9780201485677"],
               "progress": 0
             },
             {
-              "name": "The Art of Computer Programming, Volume 3: Sorting and Searching",
-              "url": "https://www.goodreads.com/book/show/23435546-the-art-of-computer-programming-volume-3",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413993179l/23435546.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0321635787", "9780321635785"],
               "progress": 0
             }
           ]
@@ -344,19 +220,11 @@
           "courseName": "SWE 542 Advanced Software Engineering",
           "books": [
             {
-              "name": "Agile Software Development: Principles, Patterns, and Practices",
-              "url": "https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1292025948", "9781292025940"],
               "progress": 0
             },
             {
-              "name": "Software Engineering: A Practitioner's Approach",
-              "url": "https://www.goodreads.com/book/show/24062830-software-engineering",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["007769774X", "9780077697747"],
               "progress": 0
             }
           ]
@@ -365,11 +233,7 @@
           "courseName": "SWE 555 Artificial Intelligence Techniques",
           "books": [
             {
-              "name": "Artificial Intelligence: With an Introduction to Machine Learning, Second Edition",
-              "url": "https://www.goodreads.com/book/show/39294391-artificial-intelligence",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521177920l/39294391._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1351384384", "9781351384384"],
               "progress": 0
             }
           ]
@@ -378,19 +242,11 @@
           "courseName": "SWE 560 Software Metrics and Models",
           "books": [
             {
-              "name": "Software Measurement and Estimation: A Practical Approach",
-              "url": "https://www.goodreads.com/book/show/20741029-software-measurement-and-estimation",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391662288l/20741029.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0471792527", "9780471792529"],
               "progress": 0
             },
             {
-              "name": "Software Metrics: A Rigorous and Practical Approach",
-              "url": "https://www.goodreads.com/book/show/2847653-software-metrics",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267315738l/2847653.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1439838232", "9781439838235"],
               "progress": 0
             }
           ]
@@ -399,11 +255,7 @@
           "courseName": "SWE 565 Managing Software Development",
           "books": [
             {
-              "name": "Introduction to Software Project Management",
-              "url": "https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["1466559543", "9781466559547"],
               "progress": 0
             }
           ]
@@ -412,11 +264,7 @@
           "courseName": "SWE 575 Secure Software Development and Software Security",
           "books": [
             {
-              "name": "Security for Software Engineers",
-              "url": "https://www.goodreads.com/book/show/43305216-security-for-software-engineers",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0429014430", "9780429014437"],
               "progress": 0
             }
           ]
@@ -425,19 +273,11 @@
           "courseName": "SWX 504 Computing Classics IV",
           "books": [
             {
-              "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
-              "url": "https://www.goodreads.com/book/show/23435548-the-art-of-computer-programming-volume-4a",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442382280l/23435548._SX318_.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0133488853", "9780133488852"],
               "progress": 0
             },
             {
-              "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
-              "url": "https://www.goodreads.com/book/show/11486819-the-clean-coder",
-              "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328340563l/11486819.jpg",
-              "startDate": "",
-              "endDate": "",
+              "isbn": ["0132542889", "9780132542883"],
               "progress": 0
             }
           ]
@@ -447,67 +287,40 @@
   ],
   "extras": [
     {
-      "title": "Guides",
+      "name": "Guides",
       "books": [
         {
-          "name": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
-          "url": "https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg",
-          "startDate": "",
-          "endDate": "",
+          "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
+          "isbn": ["0769551661", "9780769551661"],
           "progress": 0
         }
       ]
     },
     {
-      "title": "Optional Reading",
+      "name": "Optional Reading",
       "books": [
         {
-          "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
-          "url": "https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["0133597261", "9780133597264"],
           "progress": 0
         },
         {
-          "name": "Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",
-          "url": "https://www.goodreads.com/book/show/27797542-hello-startup",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["1491910046", "9781491910047"],
           "progress": 0
         },
         {
-          "name": "Linux: The Complete Reference",
-          "url": "https://www.goodreads.com/book/show/16825197-linux",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["007159664X", "9780071596640"],
           "progress": 0
         },
         {
-          "name": "Peopleware: Productive Projects and Teams",
-          "url": "https://www.goodreads.com/book/show/18895165-peopleware",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["0133440737", "9780133440737"],
           "progress": 0
         },
         {
-          "name": "The UNIX Programming Environment",
-          "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["013937681X", "9780139376818"],
           "progress": 0
         },
         {
-          "name": "User Interface Design for Programmers",
-          "url": "https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers",
-          "coverImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg",
-          "startDate": "",
-          "endDate": "",
+          "isbn": ["1430208570", "9781430208570"],
           "progress": 0
         }
       ]
