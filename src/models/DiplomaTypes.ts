@@ -15,16 +15,13 @@ export declare namespace DiplomaTypes {
   }
 
   export interface Book {
-    name: string;
-    url: string;
-    coverImg: string;
-    startDate: string;
-    endDate: string;
+    isbn: string[];
+    title?: string;
     progress: number;
   }
 
   export interface Extra {
-    title: string;
+    name: string;
     books: Book[];
   }
 }

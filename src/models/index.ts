@@ -1,3 +1,4 @@
+export * from './BookTypes';
 export * from './ContactItem';
 export * from './DetailsPanel';
 export * from './DiplomaTypes';
