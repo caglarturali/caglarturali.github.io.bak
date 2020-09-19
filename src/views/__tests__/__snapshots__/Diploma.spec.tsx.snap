@@ -148,7 +148,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -156,17 +156,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388821399l/20433135.jpg\\" 
-        alt=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
-        aria-label=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/20433135-don-t-make-me-think-revisited"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+              [Book title not found]
             </a>
           </li>
           <li
@@ -208,7 +208,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -216,17 +216,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447214892l/27797542._SY475_.jpg\\" 
-        alt=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
-        aria-label=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/27797542-hello-startup"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams
+              [Book title not found]
             </a>
           </li>
           <li
@@ -268,7 +268,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Linux: The Complete Reference"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -276,17 +276,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410762503l/16825197.jpg\\" 
-        alt=\\"Linux: The Complete Reference book cover\\"
-        aria-label=\\"Linux: The Complete Reference book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/16825197-linux"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              Linux: The Complete Reference
+              [Book title not found]
             </a>
           </li>
           <li
@@ -328,7 +328,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Peopleware: Productive Projects and Teams"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -336,17 +336,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385176352l/18895165.jpg\\" 
-        alt=\\"Peopleware: Productive Projects and Teams book cover\\"
-        aria-label=\\"Peopleware: Productive Projects and Teams book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/18895165-peopleware"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              Peopleware: Productive Projects and Teams
+              [Book title not found]
             </a>
           </li>
           <li
@@ -388,7 +388,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="The UNIX Programming Environment"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -396,17 +396,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469578824l/337338._SX318_.jpg\\" 
-        alt=\\"The UNIX Programming Environment book cover\\"
-        aria-label=\\"The UNIX Programming Environment book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              The UNIX Programming Environment
+              [Book title not found]
             </a>
           </li>
           <li
@@ -448,7 +448,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="User Interface Design for Programmers"
+              aria-label="[Book title not found]"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -456,17 +456,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383453926l/18749287.jpg\\" 
-        alt=\\"User Interface Design for Programmers book cover\\"
-        aria-label=\\"User Interface Design for Programmers book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-              href="https://www.goodreads.com/book/show/18749287-user-interface-design-for-programmers"
+              href=""
               rel="noopener noreferrer"
               target="_blank"
             >
-              User Interface Design for Programmers
+              [Book title not found]
             </a>
           </li>
         </details>
@@ -534,7 +534,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Object-Oriented Analysis and Design"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -542,17 +542,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387662212l/19561698.jpg\\" 
-        alt=\\"Head First Object-Oriented Analysis and Design book cover\\"
-        aria-label=\\"Head First Object-Oriented Analysis and Design book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/19561698-head-first-object-oriented-analysis-and-design"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Object-Oriented Analysis and Design
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -614,7 +614,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Algorithms in a Nutshell: A Practical Guide"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -622,17 +622,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458915969l/29617380._SY475_.jpg\\" 
-        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
-        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/29617380-algorithms-in-a-nutshell"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algorithms in a Nutshell: A Practical Guide
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -674,7 +674,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Algorithms"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -682,17 +682,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384803893l/18657578.jpg\\" 
-        alt=\\"Introduction to Algorithms book cover\\"
-        aria-label=\\"Introduction to Algorithms book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/18657578-introduction-to-algorithms"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Algorithms
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -754,7 +754,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Modern Operating Systems"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -762,17 +762,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419630050l/24106618.jpg\\" 
-        alt=\\"Modern Operating Systems book cover\\"
-        aria-label=\\"Modern Operating Systems book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24106618-modern-operating-systems"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Modern Operating Systems
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -834,7 +834,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Engineering, Tenth Edition"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -842,17 +842,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444600086l/27151340._SX318_.jpg\\" 
-        alt=\\"Software Engineering, Tenth Edition book cover\\"
-        aria-label=\\"Software Engineering, Tenth Edition book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/27151340-software-engineering"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Engineering, Tenth Edition
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -914,7 +914,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Algebra: A Learner's Guide to Algebra I"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -922,17 +922,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386305575l/19226291.jpg\\" 
-        alt=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
-        aria-label=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/19226291-head-first-algebra"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Algebra: A Learner's Guide to Algebra I
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -994,7 +994,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Art of Computer Programming, Volume 1: Fundamental Algorithms"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1002,17 +1002,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454534947l/28928219._SY475_.jpg\\" 
-        alt=\\"The Art of Computer Programming, Volume 1: Fundamental Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 1: Fundamental Algorithms book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/28928219-the-art-of-computer-programming"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Art of Computer Programming, Volume 1: Fundamental Algorithms
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -1054,7 +1054,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Practice of Programming"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1062,17 +1062,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890468l/20722071.jpg\\" 
-        alt=\\"The Practice of Programming book cover\\"
-        aria-label=\\"The Practice of Programming book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/20722071-the-practice-of-programming"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Practice of Programming
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -1114,7 +1114,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1122,17 +1122,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564417439l/52715562._SX318_SY475_.jpg\\" 
-        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
-        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/52715562-the-pragmatic-programmer"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1202,7 +1202,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Database Systems: A Practical Approach to Design, Implementation and Management"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1210,17 +1210,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535367377l/41532004._SX318_.jpg\\" 
-        alt=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
-        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation and Management book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/41532004-database-systems"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Database Systems: A Practical Approach to Design, Implementation and Management
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -1262,7 +1262,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Database Systems"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1270,17 +1270,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441403320l/26227755._SX318_.jpg\\" 
-        alt=\\"Fundamentals of Database Systems book cover\\"
-        aria-label=\\"Fundamentals of Database Systems book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/26227755-fundamentals-of-database-systems"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Database Systems
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1342,7 +1342,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Requirements Engineering for Software and Systems"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1350,17 +1350,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523188978l/39652450.jpg\\" 
-        alt=\\"Requirements Engineering for Software and Systems book cover\\"
-        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/39652450-requirements-engineering-for-software-and-systems-third-edition"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Requirements Engineering for Software and Systems
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1422,7 +1422,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Architecture: Foundations, Theory, and Practice"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1430,137 +1430,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348733397l/6329721.jpg\\" 
-        alt=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
-        aria-label=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/6329721-software-architecture"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Architecture: Foundations, Theory, and Practice
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-8"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-9"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility"
-                  currentitem="false"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480623393l/33221518._SX318_.jpg\\" 
-        alt=\\"Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility book cover\\"
-        aria-label=\\"Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/book/show/33221518-software-architecture-for-developers"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-8"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-9"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture"
-                  currentitem="false"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480624025l/33221619._SX318_.jpg\\" 
-        alt=\\"Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture book cover\\"
-        aria-label=\\"Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture book cover\\"
-        />
-    </div>
-  "
-                  href="https://www.goodreads.com/book/show/33221619-software-architecture-for-developers"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Architecture for Developers: Volume 2 - Visualise, document and explore your software architecture
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1622,7 +1502,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Software Development"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1630,17 +1510,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389363307l/18927880.jpg\\" 
-        alt=\\"Head First Software Development book cover\\"
-        aria-label=\\"Head First Software Development book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/18927880-head-first-software-development"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Software Development
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1702,7 +1582,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1710,17 +1590,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527028716l/40195184._SY475_.jpg\\" 
-        alt=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
-        aria-label=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/40195184-fundamentals-of-discrete-math-for-computer-science"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1782,7 +1662,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1790,17 +1670,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596157778l/6607720._SX318_.jpg\\" 
-        alt=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
-        aria-label=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/6607720-clean-code"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Clean Code: A Handbook of Agile Software Craftsmanship
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -1842,7 +1722,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Code Complete: A Practical Handbook of Software Construction"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1850,17 +1730,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397317998l/21899045.jpg\\" 
-        alt=\\"Code Complete: A Practical Handbook of Software Construction book cover\\"
-        aria-label=\\"Code Complete: A Practical Handbook of Software Construction book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/21899045-code-complete"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Code Complete: A Practical Handbook of Software Construction
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -1902,7 +1782,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Art of Computer Programming, Volume 2: Seminumerical Algorithms"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1910,17 +1790,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456899805l/29390889._SY475_.jpg\\" 
-        alt=\\"The Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/29390889-art-of-computer-programming-volume-2"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Art of Computer Programming, Volume 2: Seminumerical Algorithms
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -1990,7 +1870,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Computer Organization and Architecture: Designing for Performance"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1998,17 +1878,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424223925l/24960755.jpg\\" 
-        alt=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
-        aria-label=\\"Computer Organization and Architecture: Designing for Performance book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24960755-computer-organization-and-architecture"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Computer Organization and Architecture: Designing for Performance
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2070,7 +1950,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Software Architecture: An Engineering Approach"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2078,17 +1958,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580347327l/50717789._SX318_.jpg\\" 
-        alt=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
-        aria-label=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/50717789-fundamentals-of-software-architecture"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Software Architecture: An Engineering Approach
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2150,7 +2030,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2158,17 +2038,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348001794l/243903.jpg\\" 
-        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
-        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/243903.Software_Quality_Engineering"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2230,7 +2110,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Verification and Validation for Practitioners and Managers"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2238,17 +2118,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461232446l/29969968._SY475_.jpg\\" 
-        alt=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
-        aria-label=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/29969968-software-verification-and-validation-for-practitioners-and-managers"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Verification and Validation for Practitioners and Managers
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2310,7 +2190,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Design Patterns: Elements of Reusable Object-Oriented Software"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2318,17 +2198,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328347527l/8732565.jpg\\" 
-        alt=\\"Design Patterns: Elements of Reusable Object-Oriented Software book cover\\"
-        aria-label=\\"Design Patterns: Elements of Reusable Object-Oriented Software book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/8732565-design-patterns"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Design Patterns: Elements of Reusable Object-Oriented Software
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -2370,7 +2250,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Design Patterns"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2378,17 +2258,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360888250l/17374834.jpg\\" 
-        alt=\\"Head First Design Patterns book cover\\"
-        aria-label=\\"Head First Design Patterns book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/17374834-head-first-design-patterns"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Design Patterns
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2450,7 +2330,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2458,17 +2338,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505400487l/36239393._SX318_.jpg\\" 
-        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
-        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/36239393-clean-architecture"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Clean Architecture: A Craftsman's Guide to Software Structure and Design
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -2510,7 +2390,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Refactoring: Improving the Design of Existing Code"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2518,17 +2398,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544902912l/43242144._SX318_.jpg\\" 
-        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
-        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/43242144-refactoring"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Refactoring: Improving the Design of Existing Code
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -2570,7 +2450,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Art of Computer Programming, Volume 3: Sorting and Searching"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2578,17 +2458,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413993179l/23435546.jpg\\" 
-        alt=\\"The Art of Computer Programming, Volume 3: Sorting and Searching book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 3: Sorting and Searching book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/23435546-the-art-of-computer-programming-volume-3"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Art of Computer Programming, Volume 3: Sorting and Searching
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2658,7 +2538,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2666,17 +2546,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440847427l/24814960._SX318_.jpg\\" 
-        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
-        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24814960-agile-software-development-principles-patterns-and-practices"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Agile Software Development: Principles, Patterns, and Practices
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -2718,7 +2598,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Engineering: A Practitioner's Approach"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2726,17 +2606,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419475030l/24062830.jpg\\" 
-        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
-        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/24062830-software-engineering"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Engineering: A Practitioner's Approach
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2798,7 +2678,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Artificial Intelligence: With an Introduction to Machine Learning, Second Edition"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2806,17 +2686,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521177920l/39294391._SY475_.jpg\\" 
-        alt=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
-        aria-label=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/39294391-artificial-intelligence"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Artificial Intelligence: With an Introduction to Machine Learning, Second Edition
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -2878,7 +2758,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Measurement and Estimation: A Practical Approach"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2886,17 +2766,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391662288l/20741029.jpg\\" 
-        alt=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
-        aria-label=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/20741029-software-measurement-and-estimation"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Measurement and Estimation: A Practical Approach
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -2938,7 +2818,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Metrics: A Rigorous and Practical Approach"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2946,17 +2826,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267315738l/2847653.jpg\\" 
-        alt=\\"Software Metrics: A Rigorous and Practical Approach book cover\\"
-        aria-label=\\"Software Metrics: A Rigorous and Practical Approach book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/2847653-software-metrics"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Metrics: A Rigorous and Practical Approach
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -3018,7 +2898,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Software Project Management"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3026,17 +2906,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515433763l/37856479._SY475_.jpg\\" 
-        alt=\\"Introduction to Software Project Management book cover\\"
-        aria-label=\\"Introduction to Software Project Management book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/37856479-introduction-to-software-project-management"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Software Project Management
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -3098,7 +2978,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Security for Software Engineers"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3106,17 +2986,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545411114l/43305216._SX318_.jpg\\" 
-        alt=\\"Security for Software Engineers book cover\\"
-        aria-label=\\"Security for Software Engineers book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/43305216-security-for-software-engineers"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Security for Software Engineers
+                  [Book title not found]
                 </a>
               </li>
             </div>
@@ -3178,7 +3058,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3186,17 +3066,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442382280l/23435548._SX318_.jpg\\" 
-        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1 book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1 book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/23435548-the-art-of-computer-programming-volume-4a"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1
+                  [Book title not found]
                 </a>
               </li>
               <li
@@ -3238,7 +3118,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
+                  aria-label="[Book title not found]"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3246,17 +3126,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328340563l/11486819.jpg\\" 
-        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
-        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        src=\\"https://via.placeholder.com/120x180\\" 
+        alt=\\"[Book title not found] book cover\\"
+        aria-label=\\"[Book title not found] book cover\\"
         />
     </div>
   "
-                  href="https://www.goodreads.com/book/show/11486819-the-clean-coder"
+                  href=""
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Clean Coder: A Code of Conduct for Professional Programmers
+                  [Book title not found]
                 </a>
               </li>
             </div>
