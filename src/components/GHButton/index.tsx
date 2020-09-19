@@ -16,7 +16,7 @@ export interface GHButtonProps extends ButtonLinkProps {
 
 const GHButton: React.FC<GHButtonProps & LocalCache.Prop> = ({
   resource: { attr, endpoint },
-  timeout = 10,
+  timeout = 10, // 10 mins
   ...btnProps
 }) => {
   const [loading, setLoading] = useState(false);
