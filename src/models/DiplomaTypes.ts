@@ -1,19 +1,4 @@
 export declare namespace DiplomaTypes {
-  export interface Curriculum {
-    terms: Semester[];
-    extras: Extra[];
-  }
-
-  export interface Semester {
-    name: string;
-    courses: Course[];
-  }
-
-  export interface Course {
-    courseName: string;
-    books: Book[];
-  }
-
   export interface Book {
     isbn: string[];
     progress: number;
@@ -24,8 +9,23 @@ export declare namespace DiplomaTypes {
     };
   }
 
+  export interface Course {
+    courseName: string;
+    books: Book[];
+  }
+
+  export interface Semester {
+    name: string;
+    courses: Course[];
+  }
+
   export interface Extra {
     name: string;
     books: Book[];
+  }
+
+  export interface Curriculum {
+    terms: Semester[];
+    extras: Extra[];
   }
 }
