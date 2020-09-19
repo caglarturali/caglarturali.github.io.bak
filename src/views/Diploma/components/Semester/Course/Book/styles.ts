@@ -9,8 +9,7 @@ export default {
     boxShadow: '0 0 32px black',
     padding: 0,
     '& img': {
-      height: '256px',
-      width: 'auto',
+      maxHeight: '180px',
     },
   },
   bookItem: {

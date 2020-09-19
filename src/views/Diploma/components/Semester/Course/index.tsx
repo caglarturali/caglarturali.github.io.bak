@@ -31,7 +31,7 @@ const Course: React.FC<CourseProps> = ({
       </summary>
       <div className={classes.bookPanel}>
         {books.map((book) => (
-          <Book bookData={book} key={book.name} />
+          <Book bookData={book} key={book.isbn[0]} />
         ))}
       </div>
     </details>

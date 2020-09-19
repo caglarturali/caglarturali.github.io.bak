@@ -24,12 +24,12 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   const { diploma: diplomaStatic } = staticData;
 
   const renderExtra = (extra: DiplomaTypes.Extra) => {
-    const { title, books } = extra;
+    const { name, books } = extra;
     return (
-      <details className={classes.extra} key={title}>
-        <summary>{title}</summary>
+      <details className={classes.extra} key={name}>
+        <summary>{name}</summary>
         {books.map((book) => (
-          <Book bookData={book} key={book.name} />
+          <Book bookData={book} key={book.isbn[0]} />
         ))}
       </details>
     );

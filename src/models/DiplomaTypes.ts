@@ -16,8 +16,12 @@ export declare namespace DiplomaTypes {
 
   export interface Book {
     isbn: string[];
-    title?: string;
     progress: number;
+    static?: {
+      title: string;
+      thumbnail?: string;
+      link?: string;
+    };
   }
 
   export interface Extra {

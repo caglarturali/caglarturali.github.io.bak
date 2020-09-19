@@ -290,8 +290,12 @@
       "name": "Guides",
       "books": [
         {
-          "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
           "isbn": ["0769551661", "9780769551661"],
+          "static": {
+            "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
+            "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg",
+            "link": "https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r"
+          },
           "progress": 0
         }
       ]
