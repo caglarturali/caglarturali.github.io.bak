@@ -4,9 +4,8 @@
 import React, { useState, useEffect } from 'react';
 import { useLocalStorageState } from '../../hooks';
 import ButtonLink, { ButtonLinkProps } from '../ButtonLink';
-
-// 10 mins
-const TIMEOUT = 10 * 60 * 1000;
+import { LocalCache } from '../../models';
+import { buildRecordObject, isRecordUsable } from '../../utils';
 
 export interface GHButtonProps extends ButtonLinkProps {
   resource: {
@@ -15,19 +14,15 @@ export interface GHButtonProps extends ButtonLinkProps {
   };
 }
 
-const GHButton: React.FC<GHButtonProps> = ({
+const GHButton: React.FC<GHButtonProps & LocalCache.Prop> = ({
   resource: { attr, endpoint },
+  timeout = 10,
   ...btnProps
 }) => {
   const [loading, setLoading] = useState(false);
-  const [attrCount, setAttrCount] = useLocalStorageState<number | undefined>(
-    attr,
-    undefined,
-  );
-  const [lastCheck, setLastCheck] = useLocalStorageState(
-    `${attr}_last_check`,
-    0,
-  );
+  const [attrCountRecord, setAttrCountRecord] = useLocalStorageState<
+    number | undefined
+  >(attr, undefined);
 
   useEffect(() => {
     const fetchApi = async (): Promise<any> => {
@@ -35,14 +30,13 @@ const GHButton: React.FC<GHButtonProps> = ({
       const json = await response.json();
 
       if (json[attr] >= 0) {
-        setAttrCount(json[attr]);
+        setAttrCountRecord(buildRecordObject(json[attr]));
       }
 
-      setLastCheck(Date.now());
       setLoading(false);
     };
 
-    if (attrCount === null || Date.now() > lastCheck + TIMEOUT) {
+    if (!isRecordUsable(attrCountRecord, timeout)) {
       fetchApi();
     }
   });
@@ -50,8 +44,8 @@ const GHButton: React.FC<GHButtonProps> = ({
   return (
     <ButtonLink
       {...btnProps}
-      showCount={!loading && attrCount !== undefined}
-      count={attrCount}
+      showCount={!loading && attrCountRecord !== undefined}
+      count={attrCountRecord.data}
     />
   );
 };

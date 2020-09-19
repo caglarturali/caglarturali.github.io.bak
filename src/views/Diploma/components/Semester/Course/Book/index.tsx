@@ -5,9 +5,13 @@ import React, { useEffect } from 'react';
 import { createUseStyles } from 'react-jss';
 import { CircularProgressbar } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
-import { BookTypes, DiplomaTypes } from '../../../../../../models';
+import { BookTypes, DiplomaTypes, LocalCache } from '../../../../../../models';
 import { useLocalStorageState } from '../../../../../../hooks';
-import { getDetailsForIsbn } from '../../../../../../utils';
+import {
+  buildRecordObject,
+  getDetailsForIsbn,
+  isRecordUsable,
+} from '../../../../../../utils';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -16,7 +20,10 @@ export interface BookProps {
   bookData: DiplomaTypes.Book;
 }
 
-const Book: React.FC<BookProps> = ({ bookData }) => {
+const Book: React.FC<BookProps & LocalCache.Prop> = ({
+  bookData,
+  timeout = 60 * 24,
+}) => {
   const classes = useStyles();
   const {
     isbn: [isbn10, isbn13],
@@ -24,7 +31,7 @@ const Book: React.FC<BookProps> = ({ bookData }) => {
     progress,
   } = bookData;
 
-  const [isbnObject, setIsbnObject] = useLocalStorageState<
+  const [isbnObjRecord, setIsbnObjRecord] = useLocalStorageState<
     BookTypes.ISBNObject | undefined
   >(isbn10, undefined);
 
@@ -33,14 +40,18 @@ const Book: React.FC<BookProps> = ({ bookData }) => {
   useEffect(() => {
     const getData = async () => {
       const isbn = await getDetailsForIsbn(isbn13);
-      setIsbnObject(isbn);
+      setIsbnObjRecord(buildRecordObject(isbn));
     };
 
-    if (!isStatic && isbnObject === undefined) getData();
-  }, [isbn13, isStatic, isbnObject, setIsbnObject]);
+    if (!isStatic) {
+      if (!isRecordUsable(isbnObjRecord, timeout)) {
+        getData();
+      }
+    }
+  });
 
   let titleFinal, thumbFinal, linkFinal;
-  if (!isStatic && isbnObject && isbnObject.items) {
+  if (!isStatic && isbnObjRecord.data && isbnObjRecord.data.items) {
     // Extract from ISBNObject.
     const {
       volumeInfo: {
@@ -49,7 +60,7 @@ const Book: React.FC<BookProps> = ({ bookData }) => {
         imageLinks: { thumbnail },
         canonicalVolumeLink,
       },
-    } = isbnObject.items[0];
+    } = isbnObjRecord.data.items[0];
 
     titleFinal = subtitle ? `${title}: ${subtitle}` : title;
     thumbFinal = thumbnail;
