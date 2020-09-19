@@ -21,7 +21,7 @@ export const isRecordExpired = <T>(
   record: LocalCache.Record<T>,
   timeout: number,
 ) => {
-  return record.lastChecked > Date.now() + timeout * 60 * 1000;
+  return Date.now() > record.lastChecked + timeout * 60 * 1000;
 };
 
 /**
