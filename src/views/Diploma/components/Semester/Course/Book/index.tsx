@@ -22,7 +22,7 @@ export interface BookProps {
 
 const Book: React.FC<BookProps & LocalCache.Prop> = ({
   bookData,
-  timeout = 6 * 60, // 6 hours
+  timeout = 1 * 60, // 1 hour
 }) => {
   const classes = useStyles();
   const {
