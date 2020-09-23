@@ -36,7 +36,7 @@ diplomaData.terms.forEach((term) => {
         process.exit(1);
       }
 
-      message = `UPDATE: '${book.name}' reading progress to: ${progressArg}%`;
+      message = `UPDATE: '${book.isbn[1]}' reading progress to: ${progressArg}%`;
       console.log(message);
 
       book.progress = parseInt(progressArg);
