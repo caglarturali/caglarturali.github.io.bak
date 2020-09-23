@@ -7,8 +7,11 @@
           "courseName": "SWE 501 Introduction to Object Oriented Programming",
           "books": [
             {
-              "isbn": ["0596008678", "9780596008673"],
-              "progress": 20
+              "isbn": [
+                "0596008678",
+                "9780596008673"
+              ],
+              "progress": 22
             }
           ]
         },
@@ -16,11 +19,17 @@
           "courseName": "SWE 510 Data Structures and Algorithms",
           "books": [
             {
-              "isbn": ["1491912987", "9781491912980"],
+              "isbn": [
+                "1491912987",
+                "9781491912980"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0262258102", "9780262258104"],
+              "isbn": [
+                "0262258102",
+                "9780262258104"
+              ],
               "progress": 0
             }
           ]
@@ -29,7 +38,10 @@
           "courseName": "SWE 512 Operating Systems",
           "books": [
             {
-              "isbn": ["013359162X", "9780133591620"],
+              "isbn": [
+                "013359162X",
+                "9780133591620"
+              ],
               "progress": 4
             }
           ]
@@ -38,7 +50,10 @@
           "courseName": "SWE 513 Principles of Software Engineering",
           "books": [
             {
-              "isbn": ["0133943038", "9780133943030"],
+              "isbn": [
+                "0133943038",
+                "9780133943030"
+              ],
               "progress": 8
             }
           ]
@@ -47,7 +62,10 @@
           "courseName": "SWM 501 Mathematics for Computer Science I",
           "books": [
             {
-              "isbn": ["0596514867", "9780596514860"],
+              "isbn": [
+                "0596514867",
+                "9780596514860"
+              ],
               "progress": 0
             }
           ]
@@ -56,15 +74,24 @@
           "courseName": "SWX 501 Computing Classics I",
           "books": [
             {
-              "isbn": ["0321635744", "9780321635747"],
+              "isbn": [
+                "0321635744",
+                "9780321635747"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["020161586X", "9780201615869"],
+              "isbn": [
+                "020161586X",
+                "9780201615869"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0135956919", "9780135956915"],
+              "isbn": [
+                "0135956919",
+                "9780135956915"
+              ],
               "progress": 0
             }
           ]
@@ -78,11 +105,17 @@
           "courseName": "SWE 521 Database Systems",
           "books": [
             {
-              "isbn": ["1292061847", "9781292061849"],
+              "isbn": [
+                "1292061847",
+                "9781292061849"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["1292097620", "9781292097626"],
+              "isbn": [
+                "1292097620",
+                "9781292097626"
+              ],
               "progress": 0
             }
           ]
@@ -91,7 +124,10 @@
           "courseName": "SWE 522 Software Requirements Engineering",
           "books": [
             {
-              "isbn": ["1315303698", "9781315303697"],
+              "isbn": [
+                "1315303698",
+                "9781315303697"
+              ],
               "progress": 0
             }
           ]
@@ -100,7 +136,10 @@
           "courseName": "SWE 525 Software Design and Architecture",
           "books": [
             {
-              "isbn": ["0470167742", "9780470167748"],
+              "isbn": [
+                "0470167742",
+                "9780470167748"
+              ],
               "progress": 0
             }
           ]
@@ -109,7 +148,10 @@
           "courseName": "SWE 573 Software Development Practice",
           "books": [
             {
-              "isbn": ["0596527357", "9780596527358"],
+              "isbn": [
+                "0596527357",
+                "9780596527358"
+              ],
               "progress": 0
             }
           ]
@@ -118,7 +160,10 @@
           "courseName": "SWM 502 Mathematics for Computer Science II",
           "books": [
             {
-              "isbn": ["3319701517", "9783319701516"],
+              "isbn": [
+                "3319701517",
+                "9783319701516"
+              ],
               "progress": 0
             }
           ]
@@ -127,15 +172,24 @@
           "courseName": "SWX 502 Computing Classics II",
           "books": [
             {
-              "isbn": ["0136083250", "9780136083252"],
+              "isbn": [
+                "0136083250",
+                "9780136083252"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["9350041243", "9789350041246"],
+              "isbn": [
+                "9350041243",
+                "9789350041246"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0321635760", "9780321635761"],
+              "isbn": [
+                "0321635760",
+                "9780321635761"
+              ],
               "progress": 0
             }
           ]
@@ -149,7 +203,10 @@
           "courseName": "SWE 514 Computer Systems",
           "books": [
             {
-              "isbn": ["1292096861", "9781292096865"],
+              "isbn": [
+                "1292096861",
+                "9781292096865"
+              ],
               "progress": 8
             }
           ]
@@ -158,7 +215,10 @@
           "courseName": "SWE 526 Applied Software Architecture",
           "books": [
             {
-              "isbn": ["1492043427", "9781492043423"],
+              "isbn": [
+                "1492043427",
+                "9781492043423"
+              ],
               "progress": 0
             }
           ]
@@ -167,7 +227,10 @@
           "courseName": "SWE 550 Software Quality Assurance and Reliability",
           "books": [
             {
-              "isbn": ["0471722332", "9780471722335"],
+              "isbn": [
+                "0471722332",
+                "9780471722335"
+              ],
               "progress": 0
             }
           ]
@@ -176,7 +239,10 @@
           "courseName": "SWE 551 Software Verification and Validation",
           "books": [
             {
-              "isbn": ["1580532969", "9781580532969"],
+              "isbn": [
+                "1580532969",
+                "9781580532969"
+              ],
               "progress": 0
             }
           ]
@@ -185,11 +251,17 @@
           "courseName": "SWE 557 Patterns in Software Engineering",
           "books": [
             {
-              "isbn": ["0321700694", "9780321700698"],
+              "isbn": [
+                "0321700694",
+                "9780321700698"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0596800746", "9780596800741"],
+              "isbn": [
+                "0596800746",
+                "9780596800741"
+              ],
               "progress": 0
             }
           ]
@@ -198,15 +270,24 @@
           "courseName": "SWX 503 Computing Classics III",
           "books": [
             {
-              "isbn": ["0134494164", "9780134494166"],
+              "isbn": [
+                "0134494164",
+                "9780134494166"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["013475770X", "9780134757704"],
+              "isbn": [
+                "013475770X",
+                "9780134757704"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0321635787", "9780321635785"],
+              "isbn": [
+                "0321635787",
+                "9780321635785"
+              ],
               "progress": 0
             }
           ]
@@ -220,11 +301,17 @@
           "courseName": "SWE 542 Advanced Software Engineering",
           "books": [
             {
-              "isbn": ["1292025948", "9781292025940"],
+              "isbn": [
+                "1292025948",
+                "9781292025940"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["007769774X", "9780077697747"],
+              "isbn": [
+                "007769774X",
+                "9780077697747"
+              ],
               "progress": 0
             }
           ]
@@ -233,7 +320,10 @@
           "courseName": "SWE 555 Artificial Intelligence Techniques",
           "books": [
             {
-              "isbn": ["1351384384", "9781351384384"],
+              "isbn": [
+                "1351384384",
+                "9781351384384"
+              ],
               "progress": 0
             }
           ]
@@ -242,11 +332,17 @@
           "courseName": "SWE 560 Software Metrics and Models",
           "books": [
             {
-              "isbn": ["0471792527", "9780471792529"],
+              "isbn": [
+                "0471792527",
+                "9780471792529"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["1439838232", "9781439838235"],
+              "isbn": [
+                "1439838232",
+                "9781439838235"
+              ],
               "progress": 0
             }
           ]
@@ -255,7 +351,10 @@
           "courseName": "SWE 565 Managing Software Development",
           "books": [
             {
-              "isbn": ["1466559543", "9781466559547"],
+              "isbn": [
+                "1466559543",
+                "9781466559547"
+              ],
               "progress": 0
             }
           ]
@@ -264,7 +363,10 @@
           "courseName": "SWE 575 Secure Software Development and Software Security",
           "books": [
             {
-              "isbn": ["0429014430", "9780429014437"],
+              "isbn": [
+                "0429014430",
+                "9780429014437"
+              ],
               "progress": 0
             }
           ]
@@ -273,11 +375,17 @@
           "courseName": "SWX 504 Computing Classics IV",
           "books": [
             {
-              "isbn": ["0133488853", "9780133488852"],
+              "isbn": [
+                "0133488853",
+                "9780133488852"
+              ],
               "progress": 0
             },
             {
-              "isbn": ["0132542889", "9780132542883"],
+              "isbn": [
+                "0132542889",
+                "9780132542883"
+              ],
               "progress": 0
             }
           ]
@@ -290,7 +398,10 @@
       "name": "Guides",
       "books": [
         {
-          "isbn": ["0769551661", "9780769551661"],
+          "isbn": [
+            "0769551661",
+            "9780769551661"
+          ],
           "static": {
             "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
             "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg",
@@ -304,39 +415,66 @@
       "name": "Optional Reading",
       "books": [
         {
-          "isbn": ["0133597261", "9780133597264"],
+          "isbn": [
+            "0133597261",
+            "9780133597264"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["1118104846", "9781118104842"],
+          "isbn": [
+            "1118104846",
+            "9781118104842"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["1491910046", "9781491910047"],
+          "isbn": [
+            "1491910046",
+            "9781491910047"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["007159664X", "9780071596640"],
+          "isbn": [
+            "007159664X",
+            "9780071596640"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["0133440737", "9780133440737"],
+          "isbn": [
+            "0133440737",
+            "9780133440737"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["0786745207", "9780786745203"],
+          "isbn": [
+            "0786745207",
+            "9780786745203"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["1617292397", "9781617292392"],
+          "isbn": [
+            "1617292397",
+            "9781617292392"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["013937681X", "9780139376818"],
+          "isbn": [
+            "013937681X",
+            "9780139376818"
+          ],
           "progress": 0
         },
         {
-          "isbn": ["1430208570", "9781430208570"],
+          "isbn": [
+            "1430208570",
+            "9781430208570"
+          ],
           "progress": 0
         }
       ]
