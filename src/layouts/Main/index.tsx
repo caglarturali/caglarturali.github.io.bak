@@ -5,6 +5,7 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import Header from './components/Header';
 import LeftBar from './components/LeftBar';
+import Explorer from './components/Explorer';
 import StatusBar from './components/StatusBar';
 import { ContactItem, TabLink } from '../../models';
 import styles from './styles';
@@ -33,7 +34,8 @@ const MainLayout: React.FC<MainLayoutProps> = ({
     <div>
       <Header tabs={tabs} />
       <LeftBar contactData={contactData} />
-      <main>{children}</main>
+      <Explorer />
+      <main className={classes.content}>{children}</main>
       <StatusBar />
     </div>
   );
