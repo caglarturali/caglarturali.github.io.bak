@@ -47,7 +47,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -114,7 +114,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -174,7 +174,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -234,7 +234,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -294,7 +294,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -354,7 +354,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -414,7 +414,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -474,7 +474,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -534,7 +534,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -594,7 +594,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -654,7 +654,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="undefined% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-9"
@@ -740,7 +740,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="22% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -769,7 +769,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 186.23361250480292px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
@@ -820,7 +820,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -880,7 +880,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -960,7 +960,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="4% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -989,7 +989,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 229.2106000059113px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
@@ -1040,7 +1040,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="8% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1069,7 +1069,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 219.66015833899834px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
@@ -1120,7 +1120,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1200,7 +1200,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1260,7 +1260,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1320,7 +1320,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1408,7 +1408,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1468,7 +1468,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1548,7 +1548,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1628,7 +1628,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1708,7 +1708,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1788,7 +1788,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1868,7 +1868,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1928,7 +1928,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -1988,7 +1988,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2076,7 +2076,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="8% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2105,7 +2105,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 219.66015833899834px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
@@ -2156,7 +2156,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2236,7 +2236,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2316,7 +2316,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2396,7 +2396,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2456,7 +2456,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2536,7 +2536,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2596,7 +2596,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2656,7 +2656,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2744,7 +2744,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2804,7 +2804,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2884,7 +2884,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -2964,7 +2964,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -3024,7 +3024,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -3104,7 +3104,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -3184,7 +3184,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -3264,7 +3264,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
@@ -3324,7 +3324,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="undefined% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-9"
