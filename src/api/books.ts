@@ -1,4 +1,4 @@
-import { BookTypes } from '../models';
+import { API } from '../models';
 
 /**
  * Returns details of the given book from Google Books API.
@@ -6,7 +6,7 @@ import { BookTypes } from '../models';
  */
 export const getDetailsForIsbn = async (
   isbn: string,
-): Promise<BookTypes.ISBNObject> => {
+): Promise<API.ISBNObject> => {
   const { REACT_APP_BOOKS_API_KEY } = process.env;
 
   const response = await fetch(
@@ -21,11 +21,9 @@ export const getDetailsForIsbn = async (
  */
 export const getReadingProgressForIsbn = async (
   isbn: string,
-): Promise<number> => {
+): Promise<API.ReadingProgressResponse> => {
   const response = await fetch(
     `https://reading-progress.vercel.app/api/isbn/${isbn}`,
   );
-  const json = await response.json();
-  if (json.progress) return json.progress;
-  return 0;
+  return await response.json();
 };

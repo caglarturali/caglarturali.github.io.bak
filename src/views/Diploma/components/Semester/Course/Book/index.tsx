@@ -3,7 +3,7 @@
  */
 import React, { useEffect } from 'react';
 import { createUseStyles } from 'react-jss';
-import { BookTypes, DiplomaTypes, LocalCache } from '../../../../../../models';
+import { API, DiplomaTypes, LocalCache } from '../../../../../../models';
 import { useLocalStorageState } from '../../../../../../hooks';
 import { buildRecordObject, isRecordUsable } from '../../../../../../utils';
 import { getDetailsForIsbn } from '../../../../../../api';
@@ -27,7 +27,7 @@ const Book: React.FC<BookProps & LocalCache.Prop> = ({
   } = bookData;
 
   const [isbnObjRecord, setIsbnObjRecord] = useLocalStorageState<
-    BookTypes.ISBNObject | undefined
+    API.ISBNObject | undefined
   >(isbn13, undefined);
 
   const isStatic = staticData !== undefined;

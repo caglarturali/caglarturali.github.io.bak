@@ -29,8 +29,8 @@ const Progress: React.FC<ProgressProps & LocalCache.Prop> = ({
 
   const initProgress = () => {
     const getProgressData = async () => {
-      const p = await getReadingProgressForIsbn(isbn13);
-      setProgressRecord(buildRecordObject(p));
+      const { progress = 0 } = await getReadingProgressForIsbn(isbn13);
+      setProgressRecord(buildRecordObject(progress));
     };
 
     if (!isRecordUsable(progressRecord, timeout)) {
