@@ -34,5 +34,5 @@ export const isRecordUsable = <T>(
   record: LocalCache.Record<T>,
   timeout: number,
 ) => {
-  return record.data && !isRecordExpired(record, timeout);
+  return record.data !== undefined && !isRecordExpired(record, timeout);
 };

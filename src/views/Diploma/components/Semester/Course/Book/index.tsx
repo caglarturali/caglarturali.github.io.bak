@@ -3,15 +3,11 @@
  */
 import React, { useEffect } from 'react';
 import { createUseStyles } from 'react-jss';
-import { CircularProgressbar } from 'react-circular-progressbar';
-import 'react-circular-progressbar/dist/styles.css';
 import { BookTypes, DiplomaTypes, LocalCache } from '../../../../../../models';
 import { useLocalStorageState } from '../../../../../../hooks';
-import {
-  buildRecordObject,
-  getDetailsForIsbn,
-  isRecordUsable,
-} from '../../../../../../utils';
+import { buildRecordObject, isRecordUsable } from '../../../../../../utils';
+import { getDetailsForIsbn } from '../../../../../../api';
+import Progress from './Progress';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -26,29 +22,30 @@ const Book: React.FC<BookProps & LocalCache.Prop> = ({
 }) => {
   const classes = useStyles();
   const {
-    isbn: [isbn10, isbn13],
+    isbn: [, isbn13],
     static: staticData,
-    progress,
   } = bookData;
 
   const [isbnObjRecord, setIsbnObjRecord] = useLocalStorageState<
     BookTypes.ISBNObject | undefined
-  >(isbn10, undefined);
+  >(isbn13, undefined);
 
   const isStatic = staticData !== undefined;
 
-  useEffect(() => {
-    const getData = async () => {
+  const initBookData = () => {
+    const getBookData = async () => {
       const isbn = await getDetailsForIsbn(isbn13);
       setIsbnObjRecord(buildRecordObject(isbn));
     };
 
     if (!isStatic) {
       if (!isRecordUsable(isbnObjRecord, timeout)) {
-        getData();
+        getBookData();
       }
     }
-  });
+  };
+
+  useEffect(initBookData, []);
 
   let titleFinal, thumbFinal, linkFinal;
   if (!isStatic && isbnObjRecord.data && isbnObjRecord.data.items) {
@@ -84,13 +81,8 @@ const Book: React.FC<BookProps & LocalCache.Prop> = ({
 
   return (
     <li className={classes.bookItem}>
-      <span data-tip={`${progress}% done`}>
-        <CircularProgressbar
-          value={progress}
-          className={classes.progress}
-          strokeWidth={24}
-        />
-      </span>
+      <Progress isbn13={isbn13} />
+
       <a
         href={linkFinal}
         aria-label={titleFinal}
