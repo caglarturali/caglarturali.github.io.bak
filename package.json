@@ -22,7 +22,6 @@
     "lint:fix": "npm run lint -- --fix",
     "predeploy": "npm run build && cp build/index.html build/404.html",
     "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.github.io.git",
-    "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts",
     "sync:books": "ts-node -O '{\"module\":\"commonjs\"}' scripts/syncBooks.ts"
   },
   "husky": {
@@ -43,6 +42,7 @@
     "clsx": "^1.1.1",
     "color": "^3.1.2",
     "dotenv": "^8.2.0",
+    "isomorphic-unfetch": "^3.1.0",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
     "react-circular-progressbar": "^2.0.3",
