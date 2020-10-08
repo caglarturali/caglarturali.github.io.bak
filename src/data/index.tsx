@@ -9,7 +9,7 @@ import contactData from './json/contact.json';
 import diplomaData from './json/diploma.json';
 import pkg from '../../package.json';
 
-import { calculateDiplomaProgress } from '../utils';
+// import { calculateDiplomaProgress } from '../utils';
 
 export const pages: PageLink[] = [
   {
