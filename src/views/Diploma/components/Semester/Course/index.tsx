@@ -29,10 +29,13 @@ const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
   const courseProgressAverage = useMemo(() => {
     if (courseProgress.length === 0) return 0;
 
-    return (
-      courseProgress.reduce((prev, current) => prev + current.progress, 0) /
-      courseProgress.length
+    const totalProgress = courseProgress.reduce(
+      (prev, current) => prev + current.progress,
+      0,
     );
+    return totalProgress === 0
+      ? 0
+      : parseFloat((totalProgress / courseProgress.length).toFixed(1));
   }, [courseProgress]);
 
   return (
