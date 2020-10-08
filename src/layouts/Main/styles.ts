@@ -3,7 +3,13 @@
  */
 import Color from 'color';
 import { Styles } from 'react-jss';
-import { bgMidBlue, textLightBlue, mSize, monoFont } from '../../theme';
+import {
+  bgMidBlue,
+  textLightBlue,
+  mSize,
+  monoFont,
+  explorerWidth,
+} from '../../theme';
 
 // Notice that it's an object containing
 // global "base" values for the rest of the app.
@@ -35,5 +41,11 @@ export default {
     '.color-transform': {
       transform: 'color 500ms ease',
     },
+  },
+  content: {
+    position: 'fixed',
+    top: '0',
+    left: explorerWidth,
+    width: '100vw',
   },
 } as Styles;

@@ -11,3 +11,4 @@ export const xlSize = '4.8rem';
 
 export const desktopBreakpoint = '45rem';
 export const leftBarWidth = '50px';
+export const explorerWidth = '250px';
