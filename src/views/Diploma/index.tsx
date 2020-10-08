@@ -47,7 +47,7 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
       </h2>
       <div className={classes.contents}>
         {/* Extras */}
-        {extras.map((e) => renderExtra(e))}
+        {extras.map(renderExtra)}
 
         {/* Base Curriculum */}
         {terms.map((t) => (
