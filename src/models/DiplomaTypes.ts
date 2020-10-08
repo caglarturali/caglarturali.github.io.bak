@@ -1,17 +1,18 @@
 export declare namespace DiplomaTypes {
-  export interface Book {
+  export interface CourseBook {
     isbn: string[];
-    progress: number;
-    static?: {
-      title: string;
-      thumbnail?: string;
-      link?: string;
-    };
+  }
+
+  export interface BookMetadata extends CourseBook {
+    title: string;
+    subtitle?: string;
+    thumbnail: string;
+    link: string;
   }
 
   export interface Course {
     courseName: string;
-    books: Book[];
+    books: CourseBook[];
   }
 
   export interface Semester {
@@ -21,7 +22,7 @@ export declare namespace DiplomaTypes {
 
   export interface Extra {
     name: string;
-    books: Book[];
+    books: CourseBook[];
   }
 
   export interface Curriculum {
