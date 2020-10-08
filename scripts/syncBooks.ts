@@ -3,6 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { DiplomaTypes } from '../src/models';
 import { getDetailsForIsbn } from '../src/api';
+import { collectBooks } from '../src/utils';
 import diplomaData from '../src/data/json/diploma.json';
 
 const DATA_DIR = path.join(__dirname, '..', 'src', 'data', 'json');
@@ -19,26 +20,6 @@ const STATIC_DATA: DiplomaTypes.BookMetadata[] = [
       'https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r',
   },
 ];
-
-const collectBooks = (curriculum: DiplomaTypes.Curriculum) => {
-  const books: DiplomaTypes.CourseBook[] = [];
-  const { terms, extras } = curriculum;
-
-  // Main books
-  for (const term of terms) {
-    const { courses } = term;
-    for (const course of courses) {
-      books.push(...course.books);
-    }
-  }
-
-  // Extras
-  for (const extra of extras) {
-    books.push(...extra.books);
-  }
-
-  return books;
-};
 
 const process = async (
   curriculum: DiplomaTypes.Curriculum,
