@@ -1,5 +1,5 @@
 export declare namespace LocalCache {
-  export interface Record<T extends unknown> {
+  export interface Record<T extends unknown = {}> {
     lastChecked: number;
     data: T;
   }

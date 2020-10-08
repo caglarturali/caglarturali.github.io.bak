@@ -148,7 +148,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="C How to Program, Global Edition"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -156,17 +156,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=UZ5VCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"C How to Program, Global Edition book cover\\"
+        aria-label=\\"C How to Program, Global Edition book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://books.google.com/books/about/C_How_to_Program_Global_Edition.html?hl=&id=UZ5VCwAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              C How to Program, Global Edition
             </a>
           </li>
           <li
@@ -208,7 +208,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -216,17 +216,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=QlduAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
+        aria-label=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=QlduAgAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
             </a>
           </li>
           <li
@@ -268,7 +268,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Ethics in Science and Engineering"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -276,17 +276,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=4ORgP4AwPtQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Ethics in Science and Engineering book cover\\"
+        aria-label=\\"Ethics in Science and Engineering book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=4ORgP4AwPtQC"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Ethics in Science and Engineering
             </a>
           </li>
           <li
@@ -328,7 +328,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -336,17 +336,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=6OjJCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
+        aria-label=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=6OjJCgAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams
             </a>
           </li>
           <li
@@ -388,7 +388,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Linux Bible"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -396,17 +396,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=5rDbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Linux Bible book cover\\"
+        aria-label=\\"Linux Bible book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://books.google.com/books/about/Linux_Bible.html?hl=&id=5rDbDwAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Linux Bible
             </a>
           </li>
           <li
@@ -448,7 +448,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Peopleware: Productive Projects and Teams"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -456,17 +456,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=TVQUAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Peopleware: Productive Projects and Teams book cover\\"
+        aria-label=\\"Peopleware: Productive Projects and Teams book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=TVQUAAAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Peopleware: Productive Projects and Teams
             </a>
           </li>
           <li
@@ -508,7 +508,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Rebel Code: Linux and the Open Source Revolution"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -516,17 +516,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=h4g4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Rebel Code: Linux and the Open Source Revolution book cover\\"
+        aria-label=\\"Rebel Code: Linux and the Open Source Revolution book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=h4g4DgAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Rebel Code: Linux and the Open Source Revolution
             </a>
           </li>
           <li
@@ -568,7 +568,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="Soft Skills: The Software Developer's Life Manual"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -576,17 +576,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=UXNaAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Soft Skills: The Software Developer's Life Manual book cover\\"
+        aria-label=\\"Soft Skills: The Software Developer's Life Manual book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://books.google.com/books/about/Soft_Skills.html?hl=&id=UXNaAQAACAAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              Soft Skills: The Software Developer's Life Manual
             </a>
           </li>
           <li
@@ -628,7 +628,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="The UNIX Programming Environment"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -636,17 +636,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=mcO0Vh9efE0C&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"The UNIX Programming Environment book cover\\"
+        aria-label=\\"The UNIX Programming Environment book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://books.google.com/books/about/The_UNIX_Programming_Environment.html?hl=&id=mcO0Vh9efE0C"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              The UNIX Programming Environment
             </a>
           </li>
           <li
@@ -688,7 +688,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="[Book title not found]"
+              aria-label="User Interface Design for Programmers"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -696,17 +696,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=V0QnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"User Interface Design for Programmers book cover\\"
+        aria-label=\\"User Interface Design for Programmers book cover\\"
         />
     </div>
   "
-              href=""
+              href="https://play.google.com/store/books/details?id=V0QnCgAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              [Book title not found]
+              User Interface Design for Programmers
             </a>
           </li>
         </details>
@@ -728,7 +728,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 22%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -774,7 +774,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -782,17 +782,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=-QpmamSKl_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D book cover\\"
+        aria-label=\\"Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Head_First_Object_Oriented_Analysis_and.html?hl=&id=-QpmamSKl_EC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D
                 </a>
               </li>
             </div>
@@ -808,7 +808,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -854,7 +854,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Algorithms in a Nutshell: A Practical Guide"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -862,17 +862,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=w7rNCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
+        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=w7rNCwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Algorithms in a Nutshell: A Practical Guide
                 </a>
               </li>
               <li
@@ -914,7 +914,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Introduction to Algorithms, third edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -922,17 +922,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=F3anBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Introduction to Algorithms, third edition book cover\\"
+        aria-label=\\"Introduction to Algorithms, third edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=F3anBQAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Introduction to Algorithms, third edition
                 </a>
               </li>
             </div>
@@ -948,7 +948,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 4%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -994,7 +994,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Modern Operating Systems"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1002,17 +1002,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=9gqnngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Modern Operating Systems book cover\\"
+        aria-label=\\"Modern Operating Systems book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Modern_Operating_Systems.html?hl=&id=9gqnngEACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Modern Operating Systems
                 </a>
               </li>
             </div>
@@ -1028,7 +1028,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 8%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1074,7 +1074,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Engineering"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1082,17 +1082,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=tW4VngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Software Engineering book cover\\"
+        aria-label=\\"Software Engineering book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Software_Engineering.html?hl=&id=tW4VngEACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Engineering
                 </a>
               </li>
             </div>
@@ -1108,7 +1108,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1154,7 +1154,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Head First Algebra: A Learner's Guide to Algebra I"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1162,17 +1162,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=3A3NHmh-pSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
+        aria-label=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Head_First_Algebra.html?hl=&id=3A3NHmh-pSoC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Head First Algebra: A Learner's Guide to Algebra I
                 </a>
               </li>
             </div>
@@ -1188,7 +1188,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1234,7 +1234,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Art of Computer Programming: Volume 1: Fundamental Algorithms"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1242,17 +1242,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/The_Art_of_Computer_Programming.html?hl=&id=x9AsAwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Art of Computer Programming: Volume 1: Fundamental Algorithms
                 </a>
               </li>
               <li
@@ -1294,7 +1294,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Practice of Programming"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1302,17 +1302,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=j9T6AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Practice of Programming book cover\\"
+        aria-label=\\"The Practice of Programming book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/The_Practice_of_Programming.html?hl=&id=j9T6AgAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Practice of Programming
                 </a>
               </li>
               <li
@@ -1354,7 +1354,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1362,17 +1362,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=LhOlDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
                 </a>
               </li>
             </div>
@@ -1396,7 +1396,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1442,7 +1442,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1450,17 +1450,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=kl1TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition book cover\\"
+        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Database_Systems_A_Practical_Approach_to.html?hl=&id=kl1TDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition
                 </a>
               </li>
               <li
@@ -1502,7 +1502,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Fundamentals of Database Systems, Global Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1510,17 +1510,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=xdCuDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Fundamentals of Database Systems, Global Edition book cover\\"
+        aria-label=\\"Fundamentals of Database Systems, Global Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Fundamentals_of_Database_Systems_Global.html?hl=&id=xdCuDAAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Fundamentals of Database Systems, Global Edition
                 </a>
               </li>
             </div>
@@ -1536,7 +1536,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1582,7 +1582,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Requirements Engineering for Software and Systems"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1590,17 +1590,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=srJSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Requirements Engineering for Software and Systems book cover\\"
+        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=srJSDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Requirements Engineering for Software and Systems
                 </a>
               </li>
             </div>
@@ -1616,7 +1616,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1662,7 +1662,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Architecture: Foundations, Theory, and Practice"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1670,17 +1670,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=npB5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
+        aria-label=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Software_Architecture.html?hl=&id=npB5DwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Architecture: Foundations, Theory, and Practice
                 </a>
               </li>
             </div>
@@ -1696,7 +1696,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1742,7 +1742,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Head First Software Development"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1750,17 +1750,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=QAr82w_eSi8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Head First Software Development book cover\\"
+        aria-label=\\"Head First Software Development book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Head_First_Software_Development.html?hl=&id=QAr82w_eSi8C"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Head First Software Development
                 </a>
               </li>
             </div>
@@ -1776,7 +1776,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1822,7 +1822,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1830,17 +1830,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=O3ZZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
+        aria-label=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=O3ZZDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer
                 </a>
               </li>
             </div>
@@ -1856,7 +1856,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1902,7 +1902,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1910,17 +1910,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
+        aria-label=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=_i6bDeoCQzsC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Clean Code: A Handbook of Agile Software Craftsmanship
                 </a>
               </li>
               <li
@@ -1962,7 +1962,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Code Complete, 2nd Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1970,17 +1970,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=tGQrqAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Code Complete, 2nd Edition book cover\\"
+        aria-label=\\"Code Complete, 2nd Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Code_Complete_2nd_Edition.html?hl=&id=tGQrqAAACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Code Complete, 2nd Edition
                 </a>
               </li>
               <li
@@ -2022,7 +2022,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Art of Computer Programming, Volume 2: Seminumerical Algorithms"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2030,17 +2030,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=Zu-HAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
+        aria-label=\\"Art of Computer Programming, Volume 2: Seminumerical Algorithms book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Art_of_Computer_Programming_Volume_2.html?hl=&id=Zu-HAwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Art of Computer Programming, Volume 2: Seminumerical Algorithms
                 </a>
               </li>
             </div>
@@ -2064,7 +2064,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 8%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2110,7 +2110,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Computer Organization and Architecture, Global Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2118,17 +2118,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=7UqgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Computer Organization and Architecture, Global Edition book cover\\"
+        aria-label=\\"Computer Organization and Architecture, Global Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Computer_Organization_and_Architecture_G.html?hl=&id=7UqgCgAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Computer Organization and Architecture, Global Edition
                 </a>
               </li>
             </div>
@@ -2144,7 +2144,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2190,7 +2190,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Fundamentals of Software Architecture: An Engineering Approach"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2198,17 +2198,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=xa7MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
+        aria-label=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Fundamentals_of_Software_Architecture.html?hl=&id=xa7MDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Fundamentals of Software Architecture: An Engineering Approach
                 </a>
               </li>
             </div>
@@ -2224,7 +2224,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2270,7 +2270,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2278,17 +2278,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=2jIyFZ_InZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
+        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=2jIyFZ_InZsC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
                 </a>
               </li>
             </div>
@@ -2304,7 +2304,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2350,7 +2350,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Verification and Validation for Practitioners and Managers"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2358,17 +2358,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=qlJsQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
+        aria-label=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Software_Verification_and_Validation_for.html?hl=&id=qlJsQgAACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Verification and Validation for Practitioners and Managers
                 </a>
               </li>
             </div>
@@ -2384,7 +2384,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2430,7 +2430,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader)"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2438,17 +2438,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader) book cover\\"
+        aria-label=\\"Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader) book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=6oHuKQe3TjQC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader)
                 </a>
               </li>
               <li
@@ -2490,7 +2490,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Head First Design Patterns"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2498,17 +2498,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=NbCNAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Head First Design Patterns book cover\\"
+        aria-label=\\"Head First Design Patterns book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=NbCNAQAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Head First Design Patterns
                 </a>
               </li>
             </div>
@@ -2524,7 +2524,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2570,7 +2570,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2578,17 +2578,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=8ngAkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
+        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Clean_Architecture.html?hl=&id=8ngAkAEACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Clean Architecture: A Craftsman's Guide to Software Structure and Design
                 </a>
               </li>
               <li
@@ -2630,7 +2630,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Refactoring: Improving the Design of Existing Code"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2638,17 +2638,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=2H1_DwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Refactoring: Improving the Design of Existing Code
                 </a>
               </li>
               <li
@@ -2690,7 +2690,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Art of Computer Programming: Volume 3: Sorting and Searching"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2698,17 +2698,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=cYULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
+        aria-label=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=cYULBAAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Art of Computer Programming: Volume 3: Sorting and Searching
                 </a>
               </li>
             </div>
@@ -2732,7 +2732,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2778,7 +2778,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2786,17 +2786,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=YqcsngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
+        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Agile_Software_Development_Principles_Pa.html?hl=&id=YqcsngEACAAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Agile Software Development: Principles, Patterns, and Practices
                 </a>
               </li>
               <li
@@ -2838,7 +2838,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Engineering: A Practitioner's Approach"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2846,17 +2846,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=dXlzCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
+        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Software_Engineering.html?hl=&id=dXlzCgAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Engineering: A Practitioner's Approach
                 </a>
               </li>
             </div>
@@ -2872,7 +2872,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2918,7 +2918,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Artificial Intelligence: With an Introduction to Machine Learning, Second Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -2926,17 +2926,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=vABRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
+        aria-label=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/Artificial_Intelligence.html?hl=&id=vABRDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Artificial Intelligence: With an Introduction to Machine Learning, Second Edition
                 </a>
               </li>
             </div>
@@ -2952,7 +2952,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -2998,7 +2998,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Measurement and Estimation: A Practical Approach"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3006,17 +3006,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=3g8wtcpFHZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
+        aria-label=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=3g8wtcpFHZcC"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Measurement and Estimation: A Practical Approach
                 </a>
               </li>
               <li
@@ -3058,7 +3058,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Software Metrics: A Rigorous and Practical Approach, Third Edition"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3066,17 +3066,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=lx_OBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Software Metrics: A Rigorous and Practical Approach, Third Edition book cover\\"
+        aria-label=\\"Software Metrics: A Rigorous and Practical Approach, Third Edition book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=lx_OBQAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Software Metrics: A Rigorous and Practical Approach, Third Edition
                 </a>
               </li>
             </div>
@@ -3092,7 +3092,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -3138,7 +3138,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Introduction to Software Project Management"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3146,17 +3146,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=UFHSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Introduction to Software Project Management book cover\\"
+        aria-label=\\"Introduction to Software Project Management book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=UFHSBQAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Introduction to Software Project Management
                 </a>
               </li>
             </div>
@@ -3172,7 +3172,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -3218,7 +3218,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="Security for Software Engineers"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3226,17 +3226,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=3MuCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Security for Software Engineers book cover\\"
+        aria-label=\\"Security for Software Engineers book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=3MuCDwAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  Security for Software Engineers
                 </a>
               </li>
             </div>
@@ -3252,7 +3252,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121);"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -3298,7 +3298,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3306,17 +3306,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=IkuEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://books.google.com/books/about/The_Art_of_Computer_Programming_Volume_4.html?hl=&id=IkuEBAAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Art of Computer Programming, Volume 4A: Combinatorial Algorithms
                 </a>
               </li>
               <li
@@ -3358,7 +3358,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="[Book title not found]"
+                  aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -3366,17 +3366,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"https://via.placeholder.com/120x180\\" 
-        alt=\\"[Book title not found] book cover\\"
-        aria-label=\\"[Book title not found] book cover\\"
+        src=\\"http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
         />
     </div>
   "
-                  href=""
+                  href="https://play.google.com/store/books/details?id=ik0qCTVzl44C"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  [Book title not found]
+                  The Clean Coder: A Code of Conduct for Professional Programmers
                 </a>
               </li>
             </div>

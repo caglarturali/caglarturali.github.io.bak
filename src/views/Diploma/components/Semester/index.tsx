@@ -5,7 +5,6 @@ import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { DetailsPanel, DiplomaTypes } from '../../../../models';
 import Course from './Course';
-import { calculateCourseProgress } from '../../../../utils';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -24,12 +23,8 @@ const Semester: React.FC<SemesterProps> = ({
   return (
     <details open={showDetails} className={classes.root}>
       <summary>{name}</summary>
-      {courses.map((c) => (
-        <Course
-          key={c.courseName}
-          courseData={c}
-          progress={calculateCourseProgress(c)}
-        />
+      {courses.map((course) => (
+        <Course key={course.courseName} courseData={course} />
       ))}
     </details>
   );

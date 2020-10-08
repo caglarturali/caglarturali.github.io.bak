@@ -10,6 +10,10 @@ export declare namespace DiplomaTypes {
     link: string;
   }
 
+  export interface Progress extends CourseBook {
+    progress: number;
+  }
+
   export interface Course {
     courseName: string;
     books: CourseBook[];

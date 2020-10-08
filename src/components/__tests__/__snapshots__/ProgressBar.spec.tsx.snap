@@ -6,7 +6,7 @@ exports[`<ProgressBar /> should render correctly 1`] = `
     style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
   >
     <div
-      style="height: 100%; width: 80%; background-color: rgb(152, 195, 121);"
+      style="height: 100%; width: 80%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
     />
   </div>
 </DocumentFragment>

@@ -1,78 +1,58 @@
 /**
  * Book component.
  */
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { createUseStyles } from 'react-jss';
-import { API, DiplomaTypes, LocalCache } from '../../../../../../models';
-import { useLocalStorageState } from '../../../../../../hooks';
-import { buildRecordObject, isRecordUsable } from '../../../../../../utils';
-import { getDetailsForIsbn } from '../../../../../../api';
-import Progress from './Progress';
+import { CircularProgressbar } from 'react-circular-progressbar';
+import 'react-circular-progressbar/dist/styles.css';
+import { DiplomaTypes } from '../../../../../../models';
+import booksData from '../../../../../../data/json/books.json';
 import styles from './styles';
+import { getReadingProgressForIsbn } from '../../../../../../api';
 
 const useStyles = createUseStyles(styles);
 
 export interface BookProps {
-  bookData: DiplomaTypes.Book;
+  courseBook: DiplomaTypes.CourseBook;
+  onProgressChange?: (progress: DiplomaTypes.Progress) => void;
 }
 
-const Book: React.FC<BookProps & LocalCache.Prop> = ({
-  bookData,
-  timeout = 1 * 60, // 1 hour
-}) => {
+const Book: React.FC<BookProps> = ({ courseBook, onProgressChange }) => {
   const classes = useStyles();
   const {
-    isbn: [, isbn13],
-    static: staticData,
-  } = bookData;
+    isbn: [isbn10, isbn13],
+  } = courseBook;
 
-  const [isbnObjRecord, setIsbnObjRecord] = useLocalStorageState<
-    API.ISBNObject | undefined
-  >(isbn13, undefined);
+  const [bookProgress, setBookProgress] = useState<number | undefined>(
+    undefined,
+  );
 
-  const isStatic = staticData !== undefined;
-
-  const initBookData = () => {
-    const getBookData = async () => {
-      const isbn = await getDetailsForIsbn(isbn13);
-      setIsbnObjRecord(buildRecordObject(isbn));
-    };
-
-    if (!isStatic) {
-      if (!isRecordUsable(isbnObjRecord, timeout)) {
-        getBookData();
+  const initProgress = () => {
+    const getProgressData = async () => {
+      const { progress = 0 } = await getReadingProgressForIsbn(isbn13);
+      setBookProgress(progress);
+      if (onProgressChange) {
+        onProgressChange({
+          isbn: courseBook.isbn,
+          progress,
+        });
       }
-    }
+    };
+    if (bookProgress === undefined) getProgressData();
   };
 
-  useEffect(initBookData, []);
+  useEffect(initProgress, []);
 
-  let titleFinal, thumbFinal, linkFinal;
-  if (!isStatic && isbnObjRecord.data && isbnObjRecord.data.items) {
-    // Extract from ISBNObject.
-    const {
-      volumeInfo: {
-        title,
-        subtitle,
-        imageLinks: { thumbnail },
-        canonicalVolumeLink,
-      },
-    } = isbnObjRecord.data.items[0];
+  const { title, subtitle, thumbnail, link } = booksData.find(
+    (b) => b.isbn.includes(isbn10) || b.isbn.includes(isbn13),
+  ) as DiplomaTypes.BookMetadata;
 
-    titleFinal = subtitle ? `${title}: ${subtitle}` : title;
-    thumbFinal = thumbnail;
-    linkFinal = canonicalVolumeLink;
-  } else {
-    // Use static data.
-    titleFinal = staticData?.title || '[Book title not found]';
-    thumbFinal = staticData?.thumbnail || 'https://via.placeholder.com/120x180';
-    linkFinal = staticData?.link || '';
-  }
+  const titleFinal = subtitle ? `${title}: ${subtitle}` : title;
 
   const thumbnailToolTip = `
     <div>
       <img
-        src="${thumbFinal}" 
+        src="${thumbnail}" 
         alt="${titleFinal} book cover"
         aria-label="${titleFinal} book cover"
         />
@@ -81,10 +61,16 @@ const Book: React.FC<BookProps & LocalCache.Prop> = ({
 
   return (
     <li className={classes.bookItem}>
-      <Progress isbn13={isbn13} />
+      <span data-tip={`${bookProgress}% done`}>
+        <CircularProgressbar
+          value={bookProgress || 0}
+          className={classes.progress}
+          strokeWidth={24}
+        />
+      </span>
 
       <a
-        href={linkFinal}
+        href={link}
         aria-label={titleFinal}
         data-html={true}
         data-tip={thumbnailToolTip}

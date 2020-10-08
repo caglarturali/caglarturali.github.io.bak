@@ -31,6 +31,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({
     height: '100%',
     width: `${value}%`,
     backgroundColor: color,
+    transition: 'width 500ms ease',
   };
 
   return (
