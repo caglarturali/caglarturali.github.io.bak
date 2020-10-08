@@ -1,3 +1,4 @@
+import fetch from 'isomorphic-unfetch';
 import { API } from '../models';
 
 /**
