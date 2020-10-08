@@ -26,7 +26,7 @@ const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
     setCourseProgress([...courseProgress, progress]);
   };
 
-  const calculateCourseProgress = useMemo(() => {
+  const courseProgressAverage = useMemo(() => {
     if (courseProgress.length === 0) return 0;
 
     return (
@@ -39,7 +39,7 @@ const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
     <details open={showDetails} className={classes.courseDetails}>
       <summary>
         <span>{courseName}</span>
-        <ProgressBar value={calculateCourseProgress} />
+        <ProgressBar value={courseProgressAverage} />
       </summary>
       <div className={classes.bookPanel}>
         {books.map((book) => (
