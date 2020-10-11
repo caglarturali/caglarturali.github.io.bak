@@ -628,6 +628,66 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
+              aria-label="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=tvfyz-4JILwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses book cover\\"
+        aria-label=\\"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses book cover\\"
+        />
+    </div>
+  "
+              href="https://play.google.com/store/books/details?id=tvfyz-4JILwC"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
               aria-label="The UNIX Programming Environment"
               currentitem="false"
               data-class="toolTip-0-2-7"
