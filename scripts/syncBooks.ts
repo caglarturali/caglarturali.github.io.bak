@@ -60,7 +60,7 @@ const process = async (
           ...staticData,
           isbn,
         });
-      } else if (data) {
+      } else if (data && data.items) {
         const {
           volumeInfo: {
             title,
@@ -78,6 +78,8 @@ const process = async (
           thumbnail,
           link: canonicalVolumeLink,
         });
+      } else {
+        console.log(`Can not fetch data for: ${isbn}`);
       }
     }
   } catch (error) {
