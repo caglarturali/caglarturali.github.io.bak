@@ -32,6 +32,7 @@
 
 ### Special interests
 
+- [Virtual] Aviation ✈
 - Cycling 🚴‍♂️
 - Electronic music production 🎧
 - Entrepreneurship 👨🏻‍💻
