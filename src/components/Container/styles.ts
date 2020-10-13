@@ -3,8 +3,7 @@
  */
 import { Styles } from 'react-jss';
 import {
-  leftBarWidth,
-  desktopBreakpoint,
+  breakpoints,
   midBlue,
   textLightBlue,
   textMid,
@@ -15,7 +14,6 @@ export default {
   root: {
     marginBottom: '64px',
     marginTop: '20px',
-    marginLeft: leftBarWidth,
     maxWidth: '960px',
     padding: '20px',
     '& a:hover': {
@@ -24,7 +22,7 @@ export default {
     '& li': {
       listStyle: 'square',
     },
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       marginLeft: 0,
     },
   },
@@ -38,7 +36,7 @@ export default {
       '& li': {
         paddingBottom: '4px',
       },
-      [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+      [`@media screen and (max-width: ${breakpoints.desktop})`]: {
         paddingLeft: '20px',
       },
     },
