@@ -32,7 +32,7 @@
 
 ### Special interests
 
-- [Virtual] Aviation ✈
+- \[Virtual\] Aviation ✈
 - Cycling 🚴‍♂️
 - Electronic music production 🎧
 - Entrepreneurship 👨🏻‍💻
