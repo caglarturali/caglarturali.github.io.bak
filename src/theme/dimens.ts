@@ -17,3 +17,8 @@ export const widths = {
   leftBar: 50,
   explorer: 200,
 };
+
+export const heights = {
+  navBar: 40,
+  statusBar: 22,
+};

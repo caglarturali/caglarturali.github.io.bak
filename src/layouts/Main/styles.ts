@@ -3,17 +3,27 @@
  */
 import Color from 'color';
 import { Styles } from 'react-jss';
-import {
-  bgMidBlue,
-  textLightBlue,
-  mSize,
-  monoFont,
-  explorerWidth,
-} from '../../theme';
+import { bgMidBlue, textLightBlue, mSize, monoFont, widths } from '../../theme';
 
 // Notice that it's an object containing
 // global "base" values for the rest of the app.
 export default {
+  root: {
+    position: 'absolute',
+    height: '100vh',
+    width: '100vw',
+    overflow: 'auto',
+    padding: 0,
+    margin: 0,
+  },
+  content: {
+    position: 'relative',
+    top: 0,
+    left: `${widths.leftBar}px`,
+  },
+  explorerOpen: {
+    left: `${widths.leftBar + widths.explorer}px`,
+  },
   '@global': {
     html: {
       fontSize: '62.5%',
@@ -41,11 +51,5 @@ export default {
     '.color-transform': {
       transform: 'color 500ms ease',
     },
-  },
-  content: {
-    position: 'fixed',
-    top: '0',
-    left: explorerWidth,
-    width: '100vw',
   },
 } as Styles;

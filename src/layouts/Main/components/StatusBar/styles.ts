@@ -8,6 +8,7 @@ import {
   textLightBlue,
   sSize,
   sansFont,
+  heights,
 } from '../../../../theme';
 
 export default {
@@ -22,6 +23,7 @@ export default {
     left: '0',
     position: 'fixed',
     width: '100vw',
+    height: heights.statusBar,
     '& span, & a': {
       display: 'inline-block',
       padding: '2px 8px',

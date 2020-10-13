@@ -1,11 +1,12 @@
 /**
  * Main layout.
  */
-import React from 'react';
+import React, { useState } from 'react';
 import { createUseStyles } from 'react-jss';
+import clsx from 'clsx';
 import Header from './components/Header';
 import LeftBar from './components/LeftBar';
-// import Explorer from './components/Explorer';
+import Explorer from './components/Explorer';
 import StatusBar from './components/StatusBar';
 import { ContactItem, TabLink } from '../../models';
 import styles from './styles';
@@ -28,14 +29,22 @@ const MainLayout: React.FC<MainLayoutProps> = ({
   contactData,
 }) => {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [explorerOpen, setExplorerOpen] = useState(false);
+
   const classes = useStyles();
 
   return (
-    <div>
-      <Header tabs={tabs} />
+    <div className={classes.root}>
       <LeftBar contactData={contactData} />
-      {/* <Explorer /> */}
-      <main className="">{children}</main>
+      <Explorer tabs={tabs} open={explorerOpen} />
+      <main
+        className={clsx(classes.content, {
+          [classes.explorerOpen]: explorerOpen,
+        })}
+      >
+        <Header tabs={tabs} />
+        {children}
+      </main>
       <StatusBar />
     </div>
   );

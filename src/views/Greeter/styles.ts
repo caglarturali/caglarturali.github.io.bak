@@ -10,9 +10,10 @@ import {
   midBlue,
   mllSize,
   lSize,
-  desktopBreakpoint,
+  breakpoints,
   mlSize,
   sansFont,
+  heights,
 } from '../../theme';
 
 export default {
@@ -20,7 +21,7 @@ export default {
     alignItems: 'center',
     display: 'flex',
     flexDirection: 'column',
-    height: '100vh',
+    height: `calc(100vh - ${heights.navBar + heights.statusBar}px)`,
     justifyContent: 'center',
     fontFamily: sansFont,
   },
@@ -33,7 +34,7 @@ export default {
     padding: '0',
     textShadow: `5px 5px ${bgDarkBlue}`,
     userSelect: 'none',
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       fontSize: mllSize,
     },
   },
@@ -51,7 +52,7 @@ export default {
     '& strong': {
       fontWeight: '500',
     },
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       fontSize: mlSize,
     },
   },

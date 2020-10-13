@@ -12,10 +12,9 @@ import {
 
 export default {
   root: {
-    marginBottom: '64px',
-    marginTop: '20px',
     maxWidth: '960px',
-    padding: '20px',
+    padding: '0 20px',
+    marginBottom: '120px',
     '& a:hover': {
       color: textMid,
     },

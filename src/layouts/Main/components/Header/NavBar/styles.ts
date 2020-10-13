@@ -9,14 +9,14 @@ import {
   textWhite,
   textLightBlue,
   sSize,
-  desktopBreakpoint,
+  breakpoints,
   sansFont,
 } from '../../../../../theme';
 
 export default {
   root: {
-    float: 'left',
     fontFamily: sansFont,
+    height: '100vh',
   },
   list: {
     color: textLightBlue,
@@ -36,7 +36,7 @@ export default {
       padding: '10px 15px',
       textTransform: 'lowercase',
       transition: 'background, border-color 250ms ease',
-      [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+      [`@media screen and (max-width: ${breakpoints.desktop})`]: {
         letterSpacing: '0',
         padding: '10px',
       },

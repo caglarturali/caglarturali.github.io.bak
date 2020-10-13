@@ -2,11 +2,7 @@
  * NavItem component styles.
  */
 import { Styles } from 'react-jss';
-import {
-  desktopBreakpoint,
-  textLightBlue,
-  textWhite,
-} from '../../../../../../theme';
+import { breakpoints, textLightBlue, textWhite } from '../../../../../../theme';
 
 export default {
   root: {
@@ -16,7 +12,7 @@ export default {
   },
   navText: {
     marginLeft: '8px',
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       display: 'none',
     },
   },
@@ -25,7 +21,7 @@ export default {
       color: textLightBlue,
       marginLeft: '8px',
       paddingLeft: '8px',
-      [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+      [`@media screen and (max-width: ${breakpoints.desktop})`]: {
         paddingLeft: '8px',
       },
       '&:hover': {

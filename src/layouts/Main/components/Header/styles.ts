@@ -2,16 +2,18 @@
  * Header component styles.
  */
 import { Styles } from 'react-jss';
-import { bgDarkBlue, leftBarWidth, desktopBreakpoint } from '../../../../theme';
+import { bgDarkBlue, breakpoints, heights } from '../../../../theme';
 
 export default {
   root: {
     background: bgDarkBlue,
-    position: 'fixed',
-    top: '0',
-    left: leftBarWidth,
+    position: 'sticky',
+    top: 0,
+    left: 0,
     width: '100vw',
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    height: heights.navBar,
+    overflow: 'none',
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       left: '0',
     },
   },

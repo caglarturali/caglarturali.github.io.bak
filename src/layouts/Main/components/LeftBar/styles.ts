@@ -3,11 +3,7 @@
  */
 import { Styles } from 'react-jss';
 import Color from 'color';
-import {
-  bgLightBlue,
-  leftBarWidth,
-  desktopBreakpoint,
-} from '../../../../theme';
+import { bgLightBlue, breakpoints, widths } from '../../../../theme';
 
 export default {
   root: {
@@ -17,11 +13,11 @@ export default {
     flexDirection: 'column',
     justifyContent: 'space-between',
     height: '100vh',
-    left: '0',
     position: 'fixed',
+    left: '0',
     top: '0',
-    width: leftBarWidth,
-    [`@media screen and (max-width: ${desktopBreakpoint})`]: {
+    width: `${widths.leftBar}px`,
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
       display: 'none',
     },
     '& div': {
