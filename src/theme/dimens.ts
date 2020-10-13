@@ -9,6 +9,11 @@ export const mllSize = '2.4rem';
 export const lSize = '3.2rem';
 export const xlSize = '4.8rem';
 
-export const desktopBreakpoint = '45rem';
-export const leftBarWidth = '50px';
-export const explorerWidth = '250px';
+export const breakpoints = {
+  desktop: '45rem',
+};
+
+export const widths = {
+  leftBar: 50,
+  explorer: 200,
+};
