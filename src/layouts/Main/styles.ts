@@ -3,7 +3,14 @@
  */
 import Color from 'color';
 import { Styles } from 'react-jss';
-import { bgMidBlue, textLightBlue, mSize, monoFont, widths } from '../../theme';
+import {
+  bgMidBlue,
+  textLightBlue,
+  mSize,
+  monoFont,
+  breakpoints,
+  widths,
+} from '../../theme';
 
 // Notice that it's an object containing
 // global "base" values for the rest of the app.
@@ -20,6 +27,9 @@ export default {
     position: 'relative',
     top: 0,
     left: `${widths.leftBar}px`,
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
+      left: '0',
+    },
   },
   explorerOpen: {
     left: `${widths.leftBar + widths.explorer}px`,

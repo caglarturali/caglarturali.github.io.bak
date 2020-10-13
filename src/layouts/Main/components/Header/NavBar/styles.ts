@@ -11,12 +11,13 @@ import {
   sSize,
   breakpoints,
   sansFont,
+  heights,
 } from '../../../../../theme';
 
 export default {
   root: {
     fontFamily: sansFont,
-    height: '100vh',
+    height: heights.navBar,
   },
   list: {
     color: textLightBlue,
