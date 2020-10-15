@@ -2,7 +2,7 @@
 
 - [Software Engineering](https://turali.js.org/diploma)
   
-  - [Self-Authored]
+  - \[Self-Authored\]
   - Professional Diploma
   - 2020-...
 
