@@ -39,10 +39,13 @@
           ]
         },
         {
-          "courseName": "SWM 501 Discrete Mathematics",
+          "courseName": "SWE 529 Discrete Mathematics",
           "books": [
             {
               "isbn": ["1260091996", "9781260091991"]
+            },
+            {
+              "isbn": ["3319701517", "9783319701516"]
             },
             {
               "isbn": ["0596514867", "9780596514860"]
@@ -104,10 +107,13 @@
           ]
         },
         {
-          "courseName": "SWM 502 Mathematics for Computer Science",
+          "courseName": "SWE 547 Human Computer Interaction",
           "books": [
             {
-              "isbn": ["3319701517", "9783319701516"]
+              "isbn": ["0130461091", "9780130461094"]
+            },
+            {
+              "isbn": ["1119547350", "9781119547358"]
             }
           ]
         },

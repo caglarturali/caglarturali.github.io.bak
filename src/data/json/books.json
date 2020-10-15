@@ -220,6 +220,25 @@
   },
   {
     "isbn": [
+      "0130461091",
+      "9780130461094"
+    ],
+    "title": "Human-computer Interaction",
+    "thumbnail": "http://books.google.com/books/content?id=IuQxui8GHDcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Human_computer_Interaction.html?hl=&id=IuQxui8GHDcC"
+  },
+  {
+    "isbn": [
+      "1119547350",
+      "9781119547358"
+    ],
+    "title": "Interaction Design",
+    "subtitle": "Beyond Human-Computer Interaction",
+    "thumbnail": "http://books.google.com/books/content?id=UDeQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=UDeQDwAAQBAJ"
+  },
+  {
+    "isbn": [
       "0262258102",
       "9780262258104"
     ],
