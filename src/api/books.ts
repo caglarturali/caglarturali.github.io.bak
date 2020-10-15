@@ -8,10 +8,8 @@ import { API } from '../models';
 export const getDetailsForIsbn = async (
   isbn: string,
 ): Promise<API.ISBNObject> => {
-  const { REACT_APP_BOOKS_API_KEY } = process.env;
-
   const response = await fetch(
-    `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}&key=${REACT_APP_BOOKS_API_KEY}`,
+    `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`,
   );
   return await response.json();
 };
