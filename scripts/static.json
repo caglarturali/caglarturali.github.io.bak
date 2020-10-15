@@ -1,0 +1,20 @@
+[
+  {
+    "isbn": [
+      "0769551661",
+      "9780769551661"
+    ],
+    "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg",
+    "link": "https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r"
+  },
+  {
+    "isbn": [
+      "0262258102",
+      "9780262258104"
+    ],
+    "title": "Introduction to Algorithms, third edition",
+    "thumbnail": "http://books.google.com/books/content?id=F3anBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=F3anBQAAQBAJ"
+  }
+]
