@@ -1162,7 +1162,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWM 501 Mathematics for Computer Science I
+                SWM 501 Discrete Mathematics
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1175,6 +1175,66 @@ exports[`<Diploma /> should render correctly 1`] = `
             <div
               class="bookPanel-0-2-12"
             >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-9"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Discrete Mathematics and Its Applications"
+                  currentitem="false"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=T_K9tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Discrete Mathematics and Its Applications book cover\\"
+        aria-label=\\"Discrete Mathematics and Its Applications book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Discrete_Mathematics_and_Its_Application.html?hl=&id=T_K9tgEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Discrete Mathematics and Its Applications
+                </a>
+              </li>
               <li
                 class="bookItem-0-2-8"
               >
@@ -1830,7 +1890,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWM 502 Mathematics for Computer Science II
+                SWM 502 Mathematics for Computer Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
