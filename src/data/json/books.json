@@ -106,6 +106,15 @@
   },
   {
     "isbn": [
+      "1260091996",
+      "9781260091991"
+    ],
+    "title": "Discrete Mathematics and Its Applications",
+    "thumbnail": "http://books.google.com/books/content?id=T_K9tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Discrete_Mathematics_and_Its_Application.html?hl=&id=T_K9tgEACAAJ"
+  },
+  {
+    "isbn": [
       "0133597261",
       "9780133597264"
     ],

@@ -39,8 +39,11 @@
           ]
         },
         {
-          "courseName": "SWM 501 Mathematics for Computer Science I",
+          "courseName": "SWM 501 Discrete Mathematics",
           "books": [
+            {
+              "isbn": ["1260091996", "9781260091991"]
+            },
             {
               "isbn": ["0596514867", "9780596514860"]
             }
@@ -101,7 +104,7 @@
           ]
         },
         {
-          "courseName": "SWM 502 Mathematics for Computer Science II",
+          "courseName": "SWM 502 Mathematics for Computer Science",
           "books": [
             {
               "isbn": ["3319701517", "9783319701516"]
