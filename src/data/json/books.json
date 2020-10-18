@@ -20,16 +20,6 @@
   },
   {
     "isbn": [
-      "0321635760",
-      "9780321635761"
-    ],
-    "title": "Art of Computer Programming, Volume 2",
-    "subtitle": "Seminumerical Algorithms",
-    "thumbnail": "http://books.google.com/books/content?id=Zu-HAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "link": "https://books.google.com/books/about/Art_of_Computer_Programming_Volume_2.html?hl=&id=Zu-HAwAAQBAJ"
-  },
-  {
-    "isbn": [
       "1351384384",
       "9781351384384"
     ],
@@ -418,6 +408,15 @@
     "subtitle": "Volume 3: Sorting and Searching",
     "thumbnail": "http://books.google.com/books/content?id=cYULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "link": "https://play.google.com/store/books/details?id=cYULBAAAQBAJ"
+  },
+  {
+    "isbn": [
+      "8177583352",
+      "9788177583359"
+    ],
+    "title": "The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E",
+    "thumbnail": "http://books.google.com/books/content?id=OtLNKNVh1XoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/The_Art_Of_Computer_Programming_Volume_2.html?hl=&id=OtLNKNVh1XoC"
   },
   {
     "isbn": [
