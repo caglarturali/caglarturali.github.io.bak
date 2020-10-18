@@ -165,14 +165,6 @@
           ]
         },
         {
-          "courseName": "SWE 555 Artificial Intelligence Techniques",
-          "books": [
-            {
-              "isbn": ["1351384384", "9781351384384"]
-            }
-          ]
-        },
-        {
           "courseName": "SWE 560 Software Metrics and Models",
           "books": [
             {
@@ -196,6 +188,17 @@
           "books": [
             {
               "isbn": ["0429014430", "9780429014437"]
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 580 Introduction to Data Science",
+          "books": [
+            {
+              "isbn": ["1108472443", "9781108472449"]
+            },
+            {
+              "isbn": ["3319500171", "9783319500171"]
             }
           ]
         }

@@ -1,6 +1,15 @@
 [
   {
     "isbn": [
+      "1108472443",
+      "9781108472449"
+    ],
+    "title": "A Hands-On Introduction to Data Science",
+    "thumbnail": "http://books.google.com/books/content?id=rljPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://books.google.com/books/about/A_Hands_On_Introduction_to_Data_Science.html?hl=&id=rljPDwAAQBAJ"
+  },
+  {
+    "isbn": [
       "1292025948",
       "9781292025940"
     ],
@@ -17,16 +26,6 @@
     "subtitle": "A Practical Guide",
     "thumbnail": "http://books.google.com/books/content?id=w7rNCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "link": "https://play.google.com/store/books/details?id=w7rNCwAAQBAJ"
-  },
-  {
-    "isbn": [
-      "1351384384",
-      "9781351384384"
-    ],
-    "title": "Artificial Intelligence",
-    "subtitle": "With an Introduction to Machine Learning, Second Edition",
-    "thumbnail": "http://books.google.com/books/content?id=vABRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "link": "https://books.google.com/books/about/Artificial_Intelligence.html?hl=&id=vABRDwAAQBAJ"
   },
   {
     "isbn": [
@@ -215,6 +214,16 @@
     "title": "Introduction to Algorithms, third edition",
     "thumbnail": "http://books.google.com/books/content?id=F3anBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "link": "https://play.google.com/store/books/details?id=F3anBQAAQBAJ"
+  },
+  {
+    "isbn": [
+      "3319500171",
+      "9783319500171"
+    ],
+    "title": "Introduction to Data Science",
+    "subtitle": "A Python Approach to Concepts, Techniques and Applications",
+    "thumbnail": "http://books.google.com/books/content?id=w84wDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=w84wDgAAQBAJ"
   },
   {
     "isbn": [
