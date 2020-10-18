@@ -181,16 +181,6 @@
   },
   {
     "isbn": [
-      "0596008678",
-      "9780596008673"
-    ],
-    "title": "Head First Object-Oriented Analysis and Design",
-    "subtitle": "A Brain Friendly Guide to OOA&D",
-    "thumbnail": "http://books.google.com/books/content?id=-QpmamSKl_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "link": "https://books.google.com/books/about/Head_First_Object_Oriented_Analysis_and.html?hl=&id=-QpmamSKl_EC"
-  },
-  {
-    "isbn": [
       "0596527357",
       "9780596527358"
     ],
@@ -262,6 +252,16 @@
     "title": "Modern Operating Systems",
     "thumbnail": "http://books.google.com/books/content?id=9gqnngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/Modern_Operating_Systems.html?hl=&id=9gqnngEACAAJ"
+  },
+  {
+    "isbn": [
+      "3319242806",
+      "9783319242804"
+    ],
+    "title": "Object-Oriented Analysis, Design and Implementation",
+    "subtitle": "An Integrated Approach",
+    "thumbnail": "http://books.google.com/books/content?id=zMLYCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=zMLYCgAAQBAJ"
   },
   {
     "isbn": [
