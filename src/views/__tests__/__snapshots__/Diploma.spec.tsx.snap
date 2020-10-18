@@ -1494,7 +1494,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D"
+                  aria-label="Object-Oriented Analysis, Design and Implementation: An Integrated Approach"
                   currentitem="false"
                   data-class="toolTip-0-2-7"
                   data-html="true"
@@ -1502,17 +1502,17 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"http://books.google.com/books/content?id=-QpmamSKl_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D book cover\\"
-        aria-label=\\"Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D book cover\\"
+        src=\\"http://books.google.com/books/content?id=zMLYCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Object-Oriented Analysis, Design and Implementation: An Integrated Approach book cover\\"
+        aria-label=\\"Object-Oriented Analysis, Design and Implementation: An Integrated Approach book cover\\"
         />
     </div>
   "
-                  href="https://books.google.com/books/about/Head_First_Object_Oriented_Analysis_and.html?hl=&id=-QpmamSKl_EC"
+                  href="https://play.google.com/store/books/details?id=zMLYCgAAQBAJ"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Object-Oriented Analysis and Design: A Brain Friendly Guide to OOA&D
+                  Object-Oriented Analysis, Design and Implementation: An Integrated Approach
                 </a>
               </li>
             </div>
@@ -1953,66 +1953,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-8"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-9"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Head First Algebra: A Learner's Guide to Algebra I"
-                  currentitem="false"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=3A3NHmh-pSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
-        aria-label=\\"Head First Algebra: A Learner's Guide to Algebra I book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Head_First_Algebra.html?hl=&id=3A3NHmh-pSoC"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Head First Algebra: A Learner's Guide to Algebra I
                 </a>
               </li>
             </div>
@@ -3166,86 +3106,6 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 555 Artificial Intelligence Techniques
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-12"
-            >
-              <li
-                class="bookItem-0-2-8"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-9"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Artificial Intelligence: With an Introduction to Machine Learning, Second Edition"
-                  currentitem="false"
-                  data-class="toolTip-0-2-7"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=vABRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
-        aria-label=\\"Artificial Intelligence: With an Introduction to Machine Learning, Second Edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Artificial_Intelligence.html?hl=&id=vABRDwAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Artificial Intelligence: With an Introduction to Machine Learning, Second Edition
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-11"
-          >
-            <summary>
-              <span>
                 SWE 560 Software Metrics and Models
               </span>
               <div
@@ -3537,6 +3397,146 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Security for Software Engineers
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-11"
+          >
+            <summary>
+              <span>
+                SWE 580 Introduction to Data Science
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-12"
+            >
+              <li
+                class="bookItem-0-2-8"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-9"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="A Hands-On Introduction to Data Science"
+                  currentitem="false"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=rljPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"A Hands-On Introduction to Data Science book cover\\"
+        aria-label=\\"A Hands-On Introduction to Data Science book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/A_Hands_On_Introduction_to_Data_Science.html?hl=&id=rljPDwAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  A Hands-On Introduction to Data Science
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-8"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-9"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications"
+                  currentitem="false"
+                  data-class="toolTip-0-2-7"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=w84wDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications book cover\\"
+        aria-label=\\"Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=w84wDgAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications
                 </a>
               </li>
             </div>
