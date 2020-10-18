@@ -148,7 +148,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="The Art of Computer Programming: Volume 1: Fundamental Algorithms"
+              aria-label="C How to Program, Global Edition"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -156,17 +156,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
+        src=\\"http://books.google.com/books/content?id=UZ5VCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"C How to Program, Global Edition book cover\\"
+        aria-label=\\"C How to Program, Global Edition book cover\\"
         />
     </div>
   "
-              href="https://books.google.com/books/about/The_Art_of_Computer_Programming.html?hl=&id=x9AsAwAAQBAJ"
+              href="https://books.google.com/books/about/C_How_to_Program_Global_Edition.html?hl=&id=UZ5VCwAAQBAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              The Art of Computer Programming: Volume 1: Fundamental Algorithms
+              C How to Program, Global Edition
             </a>
           </li>
           <li
@@ -208,7 +208,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="The Practice of Programming"
+              aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
               currentitem="false"
               data-class="toolTip-0-2-7"
               data-html="true"
@@ -216,77 +216,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               data-tip="
     <div>
       <img
-        src=\\"http://books.google.com/books/content?id=j9T6AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Practice of Programming book cover\\"
-        aria-label=\\"The Practice of Programming book cover\\"
+        src=\\"http://books.google.com/books/content?id=8ngAkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
+        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
         />
     </div>
   "
-              href="https://books.google.com/books/about/The_Practice_of_Programming.html?hl=&id=j9T6AgAAQBAJ"
+              href="https://books.google.com/books/about/Clean_Architecture.html?hl=&id=8ngAkAEACAAJ"
               rel="noopener noreferrer"
               target="_blank"
             >
-              The Practice of Programming
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
-        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=LhOlDwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
+              Clean Architecture: A Craftsman's Guide to Software Structure and Design
             </a>
           </li>
           <li
@@ -407,426 +347,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Code Complete, 2nd Edition
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=OtLNKNVh1XoC&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
-        aria-label=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Art_Of_Computer_Programming_Volume_2.html?hl=&id=OtLNKNVh1XoC"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=8ngAkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
-        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Clean_Architecture.html?hl=&id=8ngAkAEACAAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Clean Architecture: A Craftsman's Guide to Software Structure and Design
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Refactoring: Improving the Design of Existing Code"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
-        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=2H1_DwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Refactoring: Improving the Design of Existing Code
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art of Computer Programming: Volume 3: Sorting and Searching"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=cYULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
-        aria-label=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=cYULBAAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art of Computer Programming: Volume 3: Sorting and Searching
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=IkuEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Art_of_Computer_Programming_Volume_4.html?hl=&id=IkuEBAAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art of Computer Programming, Volume 4A: Combinatorial Algorithms
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
-        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=ik0qCTVzl44C"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Clean Coder: A Code of Conduct for Professional Programmers
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-8"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-9"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="C How to Program, Global Edition"
-              currentitem="false"
-              data-class="toolTip-0-2-7"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UZ5VCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"C How to Program, Global Edition book cover\\"
-        aria-label=\\"C How to Program, Global Edition book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/C_How_to_Program_Global_Edition.html?hl=&id=UZ5VCwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              C How to Program, Global Edition
             </a>
           </li>
           <li
@@ -1228,6 +748,66 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
+              aria-label="Refactoring: Improving the Design of Existing Code"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
+        />
+    </div>
+  "
+              href="https://play.google.com/store/books/details?id=2H1_DwAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Refactoring: Improving the Design of Existing Code
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
               aria-label="Soft Skills: The Software Developer's Life Manual"
               currentitem="false"
               data-class="toolTip-0-2-7"
@@ -1288,6 +868,306 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
+              aria-label="The Art of Computer Programming: Volume 1: Fundamental Algorithms"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
+        />
+    </div>
+  "
+              href="https://books.google.com/books/about/The_Art_of_Computer_Programming.html?hl=&id=x9AsAwAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Art of Computer Programming: Volume 1: Fundamental Algorithms
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=OtLNKNVh1XoC&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
+        aria-label=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
+        />
+    </div>
+  "
+              href="https://books.google.com/books/about/The_Art_Of_Computer_Programming_Volume_2.html?hl=&id=OtLNKNVh1XoC"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Art of Computer Programming: Volume 3: Sorting and Searching"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=cYULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
+        aria-label=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
+        />
+    </div>
+  "
+              href="https://play.google.com/store/books/details?id=cYULBAAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Art of Computer Programming: Volume 3: Sorting and Searching
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=IkuEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
+        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
+        />
+    </div>
+  "
+              href="https://books.google.com/books/about/The_Art_of_Computer_Programming_Volume_4.html?hl=&id=IkuEBAAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Art of Computer Programming, Volume 4A: Combinatorial Algorithms
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
+        />
+    </div>
+  "
+              href="https://play.google.com/store/books/details?id=ik0qCTVzl44C"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Clean Coder: A Code of Conduct for Professional Programmers
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
               aria-label="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
               currentitem="false"
               data-class="toolTip-0-2-7"
@@ -1307,6 +1187,126 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Practice of Programming"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=j9T6AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Practice of Programming book cover\\"
+        aria-label=\\"The Practice of Programming book cover\\"
+        />
+    </div>
+  "
+              href="https://books.google.com/books/about/The_Practice_of_Programming.html?hl=&id=j9T6AgAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Practice of Programming
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-8"
+          >
+            <span
+              currentitem="false"
+              data-tip="undefined% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-9"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
+              currentitem="false"
+              data-class="toolTip-0-2-7"
+              data-html="true"
+              data-place="right"
+              data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
+        />
+    </div>
+  "
+              href="https://play.google.com/store/books/details?id=LhOlDwAAQBAJ"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
             </a>
           </li>
           <li
