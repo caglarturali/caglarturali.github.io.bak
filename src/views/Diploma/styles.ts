@@ -31,7 +31,7 @@ export default {
       },
     },
     '&>details:last-child': {
-      marginBottom: '64px',
+      marginBottom: '200px',
     },
   },
   extra: {

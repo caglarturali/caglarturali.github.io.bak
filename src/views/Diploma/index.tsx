@@ -46,13 +46,13 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
         <FontAwesomeIcon icon="question-circle" />
       </h2>
       <div className={classes.contents}>
-        {/* Extras */}
-        {extras.map(renderExtra)}
-
         {/* Base Curriculum */}
         {terms.map((t) => (
           <Semester semesterData={t} key={t.name} />
         ))}
+
+        {/* Extras */}
+        {extras.map(renderExtra)}
       </div>
       <ReactTooltip />
     </Container>

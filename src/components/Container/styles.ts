@@ -14,7 +14,7 @@ export default {
   root: {
     maxWidth: '960px',
     padding: '0 20px',
-    marginBottom: '120px',
+    marginBottom: '200px',
     '& a:hover': {
       color: textMid,
     },
