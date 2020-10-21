@@ -23,14 +23,14 @@
   - C#/.NET (3+ years)
   - PHP/MySQL (~3 years)
 
-### Preferences
+### Preferences 🙏
 
-- [macOS on PC hardware](https://wikipedia.org/wiki/Hackintosh) 🙈 || [elementary OS](https://elementary.io/) 🐧
+- [Debian derivatives](https://www.debian.org/) 🐧 || [macOS on PC hardware](https://wikipedia.org/wiki/Hackintosh) 🙈
 - [Zshell](https://en.wikipedia.org/wiki/Z_shell) 💻
 - [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
 
-### Special interests
+### Special interests 👌
 
 - \[Virtual\] Aviation ✈
 - Cycling 🚴‍♂️
