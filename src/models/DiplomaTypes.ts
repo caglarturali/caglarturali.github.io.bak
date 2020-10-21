@@ -21,6 +21,10 @@ export declare namespace DiplomaTypes {
 
   export interface Semester {
     name: string;
+    dates: {
+      start: string;
+      end: string;
+    };
     courses: Course[];
   }
 

@@ -2,6 +2,10 @@
   "terms": [
     {
       "name": "1. Semester",
+      "dates": {
+        "start": "10-01-2020",
+        "end": "01-31-2021"
+      },
       "courses": [
         {
           "courseName": "SWE 501 Introduction to Object Oriented Programming",
@@ -53,6 +57,10 @@
     },
     {
       "name": "2. Semester",
+      "dates": {
+        "start": "02-15-2021",
+        "end": "06-15-2021"
+      },
       "courses": [
         {
           "courseName": "SWE 521 Database Systems",
@@ -104,6 +112,10 @@
     },
     {
       "name": "3. Semester",
+      "dates": {
+        "start": "07-01-2021",
+        "end": "10-31-2021"
+      },
       "courses": [
         {
           "courseName": "SWE 514 Computer Systems",
@@ -152,6 +164,10 @@
     },
     {
       "name": "4. Semester",
+      "dates": {
+        "start": "11-15-2021",
+        "end": "03-15-2022"
+      },
       "courses": [
         {
           "courseName": "SWE 542 Advanced Software Engineering",

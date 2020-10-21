@@ -1,7 +1,7 @@
 /**
  * Semester component.
  */
-import React from 'react';
+import React, { useCallback } from 'react';
 import { createUseStyles } from 'react-jss';
 import { DetailsPanel, DiplomaTypes } from '../../../../models';
 import Course from './Course';
@@ -18,11 +18,21 @@ const Semester: React.FC<SemesterProps> = ({
   showDetails = true,
 }) => {
   const classes = useStyles();
-  const { name, courses } = semesterData;
+  const {
+    name,
+    courses,
+    dates: { start, end },
+  } = semesterData;
+
+  const formatDate = useCallback((isoDate: string) => {
+    return new Date(isoDate).toLocaleDateString();
+  }, []);
 
   return (
     <details open={showDetails} className={classes.root}>
-      <summary>{name}</summary>
+      <summary data-tip={`${formatDate(start)} - ${formatDate(end)}`}>
+        {name}
+      </summary>
       {courses.map((course) => (
         <Course key={course.courseName} courseData={course} />
       ))}
