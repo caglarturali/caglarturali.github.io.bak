@@ -30,8 +30,10 @@ const Semester: React.FC<SemesterProps> = ({
 
   return (
     <details open={showDetails} className={classes.root}>
-      <summary data-tip={`${formatDate(start)} - ${formatDate(end)}`}>
-        {name}
+      <summary>
+        <span data-tip={`${formatDate(start)} - ${formatDate(end)}`}>
+          {name}
+        </span>
       </summary>
       {courses.map((course) => (
         <Course key={course.courseName} courseData={course} />

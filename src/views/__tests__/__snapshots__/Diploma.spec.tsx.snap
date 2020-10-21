@@ -40,11 +40,13 @@ exports[`<Diploma /> should render correctly 1`] = `
           class="root-0-2-7"
           open=""
         >
-          <summary
-            currentitem="false"
-            data-tip="10/1/2020 - 1/31/2021"
-          >
-            1. Semester
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="10/1/2020 - 1/31/2021"
+            >
+              1. Semester
+            </span>
           </summary>
           <details
             class="courseDetails-0-2-8"
@@ -571,11 +573,13 @@ exports[`<Diploma /> should render correctly 1`] = `
           class="root-0-2-7"
           open=""
         >
-          <summary
-            currentitem="false"
-            data-tip="2/15/2021 - 6/15/2021"
-          >
-            2. Semester
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="2/15/2021 - 6/15/2021"
+            >
+              2. Semester
+            </span>
           </summary>
           <details
             class="courseDetails-0-2-8"
@@ -1102,11 +1106,13 @@ exports[`<Diploma /> should render correctly 1`] = `
           class="root-0-2-7"
           open=""
         >
-          <summary
-            currentitem="false"
-            data-tip="7/1/2021 - 10/31/2021"
-          >
-            3. Semester
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="7/1/2021 - 10/31/2021"
+            >
+              3. Semester
+            </span>
           </summary>
           <details
             class="courseDetails-0-2-8"
@@ -1573,11 +1579,13 @@ exports[`<Diploma /> should render correctly 1`] = `
           class="root-0-2-7"
           open=""
         >
-          <summary
-            currentitem="false"
-            data-tip="11/15/2021 - 3/15/2022"
-          >
-            4. Semester
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="11/15/2021 - 3/15/2022"
+            >
+              4. Semester
+            </span>
           </summary>
           <details
             class="courseDetails-0-2-8"
