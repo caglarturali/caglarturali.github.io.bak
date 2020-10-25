@@ -37,8 +37,8 @@ const IconLink: React.FC<ContactItem> = ({
         to={url}
         key={`left-bar-${name}`}
         className={classes.link}
-        aria-label={`${name} page`}
-        title={`${name} page`}
+        aria-label={name}
+        title={name}
       >
         {iconComp}
       </Link>
