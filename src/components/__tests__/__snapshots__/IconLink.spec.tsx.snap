@@ -4,10 +4,10 @@ exports[`<IconLink /> should render correctly 1`] = `
 <DocumentFragment>
   <a
     aria-current="page"
-    aria-label="Home page"
+    aria-label="Home"
     class="link-0-2-1"
     href="/"
-    title="Home page"
+    title="Home"
   >
     <span
       class="iconWrapper-0-2-2"
