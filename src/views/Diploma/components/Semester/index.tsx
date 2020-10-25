@@ -25,7 +25,7 @@ const Semester: React.FC<SemesterProps> = ({
   } = semesterData;
 
   const formatDate = useCallback((isoDate: string) => {
-    return new Date(isoDate).toLocaleDateString();
+    return new Date(isoDate).toLocaleDateString('en');
   }, []);
 
   return (
