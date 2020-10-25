@@ -10,7 +10,7 @@ export default {
     position: 'sticky',
     top: 0,
     left: 0,
-    width: '100vw',
+    width: '100%',
     height: heights.navBar,
   },
 } as Styles;
