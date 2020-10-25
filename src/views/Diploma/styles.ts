@@ -18,20 +18,18 @@ export default {
   },
   contents: {
     '&>details': {
-      cursor: 'pointer',
-      // Find a proper solution!
-      display: 'block',
-      float: 'left',
-      clear: 'left',
-      // ---
-      padding: '10px 0',
       '& summary': {
         border: 'none',
         outline: 'none',
+        '& span': {
+          cursor: 'pointer',
+        },
       },
-    },
-    '&>details:last-child': {
-      marginBottom: '200px',
+      padding: '10px 0',
+
+      '&:last-child': {
+        marginBottom: '200px',
+      },
     },
   },
   extra: {

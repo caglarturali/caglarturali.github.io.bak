@@ -27,7 +27,9 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
     const { name, books } = extra;
     return (
       <details className={classes.extra} key={name}>
-        <summary>{name}</summary>
+        <summary>
+          <span>{name}</span>
+        </summary>
         {books.map((book) => (
           <Book courseBook={book} key={book.isbn[0]} />
         ))}
