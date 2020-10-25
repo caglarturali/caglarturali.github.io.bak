@@ -46,7 +46,7 @@ export default {
   root: {
     position: 'absolute',
     height: '100vh',
-    width: `calc(100vw - ${widths.leftBar}px)`,
+    width: `calc(100% - ${widths.leftBar}px)`,
     padding: 0,
     margin: 0,
   },
