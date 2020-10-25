@@ -21,6 +21,7 @@ export default {
     alignItems: 'center',
     display: 'flex',
     flexDirection: 'column',
+    width: '100%',
     height: `calc(100vh - ${heights.navBar + heights.statusBar}px)`,
     justifyContent: 'center',
     fontFamily: sansFont,
