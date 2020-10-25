@@ -1,5 +1,5 @@
 import React from 'react';
-import { RouteComponentProps } from '@reach/router';
+import { RouteComponentProps, Redirect } from '@reach/router';
 import MDTab, { MDTabProps } from './components/MDTab';
 import { PageProps } from './models';
 
@@ -22,4 +22,5 @@ export default [
   tabs.map(({ name, url, mdFileName }) => (
     <Tab path={url} key={name} fileName={mdFileName} />
   )),
+  <Redirect key="notfound" from="*" to="/" default noThrow />,
 ];
