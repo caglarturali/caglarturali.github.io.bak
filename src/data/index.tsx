@@ -27,7 +27,7 @@ export const pages: PageLink[] = [
   },
   {
     name: 'Diploma in SWE',
-    url: '/diploma_swe',
+    url: '/diploma-swe',
     icon: 'graduation-cap',
     isInternal: true,
     // badge: `${calculateDiplomaProgress(diplomaData, 0)}%`,
