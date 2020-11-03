@@ -274,6 +274,15 @@
   },
   {
     "isbn": [
+      "1337516848",
+      "9781337516846"
+    ],
+    "title": "Precalculus",
+    "thumbnail": "http://books.google.com/books/content?id=CPO5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://books.google.com/books/about/Precalculus.html?hl=&id=CPO5DQAAQBAJ"
+  },
+  {
+    "isbn": [
       "0786745207",
       "9780786745203"
     ],
@@ -474,6 +483,15 @@
     "title": "The UNIX Programming Environment",
     "thumbnail": "http://books.google.com/books/content?id=mcO0Vh9efE0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/The_UNIX_Programming_Environment.html?hl=&id=mcO0Vh9efE0C"
+  },
+  {
+    "isbn": [
+      "0134438981",
+      "9780134438986"
+    ],
+    "title": "Thomas' Calculus",
+    "thumbnail": "http://books.google.com/books/content?id=RRlAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Thomas_Calculus.html?hl=&id=RRlAvgAACAAJ"
   },
   {
     "isbn": [
