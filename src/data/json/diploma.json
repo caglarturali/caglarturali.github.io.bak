@@ -342,16 +342,11 @@
   ],
   "extras": [
     {
-      "name": "Guides",
+      "name": "Optional Reading",
       "books": [
         {
           "isbn": ["0769551661", "9780769551661"]
-        }
-      ]
-    },
-    {
-      "name": "Optional Reading",
-      "books": [
+        },
         {
           "isbn": ["1292110988", "9781292110981"]
         },

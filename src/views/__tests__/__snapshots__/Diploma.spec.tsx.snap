@@ -3422,7 +3422,7 @@ exports[`<Diploma /> should render correctly 1`] = `
         >
           <summary>
             <span>
-              Guides
+              Optional Reading
             </span>
           </summary>
           <li
@@ -3485,15 +3485,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0
             </a>
           </li>
-        </details>
-        <details
-          class="extra-0-2-4"
-        >
-          <summary>
-            <span>
-              Optional Reading
-            </span>
-          </summary>
           <li
             class="bookItem-0-2-11"
           >
