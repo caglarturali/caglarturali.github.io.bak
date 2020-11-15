@@ -3161,7 +3161,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                   data-tip="
     <div>
       <img
-        src=\\"http://www.mmds.org/mmds_cover_v30.jpg\\" 
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344738596l/12818088.jpg\\" 
         alt=\\"Mining of Massive Datasets book cover\\"
         aria-label=\\"Mining of Massive Datasets book cover\\"
         />
