@@ -2481,6 +2481,126 @@ exports[`<Diploma /> should render correctly 1`] = `
                   Introduction to Linear Algebra
                 </a>
               </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Precalculus"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=CPO5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Precalculus book cover\\"
+        aria-label=\\"Precalculus book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Precalculus.html?hl=&id=CPO5DQAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Precalculus
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Thomas' Calculus"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=RRlAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Thomas' Calculus book cover\\"
+        aria-label=\\"Thomas' Calculus book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Thomas_Calculus.html?hl=&id=RRlAvgAACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Thomas' Calculus
+                </a>
+              </li>
             </div>
           </details>
           <details
@@ -4064,66 +4184,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Precalculus"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=CPO5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Precalculus book cover\\"
-        aria-label=\\"Precalculus book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Precalculus.html?hl=&id=CPO5DQAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Precalculus
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
               aria-label="Rebel Code: Linux and the Open Source Revolution"
               currentitem="false"
               data-class="toolTip-0-2-10"
@@ -4803,66 +4863,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               The UNIX Programming Environment
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Thomas' Calculus"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=RRlAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Thomas' Calculus book cover\\"
-        aria-label=\\"Thomas' Calculus book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Thomas_Calculus.html?hl=&id=RRlAvgAACAAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Thomas' Calculus
             </a>
           </li>
           <li
