@@ -1,34 +1,34 @@
 {
   "files": {
-    "main.js": "/static/js/main.f2ab1c59.chunk.js",
-    "main.js.map": "/static/js/main.f2ab1c59.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3d282c5a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3d282c5a.js.map",
+    "main.js": "/static/js/main.da63638f.chunk.js",
+    "main.js.map": "/static/js/main.da63638f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c77575c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c77575c9.js.map",
     "static/css/2.b40bc0a3.chunk.css": "/static/css/2.b40bc0a3.chunk.css",
     "static/js/2.1204b8ee.chunk.js": "/static/js/2.1204b8ee.chunk.js",
     "static/js/2.1204b8ee.chunk.js.map": "/static/js/2.1204b8ee.chunk.js.map",
     "static/js/3.03599fc8.chunk.js": "/static/js/3.03599fc8.chunk.js",
     "static/js/3.03599fc8.chunk.js.map": "/static/js/3.03599fc8.chunk.js.map",
-    "static/js/4.113ac375.chunk.js": "/static/js/4.113ac375.chunk.js",
-    "static/js/4.113ac375.chunk.js.map": "/static/js/4.113ac375.chunk.js.map",
+    "static/js/4.59a8a65e.chunk.js": "/static/js/4.59a8a65e.chunk.js",
+    "static/js/4.59a8a65e.chunk.js.map": "/static/js/4.59a8a65e.chunk.js.map",
     "static/js/5.d0534138.chunk.js": "/static/js/5.d0534138.chunk.js",
     "static/js/5.d0534138.chunk.js.map": "/static/js/5.d0534138.chunk.js.map",
     "static/js/6.dd44f5d4.chunk.js": "/static/js/6.dd44f5d4.chunk.js",
     "static/js/6.dd44f5d4.chunk.js.map": "/static/js/6.dd44f5d4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e372e7b702c9d4918edb80fae7554f89.js": "/precache-manifest.e372e7b702c9d4918edb80fae7554f89.js",
+    "precache-manifest.e333ce35fe89ac7c19856ab3d1f6e55d.js": "/precache-manifest.e333ce35fe89ac7c19856ab3d1f6e55d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b40bc0a3.chunk.css.map": "/static/css/2.b40bc0a3.chunk.css.map",
     "static/js/2.1204b8ee.chunk.js.LICENSE.txt": "/static/js/2.1204b8ee.chunk.js.LICENSE.txt",
     "static/media/certificates.md": "/static/media/certificates.e99f2461.md",
-    "static/media/education.md": "/static/media/education.0483c9da.md",
+    "static/media/education.md": "/static/media/education.e859cfc7.md",
     "static/media/projects.md": "/static/media/projects.562f845a.md",
     "static/media/skills.md": "/static/media/skills.3f783452.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d282c5a.js",
+    "static/js/runtime-main.c77575c9.js",
     "static/css/2.b40bc0a3.chunk.css",
     "static/js/2.1204b8ee.chunk.js",
-    "static/js/main.f2ab1c59.chunk.js"
+    "static/js/main.da63638f.chunk.js"
   ]
 }
