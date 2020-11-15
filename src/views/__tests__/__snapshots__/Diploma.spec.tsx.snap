@@ -2178,7 +2178,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="Invalid Date - Invalid Date"
+              data-tip="4/1/2022 - 7/31/2022"
             >
               5. Semester
             </span>
@@ -2771,7 +2771,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="Invalid Date - Invalid Date"
+              data-tip="8/15/2022 - 12/15/2022"
             >
               6. Semester
             </span>
