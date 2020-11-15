@@ -4,7 +4,7 @@ import path from 'path';
 import { DiplomaTypes } from '../src/models';
 import { getDetailsForIsbn } from '../src/api';
 import { collectBooks } from '../src/utils';
-import diplomaSWE from '../src/data/json/diploma_swe.json';
+import diplomaData from '../src/data/json/diploma.json';
 import booksStatic from './static.json';
 
 const DATA_DIR = path.join(__dirname, '..', 'src', 'data', 'json');
@@ -86,4 +86,4 @@ const process = async (
   }
 };
 
-process(diplomaSWE as DiplomaTypes.Curriculum, BOOKS_FILE_PATH);
+process(diplomaData as DiplomaTypes.Curriculum, BOOKS_FILE_PATH);
