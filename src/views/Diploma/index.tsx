@@ -21,7 +21,9 @@ export interface DiplomaProps {
 const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   const classes = useStyles();
   const { terms, extras } = diplomaData;
-  const { diploma: diplomaStatic } = staticData;
+  const {
+    diploma: { title, subtitle, info },
+  } = staticData;
 
   const renderExtra = (extra: DiplomaTypes.Extra) => {
     const { name, books } = extra;
@@ -38,15 +40,12 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   };
 
   return (
-    <Container seo={{ title: diplomaStatic.title }}>
-      <h2
-        data-tip={diplomaStatic.info}
-        data-class={classes.tip}
-        className={classes.title}
-      >
-        <span>{diplomaStatic.title}</span>
+    <Container seo={{ title: `${title}, ${subtitle}` }}>
+      <div data-tip={info} data-class={classes.tip} className={classes.title}>
+        <h2>{title}</h2>
         <FontAwesomeIcon icon="question-circle" />
-      </h2>
+        <p>{subtitle}</p>
+      </div>
       <div className={classes.contents}>
         {/* Base Curriculum */}
         {terms.map((t) => (

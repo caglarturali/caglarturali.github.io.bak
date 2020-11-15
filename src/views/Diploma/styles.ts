@@ -5,10 +5,18 @@ import { Styles } from 'react-jss';
 
 export default {
   title: {
-    cursor: 'help',
     display: 'inline-block',
-    '&>span': {
-      marginRight: '8px',
+    cursor: 'help',
+    '&>h2': {
+      display: 'inline-block',
+      marginBottom: '0',
+    },
+    '&>svg': {
+      marginLeft: '8px',
+    },
+    '&>p': {
+      fontSize: '1.8rem',
+      marginTop: '0.3em',
     },
   },
   tip: {

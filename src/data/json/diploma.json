@@ -208,13 +208,132 @@
           ]
         },
         {
-          "courseName": "SWE 580 Introduction to Data Science",
+          "courseName": "DSC 501 Introduction to Data Science",
           "books": [
             {
               "isbn": ["1108472443", "9781108472449"]
             },
             {
               "isbn": ["3319500171", "9783319500171"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "DSC 506 Introduction to Statistics and Probability",
+          "books": [
+            {
+              "isbn": ["1491907371", "9781491907375"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 510 Python for Data Science",
+          "books": [
+            {
+              "isbn": ["1593279299", "9781593279295"]
+            },
+            {
+              "isbn": ["1491957638", "9781491957639"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 520 Math for Data Science",
+          "books": [
+            {
+              "isbn": ["0980232775", "9780980232776"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 532 Machine Learning",
+          "books": [
+            {
+              "isbn": ["B08BN8S8KB", "B08BN8S8KB"]
+            },
+            {
+              "isbn": ["149203259X", "9781492032595"]
+            },
+            {
+              "isbn": ["1449369898", "9781449369897"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 535 Data Visualization",
+          "books": [
+            {
+              "isbn": ["1930824130", "9781930824133"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "DSC 538 Data Mining",
+          "books": [
+            {
+              "isbn": ["0521865719", "9780521865715"]
+            },
+            {
+              "isbn": ["1491985046", "9781491985045"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 547 Big Data Analytics",
+          "books": [
+            {
+              "isbn": ["1449396658", "9781449396657"]
+            },
+            {
+              "isbn": ["1108476341, 9781108476348"]
+            },
+            {
+              "isbn": ["1449317626", "9781449317621"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 558 Artificial Intelligence and Deep Learning",
+          "books": [
+            {
+              "isbn": ["1492045497", "9781492045496"]
+            },
+            {
+              "isbn": ["1617294438", "9781617294433"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 563 Natural Language Processing",
+          "books": [
+            {
+              "isbn": ["1617294632", "9781617294631"]
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 570 Supervised and Unsupervised Learning Methods",
+          "books": [
+            {
+              "isbn": ["3030224775", "9783030224776"]
             }
           ]
         }

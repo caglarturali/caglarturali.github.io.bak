@@ -1,6 +1,15 @@
 [
   {
     "isbn": [
+      "B08BN8S8KB",
+      "B08BN8S8KB"
+    ],
+    "title": "A Course in Machine Learning",
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446604796l/18586246._SX318_.jpg",
+    "link": "http://ciml.info/"
+  },
+  {
+    "isbn": [
       "1108472443",
       "9781108472449"
     ],
@@ -76,12 +85,40 @@
   },
   {
     "isbn": [
+      "1449396658",
+      "9781449396657"
+    ],
+    "title": "Data Analysis with Open Source Tools",
+    "subtitle": "A Hands-On Guide for Programmers and Data Scientists",
+    "thumbnail": "http://books.google.com/books/content?id=mTXnXCLXJYgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=mTXnXCLXJYgC"
+  },
+  {
+    "isbn": [
       "1292061847",
       "9781292061849"
     ],
     "title": "Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition",
     "thumbnail": "http://books.google.com/books/content?id=kl1TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/Database_Systems_A_Practical_Approach_to.html?hl=&id=kl1TDwAAQBAJ"
+  },
+  {
+    "isbn": [
+      "1492045497",
+      "9781492045496"
+    ],
+    "title": "Deep Learning for Coders with fastai and PyTorch",
+    "thumbnail": "http://books.google.com/books/content?id=yATuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://books.google.com/books/about/Deep_Learning_for_Coders_with_fastai_and.html?hl=&id=yATuDwAAQBAJ"
+  },
+  {
+    "isbn": [
+      "1617294438",
+      "9781617294433"
+    ],
+    "title": "Deep Learning with Python",
+    "thumbnail": "http://books.google.com/books/content?id=Yo3CAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Deep_Learning_with_Python.html?hl=&id=Yo3CAQAACAAJ"
   },
   {
     "isbn": [
@@ -161,6 +198,16 @@
   },
   {
     "isbn": [
+      "149203259X",
+      "9781492032595"
+    ],
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "subtitle": "Concepts, Tools, and Techniques to Build Intelligent Systems",
+    "thumbnail": "http://books.google.com/books/content?id=HnetDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=HnetDwAAQBAJ"
+  },
+  {
+    "isbn": [
       "0596800746",
       "9780596800741"
     ],
@@ -227,6 +274,34 @@
   },
   {
     "isbn": [
+      "0521865719",
+      "9780521865715"
+    ],
+    "title": "Introduction to Information Retrieval",
+    "thumbnail": "https://nlp.stanford.edu/IR-book/iir.jpg",
+    "link": "https://nlp.stanford.edu/IR-book/information-retrieval-book.html"
+  },
+  {
+    "isbn": [
+      "0980232775",
+      "9780980232776"
+    ],
+    "title": "Introduction to Linear Algebra",
+    "thumbnail": "http://books.google.com/books/content?id=efbxjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Introduction_to_Linear_Algebra.html?hl=&id=efbxjwEACAAJ"
+  },
+  {
+    "isbn": [
+      "1449369898",
+      "9781449369897"
+    ],
+    "title": "Introduction to Machine Learning with Python",
+    "subtitle": "A Guide for Data Scientists",
+    "thumbnail": "http://books.google.com/books/content?id=vbQlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=vbQlDQAAQBAJ"
+  },
+  {
+    "isbn": [
       "1466559543",
       "9781466559547"
     ],
@@ -245,12 +320,38 @@
   },
   {
     "isbn": [
+      "1108476341, 9781108476348"
+    ],
+    "title": "Mining of Massive Datasets",
+    "thumbnail": "http://www.mmds.org/mmds_cover_v30.jpg",
+    "link": "http://www.mmds.org/#ver30"
+  },
+  {
+    "isbn": [
+      "1491985046",
+      "9781491985045"
+    ],
+    "title": "Mining the Social Web",
+    "thumbnail": "http://books.google.com/books/content?id=g4cHtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Mining_the_Social_Web.html?hl=&id=g4cHtAEACAAJ"
+  },
+  {
+    "isbn": [
       "013359162X",
       "9780133591620"
     ],
     "title": "Modern Operating Systems",
     "thumbnail": "http://books.google.com/books/content?id=9gqnngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/Modern_Operating_Systems.html?hl=&id=9gqnngEACAAJ"
+  },
+  {
+    "isbn": [
+      "1617294632",
+      "9781617294631"
+    ],
+    "title": "Natural Language Processing in Action",
+    "thumbnail": "http://books.google.com/books/content?id=UyHgswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Natural_Language_Processing_in_Action.html?hl=&id=UyHgswEACAAJ"
   },
   {
     "isbn": [
@@ -280,6 +381,26 @@
     "title": "Precalculus",
     "thumbnail": "http://books.google.com/books/content?id=CPO5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "link": "https://books.google.com/books/about/Precalculus.html?hl=&id=CPO5DQAAQBAJ"
+  },
+  {
+    "isbn": [
+      "1593279299",
+      "9781593279295"
+    ],
+    "title": "Python Crash Course, 2nd Edition",
+    "subtitle": "A Hands-On, Project-Based Introduction to Programming",
+    "thumbnail": "http://books.google.com/books/content?id=boBxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=boBxDwAAQBAJ"
+  },
+  {
+    "isbn": [
+      "1491957638",
+      "9781491957639"
+    ],
+    "title": "Python for Data Analysis",
+    "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+    "thumbnail": "http://books.google.com/books/content?id=BCc3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://books.google.com/books/about/Python_for_Data_Analysis.html?hl=&id=BCc3DwAAQBAJ"
   },
   {
     "isbn": [
@@ -318,6 +439,16 @@
     "title": "Security for Software Engineers",
     "thumbnail": "http://books.google.com/books/content?id=3MuCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "link": "https://play.google.com/store/books/details?id=3MuCDwAAQBAJ"
+  },
+  {
+    "isbn": [
+      "1449317626",
+      "9781449317621"
+    ],
+    "title": "Social Network Analysis for Startups",
+    "subtitle": "Finding connections on the social web",
+    "thumbnail": "http://books.google.com/books/content?id=hVOxjkoLSiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://play.google.com/store/books/details?id=hVOxjkoLSiEC"
   },
   {
     "isbn": [
@@ -396,6 +527,15 @@
     "title": "Software Verification and Validation for Practitioners and Managers",
     "thumbnail": "http://books.google.com/books/content?id=qlJsQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/Software_Verification_and_Validation_for.html?hl=&id=qlJsQgAACAAJ"
+  },
+  {
+    "isbn": [
+      "3030224775",
+      "9783030224776"
+    ],
+    "title": "Supervised and Unsupervised Learning for Data Science",
+    "thumbnail": "http://books.google.com/books/content?id=0n6qzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/Supervised_and_Unsupervised_Learning_for.html?hl=&id=0n6qzQEACAAJ"
   },
   {
     "isbn": [
@@ -483,6 +623,25 @@
     "title": "The UNIX Programming Environment",
     "thumbnail": "http://books.google.com/books/content?id=mcO0Vh9efE0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "link": "https://books.google.com/books/about/The_UNIX_Programming_Environment.html?hl=&id=mcO0Vh9efE0C"
+  },
+  {
+    "isbn": [
+      "1930824130",
+      "9781930824133"
+    ],
+    "title": "The Visual Display of Quantitative Information PAPERBACK",
+    "subtitle": "Second Edition PAPERBACK",
+    "thumbnail": "http://books.google.com/books/content?id=qmjNngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "https://books.google.com/books/about/The_Visual_Display_of_Quantitative_Infor.html?hl=&id=qmjNngEACAAJ"
+  },
+  {
+    "isbn": [
+      "1491907371",
+      "9781491907375"
+    ],
+    "title": "Think Stats",
+    "thumbnail": "http://books.google.com/books/content?id=b7HXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "link": "https://books.google.com/books/about/Think_Stats.html?hl=&id=b7HXBAAAQBAJ"
   },
   {
     "isbn": [

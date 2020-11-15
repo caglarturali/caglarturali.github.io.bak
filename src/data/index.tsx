@@ -6,7 +6,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
-import diplomaSWE from './json/diploma_swe.json';
+import diploma from './json/diploma.json';
 import pkg from '../../package.json';
 
 // import { calculateDiplomaProgress } from '../utils';
@@ -27,11 +27,11 @@ export const pages: PageLink[] = [
   },
   {
     name: 'Diploma in SWE',
-    url: '/diploma-swe',
+    url: '/diploma',
     icon: 'graduation-cap',
     isInternal: true,
     // badge: `${calculateDiplomaProgress(diplomaData, 0)}%`,
-    comp: () => <Diploma diplomaData={diplomaSWE} staticData={staticData} />,
+    comp: () => <Diploma diplomaData={diploma} staticData={staticData} />,
   },
 ];
 

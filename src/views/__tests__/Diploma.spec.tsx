@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import Diploma from '../Diploma';
-import diplomaSWE from '../../data/json/diploma_swe.json';
+import diplomaData from '../../data/json/diploma.json';
 import staticData from '../../data/json/static.json';
 
 // Workaround for react-tooltip's randomly generated UUIDs.
@@ -13,7 +13,7 @@ jest.mock('crypto', () => ({
 describe('<Diploma />', () => {
   test('should render correctly', () => {
     const { asFragment } = render(
-      <Diploma diplomaData={diplomaSWE} staticData={staticData} />,
+      <Diploma diplomaData={diplomaData} staticData={staticData} />,
     );
     expect(asFragment()).toMatchSnapshot();
   });

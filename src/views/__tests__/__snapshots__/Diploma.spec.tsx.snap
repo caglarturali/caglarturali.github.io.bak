@@ -8,15 +8,15 @@ exports[`<Diploma /> should render correctly 1`] = `
     <div
       class="content-0-2-6"
     >
-      <h2
+      <div
         class="title-0-2-1"
         currentitem="false"
         data-class="tip-0-2-2"
         data-tip="Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated study plan of Diploma in Software Engineering! I have no concrete grading policy set in place but I do require myself to read at least 1 book per course. Of course, I also will be doing practical assignments that go alongside the books and will most probably post them here as well. We'll see how much time it will take me to complete the whole thing. :)"
       >
-        <span>
+        <h2>
           Diploma in Software Engineering
-        </span>
+        </h2>
         <svg
           aria-hidden="true"
           class="svg-inline--fa fa-question-circle fa-w-16 "
@@ -32,7 +32,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             fill="currentColor"
           />
         </svg>
-      </h2>
+        <p>
+          Specialization in Data Science
+        </p>
+      </div>
       <div
         class="contents-0-2-3"
       >
@@ -2032,7 +2035,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 580 Introduction to Data Science
+                DSC 501 Introduction to Data Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2163,6 +2166,1252 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          class="root-0-2-7"
+          open=""
+        >
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="Invalid Date - Invalid Date"
+            >
+              5. Semester
+            </span>
+          </summary>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 506 Introduction to Statistics and Probability
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Think Stats"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=b7HXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Think Stats book cover\\"
+        aria-label=\\"Think Stats book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Think_Stats.html?hl=&id=b7HXBAAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Think Stats
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 510 Python for Data Science
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=boBxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming book cover\\"
+        aria-label=\\"Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=boBxDwAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=BCc3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython book cover\\"
+        aria-label=\\"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Python_for_Data_Analysis.html?hl=&id=BCc3DwAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 520 Math for Data Science
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Linear Algebra"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=efbxjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Introduction to Linear Algebra book cover\\"
+        aria-label=\\"Introduction to Linear Algebra book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Introduction_to_Linear_Algebra.html?hl=&id=efbxjwEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Linear Algebra
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 532 Machine Learning
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="A Course in Machine Learning"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446604796l/18586246._SX318_.jpg\\" 
+        alt=\\"A Course in Machine Learning book cover\\"
+        aria-label=\\"A Course in Machine Learning book cover\\"
+        />
+    </div>
+  "
+                  href="http://ciml.info/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  A Course in Machine Learning
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=HnetDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book cover\\"
+        aria-label=\\"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=HnetDwAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Machine Learning with Python: A Guide for Data Scientists"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=vbQlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Introduction to Machine Learning with Python: A Guide for Data Scientists book cover\\"
+        aria-label=\\"Introduction to Machine Learning with Python: A Guide for Data Scientists book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=vbQlDQAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Machine Learning with Python: A Guide for Data Scientists
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 535 Data Visualization
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=qmjNngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK book cover\\"
+        aria-label=\\"The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/The_Visual_Display_of_Quantitative_Infor.html?hl=&id=qmjNngEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          class="root-0-2-7"
+          open=""
+        >
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="Invalid Date - Invalid Date"
+            >
+              6. Semester
+            </span>
+          </summary>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 538 Data Mining
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Information Retrieval"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"https://nlp.stanford.edu/IR-book/iir.jpg\\" 
+        alt=\\"Introduction to Information Retrieval book cover\\"
+        aria-label=\\"Introduction to Information Retrieval book cover\\"
+        />
+    </div>
+  "
+                  href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Information Retrieval
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Mining the Social Web"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=g4cHtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Mining the Social Web book cover\\"
+        aria-label=\\"Mining the Social Web book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Mining_the_Social_Web.html?hl=&id=g4cHtAEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Mining the Social Web
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 547 Big Data Analytics
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=mTXnXCLXJYgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists book cover\\"
+        aria-label=\\"Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=mTXnXCLXJYgC"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Mining of Massive Datasets"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://www.mmds.org/mmds_cover_v30.jpg\\" 
+        alt=\\"Mining of Massive Datasets book cover\\"
+        aria-label=\\"Mining of Massive Datasets book cover\\"
+        />
+    </div>
+  "
+                  href="http://www.mmds.org/#ver30"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Mining of Massive Datasets
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Social Network Analysis for Startups: Finding connections on the social web"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=hVOxjkoLSiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Social Network Analysis for Startups: Finding connections on the social web book cover\\"
+        aria-label=\\"Social Network Analysis for Startups: Finding connections on the social web book cover\\"
+        />
+    </div>
+  "
+                  href="https://play.google.com/store/books/details?id=hVOxjkoLSiEC"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Social Network Analysis for Startups: Finding connections on the social web
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 558 Artificial Intelligence and Deep Learning
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Deep Learning for Coders with fastai and PyTorch"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=yATuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
+        alt=\\"Deep Learning for Coders with fastai and PyTorch book cover\\"
+        aria-label=\\"Deep Learning for Coders with fastai and PyTorch book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Deep_Learning_for_Coders_with_fastai_and.html?hl=&id=yATuDwAAQBAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Deep Learning for Coders with fastai and PyTorch
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Deep Learning with Python"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=Yo3CAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Deep Learning with Python book cover\\"
+        aria-label=\\"Deep Learning with Python book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Deep_Learning_with_Python.html?hl=&id=Yo3CAQAACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Deep Learning with Python
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 563 Natural Language Processing
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Natural Language Processing in Action"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=UyHgswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Natural Language Processing in Action book cover\\"
+        aria-label=\\"Natural Language Processing in Action book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Natural_Language_Processing_in_Action.html?hl=&id=UyHgswEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Natural Language Processing in Action
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 570 Supervised and Unsupervised Learning Methods
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="undefined% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Supervised and Unsupervised Learning for Data Science"
+                  currentitem="false"
+                  data-class="toolTip-0-2-10"
+                  data-html="true"
+                  data-place="right"
+                  data-tip="
+    <div>
+      <img
+        src=\\"http://books.google.com/books/content?id=0n6qzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
+        alt=\\"Supervised and Unsupervised Learning for Data Science book cover\\"
+        aria-label=\\"Supervised and Unsupervised Learning for Data Science book cover\\"
+        />
+    </div>
+  "
+                  href="https://books.google.com/books/about/Supervised_and_Unsupervised_Learning_for.html?hl=&id=0n6qzQEACAAJ"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Supervised and Unsupervised Learning for Data Science
                 </a>
               </li>
             </div>
