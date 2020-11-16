@@ -5,10 +5,6 @@ export declare namespace DiplomaTypes {
     completed: boolean;
   }
 
-  export interface Progress extends Partial<Section> {
-    progress: number;
-  }
-
   export interface Course {
     courseName: string;
     sections: Section[];
