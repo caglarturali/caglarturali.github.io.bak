@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import ReactTooltip from 'react-tooltip';
 import Container from '../../components/Container';
 import Semester from './components/Semester';
-import Book from './components/Semester/Course/Book';
+import Section from './components/Semester/Course/Section';
 import { DiplomaTypes, Static } from '../../models';
 import styles from './styles';
 
@@ -26,14 +26,14 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   } = staticData;
 
   const renderExtra = (extra: DiplomaTypes.Extra) => {
-    const { name, books } = extra;
+    const { name, sections } = extra;
     return (
       <details className={classes.extra} key={name}>
         <summary>
           <span>{name}</span>
         </summary>
-        {books.map((book) => (
-          <Book courseBook={book} key={book.isbn[0]} />
+        {sections.map((section) => (
+          <Section section={section} key={section.title} />
         ))}
       </details>
     );

@@ -74,7 +74,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -108,25 +108,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Object-Oriented Analysis, Design and Implementation: An Integrated Approach"
-                  currentitem="false"
+                  aria-label="Object Oriented Programming in Java Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=zMLYCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Object-Oriented Analysis, Design and Implementation: An Integrated Approach book cover\\"
-        aria-label=\\"Object-Oriented Analysis, Design and Implementation: An Integrated Approach book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=zMLYCgAAQBAJ"
+                  href="https://www.coursera.org/specializations/object-oriented-programming"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Object-Oriented Analysis, Design and Implementation: An Integrated Approach
+                  Object Oriented Programming in Java Specialization
                 </a>
               </li>
             </div>
@@ -154,7 +143,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -188,25 +177,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Algorithms in a Nutshell: A Practical Guide"
-                  currentitem="false"
+                  aria-label="Intro to Algorithms"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=w7rNCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
-        aria-label=\\"Algorithms in a Nutshell: A Practical Guide book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=w7rNCwAAQBAJ"
+                  href="https://www.udacity.com/course/intro-to-algorithms--cs215"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algorithms in a Nutshell: A Practical Guide
+                  Intro to Algorithms
                 </a>
               </li>
               <li
@@ -214,7 +192,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -248,25 +226,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Algorithms, third edition"
-                  currentitem="false"
+                  aria-label="Algorithms Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=F3anBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Introduction to Algorithms, third edition book cover\\"
-        aria-label=\\"Introduction to Algorithms, third edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=F3anBQAAQBAJ"
+                  href="https://www.coursera.org/specializations/algorithms"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Algorithms, third edition
+                  Algorithms Specialization
                 </a>
               </li>
             </div>
@@ -294,7 +261,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -328,25 +295,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Modern Operating Systems"
-                  currentitem="false"
+                  aria-label="Introduction to Operating Systems"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=9gqnngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Modern Operating Systems book cover\\"
-        aria-label=\\"Modern Operating Systems book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Modern_Operating_Systems.html?hl=&id=9gqnngEACAAJ"
+                  href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Modern Operating Systems
+                  Introduction to Operating Systems
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Advanced Operating Systems"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/advanced-operating-systems--ud189"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Advanced Operating Systems
                 </a>
               </li>
             </div>
@@ -374,7 +379,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -408,25 +413,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Engineering"
-                  currentitem="false"
+                  aria-label="Software Development Process"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=tW4VngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Software Engineering book cover\\"
-        aria-label=\\"Software Engineering book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Software_Engineering.html?hl=&id=tW4VngEACAAJ"
+                  href="https://www.udacity.com/course/software-development-process--ud805"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Engineering
+                  Software Development Process
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Software Architecture & Design"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/software-architecture-design--ud821"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Architecture & Design
                 </a>
               </li>
             </div>
@@ -454,7 +497,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -488,25 +531,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Discrete Mathematics and Its Applications"
-                  currentitem="false"
+                  aria-label="Algebra 1"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=T_K9tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Discrete Mathematics and Its Applications book cover\\"
-        aria-label=\\"Discrete Mathematics and Its Applications book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Discrete_Mathematics_and_Its_Application.html?hl=&id=T_K9tgEACAAJ"
+                  href="https://www.khanacademy.org/math/algebra"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Discrete Mathematics and Its Applications
+                  Algebra 1
                 </a>
               </li>
               <li
@@ -514,7 +546,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -548,25 +580,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer"
-                  currentitem="false"
+                  aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=O3ZZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
-        aria-label=\\"Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=O3ZZDwAAQBAJ"
+                  href="https://www.coursera.org/specializations/discrete-mathematics"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Discrete Math for Computer Science: A Problem-Solving Primer
+                  Introduction to Discrete Mathematics for Computer Science Specialization
                 </a>
               </li>
             </div>
@@ -607,7 +628,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -641,25 +662,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition"
-                  currentitem="false"
+                  aria-label="Intro to Relational Databases"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=kl1TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition book cover\\"
-        aria-label=\\"Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Database_Systems_A_Practical_Approach_to.html?hl=&id=kl1TDwAAQBAJ"
+                  href="https://www.udacity.com/course/intro-to-relational-databases--ud197"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition
+                  Intro to Relational Databases
                 </a>
               </li>
               <li
@@ -667,7 +677,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -701,25 +711,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Database Systems, Global Edition"
-                  currentitem="false"
+                  aria-label="Database Systems Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=xdCuDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Fundamentals of Database Systems, Global Edition book cover\\"
-        aria-label=\\"Fundamentals of Database Systems, Global Edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Fundamentals_of_Database_Systems_Global.html?hl=&id=xdCuDAAAQBAJ"
+                  href="https://www.coursera.org/specializations/database-systems"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Database Systems, Global Edition
+                  Database Systems Specialization
                 </a>
               </li>
             </div>
@@ -747,7 +746,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -781,25 +780,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Requirements Engineering for Software and Systems"
-                  currentitem="false"
+                  aria-label="Requirements Engineering: Secure Software Specifications Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=srJSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Requirements Engineering for Software and Systems book cover\\"
-        aria-label=\\"Requirements Engineering for Software and Systems book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=srJSDwAAQBAJ"
+                  href="https://www.coursera.org/specializations/requirements-engineering-secure-software"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Requirements Engineering for Software and Systems
+                  Requirements Engineering: Secure Software Specifications Specialization
                 </a>
               </li>
             </div>
@@ -827,7 +815,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -861,25 +849,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Architecture: Foundations, Theory, and Practice"
-                  currentitem="false"
+                  aria-label="Software Design and Architecture Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=npB5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
-        aria-label=\\"Software Architecture: Foundations, Theory, and Practice book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Software_Architecture.html?hl=&id=npB5DwAAQBAJ"
+                  href="https://www.coursera.org/specializations/software-design-architecture"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Architecture: Foundations, Theory, and Practice
+                  Software Design and Architecture Specialization
                 </a>
               </li>
             </div>
@@ -907,7 +884,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -941,25 +918,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Software Development"
-                  currentitem="false"
+                  aria-label="Software Development Lifecycle Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=QAr82w_eSi8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Head First Software Development book cover\\"
-        aria-label=\\"Head First Software Development book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Head_First_Software_Development.html?hl=&id=QAr82w_eSi8C"
+                  href="https://www.coursera.org/specializations/software-development-lifecycle"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Software Development
+                  Software Development Lifecycle Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Java Programming and Software Engineering Fundamentals Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/java-programming"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Java Programming and Software Engineering Fundamentals Specialization
                 </a>
               </li>
             </div>
@@ -987,7 +1002,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1021,85 +1036,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Human-computer Interaction"
-                  currentitem="false"
+                  aria-label="Human-Computer Interaction"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=IuQxui8GHDcC&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Human-computer Interaction book cover\\"
-        aria-label=\\"Human-computer Interaction book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Human_computer_Interaction.html?hl=&id=IuQxui8GHDcC"
+                  href="https://www.udacity.com/course/human-computer-interaction--ud400"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Human-computer Interaction
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Interaction Design: Beyond Human-Computer Interaction"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UDeQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Interaction Design: Beyond Human-Computer Interaction book cover\\"
-        aria-label=\\"Interaction Design: Beyond Human-Computer Interaction book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=UDeQDwAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Interaction Design: Beyond Human-Computer Interaction
+                  Human-Computer Interaction
                 </a>
               </li>
             </div>
@@ -1140,7 +1084,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1174,25 +1118,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Computer Organization and Architecture, Global Edition"
-                  currentitem="false"
+                  aria-label="Computer Architecture"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=7UqgCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Computer Organization and Architecture, Global Edition book cover\\"
-        aria-label=\\"Computer Organization and Architecture, Global Edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Computer_Organization_and_Architecture_G.html?hl=&id=7UqgCgAAQBAJ"
+                  href="https://www.coursera.org/learn/comparch"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Computer Organization and Architecture, Global Edition
+                  Computer Architecture
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Systems Engineering"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/systems-engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Systems Engineering
                 </a>
               </li>
             </div>
@@ -1202,7 +1184,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 526 Applied Software Architecture
+                SWE 526 Computer Networking
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1220,7 +1202,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1254,25 +1236,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Fundamentals of Software Architecture: An Engineering Approach"
-                  currentitem="false"
+                  aria-label="Computer Networking"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=xa7MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
-        aria-label=\\"Fundamentals of Software Architecture: An Engineering Approach book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Fundamentals_of_Software_Architecture.html?hl=&id=xa7MDwAAQBAJ"
+                  href="https://www.udacity.com/course/computer-networking--ud436"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Fundamentals of Software Architecture: An Engineering Approach
+                  Computer Networking
                 </a>
               </li>
             </div>
@@ -1300,7 +1271,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1334,25 +1305,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement"
-                  currentitem="false"
+                  aria-label="Software Testing and Automation Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=2jIyFZ_InZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
-        aria-label=\\"Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=2jIyFZ_InZsC"
+                  href="https://www.coursera.org/specializations/software-testing-automation"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Quality Engineering: Testing, Quality Assurance, and Quantifiable Improvement
+                  Software Testing and Automation Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Software Analysis & Testing"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/software-analysis-testing--ud333"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Analysis & Testing
                 </a>
               </li>
             </div>
@@ -1380,7 +1389,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1414,25 +1423,161 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Verification and Validation for Practitioners and Managers"
-                  currentitem="false"
+                  aria-label="System Validation: Automata and behavioural equivalences"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=qlJsQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
-        aria-label=\\"Software Verification and Validation for Practitioners and Managers book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Software_Verification_and_Validation_for.html?hl=&id=qlJsQgAACAAJ"
+                  href="https://www.coursera.org/learn/automata-system-validation"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Verification and Validation for Practitioners and Managers
+                  System Validation: Automata and behavioural equivalences
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="System Validation (2): Model process behaviour"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/system-validation-behavior"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  System Validation (2): Model process behaviour
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="System Validation (3): Requirements by modal formulas"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/system-validation-modal-formulas"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  System Validation (3): Requirements by modal formulas
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="System Validation (4): Modelling Software, Protocols, and other behaviour"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/system-validation-software-protocols"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  System Validation (4): Modelling Software, Protocols, and other behaviour
                 </a>
               </li>
             </div>
@@ -1442,7 +1587,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 557 Patterns in Software Engineering
+                SWE 570 Information Security
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1460,7 +1605,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1494,25 +1639,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader)"
-                  currentitem="false"
+                  aria-label="Intro to Information Security"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=6oHuKQe3TjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader) book cover\\"
-        aria-label=\\"Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader) book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=6oHuKQe3TjQC"
+                  href="https://www.udacity.com/course/intro-to-information-security--ud459"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Design Patterns: Elements of Reusable Object-Oriented Software (Adobe Reader)
+                  Intro to Information Security
                 </a>
               </li>
               <li
@@ -1520,7 +1654,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1554,25 +1688,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Head First Design Patterns"
-                  currentitem="false"
+                  aria-label="Cybersecurity Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=NbCNAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Head First Design Patterns book cover\\"
-        aria-label=\\"Head First Design Patterns book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=NbCNAQAAQBAJ"
+                  href="https://www.coursera.org/specializations/cyber-security"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Head First Design Patterns
+                  Cybersecurity Specialization
                 </a>
               </li>
             </div>
@@ -1613,7 +1736,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1647,225 +1770,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Agile Software Development: Principles, Patterns, and Practices"
-                  currentitem="false"
+                  aria-label="Object Oriented Java Programming: Data Structures and Beyond Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=YqcsngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
-        aria-label=\\"Agile Software Development: Principles, Patterns, and Practices book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Agile_Software_Development_Principles_Pa.html?hl=&id=YqcsngEACAAJ"
+                  href="https://www.coursera.org/specializations/java-object-oriented"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Agile Software Development: Principles, Patterns, and Practices
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Software Engineering: A Practitioner's Approach"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=dXlzCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Software Engineering: A Practitioner's Approach book cover\\"
-        aria-label=\\"Software Engineering: A Practitioner's Approach book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Software_Engineering.html?hl=&id=dXlzCgAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Engineering: A Practitioner's Approach
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span>
-                SWE 560 Software Metrics and Models
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Software Measurement and Estimation: A Practical Approach"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=3g8wtcpFHZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
-        aria-label=\\"Software Measurement and Estimation: A Practical Approach book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=3g8wtcpFHZcC"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Measurement and Estimation: A Practical Approach
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Software Metrics: A Rigorous and Practical Approach, Third Edition"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=lx_OBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Software Metrics: A Rigorous and Practical Approach, Third Edition book cover\\"
-        aria-label=\\"Software Metrics: A Rigorous and Practical Approach, Third Edition book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=lx_OBQAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Metrics: A Rigorous and Practical Approach, Third Edition
+                  Object Oriented Java Programming: Data Structures and Beyond Specialization
                 </a>
               </li>
             </div>
@@ -1893,7 +1805,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -1927,25 +1839,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Software Project Management"
-                  currentitem="false"
+                  aria-label="Software Product Management Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UFHSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Introduction to Software Project Management book cover\\"
-        aria-label=\\"Introduction to Software Project Management book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=UFHSBQAAQBAJ"
+                  href="https://www.coursera.org/specializations/product-management"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Software Project Management
+                  Software Product Management Specialization
                 </a>
               </li>
             </div>
@@ -1955,7 +1856,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                SWE 575 Secure Software Development and Software Security
+                SWE 575 Secure Software Development
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1973,7 +1874,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2007,25 +1908,83 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Security for Software Engineers"
-                  currentitem="false"
+                  aria-label="Secure Coding Practices Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=3MuCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Security for Software Engineers book cover\\"
-        aria-label=\\"Security for Software Engineers book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=3MuCDwAAQBAJ"
+                  href="https://www.coursera.org/specializations/secure-coding-practices"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Security for Software Engineers
+                  Secure Coding Practices Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 500 Python Programming
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Python 3 Programming Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/python-3-programming"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Python 3 Programming Specialization
                 </a>
               </li>
             </div>
@@ -2053,7 +2012,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2087,25 +2046,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="A Hands-On Introduction to Data Science"
-                  currentitem="false"
+                  aria-label="Intro to Data Science"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=rljPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"A Hands-On Introduction to Data Science book cover\\"
-        aria-label=\\"A Hands-On Introduction to Data Science book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/A_Hands_On_Introduction_to_Data_Science.html?hl=&id=rljPDwAAQBAJ"
+                  href="https://www.udacity.com/course/intro-to-data-science--ud359"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  A Hands-On Introduction to Data Science
+                  Intro to Data Science
                 </a>
               </li>
               <li
@@ -2113,7 +2061,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2147,25 +2095,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications"
-                  currentitem="false"
+                  aria-label="Introduction to Data Science Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=w84wDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications book cover\\"
-        aria-label=\\"Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=w84wDgAAQBAJ"
+                  href="https://www.coursera.org/specializations/introduction-data-science"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications
+                  Introduction to Data Science Specialization
                 </a>
               </li>
             </div>
@@ -2206,7 +2143,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2240,25 +2177,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Think Stats"
-                  currentitem="false"
+                  aria-label="Intro to Statistics"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=b7HXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Think Stats book cover\\"
-        aria-label=\\"Think Stats book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Think_Stats.html?hl=&id=b7HXBAAAQBAJ"
+                  href="https://www.udacity.com/course/intro-to-statistics--st101"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Think Stats
+                  Intro to Statistics
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Statistics"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/statistics--st095"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Statistics
                 </a>
               </li>
             </div>
@@ -2286,7 +2261,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2320,85 +2295,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming"
-                  currentitem="false"
+                  aria-label="Data Science Fundamentals with Python and SQL Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=boBxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming book cover\\"
-        aria-label=\\"Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=boBxDwAAQBAJ"
+                  href="https://www.coursera.org/specializations/data-science-fundamentals-python-sql"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=BCc3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython book cover\\"
-        aria-label=\\"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Python_for_Data_Analysis.html?hl=&id=BCc3DwAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython
+                  Data Science Fundamentals with Python and SQL Specialization
                 </a>
               </li>
             </div>
@@ -2426,7 +2330,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2460,145 +2364,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Linear Algebra"
-                  currentitem="false"
+                  aria-label="Mathematics for Machine Learning Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=efbxjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Introduction to Linear Algebra book cover\\"
-        aria-label=\\"Introduction to Linear Algebra book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Introduction_to_Linear_Algebra.html?hl=&id=efbxjwEACAAJ"
+                  href="https://www.coursera.org/specializations/mathematics-machine-learning"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Linear Algebra
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Precalculus"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=CPO5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Precalculus book cover\\"
-        aria-label=\\"Precalculus book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Precalculus.html?hl=&id=CPO5DQAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Precalculus
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Thomas' Calculus"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=RRlAvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Thomas' Calculus book cover\\"
-        aria-label=\\"Thomas' Calculus book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Thomas_Calculus.html?hl=&id=RRlAvgAACAAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Thomas' Calculus
+                  Mathematics for Machine Learning Specialization
                 </a>
               </li>
             </div>
@@ -2626,7 +2399,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2660,145 +2433,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="A Course in Machine Learning"
-                  currentitem="false"
+                  aria-label="Machine Learning"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446604796l/18586246._SX318_.jpg\\" 
-        alt=\\"A Course in Machine Learning book cover\\"
-        aria-label=\\"A Course in Machine Learning book cover\\"
-        />
-    </div>
-  "
-                  href="http://ciml.info/"
+                  href="https://www.coursera.org/learn/machine-learning"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  A Course in Machine Learning
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=HnetDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book cover\\"
-        aria-label=\\"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=HnetDwAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to Machine Learning with Python: A Guide for Data Scientists"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=vbQlDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Introduction to Machine Learning with Python: A Guide for Data Scientists book cover\\"
-        aria-label=\\"Introduction to Machine Learning with Python: A Guide for Data Scientists book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=vbQlDQAAQBAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to Machine Learning with Python: A Guide for Data Scientists
+                  Machine Learning
                 </a>
               </li>
             </div>
@@ -2826,7 +2468,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2860,25 +2502,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK"
-                  currentitem="false"
+                  aria-label="Information Visualization Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=qmjNngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK book cover\\"
-        aria-label=\\"The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/The_Visual_Display_of_Quantitative_Infor.html?hl=&id=qmjNngEACAAJ"
+                  href="https://www.coursera.org/specializations/information-visualization"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  The Visual Display of Quantitative Information PAPERBACK: Second Edition PAPERBACK
+                  Information Visualization Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Data Visualization with Python"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/python-for-data-visualization"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Data Visualization with Python
                 </a>
               </li>
             </div>
@@ -2919,7 +2599,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -2953,85 +2633,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Information Retrieval"
-                  currentitem="false"
+                  aria-label="Data Mining Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://nlp.stanford.edu/IR-book/iir.jpg\\" 
-        alt=\\"Introduction to Information Retrieval book cover\\"
-        aria-label=\\"Introduction to Information Retrieval book cover\\"
-        />
-    </div>
-  "
-                  href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html"
+                  href="https://www.coursera.org/specializations/data-mining"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Information Retrieval
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Mining the Social Web"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=g4cHtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Mining the Social Web book cover\\"
-        aria-label=\\"Mining the Social Web book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Mining_the_Social_Web.html?hl=&id=g4cHtAEACAAJ"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Mining the Social Web
+                  Data Mining Specialization
                 </a>
               </li>
             </div>
@@ -3059,7 +2668,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3093,25 +2702,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists"
-                  currentitem="false"
+                  aria-label="Big Data Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=mTXnXCLXJYgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists book cover\\"
-        aria-label=\\"Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=mTXnXCLXJYgC"
+                  href="https://www.coursera.org/specializations/big-data"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists
+                  Big Data Specialization
                 </a>
               </li>
               <li
@@ -3119,7 +2717,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3153,85 +2751,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Mining of Massive Datasets"
-                  currentitem="false"
+                  aria-label="Data Engineering, Big Data, and Machine Learning on GCP Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344738596l/12818088.jpg\\" 
-        alt=\\"Mining of Massive Datasets book cover\\"
-        aria-label=\\"Mining of Massive Datasets book cover\\"
-        />
-    </div>
-  "
-                  href="http://www.mmds.org/#ver30"
+                  href="https://www.coursera.org/specializations/gcp-data-machine-learning"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Mining of Massive Datasets
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="undefined% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Social Network Analysis for Startups: Finding connections on the social web"
-                  currentitem="false"
-                  data-class="toolTip-0-2-10"
-                  data-html="true"
-                  data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=hVOxjkoLSiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Social Network Analysis for Startups: Finding connections on the social web book cover\\"
-        aria-label=\\"Social Network Analysis for Startups: Finding connections on the social web book cover\\"
-        />
-    </div>
-  "
-                  href="https://play.google.com/store/books/details?id=hVOxjkoLSiEC"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Social Network Analysis for Startups: Finding connections on the social web
+                  Data Engineering, Big Data, and Machine Learning on GCP Specialization
                 </a>
               </li>
             </div>
@@ -3259,7 +2786,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3293,25 +2820,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Deep Learning for Coders with fastai and PyTorch"
-                  currentitem="false"
+                  aria-label="Deep Learning Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=yATuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Deep Learning for Coders with fastai and PyTorch book cover\\"
-        aria-label=\\"Deep Learning for Coders with fastai and PyTorch book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Deep_Learning_for_Coders_with_fastai_and.html?hl=&id=yATuDwAAQBAJ"
+                  href="https://www.coursera.org/specializations/deep-learning"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Deep Learning for Coders with fastai and PyTorch
+                  Deep Learning Specialization
                 </a>
               </li>
               <li
@@ -3319,7 +2835,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3353,25 +2869,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Deep Learning with Python"
-                  currentitem="false"
+                  aria-label="Intro to Artificial Intelligence"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=Yo3CAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Deep Learning with Python book cover\\"
-        aria-label=\\"Deep Learning with Python book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Deep_Learning_with_Python.html?hl=&id=Yo3CAQAACAAJ"
+                  href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Deep Learning with Python
+                  Intro to Artificial Intelligence
                 </a>
               </li>
             </div>
@@ -3399,7 +2904,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3433,25 +2938,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Natural Language Processing in Action"
-                  currentitem="false"
+                  aria-label="Natural Language Processing Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UyHgswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Natural Language Processing in Action book cover\\"
-        aria-label=\\"Natural Language Processing in Action book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Natural_Language_Processing_in_Action.html?hl=&id=UyHgswEACAAJ"
+                  href="https://www.coursera.org/specializations/natural-language-processing"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Natural Language Processing in Action
+                  Natural Language Processing Specialization
                 </a>
               </li>
             </div>
@@ -3461,7 +2955,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                DSC 570 Supervised and Unsupervised Learning Methods
+                DSC 570 Applied Data Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3479,7 +2973,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="undefined% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -3513,25 +3007,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Supervised and Unsupervised Learning for Data Science"
-                  currentitem="false"
+                  aria-label="Applied Data Science with Python Specialization"
                   data-class="toolTip-0-2-10"
-                  data-html="true"
                   data-place="right"
-                  data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=0n6qzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Supervised and Unsupervised Learning for Data Science book cover\\"
-        aria-label=\\"Supervised and Unsupervised Learning for Data Science book cover\\"
-        />
-    </div>
-  "
-                  href="https://books.google.com/books/about/Supervised_and_Unsupervised_Learning_for.html?hl=&id=0n6qzQEACAAJ"
+                  href="https://www.coursera.org/specializations/data-science-python"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Supervised and Unsupervised Learning for Data Science
+                  Applied Data Science with Python Specialization
                 </a>
               </li>
             </div>
@@ -3542,7 +3025,7 @@ exports[`<Diploma /> should render correctly 1`] = `
         >
           <summary>
             <span>
-              Optional Reading
+              Optional Content
             </span>
           </summary>
           <li
@@ -3550,7 +3033,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="undefined% done"
+              data-tip="0% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3584,25 +3067,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0"
-              currentitem="false"
+              aria-label="How to Build a Startup"
               data-class="toolTip-0-2-10"
-              data-html="true"
               data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg\\" 
-        alt=\\"Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0 book cover\\"
-        aria-label=\\"Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0 book cover\\"
-        />
-    </div>
-  "
-              href="https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r"
+              href="https://www.udacity.com/course/how-to-build-a-startup--ep245"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0
+              How to Build a Startup
             </a>
           </li>
           <li
@@ -3610,7 +3082,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="undefined% done"
+              data-tip="0% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3644,25 +3116,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="C How to Program, Global Edition"
-              currentitem="false"
+              aria-label="Introduction to Computer Vision"
               data-class="toolTip-0-2-10"
-              data-html="true"
               data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UZ5VCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"C How to Program, Global Edition book cover\\"
-        aria-label=\\"C How to Program, Global Edition book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/C_How_to_Program_Global_Edition.html?hl=&id=UZ5VCwAAQBAJ"
+              href="https://www.udacity.com/course/introduction-to-computer-vision--ud810"
               rel="noopener noreferrer"
               target="_blank"
             >
-              C How to Program, Global Edition
+              Introduction to Computer Vision
             </a>
           </li>
           <li
@@ -3670,7 +3131,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="undefined% done"
+              data-tip="0% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3704,25 +3165,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Clean Architecture: A Craftsman's Guide to Software Structure and Design"
-              currentitem="false"
+              aria-label="Calculus 1A: Differentiation"
               data-class="toolTip-0-2-10"
-              data-html="true"
               data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=8ngAkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
-        aria-label=\\"Clean Architecture: A Craftsman's Guide to Software Structure and Design book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Clean_Architecture.html?hl=&id=8ngAkAEACAAJ"
+              href="https://www.edx.org/course/calculus-1a-differentiation"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Clean Architecture: A Craftsman's Guide to Software Structure and Design
+              Calculus 1A: Differentiation
             </a>
           </li>
           <li
@@ -3730,7 +3180,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="undefined% done"
+              data-tip="0% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3764,25 +3214,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Clean Code: A Handbook of Agile Software Craftsmanship"
-              currentitem="false"
+              aria-label="Calculus 1B: Integration"
               data-class="toolTip-0-2-10"
-              data-html="true"
               data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
-        aria-label=\\"Clean Code: A Handbook of Agile Software Craftsmanship book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=_i6bDeoCQzsC"
+              href="https://www.edx.org/course/calculus-1b-integration"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Clean Code: A Handbook of Agile Software Craftsmanship
+              Calculus 1B: Integration
             </a>
           </li>
           <li
@@ -3790,7 +3229,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="undefined% done"
+              data-tip="0% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3824,1105 +3263,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Code Complete, 2nd Edition"
-              currentitem="false"
+              aria-label="Calculus 1C: Coordinate Systems & Infinite Series"
               data-class="toolTip-0-2-10"
-              data-html="true"
               data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=tGQrqAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Code Complete, 2nd Edition book cover\\"
-        aria-label=\\"Code Complete, 2nd Edition book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Code_Complete_2nd_Edition.html?hl=&id=tGQrqAAACAAJ"
+              href="https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Code Complete, 2nd Edition
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=QlduAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
-        aria-label=\\"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=QlduAgAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Ethics in Science and Engineering"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=4ORgP4AwPtQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Ethics in Science and Engineering book cover\\"
-        aria-label=\\"Ethics in Science and Engineering book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=4ORgP4AwPtQC"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Ethics in Science and Engineering
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=6OjJCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
-        aria-label=\\"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=6OjJCgAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Linux Bible"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=5rDbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Linux Bible book cover\\"
-        aria-label=\\"Linux Bible book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Linux_Bible.html?hl=&id=5rDbDwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Linux Bible
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Peopleware: Productive Projects and Teams"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=TVQUAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Peopleware: Productive Projects and Teams book cover\\"
-        aria-label=\\"Peopleware: Productive Projects and Teams book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=TVQUAAAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Peopleware: Productive Projects and Teams
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Rebel Code: Linux and the Open Source Revolution"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=h4g4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Rebel Code: Linux and the Open Source Revolution book cover\\"
-        aria-label=\\"Rebel Code: Linux and the Open Source Revolution book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=h4g4DgAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Rebel Code: Linux and the Open Source Revolution
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Refactoring: Improving the Design of Existing Code"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=2H1_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"Refactoring: Improving the Design of Existing Code book cover\\"
-        aria-label=\\"Refactoring: Improving the Design of Existing Code book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=2H1_DwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Refactoring: Improving the Design of Existing Code
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Soft Skills: The Software Developer's Life Manual"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=UXNaAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"Soft Skills: The Software Developer's Life Manual book cover\\"
-        aria-label=\\"Soft Skills: The Software Developer's Life Manual book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/Soft_Skills.html?hl=&id=UXNaAQAACAAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Soft Skills: The Software Developer's Life Manual
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art of Computer Programming: Volume 1: Fundamental Algorithms"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=x9AsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming: Volume 1: Fundamental Algorithms book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Art_of_Computer_Programming.html?hl=&id=x9AsAwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art of Computer Programming: Volume 1: Fundamental Algorithms
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=OtLNKNVh1XoC&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
-        aria-label=\\"The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Art_Of_Computer_Programming_Volume_2.html?hl=&id=OtLNKNVh1XoC"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art Of Computer Programming, Volume 2: Seminumerical Algorithms, 3/E
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art of Computer Programming: Volume 3: Sorting and Searching"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=cYULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
-        aria-label=\\"The Art of Computer Programming: Volume 3: Sorting and Searching book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=cYULBAAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art of Computer Programming: Volume 3: Sorting and Searching
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Art of Computer Programming, Volume 4A: Combinatorial Algorithms"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=IkuEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
-        aria-label=\\"The Art of Computer Programming, Volume 4A: Combinatorial Algorithms book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Art_of_Computer_Programming_Volume_4.html?hl=&id=IkuEBAAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Art of Computer Programming, Volume 4A: Combinatorial Algorithms
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Clean Coder: A Code of Conduct for Professional Programmers"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=ik0qCTVzl44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
-        aria-label=\\"The Clean Coder: A Code of Conduct for Professional Programmers book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=ik0qCTVzl44C"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Clean Coder: A Code of Conduct for Professional Programmers
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=tvfyz-4JILwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses book cover\\"
-        aria-label=\\"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=tvfyz-4JILwC"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Practice of Programming"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=j9T6AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Practice of Programming book cover\\"
-        aria-label=\\"The Practice of Programming book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_Practice_of_Programming.html?hl=&id=j9T6AgAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Practice of Programming
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=LhOlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
-        aria-label=\\"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=LhOlDwAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="The UNIX Programming Environment"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=mcO0Vh9efE0C&printsec=frontcover&img=1&zoom=1&source=gbs_api\\" 
-        alt=\\"The UNIX Programming Environment book cover\\"
-        aria-label=\\"The UNIX Programming Environment book cover\\"
-        />
-    </div>
-  "
-              href="https://books.google.com/books/about/The_UNIX_Programming_Environment.html?hl=&id=mcO0Vh9efE0C"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              The UNIX Programming Environment
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="undefined% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="User Interface Design for Programmers"
-              currentitem="false"
-              data-class="toolTip-0-2-10"
-              data-html="true"
-              data-place="right"
-              data-tip="
-    <div>
-      <img
-        src=\\"http://books.google.com/books/content?id=V0QnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\\" 
-        alt=\\"User Interface Design for Programmers book cover\\"
-        aria-label=\\"User Interface Design for Programmers book cover\\"
-        />
-    </div>
-  "
-              href="https://play.google.com/store/books/details?id=V0QnCgAAQBAJ"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              User Interface Design for Programmers
+              Calculus 1C: Coordinate Systems & Infinite Series
             </a>
           </li>
         </details>

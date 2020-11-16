@@ -9,47 +9,71 @@
       "courses": [
         {
           "courseName": "SWE 501 Introduction to Object Oriented Programming",
-          "books": [
+          "sections": [
             {
-              "isbn": ["3319242806", "9783319242804"]
+              "title": "Object Oriented Programming in Java Specialization",
+              "url": "https://www.coursera.org/specializations/object-oriented-programming",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 510 Data Structures and Algorithms",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1491912987", "9781491912980"]
+              "title": "Intro to Algorithms",
+              "url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
+              "completed": false
             },
             {
-              "isbn": ["0262258102", "9780262258104"]
+              "title": "Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/algorithms",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 512 Operating Systems",
-          "books": [
+          "sections": [
             {
-              "isbn": ["013359162X", "9780133591620"]
+              "title": "Introduction to Operating Systems",
+              "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
+              "completed": false
+            },
+            {
+              "title": "Advanced Operating Systems",
+              "url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 513 Principles of Software Engineering",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0133943038", "9780133943030"]
+              "title": "Software Development Process",
+              "url": "https://www.udacity.com/course/software-development-process--ud805",
+              "completed": false
+            },
+            {
+              "title": "Software Architecture & Design",
+              "url": "https://www.udacity.com/course/software-architecture-design--ud821",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 529 Discrete Mathematics",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1260091996", "9781260091991"]
+              "title": "Algebra 1",
+              "url": "https://www.khanacademy.org/math/algebra",
+              "completed": false
             },
             {
-              "isbn": ["3319701517", "9783319701516"]
+              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
+              "url": "https://www.coursera.org/specializations/discrete-mathematics",
+              "completed": false
             }
           ]
         }
@@ -64,47 +88,61 @@
       "courses": [
         {
           "courseName": "SWE 521 Database Systems",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1292061847", "9781292061849"]
+              "title": "Intro to Relational Databases",
+              "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+              "completed": false
             },
             {
-              "isbn": ["1292097620", "9781292097626"]
+              "title": "Database Systems Specialization",
+              "url": "https://www.coursera.org/specializations/database-systems",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 522 Software Requirements Engineering",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1315303698", "9781315303697"]
+              "title": "Requirements Engineering: Secure Software Specifications Specialization",
+              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 525 Software Design and Architecture",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0470167742", "9780470167748"]
+              "title": "Software Design and Architecture Specialization",
+              "url": "https://www.coursera.org/specializations/software-design-architecture",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 573 Software Development Practice",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0596527357", "9780596527358"]
+              "title": "Software Development Lifecycle Specialization",
+              "url": "https://www.coursera.org/specializations/software-development-lifecycle",
+              "completed": false
+            },
+            {
+              "title": "Java Programming and Software Engineering Fundamentals Specialization",
+              "url": "https://www.coursera.org/specializations/java-programming",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 547 Human Computer Interaction",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0130461091", "9780130461094"]
-            },
-            {
-              "isbn": ["1119547350", "9781119547358"]
+              "title": "Human-Computer Interaction",
+              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
+              "completed": false
             }
           ]
         }
@@ -119,44 +157,81 @@
       "courses": [
         {
           "courseName": "SWE 514 Computer Systems",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1292096861", "9781292096865"]
+              "title": "Computer Architecture",
+              "url": "https://www.coursera.org/learn/comparch",
+              "completed": false
+            },
+            {
+              "title": "Introduction to Systems Engineering",
+              "url": "https://www.coursera.org/learn/systems-engineering",
+              "completed": false
             }
           ]
         },
         {
-          "courseName": "SWE 526 Applied Software Architecture",
-          "books": [
+          "courseName": "SWE 526 Computer Networking",
+          "sections": [
             {
-              "isbn": ["1492043427", "9781492043423"]
+              "title": "Computer Networking",
+              "url": "https://www.udacity.com/course/computer-networking--ud436",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 550 Software Quality Assurance and Reliability",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0471722332", "9780471722335"]
+              "title": "Software Testing and Automation Specialization",
+              "url": "https://www.coursera.org/specializations/software-testing-automation",
+              "completed": false
+            },
+            {
+              "title": "Software Analysis & Testing",
+              "url": "https://www.udacity.com/course/software-analysis-testing--ud333",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 551 Software Verification and Validation",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1580532969", "9781580532969"]
+              "title": "System Validation: Automata and behavioural equivalences",
+              "url": "https://www.coursera.org/learn/automata-system-validation",
+              "completed": false
+            },
+            {
+              "title": "System Validation (2): Model process behaviour",
+              "url": "https://www.coursera.org/learn/system-validation-behavior",
+              "completed": false
+            },
+            {
+              "title": "System Validation (3): Requirements by modal formulas",
+              "url": "https://www.coursera.org/learn/system-validation-modal-formulas",
+              "completed": false
+            },
+            {
+              "title": "System Validation (4): Modelling Software, Protocols, and other behaviour",
+              "url": "https://www.coursera.org/learn/system-validation-software-protocols",
+              "completed": false
             }
           ]
         },
         {
-          "courseName": "SWE 557 Patterns in Software Engineering",
-          "books": [
+          "courseName": "SWE 570 Information Security",
+          "sections": [
             {
-              "isbn": ["0321700694", "9780321700698"]
+              "title": "Intro to Information Security",
+              "url": "https://www.udacity.com/course/intro-to-information-security--ud459",
+              "completed": false
             },
             {
-              "isbn": ["0596800746", "9780596800741"]
+              "title": "Cybersecurity Specialization",
+              "url": "https://www.coursera.org/specializations/cyber-security",
+              "completed": false
             }
           ]
         }
@@ -171,50 +246,56 @@
       "courses": [
         {
           "courseName": "SWE 542 Advanced Software Engineering",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1292025948", "9781292025940"]
-            },
-            {
-              "isbn": ["007769774X", "9780077697747"]
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 560 Software Metrics and Models",
-          "books": [
-            {
-              "isbn": ["0471792527", "9780471792529"]
-            },
-            {
-              "isbn": ["1439838232", "9781439838235"]
+              "title": "Object Oriented Java Programming: Data Structures and Beyond Specialization",
+              "url": "https://www.coursera.org/specializations/java-object-oriented",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "SWE 565 Managing Software Development",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1466559543", "9781466559547"]
+              "title": "Software Product Management Specialization",
+              "url": "https://www.coursera.org/specializations/product-management",
+              "completed": false
             }
           ]
         },
         {
-          "courseName": "SWE 575 Secure Software Development and Software Security",
-          "books": [
+          "courseName": "SWE 575 Secure Software Development",
+          "sections": [
             {
-              "isbn": ["0429014430", "9780429014437"]
+              "title": "Secure Coding Practices Specialization",
+              "url": "https://www.coursera.org/specializations/secure-coding-practices",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 500 Python Programming",
+          "sections": [
+            {
+              "title": "Python 3 Programming Specialization",
+              "url": "https://www.coursera.org/specializations/python-3-programming",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 501 Introduction to Data Science",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1108472443", "9781108472449"]
+              "title": "Intro to Data Science",
+              "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
+              "completed": false
             },
             {
-              "isbn": ["3319500171", "9783319500171"]
+              "title": "Introduction to Data Science Specialization",
+              "url": "https://www.coursera.org/specializations/introduction-data-science",
+              "completed": false
             }
           ]
         }
@@ -229,56 +310,61 @@
       "courses": [
         {
           "courseName": "DSC 506 Introduction to Statistics and Probability",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1491907371", "9781491907375"]
+              "title": "Intro to Statistics",
+              "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+              "completed": false
+            },
+            {
+              "title": "Statistics",
+              "url": "https://www.udacity.com/course/statistics--st095",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 510 Python for Data Science",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1593279299", "9781593279295"]
-            },
-            {
-              "isbn": ["1491957638", "9781491957639"]
+              "title": "Data Science Fundamentals with Python and SQL Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 520 Math for Data Science",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0980232775", "9780980232776"]
-            },
-            {
-              "isbn": ["1337516848", "9781337516846"]
-            },
-            {
-              "isbn": ["0134438981", "9780134438986"]
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 532 Machine Learning",
-          "books": [
+          "sections": [
             {
-              "isbn": ["B08BN8S8KB", "B08BN8S8KB"]
-            },
-            {
-              "isbn": ["149203259X", "9781492032595"]
-            },
-            {
-              "isbn": ["1449369898", "9781449369897"]
+              "title": "Machine Learning",
+              "url": "https://www.coursera.org/learn/machine-learning",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 535 Data Visualization",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1930824130", "9781930824133"]
+              "title": "Information Visualization Specialization",
+              "url": "https://www.coursera.org/specializations/information-visualization",
+              "completed": false
+            },
+            {
+              "title": "Data Visualization with Python",
+              "url": "https://www.coursera.org/learn/python-for-data-visualization",
+              "completed": false
             }
           ]
         }
@@ -293,53 +379,61 @@
       "courses": [
         {
           "courseName": "DSC 538 Data Mining",
-          "books": [
+          "sections": [
             {
-              "isbn": ["0521865719", "9780521865715"]
-            },
-            {
-              "isbn": ["1491985046", "9781491985045"]
+              "title": "Data Mining Specialization",
+              "url": "https://www.coursera.org/specializations/data-mining",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 547 Big Data Analytics",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1449396658", "9781449396657"]
+              "title": "Big Data Specialization",
+              "url": "https://www.coursera.org/specializations/big-data",
+              "completed": false
             },
             {
-              "isbn": ["1108476341, 9781108476348"]
-            },
-            {
-              "isbn": ["1449317626", "9781449317621"]
+              "title": "Data Engineering, Big Data, and Machine Learning on GCP Specialization",
+              "url": "https://www.coursera.org/specializations/gcp-data-machine-learning",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 558 Artificial Intelligence and Deep Learning",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1492045497", "9781492045496"]
+              "title": "Deep Learning Specialization",
+              "url": "https://www.coursera.org/specializations/deep-learning",
+              "completed": false
             },
             {
-              "isbn": ["1617294438", "9781617294433"]
+              "title": "Intro to Artificial Intelligence",
+              "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
+              "completed": false
             }
           ]
         },
         {
           "courseName": "DSC 563 Natural Language Processing",
-          "books": [
+          "sections": [
             {
-              "isbn": ["1617294632", "9781617294631"]
+              "title": "Natural Language Processing Specialization",
+              "url": "https://www.coursera.org/specializations/natural-language-processing",
+              "completed": false
             }
           ]
         },
         {
-          "courseName": "DSC 570 Supervised and Unsupervised Learning Methods",
-          "books": [
+          "courseName": "DSC 570 Applied Data Science",
+          "sections": [
             {
-              "isbn": ["3030224775", "9783030224776"]
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
+              "completed": false
             }
           ]
         }
@@ -348,76 +442,32 @@
   ],
   "extras": [
     {
-      "name": "Optional Reading",
-      "books": [
+      "name": "Optional Content",
+      "sections": [
         {
-          "isbn": ["0769551661", "9780769551661"]
+          "title": "How to Build a Startup",
+          "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+          "completed": false
         },
         {
-          "isbn": ["1292110988", "9781292110981"]
+          "title": "Introduction to Computer Vision",
+          "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
+          "completed": false
         },
         {
-          "isbn": ["0134494164", "9780134494166"]
+          "title": "Calculus 1A: Differentiation",
+          "url": "https://www.edx.org/course/calculus-1a-differentiation",
+          "completed": false
         },
         {
-          "isbn": ["0136083250", "9780136083252"]
+          "title": "Calculus 1B: Integration",
+          "url": "https://www.edx.org/course/calculus-1b-integration",
+          "completed": false
         },
         {
-          "isbn": ["9350041243", "9789350041246"]
-        },
-        {
-          "isbn": ["0133597261", "9780133597264"]
-        },
-        {
-          "isbn": ["1118104846", "9781118104842"]
-        },
-        {
-          "isbn": ["1491910046", "9781491910047"]
-        },
-        {
-          "isbn": ["1119578884", "9781119578888"]
-        },
-        {
-          "isbn": ["0133440737", "9780133440737"]
-        },
-        {
-          "isbn": ["0786745207", "9780786745203"]
-        },
-        {
-          "isbn": ["013475770X", "9780134757704"]
-        },
-        {
-          "isbn": ["1617292397", "9781617292392"]
-        },
-        {
-          "isbn": ["0321635744", "9780321635747"]
-        },
-        {
-          "isbn": ["8177583352", "9788177583359"]
-        },
-        {
-          "isbn": ["0321635787", "9780321635785"]
-        },
-        {
-          "isbn": ["0133488853", "9780133488852"]
-        },
-        {
-          "isbn": ["0132542889", "9780132542883"]
-        },
-        {
-          "isbn": ["030788791X", "9780307887917"]
-        },
-        {
-          "isbn": ["020161586X", "9780201615869"]
-        },
-        {
-          "isbn": ["0135956919", "9780135956915"]
-        },
-        {
-          "isbn": ["013937681X", "9780139376818"]
-        },
-        {
-          "isbn": ["1430208570", "9781430208570"]
+          "title": "Calculus 1C: Coordinate Systems & Infinite Series",
+          "url": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series",
+          "completed": false
         }
       ]
     }

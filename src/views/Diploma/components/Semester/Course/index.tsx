@@ -5,7 +5,7 @@ import React, { useMemo, useState } from 'react';
 import { createUseStyles } from 'react-jss';
 import ProgressBar from '../../../../../components/ProgressBar';
 import { DetailsPanel, DiplomaTypes } from '../../../../../models';
-import Book from './Book';
+import Section from './Section';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
@@ -16,21 +16,27 @@ export interface CourseProps extends DetailsPanel {
 
 const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
   const classes = useStyles();
-  const { courseName, books } = courseData;
+  const { courseName, sections } = courseData;
 
-  const [bookProgresses, setBookProgresses] = useState<DiplomaTypes.Progress[]>(
-    [],
-  );
+  const [sectionProgresses, setSectionProgresses] = useState<
+    DiplomaTypes.Progress[]
+  >([]);
 
-  const handleBookProgressChange = (progress: DiplomaTypes.Progress) => {
-    setBookProgresses([...bookProgresses, progress]);
+  const handleProgressChange = (progress: DiplomaTypes.Progress) => {
+    setSectionProgresses([
+      ...sectionProgresses.filter((b) => b.title !== progress.title),
+      progress,
+    ]);
   };
 
   // Use the max value as the course progress!
   const courseProgress = useMemo(() => {
-    if (bookProgresses.length === 0) return 0;
-    return Math.max(...bookProgresses.map((p) => p.progress));
-  }, [bookProgresses]);
+    if (sectionProgresses.length === 0) return 0;
+    return (
+      sectionProgresses.reduce((prev, current) => prev + current.progress, 0) /
+      sectionProgresses.length
+    );
+  }, [sectionProgresses]);
 
   return (
     <details open={showDetails} className={classes.courseDetails}>
@@ -39,11 +45,11 @@ const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
         <ProgressBar value={courseProgress} />
       </summary>
       <div className={classes.bookPanel}>
-        {books.map((book) => (
-          <Book
-            key={book.isbn[0]}
-            courseBook={book}
-            onProgressChange={handleBookProgressChange}
+        {sections.map((section) => (
+          <Section
+            key={section.title}
+            section={section}
+            onProgressChange={handleProgressChange}
           />
         ))}
       </div>
