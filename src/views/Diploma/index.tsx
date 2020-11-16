@@ -20,7 +20,7 @@ export interface DiplomaProps {
 
 const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   const classes = useStyles();
-  const { terms, extras } = diplomaData;
+  const { semesters, extras } = diplomaData;
   const {
     diploma: { title, subtitle, info },
   } = staticData;
@@ -48,8 +48,8 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
       </div>
       <div className={classes.contents}>
         {/* Base Curriculum */}
-        {terms.map((t) => (
-          <Semester semesterData={t} key={t.name} />
+        {semesters.map((s) => (
+          <Semester semesterData={s} key={s.name} />
         ))}
 
         {/* Extras */}

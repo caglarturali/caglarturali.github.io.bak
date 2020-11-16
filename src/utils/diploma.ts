@@ -33,7 +33,7 @@ export const calculateDiplomaProgress = (
   diploma: DiplomaTypes.Curriculum,
   precision = 0,
 ): number => {
-  const { terms } = diploma;
-  const progresses = terms.map(calculateSemesterProgress);
+  const { semesters } = diploma;
+  const progresses = semesters.map(calculateSemesterProgress);
   return progressAverage(progresses, precision);
 };

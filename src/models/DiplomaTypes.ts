@@ -25,7 +25,7 @@ export declare namespace DiplomaTypes {
   }
 
   export interface Curriculum {
-    terms: Semester[];
+    semesters: Semester[];
     extras: Extra[];
   }
 }
