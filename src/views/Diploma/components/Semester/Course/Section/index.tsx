@@ -1,23 +1,23 @@
 /**
  * Section component.
  */
-import React, { useEffect, useMemo } from 'react';
+import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { CircularProgressbar } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 import { DiplomaTypes } from '../../../../../../models';
+import { calculateSectionProgress } from '../../../../../../utils';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
 export interface SectionProps {
   section: DiplomaTypes.Section;
-  onProgressChange?: (progress: DiplomaTypes.Progress) => void;
 }
 
-const Section: React.FC<SectionProps> = ({ section, onProgressChange }) => {
+const Section: React.FC<SectionProps> = ({ section }) => {
   const classes = useStyles();
-  const { title, url, completed } = section;
+  const { title, url } = section;
 
   // eslint-disable-next-line
   const thumbnailToolTip = `
@@ -30,19 +30,8 @@ const Section: React.FC<SectionProps> = ({ section, onProgressChange }) => {
     </div>
   `;
 
-  const progress: number = useMemo(() => (completed ? 100 : 0), [completed]);
+  const progress = calculateSectionProgress(section);
   const progressText = `${progress}% done`;
-
-  const informProgressChange = () => {
-    if (onProgressChange) {
-      onProgressChange({
-        title,
-        progress,
-      });
-    }
-  };
-
-  useEffect(informProgressChange, []);
 
   return (
     <li className={classes.bookItem}>
