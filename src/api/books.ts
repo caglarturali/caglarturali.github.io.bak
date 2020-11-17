@@ -13,16 +13,3 @@ export const getDetailsForIsbn = async (
   );
   return await response.json();
 };
-
-/**
- * Returns reading progress from Reading Progress API.
- * @param isbn ISBN(13) of the book
- */
-export const getReadingProgressForIsbn = async (
-  isbn: string,
-): Promise<API.ReadingProgressResponse> => {
-  const response = await fetch(
-    `https://reading-progress.vercel.app/api/isbn/${isbn}`,
-  );
-  return await response.json();
-};

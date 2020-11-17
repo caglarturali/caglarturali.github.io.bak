@@ -1,14 +1,5 @@
 export declare namespace API {
   //
-  // Types related to Reading Progress API.
-  //
-  export interface ReadingProgressResponse {
-    date?: string;
-    progress?: number;
-    isbn13?: string;
-  }
-
-  //
   // Types related to Google Books API.
   //
   export interface IndustryIdentifier {
