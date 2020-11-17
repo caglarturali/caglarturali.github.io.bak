@@ -51,13 +51,13 @@
           "courseName": "SWE 513 Principles of Software Engineering",
           "sections": [
             {
-              "title": "Software Development Process",
-              "url": "https://www.udacity.com/course/software-development-process--ud805",
+              "title": "Software Engineering Essentials",
+              "url": "https://www.edx.org/course/software-engineering-essentials",
               "completed": false
             },
             {
-              "title": "Software Architecture & Design",
-              "url": "https://www.udacity.com/course/software-architecture-design--ud821",
+              "title": "Software Development Process",
+              "url": "https://www.udacity.com/course/software-development-process--ud805",
               "completed": false
             }
           ]
@@ -117,6 +117,11 @@
             {
               "title": "Software Design and Architecture Specialization",
               "url": "https://www.coursera.org/specializations/software-design-architecture",
+              "completed": false
+            },
+            {
+              "title": "Software Architecture & Design",
+              "url": "https://www.udacity.com/course/software-architecture-design--ud821",
               "completed": false
             }
           ]
@@ -444,6 +449,11 @@
     {
       "name": "Optional Content",
       "sections": [
+        {
+          "title": "C Programming with Linux",
+          "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
+          "completed": false
+        },
         {
           "title": "How to Build a Startup",
           "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",

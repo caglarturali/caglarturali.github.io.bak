@@ -413,14 +413,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Development Process"
+                  aria-label="Software Engineering Essentials"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/software-development-process--ud805"
+                  href="https://www.edx.org/course/software-engineering-essentials"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Development Process
+                  Software Engineering Essentials
                 </a>
               </li>
               <li
@@ -462,14 +462,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Architecture & Design"
+                  aria-label="Software Development Process"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/software-architecture-design--ud821"
+                  href="https://www.udacity.com/course/software-development-process--ud805"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Software Architecture & Design
+                  Software Development Process
                 </a>
               </li>
             </div>
@@ -857,6 +857,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Software Design and Architecture Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Software Architecture & Design"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/software-architecture-design--ud821"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Software Architecture & Design
                 </a>
               </li>
             </div>
@@ -3028,6 +3077,55 @@ exports[`<Diploma /> should render correctly 1`] = `
               Optional Content
             </span>
           </summary>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="C Programming with Linux"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              C Programming with Linux
+            </a>
+          </li>
           <li
             class="bookItem-0-2-11"
           >
