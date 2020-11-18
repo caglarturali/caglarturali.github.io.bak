@@ -36,7 +36,7 @@ export default {
       padding: '10px 0',
 
       '&:last-child': {
-        marginBottom: '200px',
+        paddingBottom: '200px',
       },
     },
   },
