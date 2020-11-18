@@ -71,6 +71,16 @@
               "completed": false
             },
             {
+              "title": "Algebra 2",
+              "url": "https://www.khanacademy.org/math/algebra2",
+              "completed": false
+            },
+            {
+              "title": "Linear algebra",
+              "url": "https://www.khanacademy.org/math/linear-algebra",
+              "completed": false
+            },
+            {
               "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
               "url": "https://www.coursera.org/specializations/discrete-mathematics",
               "completed": false
