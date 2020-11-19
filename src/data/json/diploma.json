@@ -21,13 +21,8 @@
           "courseName": "SWE 510 Data Structures and Algorithms",
           "sections": [
             {
-              "title": "Intro to Algorithms",
-              "url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
-              "completed": false
-            },
-            {
-              "title": "Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/algorithms",
+              "title": "Data Structures and Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/data-structures-algorithms",
               "completed": false
             }
           ]
@@ -66,23 +61,13 @@
           "courseName": "SWE 529 Discrete Mathematics",
           "sections": [
             {
-              "title": "Algebra 1",
-              "url": "https://www.khanacademy.org/math/algebra",
-              "completed": false
-            },
-            {
-              "title": "Algebra 2",
-              "url": "https://www.khanacademy.org/math/algebra2",
+              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
+              "url": "https://www.coursera.org/specializations/discrete-mathematics",
               "completed": false
             },
             {
               "title": "Linear algebra",
               "url": "https://www.khanacademy.org/math/linear-algebra",
-              "completed": false
-            },
-            {
-              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
-              "url": "https://www.coursera.org/specializations/discrete-mathematics",
               "completed": false
             }
           ]
