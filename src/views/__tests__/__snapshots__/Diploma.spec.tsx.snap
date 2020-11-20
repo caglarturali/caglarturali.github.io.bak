@@ -3025,7 +3025,7 @@ exports[`<Diploma /> should render correctly 1`] = `
         >
           <summary>
             <span>
-              Optional Content
+              Elective Studies
             </span>
           </summary>
           <li
@@ -3067,14 +3067,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="C Programming with Linux"
+              aria-label="C Programming with Linux Professional Certificate"
               data-class="toolTip-0-2-10"
               data-place="right"
               href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux"
               rel="noopener noreferrer"
               target="_blank"
             >
-              C Programming with Linux
+              C Programming with Linux Professional Certificate
             </a>
           </li>
           <li
