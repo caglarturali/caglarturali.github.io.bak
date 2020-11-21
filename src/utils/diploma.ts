@@ -8,7 +8,10 @@ const progressAverage = (nums: number[], precision: number) => {
 export const calculateSectionProgress = (
   section: DiplomaTypes.Section,
 ): number => {
-  return section.completed ? 100 : 0;
+  const {
+    progress: { completed, total },
+  } = section;
+  return parseFloat(((completed / total) * 100).toFixed(0));
 };
 
 export const calculateCourseProgress = (

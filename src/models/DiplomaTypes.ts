@@ -2,7 +2,10 @@ export declare namespace DiplomaTypes {
   export interface Section {
     title: string;
     url: string;
-    completed: boolean;
+    progress: {
+      completed: number;
+      total: number;
+    };
   }
 
   export interface Course {

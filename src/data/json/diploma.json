@@ -13,7 +13,10 @@
             {
               "title": "Object Oriented Programming in Java Specialization",
               "url": "https://www.coursera.org/specializations/object-oriented-programming",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -23,7 +26,10 @@
             {
               "title": "Data Structures and Algorithms Specialization",
               "url": "https://www.coursera.org/specializations/data-structures-algorithms",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -33,12 +39,18 @@
             {
               "title": "Introduction to Operating Systems",
               "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
-              "completed": false
+              "progress": {
+                "completed": 2,
+                "total": 21
+              }
             },
             {
               "title": "Advanced Operating Systems",
               "url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -48,12 +60,18 @@
             {
               "title": "Software Engineering Essentials",
               "url": "https://www.edx.org/course/software-engineering-essentials",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Software Development Process",
               "url": "https://www.udacity.com/course/software-development-process--ud805",
-              "completed": false
+              "progress": {
+                "completed": 2,
+                "total": 17
+              }
             }
           ]
         },
@@ -63,12 +81,18 @@
             {
               "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
               "url": "https://www.coursera.org/specializations/discrete-mathematics",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Linear algebra",
               "url": "https://www.khanacademy.org/math/linear-algebra",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -87,12 +111,18 @@
             {
               "title": "Intro to Relational Databases",
               "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Database Systems Specialization",
               "url": "https://www.coursera.org/specializations/database-systems",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -102,7 +132,10 @@
             {
               "title": "Requirements Engineering: Secure Software Specifications Specialization",
               "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -112,12 +145,18 @@
             {
               "title": "Software Design and Architecture Specialization",
               "url": "https://www.coursera.org/specializations/software-design-architecture",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Software Architecture & Design",
               "url": "https://www.udacity.com/course/software-architecture-design--ud821",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -127,12 +166,18 @@
             {
               "title": "Software Development Lifecycle Specialization",
               "url": "https://www.coursera.org/specializations/software-development-lifecycle",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Java Programming and Software Engineering Fundamentals Specialization",
               "url": "https://www.coursera.org/specializations/java-programming",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -142,7 +187,10 @@
             {
               "title": "Human-Computer Interaction",
               "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -161,12 +209,18 @@
             {
               "title": "Computer Architecture",
               "url": "https://www.coursera.org/learn/comparch",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Introduction to Systems Engineering",
               "url": "https://www.coursera.org/learn/systems-engineering",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -176,7 +230,10 @@
             {
               "title": "Computer Networking",
               "url": "https://www.udacity.com/course/computer-networking--ud436",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -186,12 +243,18 @@
             {
               "title": "Software Testing and Automation Specialization",
               "url": "https://www.coursera.org/specializations/software-testing-automation",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Software Analysis & Testing",
               "url": "https://www.udacity.com/course/software-analysis-testing--ud333",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -201,22 +264,34 @@
             {
               "title": "System Validation: Automata and behavioural equivalences",
               "url": "https://www.coursera.org/learn/automata-system-validation",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "System Validation (2): Model process behaviour",
               "url": "https://www.coursera.org/learn/system-validation-behavior",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "System Validation (3): Requirements by modal formulas",
               "url": "https://www.coursera.org/learn/system-validation-modal-formulas",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "System Validation (4): Modelling Software, Protocols, and other behaviour",
               "url": "https://www.coursera.org/learn/system-validation-software-protocols",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -226,12 +301,18 @@
             {
               "title": "Intro to Information Security",
               "url": "https://www.udacity.com/course/intro-to-information-security--ud459",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Cybersecurity Specialization",
               "url": "https://www.coursera.org/specializations/cyber-security",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -250,7 +331,10 @@
             {
               "title": "Object Oriented Java Programming: Data Structures and Beyond Specialization",
               "url": "https://www.coursera.org/specializations/java-object-oriented",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -260,7 +344,10 @@
             {
               "title": "Software Product Management Specialization",
               "url": "https://www.coursera.org/specializations/product-management",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -270,7 +357,10 @@
             {
               "title": "Secure Coding Practices Specialization",
               "url": "https://www.coursera.org/specializations/secure-coding-practices",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -280,7 +370,10 @@
             {
               "title": "Python 3 Programming Specialization",
               "url": "https://www.coursera.org/specializations/python-3-programming",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -290,12 +383,18 @@
             {
               "title": "Intro to Data Science",
               "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Introduction to Data Science Specialization",
               "url": "https://www.coursera.org/specializations/introduction-data-science",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -314,12 +413,18 @@
             {
               "title": "Intro to Statistics",
               "url": "https://www.udacity.com/course/intro-to-statistics--st101",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Statistics",
               "url": "https://www.udacity.com/course/statistics--st095",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -329,7 +434,10 @@
             {
               "title": "Data Science Fundamentals with Python and SQL Specialization",
               "url": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -339,7 +447,10 @@
             {
               "title": "Mathematics for Machine Learning Specialization",
               "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -349,7 +460,10 @@
             {
               "title": "Machine Learning",
               "url": "https://www.coursera.org/learn/machine-learning",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -359,12 +473,18 @@
             {
               "title": "Information Visualization Specialization",
               "url": "https://www.coursera.org/specializations/information-visualization",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Data Visualization with Python",
               "url": "https://www.coursera.org/learn/python-for-data-visualization",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -383,7 +503,10 @@
             {
               "title": "Data Mining Specialization",
               "url": "https://www.coursera.org/specializations/data-mining",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -393,12 +516,18 @@
             {
               "title": "Big Data Specialization",
               "url": "https://www.coursera.org/specializations/big-data",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Data Engineering, Big Data, and Machine Learning on GCP Specialization",
               "url": "https://www.coursera.org/specializations/gcp-data-machine-learning",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -408,12 +537,18 @@
             {
               "title": "Deep Learning Specialization",
               "url": "https://www.coursera.org/specializations/deep-learning",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             },
             {
               "title": "Intro to Artificial Intelligence",
               "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -423,7 +558,10 @@
             {
               "title": "Natural Language Processing Specialization",
               "url": "https://www.coursera.org/specializations/natural-language-processing",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         },
@@ -433,7 +571,10 @@
             {
               "title": "Applied Data Science with Python Specialization",
               "url": "https://www.coursera.org/specializations/data-science-python",
-              "completed": false
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
             }
           ]
         }
@@ -447,32 +588,50 @@
         {
           "title": "C Programming with Linux Professional Certificate",
           "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         },
         {
           "title": "How to Build a Startup",
           "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         },
         {
           "title": "Introduction to Computer Vision",
           "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         },
         {
           "title": "Calculus 1A: Differentiation",
           "url": "https://www.edx.org/course/calculus-1a-differentiation",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         },
         {
           "title": "Calculus 1B: Integration",
           "url": "https://www.edx.org/course/calculus-1b-integration",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         },
         {
           "title": "Calculus 1C: Coordinate Systems & Infinite Series",
           "url": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series",
-          "completed": false
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
         }
       ]
     }
