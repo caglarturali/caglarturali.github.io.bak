@@ -69,7 +69,7 @@
               "title": "Software Development Process",
               "url": "https://www.udacity.com/course/software-development-process--ud805",
               "progress": {
-                "completed": 2,
+                "completed": 4,
                 "total": 17
               }
             }
@@ -326,11 +326,19 @@
       },
       "courses": [
         {
-          "courseName": "SWE 542 Advanced Software Engineering",
+          "courseName": "SWE 545 Cloud Computing",
           "sections": [
             {
-              "title": "Object Oriented Java Programming: Data Structures and Beyond Specialization",
-              "url": "https://www.coursera.org/specializations/java-object-oriented",
+              "title": "Cloud Computing Specialization",
+              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            },
+            {
+              "title": "Cloud Application Development Foundations Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
               "progress": {
                 "completed": 0,
                 "total": 100
@@ -365,6 +373,51 @@
           ]
         },
         {
+          "courseName": "SWE 590 Tech Entrepreneurship",
+          "sections": [
+            {
+              "title": "Product Design",
+              "url": "https://www.udacity.com/course/product-design--ud509",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            },
+            {
+              "title": "Rapid Prototyping",
+              "url": "https://www.udacity.com/course/rapid-prototyping--ud723",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            },
+            {
+              "title": "App Monetization",
+              "url": "https://www.udacity.com/course/app-monetization--ud518",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            },
+            {
+              "title": "App Marketing",
+              "url": "https://www.udacity.com/course/app-marketing--ud719",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            },
+            {
+              "title": "Get Your Startup Started",
+              "url": "https://www.udacity.com/course/get-your-startup-started--ud806",
+              "progress": {
+                "completed": 0,
+                "total": 100
+              }
+            }
+          ]
+        },
+        {
           "courseName": "DSC 500 Python Programming",
           "sections": [
             {
@@ -376,7 +429,16 @@
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "5. Semester",
+      "dates": {
+        "start": "04-01-2022",
+        "end": "07-31-2022"
+      },
+      "courses": [
         {
           "courseName": "DSC 501 Introduction to Data Science",
           "sections": [
@@ -397,16 +459,7 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "5. Semester",
-      "dates": {
-        "start": "04-01-2022",
-        "end": "07-31-2022"
-      },
-      "courses": [
+        },
         {
           "courseName": "DSC 506 Introduction to Statistics and Probability",
           "sections": [
@@ -466,7 +519,16 @@
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "6. Semester",
+      "dates": {
+        "start": "08-15-2022",
+        "end": "12-15-2022"
+      },
+      "courses": [
         {
           "courseName": "DSC 535 Data Visualization",
           "sections": [
@@ -487,16 +549,7 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "6. Semester",
-      "dates": {
-        "start": "08-15-2022",
-        "end": "12-15-2022"
-      },
-      "courses": [
+        },
         {
           "courseName": "DSC 538 Data Mining",
           "sections": [
@@ -564,19 +617,6 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "DSC 570 Applied Data Science",
-          "sections": [
-            {
-              "title": "Applied Data Science with Python Specialization",
-              "url": "https://www.coursera.org/specializations/data-science-python",
-              "progress": {
-                "completed": 0,
-                "total": 100
-              }
-            }
-          ]
         }
       ]
     }
@@ -594,6 +634,22 @@
           }
         },
         {
+          "title": "Introduction to Linux",
+          "url": "https://www.edx.org/course/introduction-to-linux",
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
+        },
+        {
+          "title": "Open Source Software Development, Linux and Git Specialization",
+          "url": "https://www.coursera.org/specializations/oss-development-linux-git",
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
+        },
+        {
           "title": "How to Build a Startup",
           "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
           "progress": {
@@ -604,6 +660,14 @@
         {
           "title": "Introduction to Computer Vision",
           "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
+          "progress": {
+            "completed": 0,
+            "total": 100
+          }
+        },
+        {
+          "title": "Applied Data Science with Python Specialization",
+          "url": "https://www.coursera.org/specializations/data-science-python",
           "progress": {
             "completed": 0,
             "total": 100
