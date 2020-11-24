@@ -666,6 +666,14 @@
           }
         },
         {
+          "title": "The Missing Semester of Your CS Education",
+          "url": "https://missing.csail.mit.edu/",
+          "progress": {
+            "completed": 1,
+            "total": 11
+          }
+        },
+        {
           "title": "Applied Data Science with Python Specialization",
           "url": "https://www.coursera.org/specializations/data-science-python",
           "progress": {

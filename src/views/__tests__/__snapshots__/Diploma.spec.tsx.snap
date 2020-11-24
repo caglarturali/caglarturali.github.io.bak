@@ -3523,6 +3523,55 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
+              data-tip="9% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 217.2725479222701px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="The Missing Semester of Your CS Education"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://missing.csail.mit.edu/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              The Missing Semester of Your CS Education
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
               data-tip="0% done"
             >
               <svg
