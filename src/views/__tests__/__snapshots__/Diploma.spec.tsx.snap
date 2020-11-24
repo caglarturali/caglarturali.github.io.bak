@@ -3278,7 +3278,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="0% done"
+              data-tip="14% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3307,7 +3307,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                   fill-opacity="0"
                   stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 205.33449583862887px;"
                 />
               </svg>
             </span>
