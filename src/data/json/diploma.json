@@ -8,8 +8,16 @@
       },
       "courses": [
         {
-          "courseName": "SWE 501 Introduction to Object Oriented Programming",
+          "courseName": "SWE 501 Introduction to Programming",
           "sections": [
+            {
+              "title": "C Programming with Linux Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
+              "progress": {
+                "completed": 1,
+                "total": 7
+              }
+            },
             {
               "title": "Object Oriented Programming in Java Specialization",
               "url": "https://www.coursera.org/specializations/object-oriented-programming",
@@ -625,14 +633,6 @@
     {
       "name": "Elective Studies",
       "sections": [
-        {
-          "title": "C Programming with Linux Professional Certificate",
-          "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
-          "progress": {
-            "completed": 1,
-            "total": 7
-          }
-        },
         {
           "title": "Introduction to Linux",
           "url": "https://www.edx.org/course/introduction-to-linux",
