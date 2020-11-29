@@ -62,7 +62,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 20%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 14%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -118,12 +118,32 @@ exports[`<Diploma /> should render correctly 1`] = `
                   C Programming with Linux Professional Certificate
                 </a>
               </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                SWE 508 Programming and Data Structures
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
               <li
                 class="bookItem-0-2-11"
               >
                 <span
                   currentitem="false"
-                  data-tip="25% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -152,19 +172,19 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 179.0707812546182px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Object Oriented Programming in Java Specialization"
+                  aria-label="Programming & Data Structures in C++"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/object-oriented-programming"
+                  href="https://www.edx.org/microbachelors/nyux-programming-data-structures"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Object Oriented Programming in Java Specialization
+                  Programming & Data Structures in C++
                 </a>
               </li>
             </div>
@@ -344,14 +364,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Advanced Operating Systems"
+                  aria-label="Introduction to Linux"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/advanced-operating-systems--ud189"
+                  href="https://www.edx.org/course/introduction-to-linux"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Advanced Operating Systems
+                  Introduction to Linux
                 </a>
               </li>
             </div>
@@ -605,6 +625,144 @@ exports[`<Diploma /> should render correctly 1`] = `
               2. Semester
             </span>
           </summary>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                SWE 505 Introduction to Object Oriented Programming
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 25%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="25% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 179.0707812546182px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Object Oriented Programming in Java Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/object-oriented-programming"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Object Oriented Programming in Java Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                SWE 515 Advanced Operating Systems
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Advanced Operating Systems"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/advanced-operating-systems--ud189"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Advanced Operating Systems
+                </a>
+              </li>
+            </div>
+          </details>
           <details
             class="courseDetails-0-2-8"
           >
@@ -1028,75 +1186,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               </li>
             </div>
           </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span>
-                SWE 547 Human Computer Interaction
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Human-Computer Interaction"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.udacity.com/course/human-computer-interaction--ud400"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Human-Computer Interaction
-                </a>
-              </li>
-            </div>
-          </details>
         </details>
         <details
           class="root-0-2-7"
@@ -1293,6 +1382,75 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Computer Networking
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                SWE 547 Human Computer Interaction
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Human-Computer Interaction"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/human-computer-interaction--ud400"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Human-Computer Interaction
                 </a>
               </li>
             </div>
@@ -2023,6 +2181,75 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
+                SWE 580 Open Source Software
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Open Source Software Development, Linux and Git Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/oss-development-linux-git"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Open Source Software Development, Linux and Git Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
                 SWE 590 Tech Entrepreneurship
               </span>
               <div
@@ -2036,6 +2263,55 @@ exports[`<Diploma /> should render correctly 1`] = `
             <div
               class="bookPanel-0-2-9"
             >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="How to Build a Startup"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/how-to-build-a-startup--ep245"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  How to Build a Startup
+                </a>
+              </li>
               <li
                 class="bookItem-0-2-11"
               >
@@ -2666,6 +2942,75 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Data Science Fundamentals with Python and SQL Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 515 Applied Data Science
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Applied Data Science with Python Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/data-science-python"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Applied Data Science with Python Specialization
                 </a>
               </li>
             </div>
@@ -3313,6 +3658,75 @@ exports[`<Diploma /> should render correctly 1`] = `
               </li>
             </div>
           </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                DSC 565 Introduction to Computer Vision
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Computer Vision"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/introduction-to-computer-vision--ud810"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Computer Vision
+                </a>
+              </li>
+            </div>
+          </details>
         </details>
         <details
           class="extra-0-2-4"
@@ -3322,202 +3736,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               Elective Studies
             </span>
           </summary>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Introduction to Linux"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.edx.org/course/introduction-to-linux"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Introduction to Linux
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Open Source Software Development, Linux and Git Specialization"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.coursera.org/specializations/oss-development-linux-git"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Open Source Software Development, Linux and Git Specialization
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="How to Build a Startup"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.udacity.com/course/how-to-build-a-startup--ep245"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              How to Build a Startup
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Introduction to Computer Vision"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.udacity.com/course/introduction-to-computer-vision--ud810"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Introduction to Computer Vision
-            </a>
-          </li>
           <li
             class="bookItem-0-2-11"
           >
@@ -3606,14 +3824,63 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Applied Data Science with Python Specialization"
+              aria-label="CS50's Introduction to Game Development"
               data-class="toolTip-0-2-10"
               data-place="right"
-              href="https://www.coursera.org/specializations/data-science-python"
+              href="https://www.edx.org/course/cs50s-introduction-to-game-development"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Applied Data Science with Python Specialization
+              CS50's Introduction to Game Development
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="Introduction to Kubernetes"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://www.edx.org/course/introduction-to-kubernetes"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Introduction to Kubernetes
             </a>
           </li>
           <li

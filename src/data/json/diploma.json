@@ -17,12 +17,17 @@
                 "completed": 1,
                 "total": 7
               }
-            },
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 508 Programming and Data Structures",
+          "sections": [
             {
-              "title": "Object Oriented Programming in Java Specialization",
-              "url": "https://www.coursera.org/specializations/object-oriented-programming",
+              "title": "Programming & Data Structures in C++",
+              "url": "https://www.edx.org/microbachelors/nyux-programming-data-structures",
               "progress": {
-                "completed": 1,
+                "completed": 0,
                 "total": 4
               }
             }
@@ -53,8 +58,8 @@
               }
             },
             {
-              "title": "Advanced Operating Systems",
-              "url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
+              "title": "Introduction to Linux",
+              "url": "https://www.edx.org/course/introduction-to-linux",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -113,6 +118,32 @@
         "end": "06-15-2021"
       },
       "courses": [
+        {
+          "courseName": "SWE 505 Introduction to Object Oriented Programming",
+          "sections": [
+            {
+              "title": "Object Oriented Programming in Java Specialization",
+              "url": "https://www.coursera.org/specializations/object-oriented-programming",
+              "progress": {
+                "completed": 1,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 515 Advanced Operating Systems",
+          "sections": [
+            {
+              "title": "Advanced Operating Systems",
+              "url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
         {
           "courseName": "SWE 521 Database Systems",
           "sections": [
@@ -188,19 +219,6 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "SWE 547 Human Computer Interaction",
-          "sections": [
-            {
-              "title": "Human-Computer Interaction",
-              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },
@@ -238,6 +256,19 @@
             {
               "title": "Computer Networking",
               "url": "https://www.udacity.com/course/computer-networking--ud436",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 547 Human Computer Interaction",
+          "sections": [
+            {
+              "title": "Human-Computer Interaction",
+              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -381,8 +412,29 @@
           ]
         },
         {
+          "courseName": "SWE 580 Open Source Software",
+          "sections": [
+            {
+              "title": "Open Source Software Development, Linux and Git Specialization",
+              "url": "https://www.coursera.org/specializations/oss-development-linux-git",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "SWE 590 Tech Entrepreneurship",
           "sections": [
+            {
+              "title": "How to Build a Startup",
+              "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
             {
               "title": "Product Design",
               "url": "https://www.udacity.com/course/product-design--ud509",
@@ -495,6 +547,19 @@
             {
               "title": "Data Science Fundamentals with Python and SQL Specialization",
               "url": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 515 Applied Data Science",
+          "sections": [
+            {
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -625,6 +690,19 @@
               }
             }
           ]
+        },
+        {
+          "courseName": "DSC 565 Introduction to Computer Vision",
+          "sections": [
+            {
+              "title": "Introduction to Computer Vision",
+              "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
         }
       ]
     }
@@ -634,38 +712,6 @@
       "name": "Elective Studies",
       "sections": [
         {
-          "title": "Introduction to Linux",
-          "url": "https://www.edx.org/course/introduction-to-linux",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Open Source Software Development, Linux and Git Specialization",
-          "url": "https://www.coursera.org/specializations/oss-development-linux-git",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "How to Build a Startup",
-          "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Introduction to Computer Vision",
-          "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
           "title": "The Missing Semester of Your CS Education",
           "url": "https://missing.csail.mit.edu/",
           "progress": {
@@ -674,8 +720,16 @@
           }
         },
         {
-          "title": "Applied Data Science with Python Specialization",
-          "url": "https://www.coursera.org/specializations/data-science-python",
+          "title": "CS50's Introduction to Game Development",
+          "url": "https://www.edx.org/course/cs50s-introduction-to-game-development",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Introduction to Kubernetes",
+          "url": "https://www.edx.org/course/introduction-to-kubernetes",
           "progress": {
             "completed": 0,
             "total": 1
