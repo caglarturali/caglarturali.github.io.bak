@@ -2853,7 +2853,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                AUT 556 Cyber-Physical Systems
+                SWE 556 High-Performance Computing
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2905,14 +2905,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Cyber-Physical Systems Design & Analysis"
+                  aria-label="Performance Engineering of Software Systems"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876"
+                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Cyber-Physical Systems Design & Analysis
+                  Performance Engineering of Software Systems
                 </a>
               </li>
             </div>
@@ -3260,125 +3260,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <summary>
               <span>
-                DSC 564 Data Visualization
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Information Visualization Specialization"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/information-visualization"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Information Visualization Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Data Visualization with Python"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/python-for-data-visualization"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Data Visualization with Python
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span>
-                DSC 565 Artificial Intelligence Applications
+                DSC 564 Artificial Intelligence Applications
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3487,6 +3369,75 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Introduction to Computer Vision
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span>
+                AUT 565 Cyber-Physical Systems
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Cyber-Physical Systems Design & Analysis"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Cyber-Physical Systems Design & Analysis
                 </a>
               </li>
             </div>
