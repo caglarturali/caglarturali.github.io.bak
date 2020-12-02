@@ -736,6 +736,14 @@
           }
         },
         {
+          "title": "Blockchain Specialization",
+          "url": "https://www.coursera.org/specializations/blockchain",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
           "title": "Introduction to Kubernetes",
           "url": "https://www.edx.org/course/introduction-to-kubernetes",
           "progress": {
