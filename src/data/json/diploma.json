@@ -280,14 +280,6 @@
           "courseName": "SWE 536 Software Quality Assurance and Reliability",
           "sections": [
             {
-              "title": "Software Testing and Automation Specialization",
-              "url": "https://www.coursera.org/specializations/software-testing-automation",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
               "title": "Software Analysis & Testing",
               "url": "https://www.udacity.com/course/software-analysis-testing--ud333",
               "progress": {
@@ -301,32 +293,8 @@
           "courseName": "SWE 537 Software Verification and Validation",
           "sections": [
             {
-              "title": "System Validation: Automata and behavioural equivalences",
-              "url": "https://www.coursera.org/learn/automata-system-validation",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "System Validation (2): Model process behaviour",
-              "url": "https://www.coursera.org/learn/system-validation-behavior",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "System Validation (3): Requirements by modal formulas",
-              "url": "https://www.coursera.org/learn/system-validation-modal-formulas",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "System Validation (4): Modelling Software, Protocols, and other behaviour",
-              "url": "https://www.coursera.org/learn/system-validation-software-protocols",
+              "title": "Software Testing and Automation Specialization",
+              "url": "https://www.coursera.org/specializations/software-testing-automation",
               "progress": {
                 "completed": 0,
                 "total": 1
