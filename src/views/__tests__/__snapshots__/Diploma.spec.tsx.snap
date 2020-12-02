@@ -1512,55 +1512,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Software Testing and Automation Specialization"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/software-testing-automation"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Software Testing and Automation Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
                   aria-label="Software Analysis & Testing"
                   data-class="toolTip-0-2-10"
                   data-place="right"
@@ -1630,161 +1581,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="System Validation: Automata and behavioural equivalences"
+                  aria-label="Software Testing and Automation Specialization"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/automata-system-validation"
+                  href="https://www.coursera.org/specializations/software-testing-automation"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  System Validation: Automata and behavioural equivalences
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="System Validation (2): Model process behaviour"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/system-validation-behavior"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  System Validation (2): Model process behaviour
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="System Validation (3): Requirements by modal formulas"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/system-validation-modal-formulas"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  System Validation (3): Requirements by modal formulas
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="System Validation (4): Modelling Software, Protocols, and other behaviour"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/system-validation-software-protocols"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  System Validation (4): Modelling Software, Protocols, and other behaviour
+                  Software Testing and Automation Specialization
                 </a>
               </li>
             </div>
@@ -4077,6 +3881,55 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Big Data Specialization
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="Blockchain Specialization"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://www.coursera.org/specializations/blockchain"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Blockchain Specialization
             </a>
           </li>
           <li
