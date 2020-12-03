@@ -1,0 +1,1 @@
+{"version":3,"sources":["data/tabs/projects.md"],"names":["module","exports"],"mappings":"6HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/5.a0c7a26a.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/projects.0a7d940f.md\";"],"sourceRoot":""}
