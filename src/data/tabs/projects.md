@@ -15,7 +15,7 @@
   - LightDM Webkit theme for Pardus Linux.
   - `React`
 
-- [deepintr.org](https://deepintr.org/)
+- [deepintr.js.org](https://deepintr.js.org/)
 
   - Landing page for an online community.
   - `GatsbyJS`, `React`, `TypeScript`
