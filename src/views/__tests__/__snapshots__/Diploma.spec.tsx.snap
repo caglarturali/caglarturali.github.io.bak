@@ -1066,6 +1066,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   Advanced Operating Systems
                 </a>
               </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Open Source Software Development, Linux and Git Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/oss-development-linux-git"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Open Source Software Development, Linux and Git Specialization
+                </a>
+              </li>
             </div>
           </details>
           <details
@@ -2709,6 +2758,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
+                  aria-label="Introduction to High-Performance and Parallel Computing"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/introduction-high-performance-computing"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to High-Performance and Parallel Computing
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
                   aria-label="Performance Engineering of Software Systems"
                   data-class="toolTip-0-2-10"
                   data-place="right"
@@ -3643,7 +3741,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           >
             <span
               currentitem="false"
-              data-tip="9% done"
+              data-tip="18% done"
             >
               <svg
                 class="CircularProgressbar progress-0-2-12"
@@ -3672,7 +3770,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                   fill-opacity="0"
                   stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 217.2725479222701px;"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 195.78405417171592px;"
                 />
               </svg>
             </span>
@@ -3685,55 +3783,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               The Missing Semester of Your CS Education
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Open Source Software Development, Linux and Git Specialization"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.coursera.org/specializations/oss-development-linux-git"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Open Source Software Development, Linux and Git Specialization
             </a>
           </li>
           <li
