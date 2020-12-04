@@ -196,6 +196,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Open Source Software Development, Linux and Git Specialization",
+              "url": "https://www.coursera.org/specializations/oss-development-linux-git",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         },
@@ -701,14 +709,6 @@
           "progress": {
             "completed": 1,
             "total": 11
-          }
-        },
-        {
-          "title": "Open Source Software Development, Linux and Git Specialization",
-          "url": "https://www.coursera.org/specializations/oss-development-linux-git",
-          "progress": {
-            "completed": 0,
-            "total": 1
           }
         },
         {
