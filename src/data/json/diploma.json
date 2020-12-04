@@ -518,6 +518,14 @@
           "courseName": "SWE 556 High-Performance Computing",
           "sections": [
             {
+              "title": "Introduction to High-Performance and Parallel Computing",
+              "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
               "title": "Performance Engineering of Software Systems",
               "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/",
               "progress": {
