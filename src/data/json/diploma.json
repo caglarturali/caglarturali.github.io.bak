@@ -328,6 +328,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Embedded Systems",
+              "url": "https://www.udacity.com/course/embedded-systems--ud169",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
@@ -411,6 +419,22 @@
         {
           "courseName": "SWE 548 Advanced Embedded Systems Engineering",
           "sections": [
+            {
+              "title": "UX and Interface Design for Embedded Systems",
+              "url": "https://www.coursera.org/learn/ux-interface-design-embedded-systems",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Rapid Prototyping of Embedded Interface Designs",
+              "url": "https://www.coursera.org/learn/rapid-prototyping-embedded-interface",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
             {
               "title": "Development of Secure Embedded Systems Specialization",
               "url": "https://www.coursera.org/specializations/embedded-systems-security",
@@ -652,7 +676,36 @@
           ]
         },
         {
-          "courseName": "SWE 568 Tech Entrepreneurship",
+          "courseName": "SWE 568 Real-Time Embedded Systems",
+          "sections": [
+            {
+              "title": "Real-Time Embedded Systems Concepts and Practices",
+              "url": "https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Real-Time Mission-Critical Systems Design",
+              "url": "https://www.coursera.org/learn/real-time-mission-critical-systems-design",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Real-Time Embedded Systems Theory and Analysis",
+              "url": "https://www.coursera.org/learn/real-time-embedded-theory-analysis",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 599 Tech Entrepreneurship",
           "sections": [
             {
               "title": "How to Build a Startup",
@@ -722,6 +775,14 @@
         {
           "title": "CS50's Introduction to Game Development",
           "url": "https://www.edx.org/course/cs50s-introduction-to-game-development",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "An Introduction to Programming the Internet of Things Specialization",
+          "url": "https://www.coursera.org/specializations/iot",
           "progress": {
             "completed": 0,
             "total": 1

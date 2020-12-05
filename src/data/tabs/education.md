@@ -1,6 +1,6 @@
 ### My \[academic\] background
 
-- [Software Engineering (Spec. in Data Science)](/diploma)
+- [Software Engineering](/diploma)
 
   - \[Self-Authored\]
   - Professional Diploma
