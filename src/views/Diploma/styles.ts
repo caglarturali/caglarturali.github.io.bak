@@ -21,7 +21,7 @@ export default {
   },
   tip: {
     maxWidth: '360px',
-    fontSize: '1.5rem',
+    fontSize: '1.5rem !important',
     lineHeight: '2rem',
   },
   contents: {
