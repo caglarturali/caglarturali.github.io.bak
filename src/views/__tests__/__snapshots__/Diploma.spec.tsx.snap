@@ -1423,6 +1423,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
+                  aria-label="Introduction to Networking"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.edx.org/course/introduction-to-networking"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Networking
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
                   aria-label="Computer Networking"
                   data-class="toolTip-0-2-10"
                   data-place="right"
@@ -2076,6 +2125,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   Software Product Management Specialization
                 </a>
               </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Agile Project Management Professional Certificate"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/umd-usmx-agile-project-management"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Agile Project Management Professional Certificate
+                </a>
+              </li>
             </div>
           </details>
           <details
@@ -2551,14 +2649,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Intro to Statistics"
+                  aria-label="Probability - The Science of Uncertainty and Data"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/intro-to-statistics--st101"
+                  href="https://www.edx.org/course/probability-the-science-of-uncertainty-and-data"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Intro to Statistics
+                  Probability - The Science of Uncertainty and Data
                 </a>
               </li>
               <li
@@ -2600,14 +2698,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Statistics"
+                  aria-label="Fundamentals of Statistics"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.udacity.com/course/statistics--st095"
+                  href="https://www.edx.org/course/fundamentals-of-statistics"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Statistics
+                  Fundamentals of Statistics
                 </a>
               </li>
             </div>
@@ -4039,6 +4137,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   Get Your Startup Started
                 </a>
               </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Entrepreneurship in Emerging Economies"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.edx.org/course/entrepreneurship-in-emerging-economies"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Entrepreneurship in Emerging Economies
+                </a>
+              </li>
             </div>
           </details>
         </details>
@@ -4489,6 +4636,55 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Differential Equations
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="Empathy and Emotional Intelligence at Work"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://www.edx.org/course/empathy-and-emotional-intelligence-at-work"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Empathy and Emotional Intelligence at Work
             </a>
           </li>
         </details>

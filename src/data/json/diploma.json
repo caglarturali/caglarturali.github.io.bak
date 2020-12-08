@@ -262,6 +262,14 @@
           "courseName": "SWE 532 Computer Networking",
           "sections": [
             {
+              "title": "Introduction to Networking",
+              "url": "https://www.edx.org/course/introduction-to-networking",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
               "title": "Computer Networking",
               "url": "https://www.udacity.com/course/computer-networking--ud436",
               "progress": {
@@ -392,6 +400,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Agile Project Management Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/umd-usmx-agile-project-management",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         },
@@ -479,16 +495,16 @@
           "courseName": "DSC 550 Introduction to Statistics and Probability",
           "sections": [
             {
-              "title": "Intro to Statistics",
-              "url": "https://www.udacity.com/course/intro-to-statistics--st101",
+              "title": "Probability - The Science of Uncertainty and Data",
+              "url": "https://www.edx.org/course/probability-the-science-of-uncertainty-and-data",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Statistics",
-              "url": "https://www.udacity.com/course/statistics--st095",
+              "title": "Fundamentals of Statistics",
+              "url": "https://www.edx.org/course/fundamentals-of-statistics",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -754,6 +770,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Entrepreneurship in Emerging Economies",
+              "url": "https://www.edx.org/course/entrepreneurship-in-emerging-economies",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
@@ -831,6 +855,14 @@
         {
           "title": "Differential Equations",
           "url": "https://www.edx.org/xseries/mitx-18.03x-differential-equations",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Empathy and Emotional Intelligence at Work",
+          "url": "https://www.edx.org/course/empathy-and-emotional-intelligence-at-work",
           "progress": {
             "completed": 0,
             "total": 1
