@@ -128,6 +128,14 @@
                 "completed": 1,
                 "total": 4
               }
+            },
+            {
+              "title": "Kotlin for Java Developers",
+              "url": "https://www.coursera.org/learn/kotlin-for-java-developers",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         },
