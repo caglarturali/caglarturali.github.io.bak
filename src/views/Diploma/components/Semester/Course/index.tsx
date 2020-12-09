@@ -20,11 +20,12 @@ const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
   const { courseName, sections } = courseData;
 
   const courseProgress = calculateCourseProgress(courseData);
+  const courseProgressText = `${courseProgress}% done`;
 
   return (
     <details open={showDetails} className={classes.courseDetails}>
       <summary>
-        <span>{courseName}</span>
+        <span data-tip={courseProgressText}>{courseName}</span>
         <ProgressBar value={courseProgress} />
       </summary>
       <div className={classes.bookPanel}>

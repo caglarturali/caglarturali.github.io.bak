@@ -55,7 +55,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="100% done"
+              >
                 SWE 510 Introduction to Programming
               </span>
               <div
@@ -124,7 +127,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 512 Programming and Data Structures
               </span>
               <div
@@ -193,7 +199,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 513 Data Structures and Algorithms
               </span>
               <div
@@ -262,7 +271,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="15% done"
+              >
                 SWE 515 Operating Systems
               </span>
               <div
@@ -380,7 +392,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="36% done"
+              >
                 SWE 518 Principles of Software Engineering
               </span>
               <div
@@ -498,7 +513,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 MAT 519 Discrete Mathematics
               </span>
               <div
@@ -629,7 +647,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="13% done"
+              >
                 SWE 520 Introduction to Object Oriented Programming
               </span>
               <div
@@ -747,7 +768,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 521 Database Systems
               </span>
               <div
@@ -865,7 +889,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 522 Software Requirements Engineering
               </span>
               <div
@@ -934,7 +961,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 524 Software Design and Architecture
               </span>
               <div
@@ -1052,7 +1082,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 525 Advanced Operating Systems
               </span>
               <div
@@ -1170,7 +1203,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 527 Software Development Practice
               </span>
               <div
@@ -1301,7 +1337,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 530 Computer Systems
               </span>
               <div
@@ -1419,7 +1458,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 532 Computer Networking
               </span>
               <div
@@ -1537,7 +1579,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 534 Human Computer Interaction
               </span>
               <div
@@ -1606,7 +1651,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 536 Software Quality Assurance and Reliability
               </span>
               <div
@@ -1675,7 +1723,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 537 Software Verification and Validation
               </span>
               <div
@@ -1744,7 +1795,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 538 Introduction to Embedded Systems
               </span>
               <div
@@ -1924,7 +1978,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 540 Python Programming
               </span>
               <div
@@ -1993,7 +2050,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 542 Cloud Computing
               </span>
               <div
@@ -2111,7 +2171,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 545 Managing Software Development
               </span>
               <div
@@ -2229,7 +2292,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 547 Secure Software Development
               </span>
               <div
@@ -2347,7 +2413,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 548 Advanced Embedded Systems Engineering
               </span>
               <div
@@ -2514,7 +2583,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 549 Introduction to Data Science
               </span>
               <div
@@ -2645,7 +2717,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 550 Introduction to Statistics and Probability
               </span>
               <div
@@ -2763,7 +2838,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 551 Python for Data Science
               </span>
               <div
@@ -2881,7 +2959,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 553 Introduction to Artificial Intelligence
               </span>
               <div
@@ -2999,7 +3080,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 556 High-Performance Computing
               </span>
               <div
@@ -3117,7 +3201,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 AUT 558 Automotive Software Engineering
               </span>
               <div
@@ -3186,7 +3273,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 MAT 559 Math for Data Science
               </span>
               <div
@@ -3268,7 +3358,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 560 Machine Learning
               </span>
               <div
@@ -3386,7 +3479,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 562 Deep Learning
               </span>
               <div
@@ -3455,7 +3551,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 564 Artificial Intelligence Applications
               </span>
               <div
@@ -3573,7 +3672,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 AUT 565 Cyber-Physical Systems
               </span>
               <div
@@ -3642,7 +3744,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 AUT 567 Autonomous Systems Engineering
               </span>
               <div
@@ -3711,7 +3816,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 568 Real-Time Embedded Systems
               </span>
               <div
@@ -3878,7 +3986,10 @@ exports[`<Diploma /> should render correctly 1`] = `
             class="courseDetails-0-2-8"
           >
             <summary>
-              <span>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 599 Tech Entrepreneurship
               </span>
               <div
