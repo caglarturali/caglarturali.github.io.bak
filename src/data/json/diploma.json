@@ -602,6 +602,27 @@
           ]
         },
         {
+          "courseName": "DSC 553 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning",
+              "url": "https://www.coursera.org/learn/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "IBM Data Science Professional Certificate",
+              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "SWE 556 High-Performance Computing",
           "sections": [
             {
@@ -676,35 +697,6 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "MAT 551 Calculus",
-          "sections": [
-            {
-              "title": "Calculus 1",
-              "url": "https://www.khanacademy.org/math/calculus-1",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Calculus 2",
-              "url": "https://www.khanacademy.org/math/calculus-2",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Multivariable Calculus",
-              "url": "https://www.khanacademy.org/math/multivariable-calculus",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },
@@ -716,28 +708,7 @@
       },
       "courses": [
         {
-          "courseName": "DSC 560 Machine Learning",
-          "sections": [
-            {
-              "title": "Machine Learning",
-              "url": "https://www.coursera.org/learn/machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "IBM Data Science Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 562 Deep Learning",
+          "courseName": "DSC 560 Deep Learning",
           "sections": [
             {
               "title": "Deep Learning Specialization",
@@ -802,7 +773,36 @@
           ]
         },
         {
-          "courseName": "SWE 599 Tech Entrepreneurship",
+          "courseName": "MAT 560 Calculus",
+          "sections": [
+            {
+              "title": "Calculus 1",
+              "url": "https://www.khanacademy.org/math/calculus-1",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Calculus 2",
+              "url": "https://www.khanacademy.org/math/calculus-2",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Multivariable Calculus",
+              "url": "https://www.khanacademy.org/math/multivariable-calculus",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENT 599 Tech Entrepreneurship",
           "sections": [
             {
               "title": "How to Build a Startup",
