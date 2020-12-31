@@ -255,14 +255,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Data Structures and Algorithms Specialization"
+                  aria-label="Algorithms Specialization"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/data-structures-algorithms"
+                  href="https://www.coursera.org/specializations/algorithms"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Data Structures and Algorithms Specialization
+                  Algorithms Specialization
                 </a>
               </li>
             </div>
@@ -1411,6 +1411,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Mathematics 2
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Algebra & Algorithms"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/algebra-and-algorithms"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Algebra & Algorithms
                 </a>
               </li>
             </div>

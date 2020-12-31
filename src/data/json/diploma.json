@@ -37,8 +37,8 @@
           "courseName": "SWE 513 Data Structures and Algorithms",
           "sections": [
             {
-              "title": "Data Structures and Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/data-structures-algorithms",
+              "title": "Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -247,6 +247,14 @@
             {
               "title": "Mathematics 2",
               "url": "https://www.khanacademy.org/math/math2",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Algebra & Algorithms",
+              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1
