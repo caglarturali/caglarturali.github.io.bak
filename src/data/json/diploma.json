@@ -119,6 +119,14 @@
                 "completed": 1,
                 "total": 18
               }
+            },
+            {
+              "title": "Mathematics for Computer Science",
+              "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
