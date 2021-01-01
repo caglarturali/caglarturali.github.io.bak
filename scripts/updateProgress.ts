@@ -17,11 +17,11 @@ const paths = {
 
 // Capture arguments
 const [, , courseCodeArg, sectionIndexArg, progressArg] = process.argv;
-if (!(courseCodeArg && sectionIndexArg && progressArg)) process.exit(1);
+if (!(courseCodeArg && sectionIndexArg)) process.exit(1);
 
 let message = '';
 
-// Loop through terms and update target book's progress field
+// Loop through terms and update target course's progress field
 diplomaData.semesters.forEach((semester) => {
   semester.courses.forEach((course) => {
     const { courseName, sections } = course;
@@ -38,13 +38,21 @@ diplomaData.semesters.forEach((semester) => {
       }
 
       let completed, total;
-      if (progressArg.includes('/')) {
-        // Get both values from the input.
-        [completed, total] = progressArg.split('/').map((n) => parseInt(n));
-      } else {
-        // Use input as the value of 'completed'.
-        completed = parseInt(progressArg);
+      if (!progressArg) {
+        // No progress argument.
+        // Increment progress by 1.
+        completed = section.progress.completed + 1;
         total = section.progress.total;
+      } else {
+        // Progress argument provided.
+        if (progressArg.includes('/')) {
+          // Get both values from the input.
+          [completed, total] = progressArg.split('/').map((n) => parseInt(n));
+        } else {
+          // Use input as the value of 'completed'.
+          completed = parseInt(progressArg);
+          total = section.progress.total;
+        }
       }
 
       message = `UPDATE: '${section.title}' progress to: ${completed}/${total}`;
