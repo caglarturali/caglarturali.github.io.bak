@@ -127,6 +127,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Introduction to Programming with MATLAB",
+              "url": "https://www.coursera.org/learn/matlab",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
@@ -263,6 +271,14 @@
             {
               "title": "Algebra & Algorithms",
               "url": "https://www.coursera.org/learn/algebra-and-algorithms",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Mastering Programming with MATLAB",
+              "url": "https://www.coursera.org/learn/advanced-matlab-programming",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -711,6 +727,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Introduction to Data, Signal, and Image Analysis with MATLAB",
+              "url": "https://www.coursera.org/learn/matlab-image-processing",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
@@ -920,6 +944,14 @@
         {
           "title": "Big Data Specialization",
           "url": "https://www.coursera.org/specializations/big-data",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Practical Data Science with MATLAB Specialization",
+          "url": "https://www.coursera.org/specializations/practical-data-science-matlab",
           "progress": {
             "completed": 0,
             "total": 1
