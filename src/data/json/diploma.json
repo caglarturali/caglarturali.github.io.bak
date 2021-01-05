@@ -37,6 +37,14 @@
           "courseName": "SWE 513 Data Structures and Algorithms",
           "sections": [
             {
+              "title": "Introduction to Algorithms",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
               "title": "Algorithms Specialization",
               "url": "https://www.coursera.org/specializations/algorithms",
               "progress": {
@@ -84,6 +92,27 @@
               "progress": {
                 "completed": 3,
                 "total": 18
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 517 Database Systems",
+          "sections": [
+            {
+              "title": "Intro to Relational Databases",
+              "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Database Systems Specialization",
+              "url": "https://www.coursera.org/specializations/database-systems",
+              "progress": {
+                "completed": 0,
+                "total": 1
               }
             }
           ]
@@ -161,19 +190,11 @@
           ]
         },
         {
-          "courseName": "SWE 521 Database Systems",
+          "courseName": "SWE 522 Software Requirements Engineering",
           "sections": [
             {
-              "title": "Intro to Relational Databases",
-              "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Database Systems Specialization",
-              "url": "https://www.coursera.org/specializations/database-systems",
+              "title": "Requirements Engineering: Secure Software Specifications Specialization",
+              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -182,11 +203,11 @@
           ]
         },
         {
-          "courseName": "SWE 522 Software Requirements Engineering",
+          "courseName": "SWE 523 Design and Analysis of Algorithms",
           "sections": [
             {
-              "title": "Requirements Engineering: Secure Software Specifications Specialization",
-              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
+              "title": "Design and Analysis of Algorithms",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -258,6 +279,19 @@
           ]
         },
         {
+          "courseName": "SWE 528 Introduction to Systems Engineering",
+          "sections": [
+            {
+              "title": "Introduction to Systems Engineering",
+              "url": "https://www.coursera.org/learn/systems-engineering",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "MAT 520 Mathematics 2",
           "sections": [
             {
@@ -288,19 +322,11 @@
       },
       "courses": [
         {
-          "courseName": "SWE 530 Computer Systems",
+          "courseName": "SWE 530 Computer Architecture",
           "sections": [
             {
               "title": "Computer Architecture",
               "url": "https://www.coursera.org/learn/comparch",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Introduction to Systems Engineering",
-              "url": "https://www.coursera.org/learn/systems-engineering",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -335,6 +361,19 @@
             {
               "title": "Human-Computer Interaction",
               "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 535 Computer Systems Security",
+          "sections": [
+            {
+              "title": "Computer Systems Security",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -899,6 +938,22 @@
           "progress": {
             "completed": 2,
             "total": 11
+          }
+        },
+        {
+          "title": "Advanced Data Structures",
+          "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Creating Video Games",
+          "url": "https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/",
+          "progress": {
+            "completed": 0,
+            "total": 1
           }
         },
         {
