@@ -129,8 +129,8 @@
               }
             },
             {
-              "title": "Introduction to Programming with MATLAB",
-              "url": "https://www.coursera.org/learn/matlab",
+              "title": "MATLAB and Octave for Beginners",
+              "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -271,14 +271,6 @@
             {
               "title": "Algebra & Algorithms",
               "url": "https://www.coursera.org/learn/algebra-and-algorithms",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Mastering Programming with MATLAB",
-              "url": "https://www.coursera.org/learn/advanced-matlab-programming",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -723,14 +715,6 @@
             {
               "title": "Mathematics for Machine Learning Specialization",
               "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Introduction to Data, Signal, and Image Analysis with MATLAB",
-              "url": "https://www.coursera.org/learn/matlab-image-processing",
               "progress": {
                 "completed": 0,
                 "total": 1

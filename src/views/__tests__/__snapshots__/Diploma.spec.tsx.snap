@@ -788,14 +788,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Programming with MATLAB"
+                  aria-label="MATLAB and Octave for Beginners"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/matlab"
+                  href="https://www.edx.org/course/matlab-and-octave-for-beginners"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Programming with MATLAB
+                  MATLAB and Octave for Beginners
                 </a>
               </li>
             </div>
@@ -1558,55 +1558,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Algebra & Algorithms
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Mastering Programming with MATLAB"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/advanced-matlab-programming"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Mastering Programming with MATLAB
                 </a>
               </li>
             </div>
@@ -4040,55 +3991,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Mathematics for Machine Learning Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to Data, Signal, and Image Analysis with MATLAB"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/matlab-image-processing"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to Data, Signal, and Image Analysis with MATLAB
                 </a>
               </li>
             </div>
