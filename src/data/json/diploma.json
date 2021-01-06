@@ -8,7 +8,7 @@
       },
       "courses": [
         {
-          "courseName": "SWE 510 Introduction to Programming",
+          "courseName": "SWE 510 Introduction to Programming and Data Structures",
           "sections": [
             {
               "title": "C Programming with Linux Professional Certificate",
@@ -17,12 +17,7 @@
                 "completed": 7,
                 "total": 7
               }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 512 Programming and Data Structures",
-          "sections": [
+            },
             {
               "title": "Programming & Data Structures in C++",
               "url": "https://www.edx.org/microbachelors/nyux-programming-data-structures",
@@ -34,7 +29,7 @@
           ]
         },
         {
-          "courseName": "SWE 513 Data Structures and Algorithms",
+          "courseName": "SWE 512 Data Structures and Algorithms",
           "sections": [
             {
               "title": "Introduction to Algorithms",
@@ -139,14 +134,14 @@
           ]
         },
         {
-          "courseName": "MAT 510 Mathematics 1",
+          "courseName": "MAT 510 Algebra",
           "sections": [
             {
-              "title": "Mathematics 1",
-              "url": "https://www.khanacademy.org/math/math1",
+              "title": "College Algebra and Problem Solving",
+              "url": "https://www.edx.org/course/college-algebra-and-problem-solving",
               "progress": {
-                "completed": 5,
-                "total": 18
+                "completed": 0,
+                "total": 1
               }
             },
             {
@@ -279,24 +274,11 @@
           ]
         },
         {
-          "courseName": "SWE 528 Introduction to Systems Engineering",
+          "courseName": "MAT 520 Linear Algebra",
           "sections": [
             {
-              "title": "Introduction to Systems Engineering",
-              "url": "https://www.coursera.org/learn/systems-engineering",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 520 Mathematics 2",
-          "sections": [
-            {
-              "title": "Mathematics 2",
-              "url": "https://www.khanacademy.org/math/math2",
+              "title": "Linear Algebra - Foundations to Frontiers",
+              "url": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -322,11 +304,11 @@
       },
       "courses": [
         {
-          "courseName": "SWE 530 Computer Architecture",
+          "courseName": "SWE 530 Computer Systems Security",
           "sections": [
             {
-              "title": "Computer Architecture",
-              "url": "https://www.coursera.org/learn/comparch",
+              "title": "Computer Systems Security",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -356,33 +338,7 @@
           ]
         },
         {
-          "courseName": "SWE 534 Human Computer Interaction",
-          "sections": [
-            {
-              "title": "Human-Computer Interaction",
-              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 535 Computer Systems Security",
-          "sections": [
-            {
-              "title": "Computer Systems Security",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 536 Software Quality Assurance and Reliability",
+          "courseName": "SWE 535 Software Quality Assurance and Reliability",
           "sections": [
             {
               "title": "Software Analysis & Testing",
@@ -395,11 +351,24 @@
           ]
         },
         {
-          "courseName": "SWE 537 Software Verification and Validation",
+          "courseName": "SWE 536 Software Verification and Validation",
           "sections": [
             {
               "title": "Software Testing and Automation Specialization",
               "url": "https://www.coursera.org/specializations/software-testing-automation",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 537 Introduction to Systems Engineering",
+          "sections": [
+            {
+              "title": "Introduction to Systems Engineering",
+              "url": "https://www.coursera.org/learn/systems-engineering",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -437,19 +406,11 @@
           ]
         },
         {
-          "courseName": "MAT 530 Mathematics 3",
+          "courseName": "MAT 530 Calculus",
           "sections": [
             {
-              "title": "Mathematics 3",
-              "url": "https://www.khanacademy.org/math/math3",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Linear Algebra",
-              "url": "https://www.khanacademy.org/math/linear-algebra",
+              "title": "Single Variable Calculus",
+              "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -530,6 +491,19 @@
           ]
         },
         {
+          "courseName": "SWE 544 Human Computer Interaction",
+          "sections": [
+            {
+              "title": "Human-Computer Interaction",
+              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "SWE 548 Advanced Embedded Systems Engineering",
           "sections": [
             {
@@ -580,27 +554,6 @@
           ]
         },
         {
-          "courseName": "DSC 541 Introduction to Data Science",
-          "sections": [
-            {
-              "title": "Intro to Data Science",
-              "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Introduction to Data Science Specialization",
-              "url": "https://www.coursera.org/specializations/introduction-data-science",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
           "courseName": "MAT 540 Discrete Mathematics",
           "sections": [
             {
@@ -623,7 +576,28 @@
       },
       "courses": [
         {
-          "courseName": "DSC 550 Python for Data Science",
+          "courseName": "DSC 550 Introduction to Data Science",
+          "sections": [
+            {
+              "title": "Intro to Data Science",
+              "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Introduction to Data Science Specialization",
+              "url": "https://www.coursera.org/specializations/introduction-data-science",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 551 Python for Data Science",
           "sections": [
             {
               "title": "Data Science Fundamentals with Python and SQL Specialization",
@@ -644,7 +618,7 @@
           ]
         },
         {
-          "courseName": "DSC 551 Introduction to Artificial Intelligence",
+          "courseName": "DSC 553 Introduction to Artificial Intelligence",
           "sections": [
             {
               "title": "Intro to Artificial Intelligence",
@@ -665,7 +639,7 @@
           ]
         },
         {
-          "courseName": "DSC 553 Machine Learning",
+          "courseName": "DSC 555 Machine Learning",
           "sections": [
             {
               "title": "Machine Learning",
@@ -728,19 +702,6 @@
             {
               "title": "Real-Time Embedded Systems Theory and Analysis",
               "url": "https://www.coursera.org/learn/real-time-embedded-theory-analysis",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "AUT 550 Automotive Software Engineering",
-          "sections": [
-            {
-              "title": "Emerging Automotive Technologies",
-              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -823,11 +784,11 @@
           ]
         },
         {
-          "courseName": "AUT 561 Autonomous Systems Engineering",
+          "courseName": "AUT 564 Automotive Software Engineering",
           "sections": [
             {
-              "title": "Self-Driving Cars Specialization",
-              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "title": "Emerging Automotive Technologies",
+              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -836,27 +797,11 @@
           ]
         },
         {
-          "courseName": "MAT 560 Calculus",
+          "courseName": "AUT 565 Autonomous Systems Engineering",
           "sections": [
             {
-              "title": "Calculus 1",
-              "url": "https://www.khanacademy.org/math/calculus-1",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Calculus 2",
-              "url": "https://www.khanacademy.org/math/calculus-2",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Multivariable Calculus",
-              "url": "https://www.khanacademy.org/math/multivariable-calculus",
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -997,6 +942,14 @@
           }
         },
         {
+          "title": "Computer Architecture",
+          "url": "https://www.coursera.org/learn/comparch",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
           "title": "Blockchain Specialization",
           "url": "https://www.coursera.org/specializations/blockchain",
           "progress": {
@@ -1007,14 +960,6 @@
         {
           "title": "Introduction to Kubernetes",
           "url": "https://www.edx.org/course/introduction-to-kubernetes",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Single Variable Calculus",
-          "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
           "progress": {
             "completed": 0,
             "total": 1

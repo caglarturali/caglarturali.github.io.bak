@@ -59,7 +59,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="100% done"
               >
-                SWE 510 Introduction to Programming
+                SWE 510 Introduction to Programming and Data Structures
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -121,29 +121,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   C Programming with Linux Professional Certificate
                 </a>
               </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="100% done"
-              >
-                SWE 512 Programming and Data Structures
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 100%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
               <li
                 class="bookItem-0-2-11"
               >
@@ -203,7 +180,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="4% done"
               >
-                SWE 513 Data Structures and Algorithms
+                SWE 512 Data Structures and Algorithms
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -806,15 +783,15 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="9% done"
+                data-tip="0% done"
               >
-                MAT 510 Mathematics 1
+                MAT 510 Algebra
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 9%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -826,7 +803,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="28% done"
+                  data-tip="0% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -855,19 +832,19 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 171.90795000443347px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Mathematics 1"
+                  aria-label="College Algebra and Problem Solving"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.khanacademy.org/math/math1"
+                  href="https://www.edx.org/course/college-algebra-and-problem-solving"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Mathematics 1
+                  College Algebra and Problem Solving
                 </a>
               </li>
               <li
@@ -1570,7 +1547,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 528 Introduction to Systems Engineering
+                MAT 520 Linear Algebra
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1622,86 +1599,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Systems Engineering"
+                  aria-label="Linear Algebra - Foundations to Frontiers"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/systems-engineering"
+                  href="https://www.edx.org/course/linear-algebra-foundations-to-frontiers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Systems Engineering
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                MAT 520 Mathematics 2
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Mathematics 2"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.khanacademy.org/math/math2"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Mathematics 2
+                  Linear Algebra - Foundations to Frontiers
                 </a>
               </li>
               <li
@@ -1776,7 +1681,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 530 Computer Architecture
+                SWE 530 Computer Systems Security
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1828,14 +1733,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Computer Architecture"
+                  aria-label="Computer Systems Security"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/comparch"
+                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Computer Architecture
+                  Computer Systems Security
                 </a>
               </li>
             </div>
@@ -1969,151 +1874,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 534 Human Computer Interaction
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Human-Computer Interaction"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.udacity.com/course/human-computer-interaction--ud400"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Human-Computer Interaction
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 535 Computer Systems Security
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Computer Systems Security"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Computer Systems Security
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 536 Software Quality Assurance and Reliability
+                SWE 535 Software Quality Assurance and Reliability
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2185,7 +1946,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 537 Software Verification and Validation
+                SWE 536 Software Verification and Validation
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2245,6 +2006,78 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Software Testing and Automation Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                SWE 537 Introduction to Systems Engineering
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Systems Engineering"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/systems-engineering"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Systems Engineering
                 </a>
               </li>
             </div>
@@ -2427,7 +2260,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 530 Mathematics 3
+                MAT 530 Calculus
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2479,63 +2312,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Mathematics 3"
+                  aria-label="Single Variable Calculus"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.khanacademy.org/math/math3"
+                  href="https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Mathematics 3
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Linear Algebra"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.khanacademy.org/math/linear-algebra"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Linear Algebra
+                  Single Variable Calculus
                 </a>
               </li>
             </div>
@@ -2924,6 +2708,78 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
+                SWE 544 Human Computer Interaction
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Human-Computer Interaction"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.udacity.com/course/human-computer-interaction--ud400"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Human-Computer Interaction
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 SWE 548 Advanced Embedded Systems Engineering
               </span>
               <div
@@ -3215,7 +3071,92 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 541 Introduction to Data Science
+                MAT 540 Discrete Mathematics
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/discrete-mathematics"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Discrete Mathematics for Computer Science Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+        </details>
+        <details
+          class="root-0-2-7"
+          open=""
+        >
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="4/1/2022 - 7/31/2022"
+            >
+              5. Semester
+            </span>
+          </summary>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                DSC 550 Introduction to Data Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3336,92 +3277,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 540 Discrete Mathematics
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/discrete-mathematics"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to Discrete Mathematics for Computer Science Specialization
-                </a>
-              </li>
-            </div>
-          </details>
-        </details>
-        <details
-          class="root-0-2-7"
-          open=""
-        >
-          <summary>
-            <span
-              currentitem="false"
-              data-tip="4/1/2022 - 7/31/2022"
-            >
-              5. Semester
-            </span>
-          </summary>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                DSC 550 Python for Data Science
+                DSC 551 Python for Data Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3542,7 +3398,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 551 Introduction to Artificial Intelligence
+                DSC 553 Introduction to Artificial Intelligence
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3663,7 +3519,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 553 Machine Learning
+                DSC 555 Machine Learning
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -4075,78 +3931,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                AUT 550 Automotive Software Engineering
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Emerging Automotive Technologies"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Emerging Automotive Technologies
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
                 MAT 550 Math for Data Science
               </span>
               <div
@@ -4520,7 +4304,79 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                AUT 561 Autonomous Systems Engineering
+                AUT 564 Automotive Software Engineering
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-9"
+            >
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Emerging Automotive Technologies"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Emerging Automotive Technologies
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                AUT 565 Autonomous Systems Engineering
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -4580,176 +4436,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Self-Driving Cars Specialization
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-8"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                MAT 560 Calculus
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-9"
-            >
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Calculus 1"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.khanacademy.org/math/calculus-1"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Calculus 1
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Calculus 2"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.khanacademy.org/math/calculus-2"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Calculus 2
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Multivariable Calculus"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.khanacademy.org/math/multivariable-calculus"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Multivariable Calculus
                 </a>
               </li>
             </div>
@@ -5560,6 +5246,55 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
+              aria-label="Computer Architecture"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://www.coursera.org/learn/comparch"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Computer Architecture
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
               aria-label="Blockchain Specialization"
               data-class="toolTip-0-2-10"
               data-place="right"
@@ -5617,55 +5352,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Introduction to Kubernetes
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-11"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-12"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Single Variable Calculus"
-              data-class="toolTip-0-2-10"
-              data-place="right"
-              href="https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Single Variable Calculus
             </a>
           </li>
           <li
