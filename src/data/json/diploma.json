@@ -137,14 +137,6 @@
           "courseName": "MAT 510 Algebra",
           "sections": [
             {
-              "title": "College Algebra and Problem Solving",
-              "url": "https://www.edx.org/course/college-algebra-and-problem-solving",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
               "title": "Mathematics for Computer Science",
               "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
               "progress": {
@@ -408,14 +400,6 @@
         {
           "courseName": "MAT 530 Calculus",
           "sections": [
-            {
-              "title": "Precalculus",
-              "url": "https://www.edx.org/course/precalculus",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
             {
               "title": "Single Variable Calculus",
               "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
