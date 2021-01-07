@@ -134,19 +134,19 @@
           ]
         },
         {
-          "courseName": "MAT 510 Algebra",
+          "courseName": "MAT 510 Calculus I",
           "sections": [
             {
-              "title": "Mathematics for Computer Science",
-              "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
+              "title": "Single Variable Calculus",
+              "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "MATLAB and Octave for Beginners",
-              "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
+              "title": "Mathematics for Computer Science",
+              "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -266,19 +266,19 @@
           ]
         },
         {
-          "courseName": "MAT 520 Linear Algebra",
+          "courseName": "MAT 520 Calculus II",
           "sections": [
             {
-              "title": "Linear Algebra - Foundations to Frontiers",
-              "url": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
+              "title": "Multivariable Calculus",
+              "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Algebra & Algorithms",
-              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
+              "title": "MATLAB and Octave for Beginners",
+              "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -398,11 +398,19 @@
           ]
         },
         {
-          "courseName": "MAT 530 Calculus",
+          "courseName": "MAT 530 Linear Algebra",
           "sections": [
             {
-              "title": "Single Variable Calculus",
-              "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
+              "title": "Linear Algebra - Foundations to Frontiers",
+              "url": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Algebra & Algorithms",
+              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1

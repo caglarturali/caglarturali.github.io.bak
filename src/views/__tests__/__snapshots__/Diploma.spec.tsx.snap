@@ -785,7 +785,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 510 Algebra
+                MAT 510 Calculus I
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -837,14 +837,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="College Algebra and Problem Solving"
+                  aria-label="Single Variable Calculus"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/course/college-algebra-and-problem-solving"
+                  href="https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  College Algebra and Problem Solving
+                  Single Variable Calculus
                 </a>
               </li>
               <li
@@ -894,55 +894,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Mathematics for Computer Science
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-11"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-12"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="MATLAB and Octave for Beginners"
-                  data-class="toolTip-0-2-10"
-                  data-place="right"
-                  href="https://www.edx.org/course/matlab-and-octave-for-beginners"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  MATLAB and Octave for Beginners
                 </a>
               </li>
             </div>
@@ -1547,7 +1498,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 520 Linear Algebra
+                MAT 520 Calculus II
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1599,14 +1550,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Linear Algebra - Foundations to Frontiers"
+                  aria-label="Multivariable Calculus"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/course/linear-algebra-foundations-to-frontiers"
+                  href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Linear Algebra - Foundations to Frontiers
+                  Multivariable Calculus
                 </a>
               </li>
               <li
@@ -1648,14 +1599,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Algebra & Algorithms"
+                  aria-label="MATLAB and Octave for Beginners"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/algebra-and-algorithms"
+                  href="https://www.edx.org/course/matlab-and-octave-for-beginners"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algebra & Algorithms
+                  MATLAB and Octave for Beginners
                 </a>
               </li>
             </div>
@@ -2260,7 +2211,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 530 Calculus
+                MAT 530 Linear Algebra
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2312,14 +2263,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Precalculus"
+                  aria-label="Linear Algebra - Foundations to Frontiers"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/course/precalculus"
+                  href="https://www.edx.org/course/linear-algebra-foundations-to-frontiers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Precalculus
+                  Linear Algebra - Foundations to Frontiers
                 </a>
               </li>
               <li
@@ -2361,14 +2312,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Single Variable Calculus"
+                  aria-label="Algebra & Algorithms"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus"
+                  href="https://www.coursera.org/learn/algebra-and-algorithms"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Single Variable Calculus
+                  Algebra & Algorithms
                 </a>
               </li>
             </div>
