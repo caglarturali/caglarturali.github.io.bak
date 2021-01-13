@@ -837,14 +837,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Single Variable Calculus"
+                  aria-label="Calculus 1A: Differentiation"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus"
+                  href="https://www.edx.org/course/calculus-1a-differentiation"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Single Variable Calculus
+                  Calculus 1A: Differentiation
                 </a>
               </li>
               <li
@@ -1550,14 +1550,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Multivariable Calculus"
+                  aria-label="Calculus 1B: Integration"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/"
+                  href="https://www.edx.org/course/calculus-1b-integration"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Multivariable Calculus
+                  Calculus 1B: Integration
                 </a>
               </li>
               <li
@@ -2211,7 +2211,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 530 Linear Algebra
+                MAT 530 Calculus III
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2263,14 +2263,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Linear Algebra - Foundations to Frontiers"
+                  aria-label="Calculus 1C: Coordinate Systems & Infinite Series"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.edx.org/course/linear-algebra-foundations-to-frontiers"
+                  href="https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Linear Algebra - Foundations to Frontiers
+                  Calculus 1C: Coordinate Systems & Infinite Series
                 </a>
               </li>
               <li
@@ -2312,14 +2312,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Algebra & Algorithms"
+                  aria-label="Mathematics for Machine Learning: Multivariate Calculus"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/learn/algebra-and-algorithms"
+                  href="https://www.coursera.org/learn/multivariate-calculus-machine-learning"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algebra & Algorithms
+                  Mathematics for Machine Learning: Multivariate Calculus
                 </a>
               </li>
             </div>
@@ -3071,7 +3071,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 540 Discrete Mathematics
+                MAT 540 Linear Algebra
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3123,14 +3123,112 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
+                  aria-label="Linear Algebra - Foundations to Frontiers"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/discrete-mathematics"
+                  href="https://www.edx.org/course/linear-algebra-foundations-to-frontiers"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Discrete Mathematics for Computer Science Specialization
+                  Linear Algebra - Foundations to Frontiers
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Mathematics for Machine Learning: Linear Algebra"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/linear-algebra-machine-learning"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Mathematics for Machine Learning: Linear Algebra
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-11"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-12"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Algebra & Algorithms"
+                  data-class="toolTip-0-2-10"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/algebra-and-algorithms"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Algebra & Algorithms
                 </a>
               </li>
             </div>
@@ -3931,7 +4029,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 550 Math for Data Science
+                MAT 550 Discrete Mathematics
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3983,14 +4081,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Mathematics for Machine Learning Specialization"
+                  aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
                   data-class="toolTip-0-2-10"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/mathematics-machine-learning"
+                  href="https://www.coursera.org/specializations/discrete-mathematics"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Mathematics for Machine Learning Specialization
+                  Introduction to Discrete Mathematics for Computer Science Specialization
                 </a>
               </li>
             </div>
@@ -5254,6 +5352,55 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Computer Architecture
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-11"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-12"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="Multivariable Calculus"
+              data-class="toolTip-0-2-10"
+              data-place="right"
+              href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Multivariable Calculus
             </a>
           </li>
           <li

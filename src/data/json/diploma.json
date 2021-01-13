@@ -137,8 +137,8 @@
           "courseName": "MAT 510 Calculus I",
           "sections": [
             {
-              "title": "Single Variable Calculus",
-              "url": "https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus",
+              "title": "Calculus 1A: Differentiation",
+              "url": "https://www.edx.org/course/calculus-1a-differentiation",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -269,8 +269,8 @@
           "courseName": "MAT 520 Calculus II",
           "sections": [
             {
-              "title": "Multivariable Calculus",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
+              "title": "Calculus 1B: Integration",
+              "url": "https://www.edx.org/course/calculus-1b-integration",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -398,19 +398,19 @@
           ]
         },
         {
-          "courseName": "MAT 530 Linear Algebra",
+          "courseName": "MAT 530 Calculus III",
           "sections": [
             {
-              "title": "Linear Algebra - Foundations to Frontiers",
-              "url": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
+              "title": "Calculus 1C: Coordinate Systems & Infinite Series",
+              "url": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Algebra & Algorithms",
-              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
+              "title": "Mathematics for Machine Learning: Multivariate Calculus",
+              "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -554,11 +554,27 @@
           ]
         },
         {
-          "courseName": "MAT 540 Discrete Mathematics",
+          "courseName": "MAT 540 Linear Algebra",
           "sections": [
             {
-              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
-              "url": "https://www.coursera.org/specializations/discrete-mathematics",
+              "title": "Linear Algebra - Foundations to Frontiers",
+              "url": "https://www.edx.org/course/linear-algebra-foundations-to-frontiers",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Mathematics for Machine Learning: Linear Algebra",
+              "url": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Algebra & Algorithms",
+              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -710,11 +726,11 @@
           ]
         },
         {
-          "courseName": "MAT 550 Math for Data Science",
+          "courseName": "MAT 550 Discrete Mathematics",
           "sections": [
             {
-              "title": "Mathematics for Machine Learning Specialization",
-              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+              "title": "Introduction to Discrete Mathematics for Computer Science Specialization",
+              "url": "https://www.coursera.org/specializations/discrete-mathematics",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -944,6 +960,14 @@
         {
           "title": "Computer Architecture",
           "url": "https://www.coursera.org/learn/comparch",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Multivariable Calculus",
+          "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
           "progress": {
             "completed": 0,
             "total": 1
