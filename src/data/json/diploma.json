@@ -38,14 +38,6 @@
                 "completed": 4,
                 "total": 24
               }
-            },
-            {
-              "title": "Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/algorithms",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
             }
           ]
         },
@@ -161,11 +153,11 @@
           ]
         },
         {
-          "courseName": "SWE 522 Software Requirements Engineering",
+          "courseName": "SWE 522 Design and Analysis of Algorithms",
           "sections": [
             {
-              "title": "Requirements Engineering: Secure Software Specifications Specialization",
-              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
+              "title": "Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -174,11 +166,11 @@
           ]
         },
         {
-          "courseName": "SWE 523 Design and Analysis of Algorithms",
+          "courseName": "SWE 523 Software Requirements Engineering",
           "sections": [
             {
-              "title": "Design and Analysis of Algorithms",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+              "title": "Requirements Engineering: Secure Software Specifications Specialization",
+              "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
               "progress": {
                 "completed": 0,
                 "total": 1
