@@ -19,7 +19,7 @@
               }
             },
             {
-              "title": "Programming & Data Structures in C++",
+              "title": "Programming & Data Structures in C++ MicroBachelors Program",
               "url": "https://www.edx.org/microbachelors/nyux-programming-data-structures",
               "progress": {
                 "completed": 4,
@@ -87,16 +87,8 @@
           "courseName": "SWE 517 Database Systems",
           "sections": [
             {
-              "title": "Intro to Relational Databases",
-              "url": "https://www.udacity.com/course/intro-to-relational-databases--ud197",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Database Systems Specialization",
-              "url": "https://www.coursera.org/specializations/database-systems",
+              "title": "Introduction to Databases MicroBachelors Program",
+              "url": "https://www.edx.org/microbachelors/nyux-introduction-to-databases",
               "progress": {
                 "completed": 0,
                 "total": 1
