@@ -3,11 +3,11 @@
   "typed": [
     "I'm a Developer.",
     "I'm a <strong>Full-Stack</strong> Web Developer.",
-    "I'm a <a href='/diploma'><strong>Software Engineering Apprentice</strong></a>. :)"
+    "I'm a <a href='/swe'><strong>Software Engineering Apprentice</strong></a>. :)"
   ],
   "diploma": {
-    "title": "Diploma in Software Engineering",
+    "title": "Apprenticeship in Software Engineering",
     "subtitle": "Specialization in Autonomous Systems",
-    "info": "Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated study plan of Software Engineering Diploma! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
+    "info": "Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated apprenticeship program in software engineering! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
   }
 }

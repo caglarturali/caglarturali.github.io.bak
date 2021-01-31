@@ -12,10 +12,10 @@ exports[`<Diploma /> should render correctly 1`] = `
         class="title-0-2-1"
         currentitem="false"
         data-class="tip-0-2-2"
-        data-tip="Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated study plan of Software Engineering Diploma! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
+        data-tip="Long story short, I've been thinking about pursuing a postgraduate degree in software engineering for a while now but, eventually, I've decided to go my way. So, here it is, my self-curated apprenticeship program in software engineering! I will be attending courses listed below and will be doing practical assignments throughout my studies but it won't necessarily be my priority to pursue any form of 'certificate of completion'. We'll all see how it goes. :)"
       >
         <h2>
-          Diploma in Software Engineering
+          Apprenticeship in Software Engineering
         </h2>
         <svg
           aria-hidden="true"

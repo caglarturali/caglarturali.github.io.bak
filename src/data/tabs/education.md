@@ -1,9 +1,8 @@
 ### My \[academic\] background
 
-- [Software Engineering](/diploma)
+- [Software Engineering](/swe)
 
-  - \[Self-Authored\]
-  - Professional Diploma
+  - Apprenticeship Program
   - 2020-...
 
 - [Computer Education and Instructional Technologies](https://bote.kku.edu.tr/)
