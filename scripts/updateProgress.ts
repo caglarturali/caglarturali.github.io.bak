@@ -6,12 +6,12 @@
 
 import fs from 'fs';
 import path from 'path';
-import diplomaData from '../src/data/json/diploma.json';
+import sweData from '../src/data/json/swe.json';
 import { execCommandsAndCommit } from './utils';
 
 const srcPath = path.join(__dirname, '..', 'src');
 const paths = {
-  diploma: path.join(srcPath, 'data', 'json', 'diploma.json'),
+  diploma: path.join(srcPath, 'data', 'json', 'swe.json'),
   snapshots: path.join(srcPath, 'views', '__tests__', '__snapshots__'),
 };
 
@@ -22,7 +22,7 @@ if (!(courseCodeArg && sectionIndexArg)) process.exit(1);
 let message = '';
 
 // Loop through terms and update target course's progress field
-diplomaData.semesters.forEach((semester) => {
+sweData.semesters.forEach((semester) => {
   semester.courses.forEach((course) => {
     const { courseName, sections } = course;
     const [coursePrefix, courseNum] = courseName.split(' ');
@@ -74,7 +74,7 @@ if (message === '') {
 }
 
 // Write back to file
-fs.writeFileSync(paths.diploma, JSON.stringify(diplomaData, null, 2), {
+fs.writeFileSync(paths.diploma, JSON.stringify(sweData, null, 2), {
   encoding: 'utf-8',
 });
 
