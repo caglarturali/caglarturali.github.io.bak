@@ -50,7 +50,7 @@
     "react-helmet": "^6.1.0",
     "react-jss": "^10.5.0",
     "react-markdown": "^4.3.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.2",
     "react-tooltip": "^4.2.11",
     "typed.js": "^2.0.11"
   },
