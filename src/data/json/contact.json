@@ -12,6 +12,12 @@
     "isMain": false
   },
   {
+    "name": "GitLab",
+    "url": "https://gitlab.com/caglarturali",
+    "icon": ["fab", "gitlab"],
+    "isMain": false
+  },
+  {
     "name": "LinkedIn",
     "url": "https://linkedin.com/in/caglarturali",
     "icon": ["fab", "linkedin"],
