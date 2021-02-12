@@ -178,7 +178,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="25% done"
+                data-tip="29% done"
               >
                 SWE 512 Data Structures and Algorithms
               </span>
@@ -186,7 +186,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 25%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 29%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -198,7 +198,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="25% done"
+                  data-tip="29% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-12"
@@ -227,7 +227,7 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 179.0707812546182px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 169.52033958770522px;"
                     />
                   </svg>
                 </span>
