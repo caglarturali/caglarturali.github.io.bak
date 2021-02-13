@@ -22,8 +22,9 @@
 
 - [Piyango.online](https://piyango.online/) \[_Abandoned_\]
 
+  - [Frontend](https://piyango.online/) | [Backend](https://dev.piyango.online/)
   - Similar to _Bilen Adam_, which is listed below.
-  - `React`
+  - `React`, `TypeScript`, `Serverless Functions`
 
 - [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
 
