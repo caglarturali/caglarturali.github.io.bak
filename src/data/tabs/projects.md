@@ -1,24 +1,29 @@
 ### Some of the projects I've worked on so far
 
-- [GetKernel](https://getkernel.now.sh/)
-
-  - The kernel store for Ubuntu derivatives.
-  - `NextJS`
-
 - [turali.js.org](https://turali.js.org/)
 
   - The web app you are currently looking at.
   - `React`, `TypeScript`
 
-- [Girizgah](https://turali.js.org/girizgah/)
+- [GetKernel](https://getkernel.now.sh/) \[_Half-baked_\]
 
-  - LightDM Webkit theme for Pardus Linux.
-  - `React`
+  - The kernel store for Ubuntu derivatives.
+  - `NextJS`
 
 - [deepintr.js.org](https://deepintr.js.org/)
 
   - Landing page for an online community.
   - `GatsbyJS`, `React`, `TypeScript`
+
+- [Girizgah](https://turali.js.org/girizgah/)
+
+  - Greeter (LightDM Webkit) theme for Pardus Linux.
+  - `React`
+
+- [Piyango.online](https://piyango.online/) \[_Abandoned_\]
+
+  - Similar to _Bilen Adam_, which is listed below.
+  - `React`
 
 - [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app)
 
