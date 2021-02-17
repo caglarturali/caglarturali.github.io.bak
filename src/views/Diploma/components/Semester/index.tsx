@@ -1,9 +1,14 @@
 /**
  * Semester component.
  */
-import React, { useCallback } from 'react';
+import React from 'react';
 import { createUseStyles } from 'react-jss';
 import { DetailsPanel, DiplomaTypes } from '../../../../models';
+import {
+  calculateSemesterProgress,
+  formatDate,
+  isOverDue,
+} from '../../../../utils';
 import Course from './Course';
 import styles from './styles';
 
@@ -24,15 +29,16 @@ const Semester: React.FC<SemesterProps> = ({
     dates: { start, end },
   } = semesterData;
 
-  const formatDate = useCallback((isoDate: string) => {
-    return new Date(isoDate).toLocaleDateString('en');
-  }, []);
+  const semDuration = `${formatDate(start)} - ${formatDate(end)}`;
+  const semProgress = calculateSemesterProgress(semesterData);
+  const overDue = isOverDue(end, semProgress);
 
   return (
     <details open={showDetails} className={classes.root}>
       <summary>
-        <span data-tip={`${formatDate(start)} - ${formatDate(end)}`}>
+        <span data-tip={semDuration}>
           {name}
+          {overDue && <span className={classes.overDue}>overdue</span>}
         </span>
       </summary>
       {courses.map((course) => (
