@@ -1176,55 +1176,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   Advanced Operating Systems
                 </a>
               </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Open Source Software Development, Linux and Git Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/oss-development-linux-git"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Open Source Software Development, Linux and Git Specialization
-                </a>
-              </li>
             </div>
           </details>
           <details
@@ -1336,14 +1287,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Java Programming and Software Engineering Fundamentals Specialization"
+                  aria-label="Open Source Software Development, Linux and Git Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/java-programming"
+                  href="https://www.coursera.org/specializations/oss-development-linux-git"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Java Programming and Software Engineering Fundamentals Specialization
+                  Open Source Software Development, Linux and Git Specialization
                 </a>
               </li>
             </div>
