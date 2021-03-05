@@ -183,15 +183,15 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="38% done"
+                data-tip="75% done"
               >
-                SWE 512 Data Structures and Algorithms
+                SWE 512 Data Structures and Algorithms I
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 38%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 75%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -203,7 +203,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="38% done"
+                  data-tip="75% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-13"
@@ -232,19 +232,19 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 148.03184583715105px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 59.690260418206066px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Introduction to Algorithms"
+                  aria-label="Introduction to Algorithms Part 1"
                   data-class="toolTip-0-2-11"
                   data-place="right"
                   href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Introduction to Algorithms
+                  Introduction to Algorithms Part 1
                 </a>
               </li>
             </div>
@@ -849,7 +849,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 522 Design and Analysis of Algorithms
+                SWE 521 Secure Software Development
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -901,14 +901,86 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Algorithms Specialization"
+                  aria-label="Secure Coding Practices Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/algorithms"
+                  href="https://www.coursera.org/specializations/secure-coding-practices"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Algorithms Specialization
+                  Secure Coding Practices Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                SWE 522 Data Structures and Algorithms II
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Algorithms Part 2"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Algorithms Part 2
                 </a>
               </li>
             </div>
@@ -1102,78 +1174,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Software Architecture & Design
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 525 Advanced Operating Systems
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Advanced Operating Systems"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.udacity.com/course/advanced-operating-systems--ud189"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Advanced Operating Systems
                 </a>
               </li>
             </div>
@@ -1441,7 +1441,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 530 Computer Systems Security
+                SWE 530 Cloud Computing
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1493,14 +1493,63 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Computer Systems Security"
+                  aria-label="Cloud Computing Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/"
+                  href="https://www.coursera.org/specializations/cloud-computing"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Computer Systems Security
+                  Cloud Computing Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Cloud Application Development Foundations Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Cloud Application Development Foundations Professional Certificate
                 </a>
               </li>
             </div>
@@ -1513,7 +1562,79 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 532 Computer Networking
+                SWE 532 Design and Analysis of Algorithms
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Algorithms Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/algorithms"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Algorithms Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                SWE 533 Computer Networking
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1778,78 +1899,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 537 Introduction to Systems Engineering
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to Systems Engineering"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/systems-engineering"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to Systems Engineering
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
                 SWE 538 Introduction to Embedded Systems
               </span>
               <div
@@ -2000,14 +2049,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Embedded Systems"
+                  aria-label="Embedded Interface Design Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.udacity.com/course/embedded-systems--ud169"
+                  href="https://www.coursera.org/specializations/embedded-interface-design"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Embedded Systems
+                  Embedded Interface Design Specialization
                 </a>
               </li>
             </div>
@@ -2020,7 +2069,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                MAT 530 Calculus III
+                MAT 530 Differential Equations
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2072,16 +2121,52 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Calculus 1C: Coordinate Systems & Infinite Series"
+                  aria-label="Introduction to Differential Equations"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series"
+                  href="https://www.edx.org/course/introduction-to-differential-equations-2"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Calculus 1C: Coordinate Systems & Infinite Series
+                  Introduction to Differential Equations
                 </a>
               </li>
+            </div>
+          </details>
+        </details>
+        <details
+          class="root-0-2-7"
+          open=""
+        >
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="01/01/2022 - 31/05/2022"
+            >
+              4. Semester
+            </span>
+          </summary>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                SWE 540 Computer Systems Security
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
               <li
                 class="bookItem-0-2-12"
               >
@@ -2121,31 +2206,18 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Mathematics for Machine Learning: Multivariate Calculus"
+                  aria-label="Computer Systems Security"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/learn/multivariate-calculus-machine-learning"
+                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Mathematics for Machine Learning: Multivariate Calculus
+                  Computer Systems Security
                 </a>
               </li>
             </div>
           </details>
-        </details>
-        <details
-          class="root-0-2-7"
-          open=""
-        >
-          <summary>
-            <span
-              currentitem="false"
-              data-tip="01/01/2022 - 31/05/2022"
-            >
-              4. Semester
-            </span>
-          </summary>
           <details
             class="courseDetails-0-2-9"
           >
@@ -2154,7 +2226,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 540 Managing Software Development
+                SWE 541 Managing Software Development
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2275,7 +2347,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 541 Secure Software Development
+                SWE 542 Introduction to Systems Engineering
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -2327,184 +2399,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Cybersecurity Specialization"
+                  aria-label="Introduction to Systems Engineering"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/cyber-security"
+                  href="https://www.coursera.org/learn/systems-engineering"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Cybersecurity Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Secure Coding Practices Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/secure-coding-practices"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Secure Coding Practices Specialization
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 542 Cloud Computing
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Cloud Computing Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/cloud-computing"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Cloud Computing Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Cloud Application Development Foundations Professional Certificate"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Cloud Application Development Foundations Professional Certificate
+                  Introduction to Systems Engineering
                 </a>
               </li>
             </div>
@@ -2602,104 +2504,6 @@ exports[`<Diploma /> should render correctly 1`] = `
             <div
               class="bookPanel-0-2-10"
             >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="UX and Interface Design for Embedded Systems"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/ux-interface-design-embedded-systems"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  UX and Interface Design for Embedded Systems
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Rapid Prototyping of Embedded Interface Designs"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/rapid-prototyping-embedded-interface"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Rapid Prototyping of Embedded Interface Designs
-                </a>
-              </li>
               <li
                 class="bookItem-0-2-12"
               >
@@ -2989,55 +2793,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Mathematics for Machine Learning: Linear Algebra
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Algebra & Algorithms"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/algebra-and-algorithms"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Algebra & Algorithms
                 </a>
               </li>
             </div>
@@ -3720,112 +3475,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Real-Time Embedded Systems Concepts and Practices"
+                  aria-label="Real-Time Embedded Systems Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices"
+                  href="https://www.coursera.org/specializations/real-time-embedded-systems"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Real-Time Embedded Systems Concepts and Practices
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Real-Time Mission-Critical Systems Design"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/real-time-mission-critical-systems-design"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Real-Time Mission-Critical Systems Design
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Real-Time Embedded Systems Theory and Analysis"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/real-time-embedded-theory-analysis"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Real-Time Embedded Systems Theory and Analysis
+                  Real-Time Embedded Systems Specialization
                 </a>
               </li>
             </div>
@@ -5202,55 +4859,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Multivariable Calculus"
-              data-class="toolTip-0-2-11"
-              data-place="right"
-              href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Multivariable Calculus
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-12"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-13"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
               aria-label="Blockchain Specialization"
               data-class="toolTip-0-2-11"
               data-place="right"
@@ -5349,14 +4957,14 @@ exports[`<Diploma /> should render correctly 1`] = `
               </svg>
             </span>
             <a
-              aria-label="Differential Equations"
+              aria-label="Mathematics for Machine Learning: Multivariate Calculus"
               data-class="toolTip-0-2-11"
               data-place="right"
-              href="https://www.edx.org/xseries/mitx-18.03x-differential-equations"
+              href="https://www.coursera.org/learn/multivariate-calculus-machine-learning"
               rel="noopener noreferrer"
               target="_blank"
             >
-              Differential Equations
+              Mathematics for Machine Learning: Multivariate Calculus
             </a>
           </li>
           <li

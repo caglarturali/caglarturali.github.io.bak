@@ -29,14 +29,14 @@
           ]
         },
         {
-          "courseName": "SWE 512 Data Structures and Algorithms",
+          "courseName": "SWE 512 Data Structures and Algorithms I",
           "sections": [
             {
-              "title": "Introduction to Algorithms",
+              "title": "Introduction to Algorithms Part 1",
               "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
               "progress": {
                 "completed": 9,
-                "total": 24
+                "total": 12
               }
             }
           ]
@@ -153,14 +153,27 @@
           ]
         },
         {
-          "courseName": "SWE 522 Design and Analysis of Algorithms",
+          "courseName": "SWE 521 Secure Software Development",
           "sections": [
             {
-              "title": "Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/algorithms",
+              "title": "Secure Coding Practices Specialization",
+              "url": "https://www.coursera.org/specializations/secure-coding-practices",
               "progress": {
                 "completed": 0,
                 "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 522 Data Structures and Algorithms II",
+          "sections": [
+            {
+              "title": "Introduction to Algorithms Part 2",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
+              "progress": {
+                "completed": 0,
+                "total": 12
               }
             }
           ]
@@ -192,19 +205,6 @@
             {
               "title": "Software Architecture & Design",
               "url": "https://www.udacity.com/course/software-architecture-design--ud821",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 525 Advanced Operating Systems",
-          "sections": [
-            {
-              "title": "Advanced Operating Systems",
-              "url": "https://www.udacity.com/course/advanced-operating-systems--ud189",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -264,11 +264,19 @@
       },
       "courses": [
         {
-          "courseName": "SWE 530 Computer Systems Security",
+          "courseName": "SWE 530 Cloud Computing",
           "sections": [
             {
-              "title": "Computer Systems Security",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
+              "title": "Cloud Computing Specialization",
+              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Cloud Application Development Foundations Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -277,7 +285,20 @@
           ]
         },
         {
-          "courseName": "SWE 532 Computer Networking",
+          "courseName": "SWE 532 Design and Analysis of Algorithms",
+          "sections": [
+            {
+              "title": "Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/algorithms",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 533 Computer Networking",
           "sections": [
             {
               "title": "Introduction to Networking",
@@ -324,19 +345,6 @@
           ]
         },
         {
-          "courseName": "SWE 537 Introduction to Systems Engineering",
-          "sections": [
-            {
-              "title": "Introduction to Systems Engineering",
-              "url": "https://www.coursera.org/learn/systems-engineering",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
           "courseName": "SWE 538 Introduction to Embedded Systems",
           "sections": [
             {
@@ -356,8 +364,8 @@
               }
             },
             {
-              "title": "Embedded Systems",
-              "url": "https://www.udacity.com/course/embedded-systems--ud169",
+              "title": "Embedded Interface Design Specialization",
+              "url": "https://www.coursera.org/specializations/embedded-interface-design",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -366,19 +374,11 @@
           ]
         },
         {
-          "courseName": "MAT 530 Calculus III",
+          "courseName": "MAT 530 Differential Equations",
           "sections": [
             {
-              "title": "Calculus 1C: Coordinate Systems & Infinite Series",
-              "url": "https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Mathematics for Machine Learning: Multivariate Calculus",
-              "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
+              "title": "Introduction to Differential Equations",
+              "url": "https://www.edx.org/course/introduction-to-differential-equations-2",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -396,7 +396,20 @@
       },
       "courses": [
         {
-          "courseName": "SWE 540 Managing Software Development",
+          "courseName": "SWE 540 Computer Systems Security",
+          "sections": [
+            {
+              "title": "Computer Systems Security",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 541 Managing Software Development",
           "sections": [
             {
               "title": "Software Product Management Specialization",
@@ -417,40 +430,11 @@
           ]
         },
         {
-          "courseName": "SWE 541 Secure Software Development",
+          "courseName": "SWE 542 Introduction to Systems Engineering",
           "sections": [
             {
-              "title": "Cybersecurity Specialization",
-              "url": "https://www.coursera.org/specializations/cyber-security",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Secure Coding Practices Specialization",
-              "url": "https://www.coursera.org/specializations/secure-coding-practices",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 542 Cloud Computing",
-          "sections": [
-            {
-              "title": "Cloud Computing Specialization",
-              "url": "https://www.coursera.org/specializations/cloud-computing",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Cloud Application Development Foundations Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
+              "title": "Introduction to Systems Engineering",
+              "url": "https://www.coursera.org/learn/systems-engineering",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -474,22 +458,6 @@
         {
           "courseName": "SWE 548 Advanced Embedded Systems Engineering",
           "sections": [
-            {
-              "title": "UX and Interface Design for Embedded Systems",
-              "url": "https://www.coursera.org/learn/ux-interface-design-embedded-systems",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Rapid Prototyping of Embedded Interface Designs",
-              "url": "https://www.coursera.org/learn/rapid-prototyping-embedded-interface",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
             {
               "title": "Development of Secure Embedded Systems Specialization",
               "url": "https://www.coursera.org/specializations/embedded-systems-security",
@@ -535,14 +503,6 @@
             {
               "title": "Mathematics for Machine Learning: Linear Algebra",
               "url": "https://www.coursera.org/learn/linear-algebra-machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Algebra & Algorithms",
-              "url": "https://www.coursera.org/learn/algebra-and-algorithms",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -668,24 +628,8 @@
           "courseName": "SWE 558 Real-Time Embedded Systems",
           "sections": [
             {
-              "title": "Real-Time Embedded Systems Concepts and Practices",
-              "url": "https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Real-Time Mission-Critical Systems Design",
-              "url": "https://www.coursera.org/learn/real-time-mission-critical-systems-design",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Real-Time Embedded Systems Theory and Analysis",
-              "url": "https://www.coursera.org/learn/real-time-embedded-theory-analysis",
+              "title": "Real-Time Embedded Systems Specialization",
+              "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -934,14 +878,6 @@
           }
         },
         {
-          "title": "Multivariable Calculus",
-          "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
           "title": "Blockchain Specialization",
           "url": "https://www.coursera.org/specializations/blockchain",
           "progress": {
@@ -958,8 +894,8 @@
           }
         },
         {
-          "title": "Differential Equations",
-          "url": "https://www.edx.org/xseries/mitx-18.03x-differential-equations",
+          "title": "Mathematics for Machine Learning: Multivariate Calculus",
+          "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
           "progress": {
             "completed": 0,
             "total": 1
