@@ -4221,14 +4221,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="MBA Core Curriculum MicroMasters"
+                  aria-label="MBA Core Curriculum MicroMasters Program"
                   data-class="toolTip-0-2-11"
                   data-place="right"
                   href="https://www.edx.org/micromasters/USMx-UMD-MBA-Core-Curriculum"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  MBA Core Curriculum MicroMasters
+                  MBA Core Curriculum MicroMasters Program
                 </a>
               </li>
             </div>
