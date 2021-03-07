@@ -36,7 +36,8 @@ export const calculateDiplomaProgress = (
   diploma: DiplomaTypes.Curriculum,
   precision = 0,
 ): number => {
-  const { semesters } = diploma;
+  // Consider core content only.
+  const semesters = diploma.semesters.filter((s) => !s.isExtra);
   const progresses = semesters.map(calculateSemesterProgress);
   return progressAverage(progresses, precision);
 };

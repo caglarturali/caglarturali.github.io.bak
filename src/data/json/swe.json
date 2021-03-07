@@ -55,22 +55,22 @@
           ]
         },
         {
-          "courseName": "SWE 515 Introduction to Operating Systems",
+          "courseName": "SWE 515 Open Source Software Development",
           "sections": [
-            {
-              "title": "Introduction to Operating Systems",
-              "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
-              "progress": {
-                "completed": 8,
-                "total": 21
-              }
-            },
             {
               "title": "Introduction to Linux",
               "url": "https://www.edx.org/course/introduction-to-linux",
               "progress": {
                 "completed": 12,
                 "total": 18
+              }
+            },
+            {
+              "title": "Open Source Software Development, Linux and Git Specialization",
+              "url": "https://www.coursera.org/specializations/oss-development-linux-git",
+              "progress": {
+                "completed": 0,
+                "total": 1
               }
             }
           ]
@@ -213,19 +213,11 @@
           ]
         },
         {
-          "courseName": "SWE 527 Software Development Practice",
+          "courseName": "SWE 527 Software Development Lifecycle",
           "sections": [
             {
               "title": "Software Development Lifecycle Specialization",
               "url": "https://www.coursera.org/specializations/software-development-lifecycle",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Open Source Software Development, Linux and Git Specialization",
-              "url": "https://www.coursera.org/specializations/oss-development-linux-git",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -264,22 +256,14 @@
       },
       "courses": [
         {
-          "courseName": "SWE 530 Cloud Computing",
+          "courseName": "SWE 530 Introduction to Operating Systems",
           "sections": [
             {
-              "title": "Cloud Computing Specialization",
-              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "title": "Introduction to Operating Systems",
+              "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
               "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Cloud Application Development Foundations Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "completed": 8,
+                "total": 21
               }
             }
           ]
@@ -520,6 +504,35 @@
       },
       "courses": [
         {
+          "courseName": "SWE 550 Cloud Computing",
+          "sections": [
+            {
+              "title": "Cloud Computing Specialization",
+              "url": "https://www.coursera.org/specializations/cloud-computing",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Cloud Application Development Foundations Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Introduction to Kubernetes",
+              "url": "https://www.edx.org/course/introduction-to-kubernetes",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "DSC 550 Introduction to Data Science",
           "sections": [
             {
@@ -541,7 +554,7 @@
           ]
         },
         {
-          "courseName": "DSC 551 Python for Data Science",
+          "courseName": "DSC 553 Python for Data Science",
           "sections": [
             {
               "title": "Data Science Fundamentals with Python and SQL Specialization",
@@ -562,7 +575,7 @@
           ]
         },
         {
-          "courseName": "DSC 553 Introduction to Artificial Intelligence",
+          "courseName": "DSC 555 Introduction to Artificial Intelligence",
           "sections": [
             {
               "title": "Intro to Artificial Intelligence",
@@ -575,27 +588,6 @@
             {
               "title": "IBM Applied AI Professional Certificate",
               "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 555 Machine Learning",
-          "sections": [
-            {
-              "title": "Machine Learning",
-              "url": "https://www.coursera.org/learn/machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "IBM Data Science Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -660,7 +652,28 @@
       },
       "courses": [
         {
-          "courseName": "DSC 560 Deep Learning",
+          "courseName": "DSC 560 Machine Learning",
+          "sections": [
+            {
+              "title": "Machine Learning",
+              "url": "https://www.coursera.org/learn/machine-learning",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "IBM Data Science Professional Certificate",
+              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "DSC 561 Deep Learning",
           "sections": [
             {
               "title": "Deep Learning Specialization",
@@ -736,9 +749,84 @@
               }
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Business Administration and Entrepreneurship Semester",
+      "dates": {
+        "start": "2023-04-01",
+        "end": "2023-12-31"
+      },
+      "isExtra": true,
+      "courses": [
+        {
+          "courseName": "BIZ 570 PreMBA Essentials",
+          "sections": [
+            {
+              "title": "PreMBA Essentials for Professionals Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/imperialbusinessx-pre-mba-essentials-for-professionals",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
         },
         {
-          "courseName": "ENT 599 Tech Entrepreneurship",
+          "courseName": "BIZ 572 MBA Core Curriculum",
+          "sections": [
+            {
+              "title": "MBA Core Curriculum MicroMasters",
+              "url": "https://www.edx.org/micromasters/USMx-UMD-MBA-Core-Curriculum",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 574 Financial Technology",
+          "sections": [
+            {
+              "title": "FinTech Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/hkux-fintech",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 576 Blockchain Technology",
+          "sections": [
+            {
+              "title": "Blockchain Specialization",
+              "url": "https://www.coursera.org/specializations/blockchain",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 578 Innovation and Entrepreneurship",
+          "sections": [
+            {
+              "title": "Innovation and Entrepreneurship Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/usmx-innovation-and-entrepreneurship",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 579 Tech Entrepreneurship",
           "sections": [
             {
               "title": "How to Build a Startup",
@@ -783,14 +871,6 @@
             {
               "title": "Get Your Startup Started",
               "url": "https://www.udacity.com/course/get-your-startup-started--ud806",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Entrepreneurship in Emerging Economies",
-              "url": "https://www.edx.org/course/entrepreneurship-in-emerging-economies",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -872,22 +952,6 @@
         {
           "title": "Computer Architecture",
           "url": "https://www.coursera.org/learn/comparch",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Blockchain Specialization",
-          "url": "https://www.coursera.org/specializations/blockchain",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Introduction to Kubernetes",
-          "url": "https://www.edx.org/course/introduction-to-kubernetes",
           "progress": {
             "completed": 0,
             "total": 1

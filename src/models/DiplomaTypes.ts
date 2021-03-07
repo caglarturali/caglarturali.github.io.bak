@@ -20,6 +20,7 @@ export declare namespace DiplomaTypes {
       end: string;
     };
     courses: Course[];
+    isExtra?: boolean;
   }
 
   export interface Extra {

@@ -327,70 +327,21 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="53% done"
+                data-tip="34% done"
               >
-                SWE 515 Introduction to Operating Systems
+                SWE 515 Open Source Software Development
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 53%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 34%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
             <div
               class="bookPanel-0-2-10"
             >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="38% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 148.03184583715105px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to Operating Systems"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to Operating Systems
-                </a>
-              </li>
               <li
                 class="bookItem-0-2-12"
               >
@@ -438,6 +389,55 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Introduction to Linux
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Open Source Software Development, Linux and Git Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/oss-development-linux-git"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Open Source Software Development, Linux and Git Specialization
                 </a>
               </li>
             </div>
@@ -1186,7 +1186,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                SWE 527 Software Development Practice
+                SWE 527 Software Development Lifecycle
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -1246,55 +1246,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Software Development Lifecycle Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Open Source Software Development, Linux and Git Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/oss-development-linux-git"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Open Source Software Development, Linux and Git Specialization
                 </a>
               </li>
             </div>
@@ -1439,15 +1390,15 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="0% done"
+                data-tip="38% done"
               >
-                SWE 530 Cloud Computing
+                SWE 530 Introduction to Operating Systems
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 38%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -1459,7 +1410,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="38% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-13"
@@ -1488,68 +1439,19 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 148.03184583715105px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Cloud Computing Specialization"
+                  aria-label="Introduction to Operating Systems"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/cloud-computing"
+                  href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Cloud Computing Specialization
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Cloud Application Development Foundations Professional Certificate"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Cloud Application Development Foundations Professional Certificate
+                  Introduction to Operating Systems
                 </a>
               </li>
             </div>
@@ -2818,6 +2720,176 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
+                SWE 550 Cloud Computing
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Cloud Computing Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/cloud-computing"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Cloud Computing Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Cloud Application Development Foundations Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Cloud Application Development Foundations Professional Certificate
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Introduction to Kubernetes"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/course/introduction-to-kubernetes"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Introduction to Kubernetes
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 550 Introduction to Data Science
               </span>
               <div
@@ -2939,7 +3011,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 551 Python for Data Science
+                DSC 553 Python for Data Science
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3060,7 +3132,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 553 Introduction to Artificial Intelligence
+                DSC 555 Introduction to Artificial Intelligence
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3169,127 +3241,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   IBM Applied AI Professional Certificate
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                DSC 555 Machine Learning
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Machine Learning"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/machine-learning"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Machine Learning
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="IBM Data Science Professional Certificate"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/professional-certificates/ibm-data-science"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  IBM Data Science Professional Certificate
                 </a>
               </li>
             </div>
@@ -3580,7 +3531,128 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 560 Deep Learning
+                DSC 560 Machine Learning
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Machine Learning"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/learn/machine-learning"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Machine Learning
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="IBM Data Science Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/professional-certificates/ibm-data-science"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  IBM Data Science Professional Certificate
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                DSC 561 Deep Learning
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -4004,6 +4076,19 @@ exports[`<Diploma /> should render correctly 1`] = `
               </li>
             </div>
           </details>
+        </details>
+        <details
+          class="root-0-2-7"
+          open=""
+        >
+          <summary>
+            <span
+              currentitem="false"
+              data-tip="01/04/2023 - 31/12/2023"
+            >
+              Business Administration and Entrepreneurship Semester
+            </span>
+          </summary>
           <details
             class="courseDetails-0-2-9"
           >
@@ -4012,7 +4097,367 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                ENT 599 Tech Entrepreneurship
+                BIZ 570 PreMBA Essentials
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="PreMBA Essentials for Professionals Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/imperialbusinessx-pre-mba-essentials-for-professionals"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  PreMBA Essentials for Professionals Professional Certificate
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                BIZ 572 MBA Core Curriculum
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="MBA Core Curriculum MicroMasters"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/micromasters/USMx-UMD-MBA-Core-Curriculum"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  MBA Core Curriculum MicroMasters
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                BIZ 574 Financial Technology
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="FinTech Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/hkux-fintech"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  FinTech Professional Certificate
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                BIZ 576 Blockchain Technology
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Blockchain Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/blockchain"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Blockchain Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                BIZ 578 Innovation and Entrepreneurship
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Innovation and Entrepreneurship Professional Certificate"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.edx.org/professional-certificate/usmx-innovation-and-entrepreneurship"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Innovation and Entrepreneurship Professional Certificate
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
+                BIZ 579 Tech Entrepreneurship
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -4317,55 +4762,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   Get Your Startup Started
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Entrepreneurship in Emerging Economies"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.edx.org/course/entrepreneurship-in-emerging-economies"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Entrepreneurship in Emerging Economies
                 </a>
               </li>
             </div>
@@ -4818,104 +5214,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               Computer Architecture
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-12"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-13"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Blockchain Specialization"
-              data-class="toolTip-0-2-11"
-              data-place="right"
-              href="https://www.coursera.org/specializations/blockchain"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Blockchain Specialization
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-12"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-13"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="Introduction to Kubernetes"
-              data-class="toolTip-0-2-11"
-              data-place="right"
-              href="https://www.edx.org/course/introduction-to-kubernetes"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Introduction to Kubernetes
             </a>
           </li>
           <li
