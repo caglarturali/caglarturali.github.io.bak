@@ -55,7 +55,7 @@
           ]
         },
         {
-          "courseName": "SWE 515 Open Source Software Development",
+          "courseName": "SWE 515 Introduction to Open Source Software",
           "sections": [
             {
               "title": "Introduction to Linux",
@@ -66,10 +66,10 @@
               }
             },
             {
-              "title": "Open Source Software Development, Linux and Git Specialization",
-              "url": "https://www.coursera.org/specializations/oss-development-linux-git",
+              "title": "Open Source Software Development Methods",
+              "url": "https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git",
               "progress": {
-                "completed": 0,
+                "completed": 1,
                 "total": 1
               }
             }

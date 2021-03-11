@@ -327,15 +327,15 @@ exports[`<Diploma /> should render correctly 1`] = `
             <summary>
               <span
                 currentitem="false"
-                data-tip="34% done"
+                data-tip="84% done"
               >
-                SWE 515 Open Source Software Development
+                SWE 515 Introduction to Open Source Software
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
               >
                 <div
-                  style="height: 100%; width: 34%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                  style="height: 100%; width: 84%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
                 />
               </div>
             </summary>
@@ -396,7 +396,7 @@ exports[`<Diploma /> should render correctly 1`] = `
               >
                 <span
                   currentitem="false"
-                  data-tip="0% done"
+                  data-tip="100% done"
                 >
                   <svg
                     class="CircularProgressbar progress-0-2-13"
@@ -425,19 +425,19 @@ exports[`<Diploma /> should render correctly 1`] = `
     "
                       fill-opacity="0"
                       stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
                     />
                   </svg>
                 </span>
                 <a
-                  aria-label="Open Source Software Development, Linux and Git Specialization"
+                  aria-label="Open Source Software Development Methods"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.coursera.org/specializations/oss-development-linux-git"
+                  href="https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Open Source Software Development, Linux and Git Specialization
+                  Open Source Software Development Methods
                 </a>
               </li>
             </div>
