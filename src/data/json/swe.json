@@ -156,6 +156,14 @@
           "courseName": "SWE 521 Secure Software Development",
           "sections": [
             {
+              "title": "Secure Software Development Fundamentals Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
               "title": "Secure Coding Practices Specialization",
               "url": "https://www.coursera.org/specializations/secure-coding-practices",
               "progress": {
@@ -747,6 +755,14 @@
                 "completed": 0,
                 "total": 1
               }
+            },
+            {
+              "title": "Self-Driving Cars with Duckietown",
+              "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
             }
           ]
         }
@@ -813,11 +829,24 @@
           ]
         },
         {
-          "courseName": "BIZ 578 Innovation and Entrepreneurship",
+          "courseName": "BIZ 577 Innovation and Entrepreneurship",
           "sections": [
             {
               "title": "Innovation and Entrepreneurship Professional Certificate",
               "url": "https://www.edx.org/professional-certificate/usmx-innovation-and-entrepreneurship",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 578 Social Entrepreneurship",
+          "sections": [
+            {
+              "title": "Social Entrepreneurship Specialization",
+              "url": "https://www.coursera.org/specializations/social-entrepreneurship-cbs",
               "progress": {
                 "completed": 0,
                 "total": 1
