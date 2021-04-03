@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "title": "Business Administration Training",
+    "subtitle": "Specialization in Innovation and Entrepreneurship",
+    "info": ""
+  },
+  "semesters": [
+    {
+      "name": "1. Semester",
+      "dates": {
+        "start": "2023-05-01",
+        "end": "2023-08-31"
+      },
+      "courses": [
+        {
+          "courseName": "BIZ 510 PreMBA Essentials",
+          "sections": [
+            {
+              "title": "PreMBA Essentials for Professionals Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/imperialbusinessx-pre-mba-essentials-for-professionals",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 512 MBA Core Curriculum",
+          "sections": [
+            {
+              "title": "MBA Core Curriculum MicroMasters Program",
+              "url": "https://www.edx.org/micromasters/USMx-UMD-MBA-Core-Curriculum",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 514 Financial Technology",
+          "sections": [
+            {
+              "title": "FinTech Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/hkux-fintech",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 516 Blockchain Technology",
+          "sections": [
+            {
+              "title": "Blockchain Specialization",
+              "url": "https://www.coursera.org/specializations/blockchain",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "dates": {
+        "start": "2023-09-01",
+        "end": "2023-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "BIZ 520 Innovation and Entrepreneurship",
+          "sections": [
+            {
+              "title": "Innovation and Entrepreneurship Professional Certificate",
+              "url": "https://www.edx.org/professional-certificate/usmx-innovation-and-entrepreneurship",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 524 Social Entrepreneurship",
+          "sections": [
+            {
+              "title": "Social Entrepreneurship Specialization",
+              "url": "https://www.coursera.org/specializations/social-entrepreneurship-cbs",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BIZ 529 Tech Entrepreneurship",
+          "sections": [
+            {
+              "title": "How to Build a Startup",
+              "url": "https://www.udacity.com/course/how-to-build-a-startup--ep245",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Product Design",
+              "url": "https://www.udacity.com/course/product-design--ud509",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Rapid Prototyping",
+              "url": "https://www.udacity.com/course/rapid-prototyping--ud723",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "App Monetization",
+              "url": "https://www.udacity.com/course/app-monetization--ud518",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "App Marketing",
+              "url": "https://www.udacity.com/course/app-marketing--ud719",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Get Your Startup Started",
+              "url": "https://www.udacity.com/course/get-your-startup-started--ud806",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": []
+}

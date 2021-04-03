@@ -7,6 +7,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
+import mbaData from './json/mba.json';
 import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
@@ -32,6 +33,14 @@ export const pages: PageLink[] = [
     isInternal: true,
     badge: `${calculateDiplomaProgress(sweData, 0)}%`,
     comp: () => <Diploma diplomaData={sweData} />,
+  },
+  {
+    name: 'MBA Training',
+    url: '/mba',
+    icon: 'graduation-cap',
+    isInternal: true,
+    badge: `${calculateDiplomaProgress(mbaData, 0)}%`,
+    comp: () => <Diploma diplomaData={mbaData} />,
   },
 ];
 
