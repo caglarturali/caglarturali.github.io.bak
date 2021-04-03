@@ -161,14 +161,6 @@
           "courseName": "SWE 521 Secure Software Development",
           "sections": [
             {
-              "title": "Secure Software Development Fundamentals Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
               "title": "Secure Coding Practices Specialization",
               "url": "https://www.coursera.org/specializations/secure-coding-practices",
               "progress": {
