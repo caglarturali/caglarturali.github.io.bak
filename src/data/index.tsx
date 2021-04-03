@@ -31,7 +31,7 @@ export const pages: PageLink[] = [
     icon: 'graduation-cap',
     isInternal: true,
     badge: `${calculateDiplomaProgress(sweData, 0)}%`,
-    comp: () => <Diploma diplomaData={sweData} staticData={staticData} />,
+    comp: () => <Diploma diplomaData={sweData} />,
   },
 ];
 

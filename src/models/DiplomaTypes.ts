@@ -1,4 +1,9 @@
 export declare namespace DiplomaTypes {
+  export interface Metadata {
+    title: string;
+    subtitle?: string;
+    info?: string;
+  }
   export interface Section {
     title: string;
     url: string;
@@ -29,6 +34,7 @@ export declare namespace DiplomaTypes {
   }
 
   export interface Curriculum {
+    metadata: Metadata;
     semesters: Semester[];
     extras: Extra[];
   }

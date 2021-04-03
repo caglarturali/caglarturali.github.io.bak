@@ -8,22 +8,22 @@ import ReactTooltip from 'react-tooltip';
 import Container from '../../components/Container';
 import Semester from './components/Semester';
 import Section from './components/Semester/Course/Section';
-import { DiplomaTypes, Static } from '../../models';
+import { DiplomaTypes } from '../../models';
 import styles from './styles';
 
 const useStyles = createUseStyles(styles);
 
 export interface DiplomaProps {
   diplomaData: DiplomaTypes.Curriculum;
-  staticData: Static;
 }
 
-const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
+const Diploma: React.FC<DiplomaProps> = ({ diplomaData }) => {
   const classes = useStyles();
-  const { semesters, extras } = diplomaData;
   const {
-    diploma: { title, subtitle, info },
-  } = staticData;
+    semesters,
+    extras,
+    metadata: { title, subtitle, info },
+  } = diplomaData;
 
   const renderExtra = (extra: DiplomaTypes.Extra) => {
     const { name, sections } = extra;
@@ -40,11 +40,15 @@ const Diploma: React.FC<DiplomaProps> = ({ diplomaData, staticData }) => {
   };
 
   return (
-    <Container seo={{ title: `${title}, ${subtitle}` }}>
-      <div data-tip={info} data-class={classes.tip} className={classes.title}>
+    <Container seo={{ title: subtitle ? `${title}, ${subtitle}` : title }}>
+      <div
+        data-tip={info || title}
+        data-class={classes.tip}
+        className={classes.title}
+      >
         <h2>{title}</h2>
         <FontAwesomeIcon icon="question-circle" />
-        <p>{subtitle}</p>
+        {subtitle && <p>{subtitle}</p>}
       </div>
       <div className={classes.contents}>
         {/* Base Curriculum */}

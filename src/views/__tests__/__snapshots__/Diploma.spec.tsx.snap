@@ -33,7 +33,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           />
         </svg>
         <p>
-          Specialization in Autonomous Systems
+          Specialization in Data Science
         </p>
       </div>
       <div

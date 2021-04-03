@@ -12,9 +12,7 @@ jest.mock('crypto', () => ({
 
 describe('<Diploma />', () => {
   test('should render correctly', () => {
-    const { asFragment } = render(
-      <Diploma diplomaData={sweData} staticData={staticData} />,
-    );
+    const { asFragment } = render(<Diploma diplomaData={sweData} />);
     expect(asFragment()).toMatchSnapshot();
   });
 });
