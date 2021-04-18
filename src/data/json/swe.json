@@ -717,7 +717,7 @@
           ]
         },
         {
-          "courseName": "AUT 560 Cyber-Physical Systems",
+          "courseName": "DSC 566 Cyber-Physical Systems",
           "sections": [
             {
               "title": "Cyber-Physical Systems Design & Analysis",
@@ -730,7 +730,7 @@
           ]
         },
         {
-          "courseName": "AUT 564 Automotive Software Engineering",
+          "courseName": "DSC 567 Automotive Software Engineering",
           "sections": [
             {
               "title": "Emerging Automotive Technologies",
@@ -743,7 +743,7 @@
           ]
         },
         {
-          "courseName": "AUT 565 Autonomous Systems Engineering",
+          "courseName": "DSC 568 Autonomous Systems Engineering",
           "sections": [
             {
               "title": "Self-Driving Cars Specialization",

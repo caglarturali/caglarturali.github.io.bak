@@ -3868,7 +3868,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                AUT 560 Cyber-Physical Systems
+                DSC 566 Cyber-Physical Systems
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3940,7 +3940,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                AUT 564 Automotive Software Engineering
+                DSC 567 Automotive Software Engineering
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -4012,7 +4012,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                AUT 565 Autonomous Systems Engineering
+                DSC 568 Autonomous Systems Engineering
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
