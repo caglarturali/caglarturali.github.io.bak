@@ -10,6 +10,8 @@ before_install:
   - pnpm config set store-dir ~/.pnpm-store
 install:
   - pnpm install
+script:
+  - pnpm run build
 after_success:
   - cp build/index.html build/404.html
 deploy:
