@@ -10,9 +10,14 @@ before_install:
   - pnpm config set store-dir ~/.pnpm-store
 install:
   - pnpm install
+after_success:
+  - cp build/index.html build/404.html
 deploy:
-  provider: script
-  script: pnpm run deploy
+  provider: pages
   skip_cleanup: true
+  local_dir: build
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  target_branch: gh-pages
   on:
-    branch: master
+    branch: main

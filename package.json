@@ -20,8 +20,6 @@
     "lint": "eslint \"*/**/*.{js,ts,tsx}\"",
     "lint:ci": "npm run lint -- --quiet",
     "lint:fix": "npm run lint -- --fix",
-    "predeploy": "npm run build && cp build/index.html build/404.html",
-    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/caglarturali/caglarturali.github.io.git",
     "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts"
   },
   "husky": {
