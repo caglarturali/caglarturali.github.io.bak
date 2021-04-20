@@ -18,6 +18,7 @@ exports[`<Greeter /> should render correctly 1`] = `
         style="white-space: pre;"
       />
       <span
+        aria-hidden="true"
         class="typed-cursor"
       >
         |
