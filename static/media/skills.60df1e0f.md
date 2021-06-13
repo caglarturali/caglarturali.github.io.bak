@@ -10,8 +10,9 @@
 ### Programming languages / tech stacks
 
 - In modern times:
-  - Flutter/Dart
-  - JavaScript/TypeScript (2+ years)
+  - Python
+  - Dart (w/ Flutter)
+  - JavaScript/TypeScript (3+ years)
     - React.js
     - Node.js
     - Express.js
@@ -25,8 +26,8 @@
 
 ### Preferences 🙏
 
-- [Debian derivatives](https://www.debian.org/) 🐧 || [macOS on PC hardware](https://wikipedia.org/wiki/Hackintosh) 🙈
-- [Zshell](https://en.wikipedia.org/wiki/Z_shell) 💻
+- [Debian derivatives](https://www.debian.org/) || [Fedora](https://getfedora.org/) 🐧
+- [Zshell](https://en.wikipedia.org/wiki/Z_shell) ([Oh My Zsh](https://ohmyz.sh/)) 💻
 - [VSCode](https://code.visualstudio.com/) ¯\\_(ツ)_/¯
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ⌨️
 
