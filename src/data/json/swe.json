@@ -37,7 +37,7 @@
           "courseName": "SWE 512 Data Structures and Algorithms I",
           "sections": [
             {
-              "title": "Introduction to Algorithms Part 1",
+              "title": "Introduction to Algorithms I",
               "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
               "progress": {
                 "completed": 11,
@@ -115,14 +115,14 @@
           ]
         },
         {
-          "courseName": "MAT 510 Single Variable Calculus",
+          "courseName": "MAT 510 Calculus I",
           "sections": [
             {
-              "title": "Single Variable Calculus",
+              "title": "Single Variable Calculus I",
               "url": "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/",
               "progress": {
                 "completed": 5,
-                "total": 39
+                "total": 20
               }
             },
             {
@@ -174,7 +174,7 @@
           "courseName": "SWE 522 Data Structures and Algorithms II",
           "sections": [
             {
-              "title": "Introduction to Algorithms Part 2",
+              "title": "Introduction to Algorithms II",
               "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
               "progress": {
                 "completed": 0,
@@ -231,14 +231,14 @@
           ]
         },
         {
-          "courseName": "MAT 520 Multivariable Calculus",
+          "courseName": "MAT 520 Calculus II",
           "sections": [
             {
-              "title": "Multivariable Calculus",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
+              "title": "Single Variable Calculus II",
+              "url": "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 19
               }
             },
             {
@@ -821,6 +821,14 @@
         {
           "title": "Big Data Specialization",
           "url": "https://www.coursera.org/specializations/big-data",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Multivariable Calculus",
+          "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
           "progress": {
             "completed": 0,
             "total": 1
