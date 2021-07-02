@@ -2890,6 +2890,78 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
+                SWE 551 Introduction to Internet of Things
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="An Introduction to Programming the Internet of Things Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/iot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  An Introduction to Programming the Internet of Things Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 550 Introduction to Data Science
               </span>
               <div
@@ -3241,199 +3313,6 @@ exports[`<Diploma /> should render correctly 1`] = `
                   target="_blank"
                 >
                   IBM Applied AI Professional Certificate
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 556 High-Performance Computing
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Introduction to High-Performance and Parallel Computing"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/learn/introduction-high-performance-computing"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Introduction to High-Performance and Parallel Computing
-                </a>
-              </li>
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Performance Engineering of Software Systems"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Performance Engineering of Software Systems
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                SWE 558 Real-Time Embedded Systems
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Real-Time Embedded Systems Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/real-time-embedded-systems"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Real-Time Embedded Systems Specialization
                 </a>
               </li>
             </div>
@@ -3868,7 +3747,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 566 Cyber-Physical Systems
+                SWE 566 Real-Time Embedded Systems
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3920,14 +3799,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Cyber-Physical Systems Design & Analysis"
+                  aria-label="Real-Time Embedded Systems Specialization"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876"
+                  href="https://www.coursera.org/specializations/real-time-embedded-systems"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Cyber-Physical Systems Design & Analysis
+                  Real-Time Embedded Systems Specialization
                 </a>
               </li>
             </div>
@@ -3940,7 +3819,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
-                DSC 567 Automotive Software Engineering
+                SWE 567 High-Performance Computing
               </span>
               <div
                 style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
@@ -3992,86 +3871,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Emerging Automotive Technologies"
+                  aria-label="Introduction to High-Performance and Parallel Computing"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies"
+                  href="https://www.coursera.org/learn/introduction-high-performance-computing"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Emerging Automotive Technologies
-                </a>
-              </li>
-            </div>
-          </details>
-          <details
-            class="courseDetails-0-2-9"
-          >
-            <summary>
-              <span
-                currentitem="false"
-                data-tip="0% done"
-              >
-                DSC 568 Autonomous Systems Engineering
-              </span>
-              <div
-                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
-              >
-                <div
-                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
-                />
-              </div>
-            </summary>
-            <div
-              class="bookPanel-0-2-10"
-            >
-              <li
-                class="bookItem-0-2-12"
-              >
-                <span
-                  currentitem="false"
-                  data-tip="0% done"
-                >
-                  <svg
-                    class="CircularProgressbar progress-0-2-13"
-                    data-test-id="CircularProgressbar"
-                    viewBox="0 0 100 100"
-                  >
-                    <path
-                      class="CircularProgressbar-trail"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                    />
-                    <path
-                      class="CircularProgressbar-path"
-                      d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                      fill-opacity="0"
-                      stroke-width="24"
-                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                    />
-                  </svg>
-                </span>
-                <a
-                  aria-label="Self-Driving Cars Specialization"
-                  data-class="toolTip-0-2-11"
-                  data-place="right"
-                  href="https://www.coursera.org/specializations/self-driving-cars"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Self-Driving Cars Specialization
+                  Introduction to High-Performance and Parallel Computing
                 </a>
               </li>
               <li
@@ -4113,14 +3920,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                   </svg>
                 </span>
                 <a
-                  aria-label="Self-Driving Cars with Duckietown"
+                  aria-label="Performance Engineering of Software Systems"
                   data-class="toolTip-0-2-11"
                   data-place="right"
-                  href="https://www.edx.org/course/self-driving-cars-with-duckietown"
+                  href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  Self-Driving Cars with Duckietown
+                  Performance Engineering of Software Systems
                 </a>
               </li>
             </div>
@@ -4328,55 +4135,6 @@ exports[`<Diploma /> should render correctly 1`] = `
               target="_blank"
             >
               CS50's Introduction to Game Development
-            </a>
-          </li>
-          <li
-            class="bookItem-0-2-12"
-          >
-            <span
-              currentitem="false"
-              data-tip="0% done"
-            >
-              <svg
-                class="CircularProgressbar progress-0-2-13"
-                data-test-id="CircularProgressbar"
-                viewBox="0 0 100 100"
-              >
-                <path
-                  class="CircularProgressbar-trail"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
-                />
-                <path
-                  class="CircularProgressbar-path"
-                  d="
-      M 50,50
-      m 0,-38
-      a 38,38 0 1 1 0,76
-      a 38,38 0 1 1 0,-76
-    "
-                  fill-opacity="0"
-                  stroke-width="24"
-                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
-                />
-              </svg>
-            </span>
-            <a
-              aria-label="An Introduction to Programming the Internet of Things Specialization"
-              data-class="toolTip-0-2-11"
-              data-place="right"
-              href="https://www.coursera.org/specializations/iot"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              An Introduction to Programming the Internet of Things Specialization
             </a>
           </li>
           <li

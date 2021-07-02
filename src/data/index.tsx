@@ -7,6 +7,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
+import autoData from './json/auto.json';
 import baData from './json/ba.json';
 import pkg from '../../package.json';
 
@@ -33,6 +34,14 @@ export const pages: PageLink[] = [
     isInternal: true,
     badge: `${calculateDiplomaProgress(sweData, 0)}%`,
     comp: () => <Diploma diplomaData={sweData} />,
+  },
+  {
+    name: 'Automotive Technologies',
+    url: '/auto',
+    icon: 'graduation-cap',
+    isInternal: true,
+    badge: `${calculateDiplomaProgress(autoData, 0)}%`,
+    comp: () => <Diploma diplomaData={autoData} />,
   },
   {
     name: 'Business Administration',

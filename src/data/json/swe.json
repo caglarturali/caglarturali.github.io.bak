@@ -538,6 +538,19 @@
           ]
         },
         {
+          "courseName": "SWE 551 Introduction to Internet of Things",
+          "sections": [
+            {
+              "title": "An Introduction to Programming the Internet of Things Specialization",
+              "url": "https://www.coursera.org/specializations/iot",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "DSC 550 Introduction to Data Science",
           "sections": [
             {
@@ -593,40 +606,6 @@
             {
               "title": "IBM Applied AI Professional Certificate",
               "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 556 High-Performance Computing",
-          "sections": [
-            {
-              "title": "Introduction to High-Performance and Parallel Computing",
-              "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Performance Engineering of Software Systems",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 558 Real-Time Embedded Systems",
-          "sections": [
-            {
-              "title": "Real-Time Embedded Systems Specialization",
-              "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -717,11 +696,11 @@
           ]
         },
         {
-          "courseName": "DSC 566 Cyber-Physical Systems",
+          "courseName": "SWE 566 Real-Time Embedded Systems",
           "sections": [
             {
-              "title": "Cyber-Physical Systems Design & Analysis",
-              "url": "https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876",
+              "title": "Real-Time Embedded Systems Specialization",
+              "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -730,32 +709,19 @@
           ]
         },
         {
-          "courseName": "DSC 567 Automotive Software Engineering",
+          "courseName": "SWE 567 High-Performance Computing",
           "sections": [
             {
-              "title": "Emerging Automotive Technologies",
-              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 568 Autonomous Systems Engineering",
-          "sections": [
-            {
-              "title": "Self-Driving Cars Specialization",
-              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "title": "Introduction to High-Performance and Parallel Computing",
+              "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Self-Driving Cars with Duckietown",
-              "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
+              "title": "Performance Engineering of Software Systems",
+              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -797,14 +763,6 @@
         {
           "title": "CS50's Introduction to Game Development",
           "url": "https://www.edx.org/course/cs50s-introduction-to-game-development",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "An Introduction to Programming the Internet of Things Specialization",
-          "url": "https://www.coursera.org/specializations/iot",
           "progress": {
             "completed": 0,
             "total": 1

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "title": "Apprenticeship in Automotive Technologies",
+    "subtitle": "Specialization in Autonomous Systems",
+    "info": ""
+  },
+  "semesters": [
+    {
+      "name": "1. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "AUTO 511 Automobile Mechanical and Electrical Systems",
+          "sections": [
+            {
+              "title": "Automobile Mechanical and Electrical Systems",
+              "url": "https://www.routledge.com/Automobile-Mechanical-and-Electrical-Systems/Denton/p/book/9780415725781",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 512 Automobile Electrical and Electronic Systems",
+          "sections": [
+            {
+              "title": "Automobile Electrical and Electronic Systems",
+              "url": "https://www.routledge.com/Automobile-Electrical-and-Electronic-Systems/Denton/p/book/9780415725774",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 513 Automobile Fault Diagnosis",
+          "sections": [
+            {
+              "title": "Advanced Automotive Fault Diagnosis",
+              "url": "https://www.routledge.com/Advanced-Automotive-Fault-Diagnosis-Automotive-Technology-Vehicle-Maintenance/Denton/p/book/9780367330521",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 514 Electric and Hybrid Vehicles",
+          "sections": [
+            {
+              "title": "Electric and Hybrid Vehicles",
+              "url": "https://www.routledge.com/Electric-and-Hybrid-Vehicles/Denton/p/book/9780367273231",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 515 Alternative Fuel Vehicles",
+          "sections": [
+            {
+              "title": "Alternative Fuel Vehicles",
+              "url": "https://www.routledge.com/Alternative-Fuel-Vehicles/Denton/p/book/9781138201316",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "AUTO 520 Automated Driving and Driver Assistance Systems",
+          "sections": [
+            {
+              "title": "Automated Driving and Driver Assistance Systems",
+              "url": "https://www.routledge.com/Automated-Driving-and-Driver-Assistance-Systems/Denton/p/book/9780367265595",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 522 Cyber-Physical Systems",
+          "sections": [
+            {
+              "title": "Cyber-Physical Systems Design & Analysis",
+              "url": "https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 523 Emerging Automotive Technologies",
+          "sections": [
+            {
+              "title": "Emerging Automotive Technologies",
+              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 524 Autonomous Systems Engineering I",
+          "sections": [
+            {
+              "title": "Self-Driving Cars Specialization",
+              "url": "https://www.coursera.org/specializations/self-driving-cars",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "AUTO 525 Autonomous Systems Engineering II",
+          "sections": [
+            {
+              "title": "Self-Driving Cars with Duckietown",
+              "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": []
+}

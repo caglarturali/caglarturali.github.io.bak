@@ -29,7 +29,10 @@ const Semester: React.FC<SemesterProps> = ({
     dates: { start, end },
   } = semesterData;
 
-  const semDuration = `${formatDate(start)} - ${formatDate(end)}`;
+  const semDuration =
+    start && end
+      ? `${formatDate(start)} - ${formatDate(end)}`
+      : 'Dates not set';
   const semProgress = calculateSemesterProgress(semesterData);
   const overDue = isOverDue(end, semProgress);
 
