@@ -7,7 +7,7 @@ import { jsOrange, midBlue, green, pink } from '../theme/colors';
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
-import mbaData from './json/mba.json';
+import baData from './json/ba.json';
 import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
@@ -27,7 +27,7 @@ export const pages: PageLink[] = [
     ),
   },
   {
-    name: 'Apprenticeship in SWE',
+    name: 'Software Engineering',
     url: '/swe',
     icon: 'graduation-cap',
     isInternal: true,
@@ -35,12 +35,12 @@ export const pages: PageLink[] = [
     comp: () => <Diploma diplomaData={sweData} />,
   },
   {
-    name: 'MBA Training',
-    url: '/mba',
+    name: 'Business Administration',
+    url: '/ba',
     icon: 'graduation-cap',
     isInternal: true,
-    badge: `${calculateDiplomaProgress(mbaData, 0)}%`,
-    comp: () => <Diploma diplomaData={mbaData} />,
+    badge: `${calculateDiplomaProgress(baData, 0)}%`,
+    comp: () => <Diploma diplomaData={baData} />,
   },
 ];
 
