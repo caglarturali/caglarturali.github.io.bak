@@ -34,14 +34,14 @@
           ]
         },
         {
-          "courseName": "SWE 512 Data Structures and Algorithms I",
+          "courseName": "SWE 512 Data Structures and Algorithms",
           "sections": [
             {
-              "title": "Introduction to Algorithms I",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
+              "title": "Computer Science Algorithms",
+              "url": "https://brilliant.org/paths/computer-science-algorithms/",
               "progress": {
-                "completed": 12,
-                "total": 12
+                "completed": 0,
+                "total": 3
               }
             }
           ]
@@ -55,27 +55,6 @@
               "progress": {
                 "completed": 4,
                 "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 515 Introduction to Open Source Software",
-          "sections": [
-            {
-              "title": "Introduction to Linux",
-              "url": "https://www.edx.org/course/introduction-to-linux",
-              "progress": {
-                "completed": 12,
-                "total": 18
-              }
-            },
-            {
-              "title": "Open Source Software Development Methods",
-              "url": "https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git",
-              "progress": {
-                "completed": 1,
-                "total": 1
               }
             }
           ]
@@ -115,22 +94,14 @@
           ]
         },
         {
-          "courseName": "MAT 510 Calculus I",
+          "courseName": "MAT 510 Mathematics I",
           "sections": [
             {
-              "title": "Single Variable Calculus I",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/",
-              "progress": {
-                "completed": 5,
-                "total": 20
-              }
-            },
-            {
-              "title": "Mathematics for Computer Science",
-              "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
+              "title": "Math Foundations",
+              "url": "https://brilliant.org/paths/math-foundations/",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 7
               }
             }
           ]
@@ -166,19 +137,6 @@
               "progress": {
                 "completed": 1,
                 "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 522 Data Structures and Algorithms II",
-          "sections": [
-            {
-              "title": "Introduction to Algorithms II",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/",
-              "progress": {
-                "completed": 0,
-                "total": 12
               }
             }
           ]
@@ -231,22 +189,14 @@
           ]
         },
         {
-          "courseName": "MAT 520 Calculus II",
+          "courseName": "MAT 520 Mathematics II",
           "sections": [
             {
-              "title": "Single Variable Calculus II",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/",
+              "title": "Intermediate Math",
+              "url": "https://brilliant.org/paths/intermediate-math/",
               "progress": {
                 "completed": 0,
-                "total": 19
-              }
-            },
-            {
-              "title": "MATLAB and Octave for Beginners",
-              "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 7
               }
             }
           ]
@@ -334,43 +284,14 @@
           ]
         },
         {
-          "courseName": "SWE 538 Introduction to Embedded Systems",
+          "courseName": "MAT 530 Mathematics III",
           "sections": [
             {
-              "title": "Introduction to Embedded Systems Software and Development Environments",
-              "url": "https://www.coursera.org/learn/introduction-embedded-systems",
+              "title": "Road to Calculus + Advanced Math",
+              "url": "https://brilliant.org/paths/calculus-advanced-math/",
               "progress": {
                 "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Embedded Software and Hardware Architecture",
-              "url": "https://www.coursera.org/learn/embedded-software-hardware",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Embedded Interface Design Specialization",
-              "url": "https://www.coursera.org/specializations/embedded-interface-design",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "MAT 530 Differential Equations",
-          "sections": [
-            {
-              "title": "Differential Equations",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 9
               }
             }
           ]
@@ -388,11 +309,11 @@
           "courseName": "SWE 540 Computer Systems Security",
           "sections": [
             {
-              "title": "Computer Systems Security",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/",
+              "title": "Introduction to Cyber Security Specialization",
+              "url": "https://www.coursera.org/specializations/intro-cyber-security",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
@@ -445,56 +366,35 @@
           ]
         },
         {
-          "courseName": "SWE 548 Advanced Embedded Systems Engineering",
-          "sections": [
-            {
-              "title": "Development of Secure Embedded Systems Specialization",
-              "url": "https://www.coursera.org/specializations/embedded-systems-security",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
           "courseName": "DSC 540 Introduction to Statistics and Probability",
           "sections": [
             {
-              "title": "Probability - The Science of Uncertainty and Data",
-              "url": "https://www.edx.org/course/probability-the-science-of-uncertainty-and-data",
+              "title": "Probability & Statistics",
+              "url": "https://brilliant.org/paths/probability-statistics/",
               "progress": {
                 "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Fundamentals of Statistics",
-              "url": "https://www.edx.org/course/fundamentals-of-statistics",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "MAT 540 Linear Algebra",
+          "courseName": "MAT 540 Mathematics IV",
           "sections": [
             {
-              "title": "Linear Algebra",
-              "url": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/",
+              "title": "College Mathematics",
+              "url": "https://brilliant.org/paths/college-mathematics/",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 6
               }
             },
             {
-              "title": "Mathematics for Machine Learning: Linear Algebra",
-              "url": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+              "title": "Infinity & Number Theory",
+              "url": "https://brilliant.org/paths/infinity-number-theory/",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 3
               }
             }
           ]
@@ -522,14 +422,6 @@
             {
               "title": "Cloud Application Development Foundations Professional Certificate",
               "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Introduction to Kubernetes",
-              "url": "https://www.edx.org/course/introduction-to-kubernetes",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -601,32 +493,19 @@
           ]
         },
         {
-          "courseName": "SWE 556 High-Performance Computing",
+          "courseName": "DSC 556 Machine Learning",
           "sections": [
             {
-              "title": "Introduction to High-Performance and Parallel Computing",
-              "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
+              "title": "Machine Learning",
+              "url": "https://www.coursera.org/learn/machine-learning",
               "progress": {
                 "completed": 0,
                 "total": 1
               }
             },
             {
-              "title": "Performance Engineering of Software Systems",
-              "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 558 Real-Time Embedded Systems",
-          "sections": [
-            {
-              "title": "Real-Time Embedded Systems Specialization",
-              "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
+              "title": "IBM Data Science Professional Certificate",
+              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -657,28 +536,7 @@
       },
       "courses": [
         {
-          "courseName": "DSC 560 Machine Learning",
-          "sections": [
-            {
-              "title": "Machine Learning",
-              "url": "https://www.coursera.org/learn/machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "IBM Data Science Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 561 Deep Learning",
+          "courseName": "DSC 560 Deep Learning",
           "sections": [
             {
               "title": "Deep Learning Specialization",
@@ -691,7 +549,7 @@
           ]
         },
         {
-          "courseName": "DSC 564 Natural Language Processing",
+          "courseName": "DSC 562 Natural Language Processing",
           "sections": [
             {
               "title": "Natural Language Processing Specialization",
@@ -704,7 +562,7 @@
           ]
         },
         {
-          "courseName": "DSC 565 Computer Vision",
+          "courseName": "DSC 564 Computer Vision",
           "sections": [
             {
               "title": "Introduction to Computer Vision",
@@ -779,8 +637,64 @@
           }
         },
         {
-          "title": "Advanced Data Structures",
-          "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/",
+          "title": "Introduction to Linux",
+          "url": "https://www.edx.org/course/introduction-to-linux",
+          "progress": {
+            "completed": 12,
+            "total": 18
+          }
+        },
+        {
+          "title": "Open Source Software Development Methods",
+          "url": "https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git",
+          "progress": {
+            "completed": 1,
+            "total": 1
+          }
+        },
+        {
+          "title": "Cybersecurity Specialization",
+          "url": "https://www.coursera.org/specializations/cyber-security",
+          "progress": {
+            "completed": 0,
+            "total": 5
+          }
+        },
+        {
+          "title": "Introduction to Kubernetes",
+          "url": "https://www.edx.org/course/introduction-to-kubernetes",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Embedded Interface Design Specialization",
+          "url": "https://www.coursera.org/specializations/embedded-interface-design",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Development of Secure Embedded Systems Specialization",
+          "url": "https://www.coursera.org/specializations/embedded-systems-security",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Real-Time Embedded Systems Specialization",
+          "url": "https://www.coursera.org/specializations/real-time-embedded-systems",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Introduction to High-Performance and Parallel Computing",
+          "url": "https://www.coursera.org/learn/introduction-high-performance-computing",
           "progress": {
             "completed": 0,
             "total": 1
@@ -811,6 +725,30 @@
           }
         },
         {
+          "title": "Mathematics for Machine Learning: Linear Algebra",
+          "url": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Mathematics for Machine Learning: Multivariate Calculus",
+          "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "MATLAB and Octave for Beginners",
+          "url": "https://www.edx.org/course/matlab-and-octave-for-beginners",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
           "title": "Data Mining Specialization",
           "url": "https://www.coursera.org/specializations/data-mining",
           "progress": {
@@ -827,14 +765,6 @@
           }
         },
         {
-          "title": "Multivariable Calculus",
-          "url": "https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
           "title": "Practical Data Science with MATLAB Specialization",
           "url": "https://www.coursera.org/specializations/practical-data-science-matlab",
           "progress": {
@@ -845,22 +775,6 @@
         {
           "title": "Computer Architecture",
           "url": "https://www.coursera.org/learn/comparch",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Mathematics for Machine Learning: Multivariate Calculus",
-          "url": "https://www.coursera.org/learn/multivariate-calculus-machine-learning",
-          "progress": {
-            "completed": 0,
-            "total": 1
-          }
-        },
-        {
-          "title": "Empathy and Emotional Intelligence at Work",
-          "url": "https://www.edx.org/course/empathy-and-emotional-intelligence-at-work",
           "progress": {
             "completed": 0,
             "total": 1
