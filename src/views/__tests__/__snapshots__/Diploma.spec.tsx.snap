@@ -46,7 +46,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/10/2020 - 28/02/2021"
+              data-tip="01/03/2021 - 31/07/2021"
             >
               1. Semester
               <span
@@ -594,14 +594,9 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/03/2021 - 31/07/2021"
+              data-tip="01/08/2021 - 31/12/2021"
             >
               2. Semester
-              <span
-                class="overDue-0-2-8"
-              >
-                overdue
-              </span>
             </span>
           </summary>
           <details
@@ -1093,7 +1088,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/08/2021 - 31/12/2021"
+              data-tip="01/01/2022 - 31/05/2022"
             >
               3. Semester
             </span>
@@ -1587,7 +1582,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/01/2022 - 31/05/2022"
+              data-tip="01/06/2022 - 31/10/2022"
             >
               4. Semester
             </span>
@@ -2130,7 +2125,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/06/2022 - 31/10/2022"
+              data-tip="01/11/2022 - 31/03/2023"
             >
               5. Semester
             </span>
@@ -2820,7 +2815,7 @@ exports[`<Diploma /> should render correctly 1`] = `
           <summary>
             <span
               currentitem="false"
-              data-tip="01/11/2022 - 31/03/2023"
+              data-tip="01/04/2023 - 30/08/2023"
             >
               6. Semester
             </span>
