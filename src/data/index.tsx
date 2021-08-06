@@ -8,7 +8,6 @@ import staticData from './json/static.json';
 import contactData from './json/contact.json';
 import sweData from './json/swe.json';
 import baData from './json/ba.json';
-// import autoData from './json/auto.json';
 import pkg from '../../package.json';
 
 import { calculateDiplomaProgress } from '../utils';
@@ -43,14 +42,6 @@ export const pages: PageLink[] = [
     badge: `${calculateDiplomaProgress(baData, 0)}%`,
     comp: () => <Diploma diplomaData={baData} />,
   },
-  // {
-  //   name: 'Automotive Technologies',
-  //   url: '/auto',
-  //   icon: 'graduation-cap',
-  //   isInternal: true,
-  //   badge: `${calculateDiplomaProgress(autoData, 0)}%`,
-  //   comp: () => <Diploma diplomaData={autoData} />,
-  // },
 ];
 
 export const tabs: TabLink[] = [
