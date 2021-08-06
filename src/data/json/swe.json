@@ -37,6 +37,14 @@
           "courseName": "SWE 512 Data Structures and Algorithms",
           "sections": [
             {
+              "title": "Intro to Data Structures and Algorithms",
+              "url": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513",
+              "progress": {
+                "completed": 0,
+                "total": 9
+              }
+            },
+            {
               "title": "Computer Science Algorithms",
               "url": "https://brilliant.org/paths/computer-science-algorithms/",
               "progress": {
