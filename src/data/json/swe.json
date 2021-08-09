@@ -111,6 +111,14 @@
                 "completed": 0,
                 "total": 7
               }
+            },
+            {
+              "title": "Logic Foundations",
+              "url": "https://brilliant.org/paths/logic-foundations/",
+              "progress": {
+                "completed": 0,
+                "total": 3
+              }
             }
           ]
         }
