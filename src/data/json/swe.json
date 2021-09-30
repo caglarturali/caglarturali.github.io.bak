@@ -236,6 +236,14 @@
                 "completed": 8,
                 "total": 21
               }
+            },
+            {
+              "title": "Introduction to Linux",
+              "url": "https://www.edx.org/course/introduction-to-linux",
+              "progress": {
+                "completed": 12,
+                "total": 18
+              }
             }
           ]
         },
@@ -650,14 +658,6 @@
           "progress": {
             "completed": 2,
             "total": 11
-          }
-        },
-        {
-          "title": "Introduction to Linux",
-          "url": "https://www.edx.org/course/introduction-to-linux",
-          "progress": {
-            "completed": 12,
-            "total": 18
           }
         },
         {
