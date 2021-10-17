@@ -16,6 +16,7 @@ export declare namespace DiplomaTypes {
   export interface Course {
     courseName: string;
     sections: Section[];
+    isOptional?: boolean;
   }
 
   export interface Semester {
@@ -25,7 +26,6 @@ export declare namespace DiplomaTypes {
       end: string;
     };
     courses: Course[];
-    isExtra?: boolean;
   }
 
   export interface Extra {

@@ -121,6 +121,28 @@
               }
             }
           ]
+        },
+        {
+          "courseName": "ENG 510 English I",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "The Pronunciation of American English Specialization",
+              "url": "https://www.coursera.org/specializations/american-english-pronunciation",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "Learn English: Beginning Grammar Specialization",
+              "url": "https://www.coursera.org/specializations/learn-english-beginning-grammar",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
         }
       ]
     },
@@ -213,6 +235,20 @@
               "progress": {
                 "completed": 0,
                 "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENG 520 English II",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "Learn English: Intermediate Grammar Specialization",
+              "url": "https://www.coursera.org/specializations/intermediate-grammar",
+              "progress": {
+                "completed": 0,
+                "total": 1
               }
             }
           ]
@@ -319,6 +355,20 @@
               }
             }
           ]
+        },
+        {
+          "courseName": "ENG 530 English III",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "Learn English: Advanced Grammar and Punctuation Specialization",
+              "url": "https://www.coursera.org/specializations/advanced-grammar-punctuation",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
         }
       ]
     },
@@ -419,6 +469,20 @@
               "progress": {
                 "completed": 0,
                 "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENG 540 English IV",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "Learn English: Writing Effectively with Complex Sentences Specialization",
+              "url": "https://www.coursera.org/specializations/learn-english-writing-grammar-complex-sentences",
+              "progress": {
+                "completed": 0,
+                "total": 1
               }
             }
           ]
@@ -549,6 +613,20 @@
               }
             }
           ]
+        },
+        {
+          "courseName": "ENG 550 English V",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "Learn English: Advanced Academic Speaking and Listening Specialization",
+              "url": "https://www.coursera.org/specializations/speaklistenenglish",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
         }
       ]
     },
@@ -638,6 +716,28 @@
             {
               "title": "Self-Driving Cars with Duckietown",
               "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENG 560 English VI",
+          "isOptional": true,
+          "sections": [
+            {
+              "title": "Academic English: Writing Specialization",
+              "url": "https://www.coursera.org/specializations/academic-english",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            },
+            {
+              "title": "English for Research Publication Purposes Specialization",
+              "url": "https://www.coursera.org/specializations/english-for-research-publication-purposes",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -735,6 +835,14 @@
         {
           "title": "An Introduction to Programming the Internet of Things Specialization",
           "url": "https://www.coursera.org/specializations/iot",
+          "progress": {
+            "completed": 0,
+            "total": 1
+          }
+        },
+        {
+          "title": "Data Literacy Specialization",
+          "url": "https://www.coursera.org/specializations/data-literacy",
           "progress": {
             "completed": 0,
             "total": 1

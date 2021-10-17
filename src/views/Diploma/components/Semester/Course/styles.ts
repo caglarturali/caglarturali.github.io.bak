@@ -8,6 +8,9 @@ export default {
     marginLeft: '20px',
     marginTop: '10px',
   },
+  optional: {
+    opacity: 0.7,
+  },
   bookPanel: {
     marginLeft: '20px',
     marginTop: '6px',

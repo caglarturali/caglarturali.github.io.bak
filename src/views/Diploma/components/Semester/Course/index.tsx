@@ -3,6 +3,7 @@
  */
 import React from 'react';
 import { createUseStyles } from 'react-jss';
+import clsx from 'clsx';
 import ProgressBar from '../../../../../components/ProgressBar';
 import { DetailsPanel, DiplomaTypes } from '../../../../../models';
 import { calculateCourseProgress } from '../../../../../utils';
@@ -17,13 +18,20 @@ export interface CourseProps extends DetailsPanel {
 
 const Course: React.FC<CourseProps> = ({ courseData, showDetails = false }) => {
   const classes = useStyles();
-  const { courseName, sections } = courseData;
+  const { courseName, sections, isOptional } = courseData;
 
   const courseProgress = calculateCourseProgress(courseData);
-  const courseProgressText = `${courseProgress}% done`;
+  let courseProgressText = `${courseProgress}% done`;
+  isOptional &&
+    (courseProgressText = `Optional Content: ${courseProgressText}`);
 
   return (
-    <details open={showDetails} className={classes.courseDetails}>
+    <details
+      open={showDetails}
+      className={clsx(classes.courseDetails, {
+        [classes.optional]: isOptional,
+      })}
+    >
       <summary>
         <span data-tip={courseProgressText}>{courseName}</span>
         <ProgressBar value={courseProgress} />

@@ -75,17 +75,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -117,7 +117,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="C Programming with Linux Professional Certificate"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux"
                   rel="noopener noreferrer"
@@ -127,14 +127,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -166,7 +166,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Programming & Data Structures in C++ MicroBachelors Program"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/microbachelors/nyux-programming-data-structures"
                   rel="noopener noreferrer"
@@ -196,17 +196,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="13% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -238,7 +238,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Intro to Data Structures and Algorithms"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513"
                   rel="noopener noreferrer"
@@ -248,14 +248,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="33% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -287,7 +287,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Computer Science Algorithms"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/computer-science-algorithms/"
                   rel="noopener noreferrer"
@@ -317,17 +317,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -359,7 +359,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Object Oriented Programming in Java Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/object-oriented-programming"
                   rel="noopener noreferrer"
@@ -389,17 +389,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -431,7 +431,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Databases MicroBachelors Program"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/microbachelors/nyux-introduction-to-databases"
                   rel="noopener noreferrer"
@@ -461,17 +461,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -503,7 +503,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Engineering Essentials"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/course/software-engineering-essentials"
                   rel="noopener noreferrer"
@@ -513,14 +513,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -552,7 +552,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Development Process"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/software-development-process--ud805"
                   rel="noopener noreferrer"
@@ -582,17 +582,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="29% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -624,7 +624,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Math Foundations"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/math-foundations/"
                   rel="noopener noreferrer"
@@ -634,14 +634,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -673,13 +673,134 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Logic Foundations"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/logic-foundations/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Logic Foundations
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 510 English I
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="The Pronunciation of American English Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/american-english-pronunciation"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  The Pronunciation of American English Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Learn English: Beginning Grammar Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/learn-english-beginning-grammar"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Learn English: Beginning Grammar Specialization
                 </a>
               </li>
             </div>
@@ -716,17 +837,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="100% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -758,7 +879,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Python 3 Programming Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/python-3-programming"
                   rel="noopener noreferrer"
@@ -788,17 +909,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="25% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -830,7 +951,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Secure Coding Practices Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/secure-coding-practices"
                   rel="noopener noreferrer"
@@ -860,17 +981,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -902,7 +1023,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Requirements Engineering: Secure Software Specifications Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/requirements-engineering-secure-software"
                   rel="noopener noreferrer"
@@ -932,17 +1053,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -974,7 +1095,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Design and Architecture Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/software-design-architecture"
                   rel="noopener noreferrer"
@@ -984,14 +1105,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="33% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1023,7 +1144,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Architecture & Design"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/software-architecture-design--ud821"
                   rel="noopener noreferrer"
@@ -1053,17 +1174,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1095,7 +1216,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Development Lifecycle Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/software-development-lifecycle"
                   rel="noopener noreferrer"
@@ -1125,17 +1246,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1167,13 +1288,85 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Intermediate Math"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/intermediate-math/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Intermediate Math
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 520 English II
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Learn English: Intermediate Grammar Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/intermediate-grammar"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Learn English: Intermediate Grammar Specialization
                 </a>
               </li>
             </div>
@@ -1210,17 +1403,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="38% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1252,7 +1445,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Operating Systems"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/introduction-to-operating-systems--ud923"
                   rel="noopener noreferrer"
@@ -1262,14 +1455,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="67% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1301,7 +1494,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Linux"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/course/introduction-to-linux"
                   rel="noopener noreferrer"
@@ -1331,17 +1524,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1373,7 +1566,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Algorithms Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/algorithms"
                   rel="noopener noreferrer"
@@ -1403,17 +1596,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1445,7 +1638,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Networking"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/course/introduction-to-networking"
                   rel="noopener noreferrer"
@@ -1455,14 +1648,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1494,7 +1687,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Computer Networking"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/computer-networking--ud436"
                   rel="noopener noreferrer"
@@ -1524,17 +1717,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1566,7 +1759,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Analysis & Testing"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/software-analysis-testing--ud333"
                   rel="noopener noreferrer"
@@ -1596,17 +1789,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1638,7 +1831,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Testing and Automation Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/software-testing-automation"
                   rel="noopener noreferrer"
@@ -1668,17 +1861,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1710,13 +1903,85 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Road to Calculus + Advanced Math"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/calculus-advanced-math/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Road to Calculus + Advanced Math
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 530 English III
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Learn English: Advanced Grammar and Punctuation Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/advanced-grammar-punctuation"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Learn English: Advanced Grammar and Punctuation Specialization
                 </a>
               </li>
             </div>
@@ -1753,17 +2018,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1795,7 +2060,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Cyber Security Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/intro-cyber-security"
                   rel="noopener noreferrer"
@@ -1825,17 +2090,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1867,7 +2132,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Software Product Management Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/product-management"
                   rel="noopener noreferrer"
@@ -1877,14 +2142,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1916,7 +2181,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Agile Project Management Professional Certificate"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/professional-certificate/umd-usmx-agile-project-management"
                   rel="noopener noreferrer"
@@ -1946,17 +2211,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -1988,7 +2253,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Systems Engineering"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/learn/systems-engineering"
                   rel="noopener noreferrer"
@@ -2018,17 +2283,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2060,7 +2325,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Human-Computer Interaction"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/human-computer-interaction--ud400"
                   rel="noopener noreferrer"
@@ -2090,17 +2355,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2132,7 +2397,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Probability & Statistics"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/probability-statistics/"
                   rel="noopener noreferrer"
@@ -2162,17 +2427,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2204,7 +2469,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="College Mathematics"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/college-mathematics/"
                   rel="noopener noreferrer"
@@ -2214,14 +2479,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2253,13 +2518,85 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Infinity & Number Theory"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://brilliant.org/paths/infinity-number-theory/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Infinity & Number Theory
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 540 English IV
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Learn English: Writing Effectively with Complex Sentences Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/learn-english-writing-grammar-complex-sentences"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Learn English: Writing Effectively with Complex Sentences Specialization
                 </a>
               </li>
             </div>
@@ -2296,17 +2633,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2338,7 +2675,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Cloud Computing Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/cloud-computing"
                   rel="noopener noreferrer"
@@ -2348,14 +2685,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2387,7 +2724,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Cloud Application Development Foundations Professional Certificate"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations"
                   rel="noopener noreferrer"
@@ -2417,17 +2754,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2459,7 +2796,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Intro to Data Science"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/intro-to-data-science--ud359"
                   rel="noopener noreferrer"
@@ -2469,14 +2806,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2508,7 +2845,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Data Science Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/introduction-data-science"
                   rel="noopener noreferrer"
@@ -2538,17 +2875,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2580,7 +2917,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Data Science Fundamentals with Python and SQL Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/data-science-fundamentals-python-sql"
                   rel="noopener noreferrer"
@@ -2590,14 +2927,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2629,7 +2966,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Applied Data Science with Python Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/data-science-python"
                   rel="noopener noreferrer"
@@ -2659,17 +2996,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2701,7 +3038,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Intro to Artificial Intelligence"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271"
                   rel="noopener noreferrer"
@@ -2711,14 +3048,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2750,7 +3087,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="IBM Applied AI Professional Certificate"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
                   rel="noopener noreferrer"
@@ -2780,17 +3117,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2822,7 +3159,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Machine Learning"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/learn/machine-learning"
                   rel="noopener noreferrer"
@@ -2832,14 +3169,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2871,7 +3208,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="IBM Data Science Professional Certificate"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/professional-certificates/ibm-data-science"
                   rel="noopener noreferrer"
@@ -2901,17 +3238,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -2943,13 +3280,85 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Discrete Mathematics for Computer Science Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/discrete-mathematics"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Introduction to Discrete Mathematics for Computer Science Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 550 English V
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Learn English: Advanced Academic Speaking and Listening Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/speaklistenenglish"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Learn English: Advanced Academic Speaking and Listening Specialization
                 </a>
               </li>
             </div>
@@ -2986,17 +3395,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3028,7 +3437,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Deep Learning Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/deep-learning"
                   rel="noopener noreferrer"
@@ -3058,17 +3467,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3100,7 +3509,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Natural Language Processing Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/natural-language-processing"
                   rel="noopener noreferrer"
@@ -3130,17 +3539,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3172,7 +3581,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Introduction to Computer Vision"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/introduction-to-computer-vision--ud810"
                   rel="noopener noreferrer"
@@ -3202,17 +3611,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3244,7 +3653,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Cyber-Physical Systems Design & Analysis"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876"
                   rel="noopener noreferrer"
@@ -3274,17 +3683,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3316,7 +3725,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Emerging Automotive Technologies"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies"
                   rel="noopener noreferrer"
@@ -3346,17 +3755,17 @@ exports[`<Diploma /> should render correctly 1`] = `
               </div>
             </summary>
             <div
-              class="bookPanel-0-2-10"
+              class="bookPanel-0-2-11"
             >
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3388,7 +3797,7 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Self-Driving Cars Specialization"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.coursera.org/specializations/self-driving-cars"
                   rel="noopener noreferrer"
@@ -3398,14 +3807,14 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </a>
               </li>
               <li
-                class="bookItem-0-2-12"
+                class="bookItem-0-2-13"
               >
                 <span
                   currentitem="false"
                   data-tip="0% done"
                 >
                   <svg
-                    class="CircularProgressbar progress-0-2-13"
+                    class="CircularProgressbar progress-0-2-14"
                     data-test-id="CircularProgressbar"
                     viewBox="0 0 100 100"
                   >
@@ -3437,13 +3846,134 @@ exports[`<Diploma /> should render correctly 1`] = `
                 </span>
                 <a
                   aria-label="Self-Driving Cars with Duckietown"
-                  data-class="toolTip-0-2-11"
+                  data-class="toolTip-0-2-12"
                   data-place="right"
                   href="https://www.edx.org/course/self-driving-cars-with-duckietown"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   Self-Driving Cars with Duckietown
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-9 optional-0-2-10"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="Optional Content: 0% done"
+              >
+                ENG 560 English VI
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-11"
+            >
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Academic English: Writing Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/academic-english"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Academic English: Writing Specialization
+                </a>
+              </li>
+              <li
+                class="bookItem-0-2-13"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-14"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="English for Research Publication Purposes Specialization"
+                  data-class="toolTip-0-2-12"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/english-for-research-publication-purposes"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  English for Research Publication Purposes Specialization
                 </a>
               </li>
             </div>
@@ -3458,14 +3988,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
           </summary>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="18% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3497,7 +4027,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="The Missing Semester of Your CS Education"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://missing.csail.mit.edu/"
               rel="noopener noreferrer"
@@ -3507,14 +4037,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="100% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3546,7 +4076,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Open Source Software Development Methods"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/learn/open-source-software-development-methods?specialization=oss-development-linux-git"
               rel="noopener noreferrer"
@@ -3556,14 +4086,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3595,7 +4125,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Cybersecurity Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/cyber-security"
               rel="noopener noreferrer"
@@ -3605,14 +4135,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3644,7 +4174,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Introduction to Kubernetes"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.edx.org/course/introduction-to-kubernetes"
               rel="noopener noreferrer"
@@ -3654,14 +4184,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3693,7 +4223,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Embedded Interface Design Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/embedded-interface-design"
               rel="noopener noreferrer"
@@ -3703,14 +4233,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3742,7 +4272,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Development of Secure Embedded Systems Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/embedded-systems-security"
               rel="noopener noreferrer"
@@ -3752,14 +4282,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3791,7 +4321,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Real-Time Embedded Systems Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/real-time-embedded-systems"
               rel="noopener noreferrer"
@@ -3801,14 +4331,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3840,7 +4370,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Introduction to High-Performance and Parallel Computing"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/learn/introduction-high-performance-computing"
               rel="noopener noreferrer"
@@ -3850,14 +4380,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3889,7 +4419,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Creating Video Games"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/"
               rel="noopener noreferrer"
@@ -3899,14 +4429,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3938,7 +4468,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="CS50's Introduction to Game Development"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.edx.org/course/cs50s-introduction-to-game-development"
               rel="noopener noreferrer"
@@ -3948,14 +4478,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -3987,7 +4517,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="An Introduction to Programming the Internet of Things Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/iot"
               rel="noopener noreferrer"
@@ -3997,14 +4527,63 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
+                data-test-id="CircularProgressbar"
+                viewBox="0 0 100 100"
+              >
+                <path
+                  class="CircularProgressbar-trail"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                />
+                <path
+                  class="CircularProgressbar-path"
+                  d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                  fill-opacity="0"
+                  stroke-width="24"
+                  style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                />
+              </svg>
+            </span>
+            <a
+              aria-label="Data Literacy Specialization"
+              data-class="toolTip-0-2-12"
+              data-place="right"
+              href="https://www.coursera.org/specializations/data-literacy"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Data Literacy Specialization
+            </a>
+          </li>
+          <li
+            class="bookItem-0-2-13"
+          >
+            <span
+              currentitem="false"
+              data-tip="0% done"
+            >
+              <svg
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4036,7 +4615,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Mathematics for Machine Learning: Linear Algebra"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/learn/linear-algebra-machine-learning"
               rel="noopener noreferrer"
@@ -4046,14 +4625,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4085,7 +4664,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Mathematics for Machine Learning: Multivariate Calculus"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/learn/multivariate-calculus-machine-learning"
               rel="noopener noreferrer"
@@ -4095,14 +4674,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4134,7 +4713,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="MATLAB and Octave for Beginners"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.edx.org/course/matlab-and-octave-for-beginners"
               rel="noopener noreferrer"
@@ -4144,14 +4723,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4183,7 +4762,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Data Mining Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/data-mining"
               rel="noopener noreferrer"
@@ -4193,14 +4772,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4232,7 +4811,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Big Data Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/big-data"
               rel="noopener noreferrer"
@@ -4242,14 +4821,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4281,7 +4860,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Practical Data Science with MATLAB Specialization"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/specializations/practical-data-science-matlab"
               rel="noopener noreferrer"
@@ -4291,14 +4870,14 @@ exports[`<Diploma /> should render correctly 1`] = `
             </a>
           </li>
           <li
-            class="bookItem-0-2-12"
+            class="bookItem-0-2-13"
           >
             <span
               currentitem="false"
               data-tip="0% done"
             >
               <svg
-                class="CircularProgressbar progress-0-2-13"
+                class="CircularProgressbar progress-0-2-14"
                 data-test-id="CircularProgressbar"
                 viewBox="0 0 100 100"
               >
@@ -4330,7 +4909,7 @@ exports[`<Diploma /> should render correctly 1`] = `
             </span>
             <a
               aria-label="Computer Architecture"
-              data-class="toolTip-0-2-11"
+              data-class="toolTip-0-2-12"
               data-place="right"
               href="https://www.coursera.org/learn/comparch"
               rel="noopener noreferrer"
