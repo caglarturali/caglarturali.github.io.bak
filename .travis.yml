@@ -23,3 +23,5 @@ deploy:
   target_branch: gh-pages
   on:
     branch: master
+env:
+  - NODE_OPTIONS=--openssl-legacy-provider
