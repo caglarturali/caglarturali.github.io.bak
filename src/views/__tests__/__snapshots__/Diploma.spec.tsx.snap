@@ -4923,8 +4923,11 @@ exports[`<Diploma /> should render correctly 1`] = `
       <div
         class="__react_component_tooltip t00000000-0000-4000-8000-000000000000 place-top type-dark"
         data-id="tooltip"
+        id="t00000000-0000-4000-8000-000000000000"
       >
-        <style>
+        <style
+          aria-hidden="true"
+        >
           
   	.t00000000-0000-4000-8000-000000000000 {
 	    color: #fff;
