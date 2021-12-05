@@ -16,11 +16,13 @@ const useStyles = createUseStyles(styles);
 
 export interface SemesterProps extends DetailsPanel {
   semesterData: DiplomaTypes.Semester;
+  showOptionalCourses?: boolean;
 }
 
 const Semester: React.FC<SemesterProps> = ({
   semesterData,
   showDetails = true,
+  showOptionalCourses = false,
 }) => {
   const classes = useStyles();
   const {
@@ -44,9 +46,11 @@ const Semester: React.FC<SemesterProps> = ({
           {overDue && <span className={classes.overDue}>overdue</span>}
         </span>
       </summary>
-      {courses.map((course) => (
-        <Course key={course.courseName} courseData={course} />
-      ))}
+      {courses
+        .filter((course) => showOptionalCourses || !course.isOptional)
+        .map((course) => (
+          <Course key={course.courseName} courseData={course} />
+        ))}
     </details>
   );
 };
