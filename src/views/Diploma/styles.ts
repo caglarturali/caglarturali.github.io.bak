@@ -40,9 +40,4 @@ export default {
       },
     },
   },
-  extra: {
-    '&>li': {
-      marginLeft: '20px',
-    },
-  },
 } as Styles;

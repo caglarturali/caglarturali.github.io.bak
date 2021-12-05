@@ -28,14 +28,8 @@ export declare namespace DiplomaTypes {
     courses: Course[];
   }
 
-  export interface Extra {
-    name: string;
-    sections: Section[];
-  }
-
   export interface Curriculum {
     metadata: Metadata;
     semesters: Semester[];
-    extras: Extra[];
   }
 }
