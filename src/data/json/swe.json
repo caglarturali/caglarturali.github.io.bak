@@ -37,10 +37,10 @@
           "courseName": "SWE 512 Data Structures and Algorithms",
           "sections": [
             {
-              "title": "Intro to Data Structures and Algorithms",
-              "url": "https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513",
+              "title": "Intro to Algorithms",
+              "url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
               "progress": {
-                "completed": 2,
+                "completed": 0,
                 "total": 8
               }
             },
@@ -202,14 +202,6 @@
                 "completed": 0,
                 "total": 1
               }
-            },
-            {
-              "title": "Software Architecture & Design",
-              "url": "https://www.udacity.com/course/software-architecture-design--ud821",
-              "progress": {
-                "completed": 10,
-                "total": 30
-              }
             }
           ]
         },
@@ -306,14 +298,6 @@
                 "completed": 0,
                 "total": 1
               }
-            },
-            {
-              "title": "Computer Networking",
-              "url": "https://www.udacity.com/course/computer-networking--ud436",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
             }
           ]
         },
@@ -398,14 +382,6 @@
             {
               "title": "Software Product Management Specialization",
               "url": "https://www.coursera.org/specializations/product-management",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Agile Project Management Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/umd-usmx-agile-project-management",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -506,28 +482,12 @@
                 "completed": 0,
                 "total": 1
               }
-            },
-            {
-              "title": "Cloud Application Development Foundations Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/ibm-cloud-application-development-foundations",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
             }
           ]
         },
         {
           "courseName": "DSC 550 Introduction to Data Science",
           "sections": [
-            {
-              "title": "Intro to Data Science",
-              "url": "https://www.udacity.com/course/intro-to-data-science--ud359",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
             {
               "title": "Introduction to Data Science Specialization",
               "url": "https://www.coursera.org/specializations/introduction-data-science",
@@ -548,28 +508,12 @@
                 "completed": 0,
                 "total": 1
               }
-            },
-            {
-              "title": "Applied Data Science with Python Specialization",
-              "url": "https://www.coursera.org/specializations/data-science-python",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
             }
           ]
         },
         {
           "courseName": "DSC 555 Introduction to Artificial Intelligence",
           "sections": [
-            {
-              "title": "Intro to Artificial Intelligence",
-              "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
             {
               "title": "IBM Applied AI Professional Certificate",
               "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
@@ -586,14 +530,6 @@
             {
               "title": "Machine Learning",
               "url": "https://www.coursera.org/learn/machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "IBM Data Science Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -708,14 +644,6 @@
             {
               "title": "Self-Driving Cars Specialization",
               "url": "https://www.coursera.org/specializations/self-driving-cars",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Self-Driving Cars with Duckietown",
-              "url": "https://www.edx.org/course/self-driving-cars-with-duckietown",
               "progress": {
                 "completed": 0,
                 "total": 1
