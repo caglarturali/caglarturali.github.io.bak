@@ -13,11 +13,11 @@
       },
       "courses": [
         {
-          "courseName": "BIZ 510 PreMBA Essentials",
+          "courseName": "BIZ 510 Business Foundations",
           "sections": [
             {
-              "title": "PreMBA Essentials for Professionals Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/imperialbusinessx-pre-mba-essentials-for-professionals",
+              "title": "Business Foundations Specialization",
+              "url": "https://www.coursera.org/specializations/wharton-business-foundations",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -26,11 +26,11 @@
           ]
         },
         {
-          "courseName": "BIZ 512 MBA Core Curriculum",
+          "courseName": "BIZ 512 Entrepreneurship",
           "sections": [
             {
-              "title": "MBA Core Curriculum MicroMasters Program",
-              "url": "https://www.edx.org/micromasters/USMx-UMD-MBA-Core-Curriculum",
+              "title": "Entrepreneurship Specialization",
+              "url": "https://www.coursera.org/specializations/wharton-entrepreneurship",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -42,8 +42,8 @@
           "courseName": "BIZ 514 Financial Technology",
           "sections": [
             {
-              "title": "FinTech Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/hkux-fintech",
+              "title": "Fintech: Foundations & Applications of Financial Technology Specialization",
+              "url": "https://www.coursera.org/specializations/wharton-fintech",
               "progress": {
                 "completed": 0,
                 "total": 1
@@ -154,6 +154,5 @@
         }
       ]
     }
-  ],
-  "extras": []
+  ]
 }
