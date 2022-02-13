@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.8ea186d3.chunk.js",
-    "main.js.map": "/static/js/main.8ea186d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6afd0324.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6afd0324.js.map",
+    "main.js": "/static/js/main.cd75d492.chunk.js",
+    "main.js.map": "/static/js/main.cd75d492.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be1c4acc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be1c4acc.js.map",
     "static/css/2.b40bc0a3.chunk.css": "/static/css/2.b40bc0a3.chunk.css",
     "static/js/2.36973ed5.chunk.js": "/static/js/2.36973ed5.chunk.js",
     "static/js/2.36973ed5.chunk.js.map": "/static/js/2.36973ed5.chunk.js.map",
@@ -13,22 +13,22 @@
     "static/js/4.83036aab.chunk.js.map": "/static/js/4.83036aab.chunk.js.map",
     "static/js/5.84c9cfb8.chunk.js": "/static/js/5.84c9cfb8.chunk.js",
     "static/js/5.84c9cfb8.chunk.js.map": "/static/js/5.84c9cfb8.chunk.js.map",
-    "static/js/6.65fea18a.chunk.js": "/static/js/6.65fea18a.chunk.js",
-    "static/js/6.65fea18a.chunk.js.map": "/static/js/6.65fea18a.chunk.js.map",
+    "static/js/6.bb991c43.chunk.js": "/static/js/6.bb991c43.chunk.js",
+    "static/js/6.bb991c43.chunk.js.map": "/static/js/6.bb991c43.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.311eab67cb71bee20d3996dc6d0e95d3.js": "/precache-manifest.311eab67cb71bee20d3996dc6d0e95d3.js",
+    "precache-manifest.b024e2a66937482b227f857a561fee0b.js": "/precache-manifest.b024e2a66937482b227f857a561fee0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b40bc0a3.chunk.css.map": "/static/css/2.b40bc0a3.chunk.css.map",
     "static/js/2.36973ed5.chunk.js.LICENSE.txt": "/static/js/2.36973ed5.chunk.js.LICENSE.txt",
     "static/media/certificates.md": "/static/media/certificates.e99f2461.md",
     "static/media/education.md": "/static/media/education.9991b1a2.md",
     "static/media/projects.md": "/static/media/projects.e5341875.md",
-    "static/media/skills.md": "/static/media/skills.60df1e0f.md"
+    "static/media/skills.md": "/static/media/skills.e70cbae5.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.6afd0324.js",
+    "static/js/runtime-main.be1c4acc.js",
     "static/css/2.b40bc0a3.chunk.css",
     "static/js/2.36973ed5.chunk.js",
-    "static/js/main.8ea186d3.chunk.js"
+    "static/js/main.cd75d492.chunk.js"
   ]
 }

@@ -1,10 +1,11 @@
 ### Technical skills
 
+- [Odoo](https://www.odoo.com/) Development
 - Web Development (End-to-End)
-- Responsive Design
 - Mobile Development (Hybrid/Native)
 - Game Development (Unity 3D)
 - VR Development (Unity 3D)
+- Web Design
 - 3D Modelling / Animation
 
 ### Programming languages / tech stacks
@@ -18,7 +19,6 @@
     - Express.js
     - MongoDB
   - Golang (newcomer)
-  - Docker
 - In ancient times:
   - Java (~1 year)
   - C#/.NET (3+ years)
