@@ -24,12 +24,6 @@
     "isMain": false
   },
   {
-    "name": "Instagram",
-    "url": "https://www.instagram.com/caglarturali/",
-    "icon": ["fab", "instagram"],
-    "isMain": false
-  },
-  {
     "name": "goodreads",
     "url": "https://www.goodreads.com/caglarturali",
     "icon": ["fab", "goodreads"],
