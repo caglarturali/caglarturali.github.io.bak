@@ -2588,6 +2588,78 @@ exports[`<Diploma /> should render correctly 1`] = `
                 currentitem="false"
                 data-tip="0% done"
               >
+                SWE 560 Blockchain Technology
+              </span>
+              <div
+                style="width: 500px; height: 3px; background-color: hsl(220, 13%, 20%); margin-top: 3px;"
+              >
+                <div
+                  style="height: 100%; width: 0%; background-color: rgb(152, 195, 121); transition: width 500ms ease;"
+                />
+              </div>
+            </summary>
+            <div
+              class="bookPanel-0-2-10"
+            >
+              <li
+                class="bookItem-0-2-12"
+              >
+                <span
+                  currentitem="false"
+                  data-tip="0% done"
+                >
+                  <svg
+                    class="CircularProgressbar progress-0-2-13"
+                    data-test-id="CircularProgressbar"
+                    viewBox="0 0 100 100"
+                  >
+                    <path
+                      class="CircularProgressbar-trail"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 0px;"
+                    />
+                    <path
+                      class="CircularProgressbar-path"
+                      d="
+      M 50,50
+      m 0,-38
+      a 38,38 0 1 1 0,76
+      a 38,38 0 1 1 0,-76
+    "
+                      fill-opacity="0"
+                      stroke-width="24"
+                      style="stroke-dasharray: 238.76104167282426px 238.76104167282426px; stroke-dashoffset: 238.76104167282426px;"
+                    />
+                  </svg>
+                </span>
+                <a
+                  aria-label="Blockchain Specialization"
+                  data-class="toolTip-0-2-11"
+                  data-place="right"
+                  href="https://www.coursera.org/specializations/blockchain"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Blockchain Specialization
+                </a>
+              </li>
+            </div>
+          </details>
+          <details
+            class="courseDetails-0-2-8"
+          >
+            <summary>
+              <span
+                currentitem="false"
+                data-tip="0% done"
+              >
                 DSC 560 Deep Learning
               </span>
               <div

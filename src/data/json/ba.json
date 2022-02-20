@@ -50,19 +50,6 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "BIZ 516 Blockchain Technology",
-          "sections": [
-            {
-              "title": "Blockchain Specialization",
-              "url": "https://www.coursera.org/specializations/blockchain",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },

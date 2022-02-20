@@ -574,6 +574,19 @@
       },
       "courses": [
         {
+          "courseName": "SWE 560 Blockchain Technology",
+          "sections": [
+            {
+              "title": "Blockchain Specialization",
+              "url": "https://www.coursera.org/specializations/blockchain",
+              "progress": {
+                "completed": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
           "courseName": "DSC 560 Deep Learning",
           "sections": [
             {
