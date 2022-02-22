@@ -8,40 +8,19 @@
     {
       "name": "1. Semester",
       "dates": {
-        "start": "2021-03-01",
-        "end": "2021-07-31"
+        "start": "2022-01-01",
+        "end": "2022-06-30"
       },
       "courses": [
         {
-          "courseName": "SWE 510 Introduction to Programming and Data Structures",
+          "courseName": "SWE 510 Introduction to Computer Science",
           "sections": [
             {
-              "title": "C Programming with Linux Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux",
+              "title": "Introduction to Computer Science and Programming Specialization",
+              "url": "https://www.coursera.org/specializations/introduction-computer-science-programming",
               "progress": {
-                "completed": 7,
-                "total": 7
-              }
-            },
-            {
-              "title": "Programming & Data Structures in C++ MicroBachelors Program",
-              "url": "https://www.edx.org/microbachelors/nyux-programming-data-structures",
-              "progress": {
-                "completed": 4,
-                "total": 4
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 512 Data Structures and Algorithms",
-          "sections": [
-            {
-              "title": "Intro to Algorithms",
-              "url": "https://www.udacity.com/course/intro-to-algorithms--cs215",
-              "progress": {
-                "completed": 2,
-                "total": 18
+                "completed": 0,
+                "total": 3
               }
             },
             {
@@ -55,7 +34,7 @@
           ]
         },
         {
-          "courseName": "SWE 514 Introduction to Object Oriented Programming",
+          "courseName": "SWE 513 Introduction to Object Oriented Programming",
           "sections": [
             {
               "title": "Object Oriented Programming in Java Specialization",
@@ -68,35 +47,27 @@
           ]
         },
         {
-          "courseName": "SWE 517 Database Systems",
+          "courseName": "SWE 515 Database Systems",
           "sections": [
             {
-              "title": "Introduction to Databases MicroBachelors Program",
-              "url": "https://www.edx.org/microbachelors/nyux-introduction-to-databases",
+              "title": "Database Systems Specialization",
+              "url": "https://www.coursera.org/specializations/database-systems",
               "progress": {
-                "completed": 3,
-                "total": 3
+                "completed": 0,
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "SWE 518 Principles of Software Engineering",
+          "courseName": "SWE 517 Principles of Software Engineering",
           "sections": [
             {
-              "title": "Software Engineering Essentials",
-              "url": "https://www.edx.org/course/software-engineering-essentials",
+              "title": "Java Programming and Software Engineering Fundamentals Specialization",
+              "url": "https://www.coursera.org/specializations/java-programming",
               "progress": {
-                "completed": 8,
-                "total": 8
-              }
-            },
-            {
-              "title": "Software Development Process",
-              "url": "https://www.udacity.com/course/software-development-process--ud805",
-              "progress": {
-                "completed": 17,
-                "total": 17
+                "completed": 0,
+                "total": 5
               }
             }
           ]
@@ -121,36 +92,14 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "ENG 510 English I",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "The Pronunciation of American English Specialization",
-              "url": "https://www.coursera.org/specializations/american-english-pronunciation",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "Learn English: Beginning Grammar Specialization",
-              "url": "https://www.coursera.org/specializations/learn-english-beginning-grammar",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },
     {
       "name": "2. Semester",
       "dates": {
-        "start": "2021-08-01",
-        "end": "2021-12-31"
+        "start": "2022-07-01",
+        "end": "2022-12-31"
       },
       "courses": [
         {
@@ -167,19 +116,6 @@
           ]
         },
         {
-          "courseName": "SWE 521 Secure Software Development",
-          "sections": [
-            {
-              "title": "Secure Coding Practices Specialization",
-              "url": "https://www.coursera.org/specializations/secure-coding-practices",
-              "progress": {
-                "completed": 2,
-                "total": 4
-              }
-            }
-          ]
-        },
-        {
           "courseName": "SWE 523 Software Requirements Engineering",
           "sections": [
             {
@@ -187,33 +123,33 @@
               "url": "https://www.coursera.org/specializations/requirements-engineering-secure-software",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 5
               }
             }
           ]
         },
         {
-          "courseName": "SWE 524 Software Design and Architecture",
-          "sections": [
-            {
-              "title": "Software Design and Architecture Specialization",
-              "url": "https://www.coursera.org/specializations/software-design-architecture",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 527 Software Development Lifecycle",
+          "courseName": "SWE 525 Software Development Lifecycle",
           "sections": [
             {
               "title": "Software Development Lifecycle Specialization",
               "url": "https://www.coursera.org/specializations/software-development-lifecycle",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SWE 527 Software Design and Architecture",
+          "sections": [
+            {
+              "title": "Software Design and Architecture Specialization",
+              "url": "https://www.coursera.org/specializations/software-design-architecture",
+              "progress": {
+                "completed": 0,
+                "total": 4
               }
             }
           ]
@@ -226,21 +162,7 @@
               "url": "https://brilliant.org/paths/intermediate-math/",
               "progress": {
                 "completed": 0,
-                "total": 7
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 520 English II",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Intermediate Grammar Specialization",
-              "url": "https://www.coursera.org/specializations/intermediate-grammar",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 8
               }
             }
           ]
@@ -250,79 +172,59 @@
     {
       "name": "3. Semester",
       "dates": {
-        "start": "2022-01-01",
-        "end": "2022-05-31"
+        "start": "2023-01-01",
+        "end": "2023-06-30"
       },
       "courses": [
         {
           "courseName": "SWE 530 Introduction to Operating Systems",
           "sections": [
             {
-              "title": "Introduction to Operating Systems",
-              "url": "https://www.udacity.com/course/introduction-to-operating-systems--ud923",
-              "progress": {
-                "completed": 8,
-                "total": 21
-              }
-            },
-            {
-              "title": "Introduction to Linux",
-              "url": "https://www.edx.org/course/introduction-to-linux",
-              "progress": {
-                "completed": 12,
-                "total": 18
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "SWE 532 Design and Analysis of Algorithms",
-          "sections": [
-            {
-              "title": "Algorithms Specialization",
-              "url": "https://www.coursera.org/specializations/algorithms",
+              "title": "Introduction to Operating Systems Specialization",
+              "url": "https://www.coursera.org/specializations/codio-introduction-operating-systems",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "SWE 533 Computer Networking",
+          "courseName": "SWE 533 Secure Software Development",
           "sections": [
             {
-              "title": "Introduction to Networking",
-              "url": "https://www.edx.org/course/introduction-to-networking",
+              "title": "Secure Coding Practices Specialization",
+              "url": "https://www.coursera.org/specializations/secure-coding-practices",
               "progress": {
-                "completed": 0,
-                "total": 1
+                "completed": 2,
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "SWE 535 Software Quality Assurance and Reliability",
+          "courseName": "SWE 535 Managing Software Development",
           "sections": [
             {
-              "title": "Software Analysis & Testing",
-              "url": "https://www.udacity.com/course/software-analysis-testing--ud333",
+              "title": "Software Product Management Specialization",
+              "url": "https://www.coursera.org/specializations/product-management",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 6
               }
             }
           ]
         },
+
         {
-          "courseName": "SWE 536 Software Verification and Validation",
+          "courseName": "SWE 537 Software Verification and Validation",
           "sections": [
             {
               "title": "Software Testing and Automation Specialization",
               "url": "https://www.coursera.org/specializations/software-testing-automation",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
@@ -339,28 +241,14 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "ENG 530 English III",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Advanced Grammar and Punctuation Specialization",
-              "url": "https://www.coursera.org/specializations/advanced-grammar-punctuation",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },
     {
       "name": "4. Semester",
       "dates": {
-        "start": "2022-06-01",
-        "end": "2022-10-31"
+        "start": "2023-07-01",
+        "end": "2023-12-31"
       },
       "courses": [
         {
@@ -377,50 +265,37 @@
           ]
         },
         {
-          "courseName": "SWE 541 Managing Software Development",
+          "courseName": "SWE 543 Data Structures and Algorithms",
           "sections": [
             {
-              "title": "Software Product Management Specialization",
-              "url": "https://www.coursera.org/specializations/product-management",
+              "title": "Data Structures and Algorithms Specialization",
+              "url": "https://www.coursera.org/specializations/data-structures-algorithms",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 6
               }
             }
           ]
         },
         {
-          "courseName": "SWE 542 Introduction to Systems Engineering",
+          "courseName": "SWE 545 Human-Computer Interaction",
           "sections": [
             {
-              "title": "Introduction to Systems Engineering",
-              "url": "https://www.coursera.org/learn/systems-engineering",
+              "title": "Interaction Design Specialization",
+              "url": "https://www.coursera.org/specializations/interaction-design",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 8
               }
             }
           ]
         },
         {
-          "courseName": "SWE 544 Human Computer Interaction",
+          "courseName": "SWE 547 Computer Networking",
           "sections": [
             {
-              "title": "Human-Computer Interaction",
-              "url": "https://www.udacity.com/course/human-computer-interaction--ud400",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 540 Introduction to Statistics and Probability",
-          "sections": [
-            {
-              "title": "Probability & Statistics",
-              "url": "https://brilliant.org/paths/probability-statistics/",
+              "title": "Computer Communications Specialization",
+              "url": "https://www.coursera.org/specializations/computer-communications",
               "progress": {
                 "completed": 0,
                 "total": 4
@@ -448,28 +323,14 @@
               }
             }
           ]
-        },
-        {
-          "courseName": "ENG 540 English IV",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Writing Effectively with Complex Sentences Specialization",
-              "url": "https://www.coursera.org/specializations/learn-english-writing-grammar-complex-sentences",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
         }
       ]
     },
     {
       "name": "5. Semester",
       "dates": {
-        "start": "2022-11-01",
-        "end": "2023-03-31"
+        "start": "2024-01-01",
+        "end": "2024-06-30"
       },
       "courses": [
         {
@@ -480,59 +341,46 @@
               "url": "https://www.coursera.org/specializations/cloud-computing",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 6
               }
             }
           ]
         },
         {
-          "courseName": "DSC 550 Introduction to Data Science",
+          "courseName": "SWE 553 Blockchain Technology",
           "sections": [
             {
-              "title": "Introduction to Data Science Specialization",
-              "url": "https://www.coursera.org/specializations/introduction-data-science",
+              "title": "Blockchain Specialization",
+              "url": "https://www.coursera.org/specializations/blockchain",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "DSC 553 Python for Data Science",
+          "courseName": "DSC 550 Introduction to Statistics and Probability",
           "sections": [
             {
-              "title": "Data Science Fundamentals with Python and SQL Specialization",
-              "url": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+              "title": "Probability & Statistics",
+              "url": "https://brilliant.org/paths/probability-statistics/",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "DSC 555 Introduction to Artificial Intelligence",
+          "courseName": "DSC 553 Introduction to Data Science",
           "sections": [
             {
-              "title": "IBM Applied AI Professional Certificate",
-              "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
+              "title": "Data Science Specialization",
+              "url": "https://www.coursera.org/specializations/jhu-data-science",
               "progress": {
                 "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 556 Machine Learning",
-          "sections": [
-            {
-              "title": "Machine Learning",
-              "url": "https://www.coursera.org/learn/machine-learning",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 10
               }
             }
           ]
@@ -545,21 +393,7 @@
               "url": "https://www.coursera.org/specializations/discrete-mathematics",
               "progress": {
                 "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "ENG 550 English V",
-          "isOptional": true,
-          "sections": [
-            {
-              "title": "Learn English: Advanced Academic Speaking and Listening Specialization",
-              "url": "https://www.coursera.org/specializations/speaklistenenglish",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 5
               }
             }
           ]
@@ -569,119 +403,71 @@
     {
       "name": "6. Semester",
       "dates": {
-        "start": "2023-04-01",
-        "end": "2023-08-30"
+        "start": "2024-07-01",
+        "end": "2024-12-31"
       },
       "courses": [
         {
-          "courseName": "SWE 560 Blockchain Technology",
+          "courseName": "DSC 560 Machine Learning",
           "sections": [
             {
-              "title": "Blockchain Specialization",
-              "url": "https://www.coursera.org/specializations/blockchain",
+              "title": "Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/machine-learning",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "DSC 560 Deep Learning",
+          "courseName": "DSC 563 Applied Data Science",
           "sections": [
             {
-              "title": "Deep Learning Specialization",
-              "url": "https://www.coursera.org/specializations/deep-learning",
+              "title": "Applied Data Science with Python Specialization",
+              "url": "https://www.coursera.org/specializations/data-science-python",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 5
               }
             }
           ]
         },
         {
-          "courseName": "DSC 562 Natural Language Processing",
+          "courseName": "DSC 565 Computer Vision",
           "sections": [
             {
-              "title": "Natural Language Processing Specialization",
-              "url": "https://www.coursera.org/specializations/natural-language-processing",
+              "title": "First Principles of Computer Vision Specialization",
+              "url": "https://www.coursera.org/specializations/firstprinciplesofcomputervision",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 5
               }
             }
           ]
         },
         {
-          "courseName": "DSC 564 Computer Vision",
-          "sections": [
-            {
-              "title": "Introduction to Computer Vision",
-              "url": "https://www.udacity.com/course/introduction-to-computer-vision--ud810",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 566 Cyber-Physical Systems",
-          "sections": [
-            {
-              "title": "Cyber-Physical Systems Design & Analysis",
-              "url": "https://www.udacity.com/course/cyber-physical-systems-design-analysis--ud9876",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 567 Automotive Software Engineering",
-          "sections": [
-            {
-              "title": "Emerging Automotive Technologies",
-              "url": "https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies",
-              "progress": {
-                "completed": 0,
-                "total": 1
-              }
-            }
-          ]
-        },
-        {
-          "courseName": "DSC 568 Autonomous Systems Engineering",
+          "courseName": "DSC 567 Autonomous Systems Engineering",
           "sections": [
             {
               "title": "Self-Driving Cars Specialization",
               "url": "https://www.coursera.org/specializations/self-driving-cars",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "ENG 560 English VI",
-          "isOptional": true,
+          "courseName": "MAT 560 Mathematics for Machine Learning",
           "sections": [
             {
-              "title": "Academic English: Writing Specialization",
-              "url": "https://www.coursera.org/specializations/academic-english",
+              "title": "Mathematics for Machine Learning Specialization",
+              "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
               "progress": {
                 "completed": 0,
-                "total": 1
-              }
-            },
-            {
-              "title": "English for Research Publication Purposes Specialization",
-              "url": "https://www.coursera.org/specializations/english-for-research-publication-purposes",
-              "progress": {
-                "completed": 0,
-                "total": 1
+                "total": 3
               }
             }
           ]
