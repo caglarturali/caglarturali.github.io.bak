@@ -8,45 +8,45 @@
     {
       "name": "1. Semester",
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2022-01-01",
+        "end": "2022-12-31"
       },
       "courses": [
         {
-          "courseName": "BIZ 510 Business Foundations",
+          "courseName": "BA 510 Business Foundations",
           "sections": [
             {
               "title": "Business Foundations Specialization",
               "url": "https://www.coursera.org/specializations/wharton-business-foundations",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 6
               }
             }
           ]
         },
         {
-          "courseName": "BIZ 512 Entrepreneurship",
+          "courseName": "BA 513 Entrepreneurship",
           "sections": [
             {
               "title": "Entrepreneurship Specialization",
               "url": "https://www.coursera.org/specializations/wharton-entrepreneurship",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 5
               }
             }
           ]
         },
         {
-          "courseName": "BIZ 514 Financial Technology",
+          "courseName": "BA 515 Financial Technology",
           "sections": [
             {
               "title": "Fintech: Foundations & Applications of Financial Technology Specialization",
               "url": "https://www.coursera.org/specializations/wharton-fintech",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
@@ -56,38 +56,73 @@
     {
       "name": "2. Semester",
       "dates": {
-        "start": "",
-        "end": ""
+        "start": "2023-01-01",
+        "end": "2023-12-31"
       },
       "courses": [
         {
-          "courseName": "BIZ 520 Innovation and Entrepreneurship",
+          "courseName": "BA 520 Innovation and Entrepreneurship",
           "sections": [
             {
-              "title": "Innovation and Entrepreneurship Professional Certificate",
-              "url": "https://www.edx.org/professional-certificate/usmx-innovation-and-entrepreneurship",
+              "title": "Innovation and Entrepreneurship Specialization",
+              "url": "https://www.coursera.org/specializations/innovation-entrepreneurship",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 4
               }
             }
           ]
         },
         {
-          "courseName": "BIZ 524 Social Entrepreneurship",
+          "courseName": "BA 523 Social Entrepreneurship",
           "sections": [
             {
               "title": "Social Entrepreneurship Specialization",
               "url": "https://www.coursera.org/specializations/social-entrepreneurship-cbs",
               "progress": {
                 "completed": 0,
-                "total": 1
+                "total": 3
               }
             }
           ]
         },
         {
-          "courseName": "BIZ 529 Tech Entrepreneurship",
+          "courseName": "BA 525 Startup Entrepreneurship",
+          "sections": [
+            {
+              "title": "Startup Entrepreneurship Specialization",
+              "url": "https://www.coursera.org/specializations/startup-entrepreneurship",
+              "progress": {
+                "completed": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3. Semester",
+      "dates": {
+        "start": "2024-01-01",
+        "end": "2024-12-31"
+      },
+      "courses": [
+        {
+          "courseName": "BA 530 Practical Applications",
+          "sections": [
+            {
+              "title": "How to Start Your Own Business Specialization",
+              "url": "https://www.coursera.org/specializations/start-your-own-business",
+              "progress": {
+                "completed": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BA 533 Tech Entrepreneurship",
           "sections": [
             {
               "title": "How to Build a Startup",
