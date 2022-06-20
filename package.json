@@ -43,7 +43,7 @@
     "dotenv": "^8.6.0",
     "isomorphic-unfetch": "^3.1.0",
     "normalize.css": "^8.0.1",
-    "react": "^16.14.0",
+    "react": "^18.2.0",
     "react-circular-progressbar": "^2.0.4",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0",
