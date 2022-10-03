@@ -40,7 +40,7 @@
     "clsx": "^1.1.1",
     "color": "^3.2.1",
     "dayjs": "^1.10.7",
-    "dotenv": "^8.6.0",
+    "dotenv": "^16.0.3",
     "isomorphic-unfetch": "^3.1.0",
     "normalize.css": "^8.0.1",
     "react": "^16.14.0",
