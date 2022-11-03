@@ -47,6 +47,9 @@ export default {
     position: 'absolute',
     height: '100vh',
     width: `calc(100% - ${widths.leftBar}px)`,
+    [`@media screen and (max-width: ${breakpoints.desktop})`]: {
+      width: '100%',
+    },
     padding: 0,
     margin: 0,
   },
