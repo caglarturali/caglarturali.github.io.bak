@@ -59,13 +59,15 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
         ))}
       </div>
       <div>
-        <ButtonLink
-          href={mainContact.url}
-          title={`Find me on ${mainContact.name}`}
-          icon={mainContact.icon as IconProp}
-          size="lg"
-          text="Contact Me"
-        />
+        {mainContact && (
+          <ButtonLink
+            href={mainContact.url}
+            title={`Find me on ${mainContact.name}`}
+            icon={mainContact.icon as IconProp}
+            size="lg"
+            text="Contact Me"
+          />
+        )}
       </div>
     </div>
   );
