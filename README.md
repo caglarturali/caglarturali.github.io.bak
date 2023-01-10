@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-![](../gh-files/screenshots/demo.gif)
+![](demo.gif)
 
 ## How to ...
 
