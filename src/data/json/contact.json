@@ -1,20 +1,8 @@
 [
   {
-    "name": "Telegram",
-    "url": "https://t.me/caglarturali",
-    "icon": ["fab", "telegram-plane"],
-    "isMain": true
-  },
-  {
     "name": "GitHub",
     "url": "https://github.com/caglarturali",
     "icon": ["fab", "github"],
-    "isMain": false
-  },
-  {
-    "name": "GitLab",
-    "url": "https://gitlab.com/caglarturali",
-    "icon": ["fab", "gitlab"],
     "isMain": false
   },
   {
